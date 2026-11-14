@@ -144,8 +144,9 @@ No filler text. No repeating what Tables already show.
 Database summary:
 {data_summaries.get('database_summary.csv', 'N/A')}
 """,
-        "results": f"""Write the Results section in UNDER 400 words. Each subsection: 2-3 sentences MAX + reference to Figure.
-Pattern: "As shown in Figure X, [ONE key number]. [ONE interpretation sentence]."
+        "results": f"""Write the Results section in UNDER 300 words. STRICT RULE: each subsection is EXACTLY 2 sentences. No exceptions.
+Sentence 1: "As shown in Figure X, [ONE key number]."
+Sentence 2: "[ONE interpretation]."
 
 4.1 CYP-Drug Metabolism (Figure 1): which drugs share CYP3A4/CYP2D6 as major pathway
 4.2 Shared Targets (Figure 2): top drug pair + count
