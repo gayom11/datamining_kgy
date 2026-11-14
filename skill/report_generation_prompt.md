@@ -7,81 +7,43 @@
 ## 보고서 제목
 **Synergistic Neurotoxicity Analysis of Psychoactive Substances and Narcotics: A Multi-Database Integrative Approach**
 
-## 보고서 구조 (최대 20페이지)
+## 보고서 구조 (10페이지 이내, 그래프/표 포함)
 
-### 1. Executive Summary (1 page)
-- 연구 목적: 향정신의약품/마약류의 혼합 노출 시 신경독성 상승작용 가능성 분석
-- 주요 발견사항 3-4개 bullet point로 간결하게
-- 사용한 데이터베이스 수와 분석한 물질 수 언급
+### CRITICAL RULE: 보고서는 반드시 10페이지 이내로 작성. 글은 최소화하고 Figure/Table이 정보를 전달하게 할 것. 각 섹션의 단어 수 제한을 반드시 지킬 것.
 
-### 2. Introduction (1-2 pages)
-- 배경: 다중약물 남용(polysubstance abuse)의 증가 추세
-- 목적: CYP 매개 약물 상호작용을 통한 신경독성 상승작용 예측
-- 분석 대상 물질 8종 소개 (Table 1)
-- 사용한 데이터베이스 9종 개요 (Table 2)
+### 1. Executive Summary (100 words MAX)
+- 3 bullet points: 목적, 방법, 핵심 결론
+- 숫자만 말하기: 8 substances, 9 databases, 4 HIGH risk combinations
 
-### 3. Methods (2-3 pages)
-- 3.1 Data Collection: 각 DB에서 어떤 데이터를 추출했는지
-  - PubChem: bioassay 결과, 유전자 타겟
-  - ChEMBL: bioactivity, 약물 메커니즘
-  - KEGG: 신경계 pathway, CYP 대사 효소
-  - STRING: 단백질 상호작용 네트워크
-  - UniProt: 단백질 기능 정보
-  - Open Targets: 질환-타겟 연관
-  - NCBI Gene: 화학물질-유전자 연관
-  - OpenFDA FAERS: 부작용 보고
-  - Literature-based CYP-Drug Matrix
-- 3.2 Cross-Database Integration: 데이터 연결 방법
-  - Gene symbol 기반 매핑
-  - Pathway overlap 분석
-  - PPI 네트워크 분석
-- 3.3 Risk Assessment: 위험 조합 식별 방법
+### 2. Introduction (200 words MAX)
+- 1 paragraph: 배경 + 목적 (polysubstance abuse + CYP interaction)
+- Table 1: 분석 대상 8종 (이름, 분류, 메커니즘만)
+- Table 2: 데이터베이스 9종 (이름, 타입, 레코드 수만)
+- 표 이후 설명 텍스트 불필요
 
-### 4. Results (5-7 pages, 시각화 중심)
-- 4.1 Chemical Properties (Table)
-  → data/pubchem/compound_properties.csv 참조
-- 4.2 CYP-Drug Metabolism Relationships (Figure 1)
-  → 히트맵으로 약물별 CYP 대사 효소 관계 시각화
-- 4.3 Shared Drug Targets (Figure 2)
-  → 약물 쌍 간 공유 단백질 타겟
-- 4.4 Neurological Adverse Events (Figure 3, 9)
-  → FDA 부작용 데이터 기반 신경계 부작용 프로파일
-- 4.5 Drug-Disease Gene Overlap (Figure 4)
-  → 약물 타겟 ∩ 신경질환 유전자 교차
-- 4.6 PPI Network Analysis (Figure 6)
-  → 허브 단백질: SLC6A4, MAOA, MAOB, BDNF
-- 4.7 Pathway Enrichment (Figure 7)
-  → STRING enrichment 결과
-- 4.8 High-Risk Combinations (Figure 5, 10)
-  → CYP 억제 기반 위험 약물 조합
+### 3. Methods (250 words MAX)
+- 3.1 Data Collection: DB별 1문장씩만 (9문장)
+- 3.2 Integration: gene symbol 매핑 + pathway overlap + PPI 1문장씩
+- 3.3 Risk Assessment: CYP inhibitor-substrate 매칭 로직 1문장
 
-### 5. Discussion (2-3 pages)
-- 5.1 Key Finding: MDMA의 CYP2D6 기전적 억제
-  - MDMA가 methamphetamine과 병용 시 meth 혈중농도 증가
-  - CYP2D6 PM 환자에서 더 위험
-- 5.2 Cocaine-Opioid Interaction
-  - Cocaine의 CYP3A4 억제 → fentanyl 독성 증가
-  - "Speedball" (cocaine + heroin) 위험성
-- 5.3 Pharmacogenomic Variability
-  - CYP2D6 PM (5-10% Caucasian, 1-2% Asian) 환자 위험
-  - CYP2C19 PM → diazepam 반감기 연장
-- 5.4 Network Analysis Insights
-  - SLC6A4 (serotonin transporter)가 최고 허브 → serotonin syndrome 위험
-  - MAOA/MAOB → monoamine 대사 교란
-- 5.5 Limitations
-  - in silico 분석의 한계
-  - 용량-반응 관계 미고려
-  - 비-CYP 대사 경로 (UGT, BChE 등)
+### 4. Results (400 words MAX + Figures/Tables)
+- Figure 참조 위주. "As shown in Figure X, [핵심 수치 1개]" 패턴
+- 각 subsection 2-3문장 이내
+- Table 3: CYP-Drug interactions
+- Table 4: HIGH risk combinations
+- Figure가 보여주는 내용을 글로 반복하지 말 것
 
-### 6. Conclusion (0.5 page)
-- 4개 HIGH risk 조합 명시
-- 개인별 CYP 다형성에 따른 위험도 차이 강조
-- 향후 연구 방향
+### 5. Discussion (400 words MAX)
+- 5.1 MDMA→Methamphetamine: CYP2D6 억제, 3문장
+- 5.2 Cocaine→Fentanyl: CYP3A4 억제, 3문장
+- 5.3 Pharmacogenomics: CYP2D6 PM, CYP2C19 PM 빈도, 3문장
+- 5.4 Limitations: 3 bullet points
+
+### 6. Conclusion (80 words MAX)
+- 4개 HIGH risk + pharmacogenomic variability 한 문단
 
 ### 7. References
-- 데이터베이스 출처 명시 (URL, 접근일자)
-- FDA 약물 라벨 참조
-- Flockhart CYP table (Indiana University)
+- 데이터베이스 출처 8개만
 
 ## 작성 규칙
 1. **간결함 우선**: 글보다 표와 그래프로 정보 전달. 한 문단 3-4문장 이내.

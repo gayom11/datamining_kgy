@@ -2,20 +2,23 @@
 
 ## 문체 규칙
 
-### DO (따라야 할 규칙)
-- 학술 논문 스타일 (scientific report) 유지
-- Passive voice와 active voice를 적절히 혼용
-- 구체적 수치 사용: "several databases" ❌ → "nine databases" ✅
-- Figure/Table 번호를 본문에서 명시적으로 참조
-- 짧은 문단 (3-4문장 이내)
-- 결과는 data-driven으로 서술
+### MOST IMPORTANT RULE: BREVITY
+- 전체 보고서 본문 텍스트는 1,500 words 이내
+- Figure/Table이 정보를 전달하고, 글은 Figure/Table을 연결하는 역할만
+- 한 섹션에 한 문단, 한 문단에 2-3문장
+- Figure가 보여주는 내용을 글로 반복하면 절대 안 됨
+- "As shown in Figure X, [key number]" 패턴만 사용
 
-### DON'T (피해야 할 것)
-- "It is interesting to note that..." 같은 불필요한 도입부 ❌
-- "Very", "extremely", "significantly" 등의 과도한 수식어 ❌
-- 동일 정보의 반복 서술 ❌
-- 추측성 표현 최소화 (may, might는 가능하지만 근거 필요)
-- AI 특유의 장황한 설명 ❌ → 표/그래프가 설명하는 내용은 다시 풀어쓰지 않기
+### DO
+- 수치 중심: "478 PPI interactions" not "many interactions"
+- 표/그래프 참조 후 핵심 1개 수치만 언급
+- Passive voice + active voice 혼용
+
+### DON'T
+- "It is interesting to note that..." 같은 filler ❌
+- "Very", "extremely", "significantly" ❌
+- 동일 정보 반복 ❌
+- AI 특유의 장황한 설명 ❌
 
 ### 문장 예시
 ❌ "It is very interesting to note that our analysis revealed that there are many shared targets between the drugs we studied."

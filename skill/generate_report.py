@@ -112,62 +112,76 @@ def generate_report_sections(api_key, skills, data_summaries):
     
     # 섹션별 생성
     section_prompts = {
-        "executive_summary": f"""Write the Executive Summary section (about 250 words).
-Key data:
+        "executive_summary": f"""Write the Executive Summary in EXACTLY 3 bullet points, under 100 words total. No prose paragraphs.
+- Bullet 1: objective (1 sentence)
+- Bullet 2: method summary with numbers (8 substances, 9 databases, 7864 records)
+- Bullet 3: key finding (4 HIGH risk combinations)
+
+Data:
 {json.dumps(data_summaries.get('integrated_summary.json', {}), indent=2)}
 
-High-risk combinations:
+High-risk:
 {data_summaries.get('pharmacogenomics/high_risk_combinations.csv', 'N/A')}
 """,
-        "introduction": f"""Write the Introduction section (about 500 words).
-Include Table 1 (analyzed chemicals) and Table 2 (databases used).
+        "introduction": f"""Write the Introduction in UNDER 200 words. Structure:
+1. ONE paragraph (3-4 sentences): background on polysubstance abuse + CYP-mediated interactions + study objective
+2. Table 1: 8 chemicals (columns: Chemical, Category, Primary Mechanism only - NO molecular formula/weight/IUPAC)
+3. Table 2: 9 databases (columns: Database, Type, Records)
+Do NOT write any text after the tables. Tables speak for themselves.
+
 Chemical properties:
 {data_summaries.get('pubchem/compound_properties.csv', 'N/A')}
 
 Database summary:
 {data_summaries.get('database_summary.csv', 'N/A')}
 """,
-        "methods": f"""Write the Methods section (about 800 words).
-Describe data collection from each database and cross-database integration methodology.
-Reference the data dictionary for specific data types collected.
+        "methods": f"""Write the Methods section in UNDER 250 words. Structure:
+3.1 Data Collection: ONE sentence per database (9 sentences total). Format: "[DB name]: [what was extracted] ([N] records)."
+3.2 Cross-Database Integration: 3 sentences max. Gene symbol mapping, pathway overlap, PPI network.
+3.3 Risk Assessment: 2 sentences. CYP inhibitor + major substrate = HIGH risk logic.
+No filler text. No repeating what Tables already show.
+
 Database summary:
 {data_summaries.get('database_summary.csv', 'N/A')}
 """,
-        "results": f"""Write the Results section (about 1500 words).
-Reference Figures 1-10 and include key numerical findings.
+        "results": f"""Write the Results section in UNDER 400 words. Each subsection: 2-3 sentences MAX + reference to Figure.
+Pattern: "As shown in Figure X, [ONE key number]. [ONE interpretation sentence]."
 
-Shared drug targets:
-{data_summaries.get('shared_drug_targets.csv', 'N/A')}
+4.1 CYP-Drug Metabolism (Figure 1): which drugs share CYP3A4/CYP2D6 as major pathway
+4.2 Shared Targets (Figure 2): top drug pair + count
+4.3 Neuro Adverse Events (Figure 3, 9): highest neuro AE ratio drug
+4.4 Drug-Disease Overlap (Figure 4): top overlap pair + count
+4.5 PPI Hubs (Figure 6): top 3 hub proteins + degrees
+4.6 Pathway Enrichment (Figure 7): 1 sentence
+4.7 HIGH Risk Combinations (Figure 5, 10): Table 4 with 4 combinations, then 1 sentence on MDMA-meth CYP2D6
 
-Drug-disease gene overlap (top entries):
-{data_summaries.get('drug_disease_gene_overlap.csv', 'N/A')}
+Do NOT describe what figures look like. Only state the key finding each figure reveals.
 
-PPI hub proteins:
-{data_summaries.get('ppi_hub_proteins.csv', 'N/A')}
-
-Neurological adverse events:
-{data_summaries.get('sider_fda/neuro_adverse_events.csv', 'N/A')}
-
-CYP interactions:
-{data_summaries.get('pharmacogenomics/drug_cyp_interactions.csv', 'N/A')}
-
-High risk combinations:
-{data_summaries.get('pharmacogenomics/high_risk_combinations.csv', 'N/A')}
+Data:
+Shared targets: {data_summaries.get('shared_drug_targets.csv', 'N/A')}
+PPI hubs: {data_summaries.get('ppi_hub_proteins.csv', 'N/A')}
+High risk: {data_summaries.get('pharmacogenomics/high_risk_combinations.csv', 'N/A')}
+Neuro AE: {data_summaries.get('sider_fda/neuro_adverse_events.csv', 'N/A')}
+CYP interactions: {data_summaries.get('pharmacogenomics/drug_cyp_interactions.csv', 'N/A')}
 """,
-        "discussion": f"""Write the Discussion section (about 1000 words).
-Focus on:
-1. MDMA-Methamphetamine CYP2D6 interaction
-2. Cocaine-Opioid (Fentanyl) CYP3A4 interaction
-3. Pharmacogenomic variability (CYP2D6 PM, CYP2C19 PM)
-4. Network analysis insights (hub proteins)
-5. Limitations
+        "discussion": f"""Write the Discussion in UNDER 400 words. Structure:
+5.1 MDMA→Meth (3 sentences): mechanism-based CYP2D6 inhibition, 30-50% clearance reduction, serotonin syndrome risk via SLC6A4 hub
+5.2 Cocaine→Fentanyl (3 sentences): CYP3A4 inhibition, respiratory depression risk, speedball analogy
+5.3 Pharmacogenomics (3 sentences): CYP2D6 PM 5-10% Caucasian/1-2% Asian, CYP2C19 PM 15-20% Asian, individual risk stratification
+5.4 Limitations (3 bullet points only): in silico only, no dose-response, non-CYP pathways not covered
+No repeating Results numbers. Focus on WHY and SO WHAT.
 
 CYP polymorphisms:
 {data_summaries.get('pharmacogenomics/cyp_polymorphisms.csv', 'N/A')}
 """,
-        "conclusion": f"""Write the Conclusion section (about 200 words).
-Summarize the 4 HIGH risk combinations and emphasize pharmacogenomic variability.
-High risk combinations:
+        "conclusion": f"""Write the Conclusion in UNDER 80 words. ONE paragraph:
+- Name the 4 HIGH risk pairs (cocaine→fentanyl/diazepam/ketamine/THC)
+- Mention MDMA→meth CYP2D6 risk
+- State CYP genotyping value for risk assessment
+- One sentence on future direction
+That's it. Do not repeat discussion points.
+
+High risk:
 {data_summaries.get('pharmacogenomics/high_risk_combinations.csv', 'N/A')}
 """,
     }
