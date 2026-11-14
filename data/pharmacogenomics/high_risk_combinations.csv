@@ -1,0 +1,5 @@
+Inhibitor_Drug,Affected_Drug,CYP_Enzyme,Inhibition_Strength,Metabolism_Dependency,Risk_Level,Mechanism,Expected_Effect
+Cocaine,Fentanyl,CYP3A4,Moderate,major,HIGH,Cocaine inhibits CYP3A4 → reduced clearance of Fentanyl,Increased Fentanyl plasma levels → enhanced toxicity
+Cocaine,Diazepam,CYP3A4,Moderate,major,HIGH,Cocaine inhibits CYP3A4 → reduced clearance of Diazepam,Increased Diazepam plasma levels → enhanced toxicity
+Cocaine,Ketamine,CYP3A4,Moderate,major,HIGH,Cocaine inhibits CYP3A4 → reduced clearance of Ketamine,Increased Ketamine plasma levels → enhanced toxicity
+Cocaine,THC,CYP3A4,Moderate,major,HIGH,Cocaine inhibits CYP3A4 → reduced clearance of THC,Increased THC plasma levels → enhanced toxicity

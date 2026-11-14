@@ -1,0 +1,4 @@
+Chemical,ChEMBL_ID,Mechanism,Action_Type,Target_ChEMBL,Target_Name
+Fentanyl,CHEMBL596,Mu opioid receptor agonist,AGONIST,CHEMBL233,
+Diazepam,CHEMBL12,GABA-A receptor; anion channel positive allosteric modulator,POSITIVE ALLOSTERIC MODULATOR,CHEMBL2093872,
+THC,CHEMBL465,Cannabinoid CB1 receptor agonist,AGONIST,CHEMBL218,

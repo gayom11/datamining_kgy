@@ -1,0 +1,150 @@
+Chemical,Target_Name,n_activities,avg_pChEMBL
+Cocaine,Sodium-dependent dopamine transporter,17,6.565625
+Cocaine,Sodium-dependent serotonin transporter,14,6.492307692307692
+Cocaine,Sodium-dependent noradrenaline transporter,12,6.318181818181818
+Cocaine,Monoclonal antibody (mAb) 2E2,4,8.41
+Cocaine,Monoamine transporters; serotonin & dopamine,3,
+Cocaine,"Sodium channel alpha subunits; brain (Types I, II, III)",3,4.31
+Cocaine,Monoamine transporters; Norepinephrine & dopamine,2,
+Cocaine,GABA-A receptor; anion channel,1,
+Cocaine,Sigma non-opioid intracellular receptor 1,1,5.05
+Cocaine,Voltage-gated inwardly rectifying potassium channel KCNH2,1,8.36
+Diazepam,GABA-A receptor; alpha-2/beta-3/gamma-2,5,7.789999999999999
+Diazepam,GABA-A receptor; alpha-3/beta-3/gamma-2,5,7.6850000000000005
+Diazepam,GABA-A receptor; alpha-1/beta-2/gamma-2,4,7.904999999999999
+Diazepam,GABA-A receptor; alpha-1/beta-3/gamma-2,4,7.846666666666667
+Diazepam,GABA-A receptor; alpha-5/beta-3/gamma-2,4,7.956666666666667
+Diazepam,Homo sapiens,4,
+Diazepam,GABA-A receptor; anion channel,3,6.109999999999999
+Diazepam,"Sodium channel alpha subunits; brain (Types I, II, III)",2,
+Diazepam,Albumin,1,
+Diazepam,GABA A receptor alpha-3/beta-2/gamma-2,1,8.0
+Diazepam,GABA A receptor alpha-6/beta-2/gamma-2,1,
+Diazepam,GABA-A receptor; alpha-6/beta-3/gamma-2,1,
+Diazepam,Ramos,1,
+Diazepam,Translocator protein,1,
+Fentanyl,Homo sapiens,25,
+Fentanyl,Mu-type opioid receptor,7,8.411999999999999
+Fentanyl,Delta-type opioid receptor,6,6.371666666666667
+Fentanyl,Nuclear receptor subfamily 1 group I member 2,6,4.5
+Fentanyl,Solute carrier family 22 member 1,3,
+Fentanyl,Cytochrome P450 3A4,2,
+Fentanyl,Kappa-type opioid receptor,2,6.255
+Fentanyl,Liver microsomes,2,
+Fentanyl,Tyrosyl-DNA phosphodiesterase 1,2,
+Fentanyl,ATP-dependent translocase ABCB1,1,5.19
+Fentanyl,Blood,1,
+Fentanyl,Cytochrome P450 2D6,1,
+Fentanyl,Histamine H1 receptor,1,
+Fentanyl,Histone-lysine N-methyltransferase EHMT2,1,
+Fentanyl,Monoamine oxidase,1,5.26
+Fentanyl,Solute carrier organic anion transporter family member 1B1,1,
+Fentanyl,Solute carrier organic anion transporter family member 1B3,1,
+Fentanyl,Solute carrier organic anion transporter family member 2B1,1,
+Fentanyl,Voltage-gated inwardly rectifying potassium channel KCNH2,1,5.74
+Fentanyl,Zone of skin,1,
+Ketamine,Glutamate NMDA receptor; GRIN1/GRIN2A,5,5.555
+Ketamine,Cytochrome P450 3A4,3,
+Ketamine,Glutamate NMDA receptor; GRIN1/GRIN2B,3,5.4
+Ketamine,3-hydroxy-3-methylglutaryl-coenzyme A reductase,2,
+Ketamine,5-hydroxytryptamine receptor 2A,2,
+Ketamine,5-hydroxytryptamine receptor 2B,2,
+Ketamine,5-hydroxytryptamine receptor 2C,2,
+Ketamine,Acetylcholinesterase,2,
+Ketamine,Adenosine receptor A1,2,
+Ketamine,Adenosine receptor A2a,2,
+Ketamine,Adenosine receptor A3,2,
+Ketamine,Alpha-1D adrenergic receptor,2,
+Ketamine,Alpha-2A adrenergic receptor,2,
+Ketamine,Alpha-2B adrenergic receptor,2,
+Ketamine,Alpha-2C adrenergic receptor,2,
+Ketamine,Amine oxidase [flavin-containing] A,2,
+Ketamine,B2 bradykinin receptor,2,
+Ketamine,Beta-1 adrenergic receptor,2,
+Ketamine,Beta-2 adrenergic receptor,2,
+Ketamine,Beta-3 adrenergic receptor,2,
+Ketamine,C-C chemokine receptor type 2,2,
+Ketamine,C-C chemokine receptor type 4,2,
+Ketamine,C-C chemokine receptor type 5,2,
+Ketamine,C-X-C chemokine receptor type 1,2,
+Ketamine,C-X-C chemokine receptor type 2,2,
+Ketamine,Calcitonin receptor,2,
+Ketamine,Cannabinoid receptor 1,2,
+Ketamine,Carbonic anhydrase 2,2,
+Ketamine,Caspase-1,2,
+Ketamine,Cathepsin G,2,
+Ketamine,Cholecystokinin receptor type A,2,
+Ketamine,Cysteinyl leukotriene receptor 1,2,
+Ketamine,Cytochrome P450 1A2,2,
+Ketamine,Cytochrome P450 2A6,2,
+Ketamine,Cytochrome P450 2C19,2,
+Ketamine,Cytochrome P450 2C9,2,
+Ketamine,Cytochrome P450 2D6,2,
+Ketamine,Cytochrome P450 2E1,2,
+Ketamine,D(1A) dopamine receptor,2,
+Ketamine,D(2) dopamine receptor,2,
+Ketamine,D(3) dopamine receptor,2,
+Ketamine,D(4) dopamine receptor,2,
+Ketamine,Delta-type opioid receptor,2,
+Ketamine,Endothelin-1 receptor,2,
+Ketamine,Epidermal growth factor receptor,2,
+Ketamine,Estrogen receptor,2,
+Ketamine,Estrogen receptor beta,2,
+Ketamine,Glucocorticoid receptor,2,
+Ketamine,Histamine H1 receptor,2,
+Ketamine,Histamine H2 receptor,2,
+Ketamine,Interstitial collagenase,2,
+Ketamine,Kappa-type opioid receptor,2,
+Ketamine,Matrix metalloproteinase-9,2,
+Ketamine,Melanocortin receptor 3,2,
+Ketamine,Melanocortin receptor 4,2,
+Ketamine,Melanocortin receptor 5,2,
+Ketamine,Mitogen-activated protein kinase 1,2,
+Ketamine,Mitogen-activated protein kinase 14,2,
+Ketamine,Mitogen-activated protein kinase 3,2,
+Ketamine,Mu-type opioid receptor,2,
+Ketamine,Muscarinic acetylcholine receptor M1,2,
+Ketamine,Muscarinic acetylcholine receptor M2,2,
+Ketamine,Muscarinic acetylcholine receptor M3,2,
+Ketamine,Muscarinic acetylcholine receptor M4,2,
+Ketamine,Muscarinic acetylcholine receptor M5,2,
+Ketamine,Neuropeptide Y receptor type 1,2,
+Ketamine,Neuropeptide Y receptor type 2,2,
+Ketamine,Neutrophil elastase,2,
+Ketamine,Platelet-activating factor receptor,2,
+Ketamine,Prostaglandin G/H synthase 1,2,
+Ketamine,Prostaglandin G/H synthase 2,2,
+Ketamine,Protein kinase C alpha type,2,
+Ketamine,Protein phosphatase 3 catalytic subunit alpha,2,
+Ketamine,Receptor tyrosine-protein kinase erbB-2,2,
+Ketamine,Receptor-type tyrosine-protein phosphatase C,2,
+Ketamine,Sodium channel protein type 4 subunit alpha,2,
+Ketamine,Sodium-dependent dopamine transporter,2,
+Ketamine,Sodium-dependent noradrenaline transporter,2,
+Ketamine,Type-2 angiotensin II receptor,2,
+Ketamine,Tyrosine-protein kinase Fyn,2,
+Ketamine,Tyrosine-protein kinase Lck,2,
+Ketamine,Voltage-gated inwardly rectifying potassium channel KCNH2,2,
+Ketamine,"cGMP-specific 3',5'-cyclic phosphodiesterase",2,
+Ketamine,Chromobox protein homolog 1,1,
+Ketamine,Cytochrome P450 2B6,1,
+Ketamine,Glutamate [NMDA] receptor,1,6.38
+Ketamine,Prelamin-A/C,1,4.45
+Methamphetamine,Coagulation factor X,1,7.96
+Morphine,Delta-type opioid receptor,14,6.564166666666665
+Morphine,Mu-type opioid receptor,8,8.666
+Morphine,Opioid receptors; mu/kappa/delta,7,7.3325000000000005
+Morphine,Kappa-type opioid receptor,6,6.846000000000001
+Morphine,Opioid receptors; mu & kappa,4,
+Morphine,Opioid receptors; mu & delta,3,6.51
+Morphine,Opioid receptors; delta & kappa,2,
+Morphine,Sigma non-opioid intracellular receptor 1,1,
+Morphine,"Sodium channel alpha subunits; brain (Types I, II, III)",1,
+THC,Cannabinoid receptor 2,20,7.592222222222222
+THC,Cannabinoid receptor 1,17,7.81
+THC,N-arachidonyl glycine receptor,3,5.566666666666666
+THC,Cannabinoid receptor,2,7.39
+THC,G-protein coupled receptor 55,2,4.85
+THC,Tyrosyl-DNA phosphodiesterase 1,2,
+THC,Homo sapiens,1,
+THC,Transient receptor potential cation channel subfamily A member 1,1,

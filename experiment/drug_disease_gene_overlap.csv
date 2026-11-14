@@ -1,0 +1,87 @@
+Chemical,Disease,Overlap_Count,Overlap_Genes,Drug_Gene_Count,Disease_Gene_Count
+Cocaine,Depressive Disorder,22,ABCB1; BDNF; CCR5; COMT; CREB1; CYP2C19; DRD2; DRD3; ESR1; HTR2A; IL10; IL6; MAOA; MAPK1; MIR155,100,100
+Cocaine,Schizophrenia,21,ABCB1; AKT1; BDNF; CASP3; CCR5; COMT; CYP2C19; DRD2; ESR1; HLA-B; IL10; IL6; KDR; NFKB1; NOS3,100,100
+Morphine,Schizophrenia,20,ABCB1; AKT1; BCL2; CASP3; CCL2; COMT; CYP3A4; DRD2; ICAM1; IL10; IL1B; IL1RN; IL6; RELA; SOD1,100,100
+Cocaine,Neurotoxicity,20,ABCB1; AKT1; AVP; BAX; BDNF; CASP3; CCR5; CREB1; DRD2; FYN; HSP90AA1; MAPK1; MAPK14; MAPK3; MAPK8,100,100
+Methamphetamine,Depressive Disorder,20,APOE; BDNF; COMT; CREB1; CYP2D6; DRD2; DRD3; ESR1; GDNF; HTR2A; MAOA; MAPT; MMP2; MMP9; MTOR,94,100
+Morphine,Neurotoxicity,18,ABCB1; AKT1; BAX; BCL2; CASP3; CCL2; CREB1; CYP3A4; DRD2; ICAM1; IL1B; MAPK1; MAPK14; MAPK3; MAPK8,100,100
+Morphine,Seizures,17,ABCB1; C3; CREB1; CYP2D6; CYP3A4; FLNA; IL10; IL1B; IL1RN; IL6; NR3C1; OPRM1; SCN9A; TERT; TGFB1,100,100
+Cocaine,Parkinson Disease,17,ABCB1; BAX; BDNF; CASP3; COMT; DRD2; DRD3; DRD4; IL10; IL6; NFKB1; PARP1; SLC6A3; SLC6A4; SNCA,100,100
+Cocaine,Alzheimer Disease,17,ABCB1; BDNF; CCR5; COMT; CREB1; ESR1; IL10; IL6; MIR155; NFKB1; NOS3; NR3C1; SLC6A3; SLC6A4; SNCA,100,100
+Methamphetamine,Schizophrenia,17,AKT1; APOE; BDNF; COMT; CTNNB1; DRD2; ESR1; GSTM1; GSTP1; KCNH2; MAPT; MMP2; MMP9; MTOR; NFKB1,94,100
+Methamphetamine,Parkinson Disease,17,APOE; BDNF; COMT; CYP2D6; DRD2; DRD3; DRD4; GDNF; GSTM1; GSTP1; MAPT; MMP9; MTOR; NFKB1; SLC6A3,94,100
+Methamphetamine,Alzheimer Disease,16,APOE; BDNF; COMT; CREB1; ESR1; GSTM1; GSTP1; MAPT; MMP2; MMP9; MTOR; NFKB1; NQO1; SLC6A3; SLC6A4,94,100
+Morphine,Alzheimer Disease,16,ABCB1; BECN1; CCL2; CCL5; COMT; CREB1; IL10; IL1B; IL6; NR3C1; RELA; SOD1; TGFB1; TLR2; TLR4,100,100
+Morphine,Depressive Disorder,16,ABCB1; CCL5; COMT; CREB1; CYP2D6; CYP3A4; DRD2; DRD3; IL10; IL1B; IL6; MAPK1; NOS2; NR3C1; SOD1,100,100
+Methamphetamine,Neurotoxicity,15,AKT1; APOE; BDNF; CDK5; CREB1; CYP2E1; DRD2; GSTP1; MAPT; MMP1; MMP2; MMP9; NFKB1; SLC6A3; SNCA,94,100
+Morphine,Parkinson Disease,15,ABCB1; BAX; CASP3; CCL2; COMT; CYP2D6; DRD2; DRD3; IL10; IL1B; IL6; SOD1; TLR2; TLR4; TP53,100,100
+Cocaine,Seizures,14,ABCB1; AVP; BDNF; CREB1; DNMT3A; FKBP5; HLA-B; IL10; IL6; NOS3; NR3C1; OPRM1; SLC6A3; TNF,100,100
+Methamphetamine,Drug Dependence,13,ANKK1; COMT; CYP2B6; DRD2; DTNBP1; FAAH; GSTM1; GSTP1; OPRD1; OPRK1; PDYN; SLC6A4; SLC6A9,94,27
+Methamphetamine,Seizures,12,ADORA2A; APOE; BDNF; CREB1; CYP2D6; KCNH2; KCNMA1; MAPT; MMP2; MMP9; MTOR; SLC6A3,94,100
+Methamphetamine,Anxiety Disorders,12,ADORA2A; BDNF; COMT; CYP2D6; DRD2; DTNBP1; GAD1; GAD2; MAOA; MAPT; NPY; SLC6A4,94,55
+Cocaine,Anxiety Disorders,11,BDNF; COMT; CYP2C19; DRD2; FKBP5; GRM5; MAOA; NPY; SLC6A4; TNF; TPH2,100,55
+Methamphetamine,Neurodegenerative Diseases,10,APOE; BDNF; CDK5; CNR1; CTNNB1; GDNF; MAPT; MTOR; SLC6A4; SNCA,94,100
+Fentanyl,Schizophrenia,10,ABCB1; CALCA; COMT; CRP; CXCL8; CYP3A4; IL10; IL4; IL6; TNF,20,100
+Fentanyl,Depressive Disorder,10,ABCB1; COMT; CRP; CXCL8; CYP3A4; IL10; IL4; IL6; P2RX7; TNF,20,100
+Fentanyl,Alzheimer Disease,10,ABCB1; ABCG2; CALCA; COMT; CRP; CXCL8; CYP3A5; IL10; IL6; TNF,20,100
+Fentanyl,Seizures,9,ABCB1; CXCL8; CYP3A4; IL10; IL6; OPRM1; P2RX7; TNF; UGT2B7,20,100
+Ketamine,Seizures,9,BDNF; CACNA1C; CXCL8; IL6; LEP; NLRP3; OPRM1; SLC6A3; TRPV4,34,100
+Morphine,Neurodegenerative Diseases,9,CASP3; CCL2; HSPB1; ICAM1; MAPK8; NFE2L2; RELA; SOD1; TERT,100,100
+Cocaine,Drug Dependence,8,ABCB1; ANKK1; COMT; DRD2; FAAH; OPRM1; SLC6A4; TPH2,100,27
+Cocaine,Substance Use Disorder,8,BDNF; COMT; DRD2; DRD4; FKBP5; NOS3; SLC6A3; SLC6A4,100,11
+Methamphetamine,Psychotic Disorders,8,BDNF; COMT; DAOA; DRD2; DRD3; DRD4; DTNBP1; SLC6A4,94,20
+Ketamine,Depressive Disorder,8,BDNF; CXCL8; DRD2; IL6; LEP; NGF; NLRP3; SLC6A3,34,100
+Cocaine,Psychotic Disorders,7,BDNF; COMT; DRD2; DRD3; DRD4; PER2; SLC6A4,100,20
+Morphine,Drug Dependence,7,ABCB1; COMT; DRD2; OPRD1; OPRK1; OPRM1; PNOC,100,27
+Cocaine,Neurodegenerative Diseases,7,BDNF; CASP3; CNR1; MAPK8; NOS3; SLC6A4; SNCA,100,100
+MDMA,Depressive Disorder,6,COMT; CYP2C19; CYP2D6; CYP3A4; OXTR; SLC6A4,14,100
+Methamphetamine,Substance Use Disorder,6,BDNF; COMT; DRD2; DRD4; SLC6A3; SLC6A4,94,11
+MDMA,Anxiety Disorders,6,COMT; CYP2C19; CYP2D6; CYP3A4; OXTR; SLC6A4,14,55
+Morphine,Anxiety Disorders,6,COMT; CYP2D6; CYP3A4; DRD2; GRM5; NOS2,100,55
+Fentanyl,Parkinson Disease,6,ABCB1; COMT; CRP; IL10; IL6; TNF,20,100
+Ketamine,Schizophrenia,6,BDNF; CXCL8; DRD2; IL6; LEP; NLRP3,34,100
+Ketamine,Parkinson Disease,5,BDNF; DRD2; HDAC6; IL6; SLC6A3,34,100
+Ketamine,Alzheimer Disease,5,BDNF; CXCL8; IL6; LEP; SLC6A3,34,100
+Ketamine,Drug Dependence,4,CYP2B6; DRD2; NGF; OPRM1,34,27
+Ketamine,Neurotoxicity,4,BDNF; DRD2; MAPK14; SLC6A3,34,100
+MDMA,Schizophrenia,4,COMT; CYP2C19; CYP3A4; SLC6A4,14,100
+MDMA,Parkinson Disease,4,COMT; CYP1A2; CYP2D6; SLC6A4,14,100
+Ketamine,Neurodegenerative Diseases,4,BDNF; NLRP3; NTRK2; TXNIP,34,100
+THC,Depressive Disorder,4,ABCB1; COMT; ESR1; NRG1,16,100
+Fentanyl,Neurotoxicity,4,ABCB1; CYP3A4; CYP3A5; SLCO1B1,20,100
+Ketamine,Anxiety Disorders,3,BDNF; DRD2; LEP,34,55
+MDMA,Drug Dependence,3,COMT; CYP2B6; SLC6A4,14,27
+MDMA,Seizures,3,CYP1A2; CYP2D6; CYP3A4,14,100
+THC,Neurotoxicity,3,ABCB1; PPARA; STAT3,16,100
+THC,Alzheimer Disease,3,ABCB1; COMT; ESR1,16,100
+THC,Parkinson Disease,3,ABCB1; COMT; ESR2,16,100
+THC,Schizophrenia,3,ABCB1; COMT; ESR1,16,100
+Ketamine,Substance Use Disorder,3,BDNF; DRD2; SLC6A3,34,11
+Fentanyl,Drug Dependence,3,ABCB1; COMT; OPRM1,20,27
+Diazepam,Depressive Disorder,3,CREB1; CYP2C19; CYP3A4,10,100
+Morphine,Psychotic Disorders,3,COMT; DRD2; DRD3,100,20
+Fentanyl,Anxiety Disorders,3,COMT; CYP3A4; TNF,20,55
+Diazepam,Neurotoxicity,3,CREB1; CYP3A4; CYP3A5,10,100
+Ketamine,Psychotic Disorders,2,BDNF; DRD2,34,20
+THC,Drug Dependence,2,ABCB1; COMT,16,27
+Morphine,Substance Use Disorder,2,COMT; DRD2,100,11
+MDMA,Alzheimer Disease,2,COMT; SLC6A4,14,100
+MDMA,Psychotic Disorders,2,COMT; SLC6A4,14,20
+THC,Neurodegenerative Diseases,2,CNR1; PPARA,16,100
+MDMA,Substance Use Disorder,2,COMT; SLC6A4,14,11
+Diazepam,Schizophrenia,2,CYP2C19; CYP3A4,10,100
+Diazepam,Seizures,2,CREB1; CYP3A4,10,100
+Diazepam,Alzheimer Disease,2,CREB1; CYP3A5,10,100
+Diazepam,Anxiety Disorders,2,CYP2C19; CYP3A4,10,55
+MDMA,Neurodegenerative Diseases,1,SLC6A4,14,100
+MDMA,Serotonin Syndrome,1,CYP2D6,14,1
+MDMA,Neurotoxicity,1,CYP3A4,14,100
+Methamphetamine,Serotonin Syndrome,1,CYP2D6,94,1
+Fentanyl,Neurodegenerative Diseases,1,CRP,20,100
+Fentanyl,Psychotic Disorders,1,COMT,20,20
+Morphine,Serotonin Syndrome,1,CYP2D6,100,1
+Fentanyl,Substance Use Disorder,1,COMT,20,11
+THC,Psychotic Disorders,1,COMT,16,20
+THC,Seizures,1,ABCB1,16,100
+THC,Anxiety Disorders,1,COMT,16,55
+THC,Substance Use Disorder,1,COMT,16,11

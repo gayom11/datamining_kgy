@@ -1,0 +1,20 @@
+Inhibitor_Drug,Affected_Drug,CYP_Enzyme,Inhibition_Strength,Metabolism_Dependency,Risk_Level,Mechanism,Expected_Effect
+Cocaine,Fentanyl,CYP3A4,Moderate,major,HIGH,Cocaine inhibits CYP3A4 → reduced clearance of Fentanyl,Increased Fentanyl plasma levels → enhanced toxicity
+Cocaine,Diazepam,CYP3A4,Moderate,major,HIGH,Cocaine inhibits CYP3A4 → reduced clearance of Diazepam,Increased Diazepam plasma levels → enhanced toxicity
+Cocaine,Ketamine,CYP3A4,Moderate,major,HIGH,Cocaine inhibits CYP3A4 → reduced clearance of Ketamine,Increased Ketamine plasma levels → enhanced toxicity
+Cocaine,THC,CYP3A4,Moderate,major,HIGH,Cocaine inhibits CYP3A4 → reduced clearance of THC,Increased THC plasma levels → enhanced toxicity
+Cocaine,Methamphetamine,CYP3A4,Moderate,minor,MODERATE,Cocaine inhibits CYP3A4 → reduced clearance of Methamphetamine,Increased Methamphetamine plasma levels → enhanced toxicity
+Cocaine,MDMA,CYP3A4,Moderate,minor,MODERATE,Cocaine inhibits CYP3A4 → reduced clearance of MDMA,Increased MDMA plasma levels → enhanced toxicity
+Cocaine,Morphine,CYP3A4,Moderate,minor,MODERATE,Cocaine inhibits CYP3A4 → reduced clearance of Morphine,Increased Morphine plasma levels → enhanced toxicity
+THC,Methamphetamine,CYP3A4,Weak-Moderate,minor,MODERATE,THC inhibits CYP3A4 → reduced clearance of Methamphetamine,Increased Methamphetamine plasma levels → enhanced toxicity
+THC,MDMA,CYP3A4,Weak-Moderate,minor,MODERATE,THC inhibits CYP3A4 → reduced clearance of MDMA,Increased MDMA plasma levels → enhanced toxicity
+THC,Cocaine,CYP3A4,Weak-Moderate,major,MODERATE,THC inhibits CYP3A4 → reduced clearance of Cocaine,Increased Cocaine plasma levels → enhanced toxicity
+THC,Morphine,CYP3A4,Weak-Moderate,minor,MODERATE,THC inhibits CYP3A4 → reduced clearance of Morphine,Increased Morphine plasma levels → enhanced toxicity
+THC,Fentanyl,CYP3A4,Weak-Moderate,major,MODERATE,THC inhibits CYP3A4 → reduced clearance of Fentanyl,Increased Fentanyl plasma levels → enhanced toxicity
+THC,Diazepam,CYP3A4,Weak-Moderate,major,MODERATE,THC inhibits CYP3A4 → reduced clearance of Diazepam,Increased Diazepam plasma levels → enhanced toxicity
+THC,Ketamine,CYP3A4,Weak-Moderate,major,MODERATE,THC inhibits CYP3A4 → reduced clearance of Ketamine,Increased Ketamine plasma levels → enhanced toxicity
+THC,Diazepam,CYP2C9,Moderate,minor,MODERATE,THC inhibits CYP2C9 → reduced clearance of Diazepam,Increased Diazepam plasma levels → enhanced toxicity
+THC,Ketamine,CYP2C9,Moderate,minor,MODERATE,THC inhibits CYP2C9 → reduced clearance of Ketamine,Increased Ketamine plasma levels → enhanced toxicity
+Cocaine,Methamphetamine,CYP2D6,Weak,major,MODERATE,Cocaine inhibits CYP2D6 → reduced clearance of Methamphetamine,Increased Methamphetamine plasma levels → enhanced toxicity
+Cocaine,MDMA,CYP2D6,Weak,major,MODERATE,Cocaine inhibits CYP2D6 → reduced clearance of MDMA,Increased MDMA plasma levels → enhanced toxicity
+Cocaine,Morphine,CYP2D6,Weak,minor,MODERATE,Cocaine inhibits CYP2D6 → reduced clearance of Morphine,Increased Morphine plasma levels → enhanced toxicity

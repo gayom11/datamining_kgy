@@ -1,0 +1,801 @@
+Disease,Disease_EFO,Gene_Ensembl,Gene_Symbol,Gene_Name,Association_Score
+mental disorder,MONDO_0002025,ENSG00000100299,ARSA,arylsulfatase A,0.8957563060736282
+mental disorder,MONDO_0002025,ENSG00000101986,ABCD1,ATP binding cassette subfamily D member 1,0.8903545606442324
+mental disorder,MONDO_0002025,ENSG00000080815,PSEN1,presenilin 1,0.8843391328144661
+mental disorder,MONDO_0002025,ENSG00000169057,MECP2,methyl-CpG binding protein 2,0.8842615752634257
+mental disorder,MONDO_0002025,ENSG00000142192,APP,amyloid beta precursor protein,0.8818967010240952
+mental disorder,MONDO_0002025,ENSG00000184381,PLA2G6,phospholipase A2 group VI,0.879649963329284
+mental disorder,MONDO_0002025,ENSG00000131943,C19orf12,chromosome 19 open reading frame 12,0.8723838199718873
+mental disorder,MONDO_0002025,ENSG00000006283,CACNA1G,calcium voltage-gated channel subunit alpha1 G,0.8715747143783411
+mental disorder,MONDO_0002025,ENSG00000159363,ATP13A2,ATPase cation transporting 13A2,0.8686543085438689
+mental disorder,MONDO_0002025,ENSG00000125779,PANK2,pantothenate kinase 2,0.8640038991097331
+mental disorder,MONDO_0002025,ENSG00000186868,MAPT,microtubule associated protein tau,0.8550992198023806
+mental disorder,MONDO_0002025,ENSG00000165280,VCP,valosin containing protein,0.8544679195497781
+mental disorder,MONDO_0002025,ENSG00000068120,COASY,Coenzyme A synthase,0.8486010364034707
+mental disorder,MONDO_0002025,ENSG00000161011,SQSTM1,sequestosome 1,0.8467396016749633
+mental disorder,MONDO_0002025,ENSG00000141837,CACNA1A,calcium voltage-gated channel subunit alpha1 A,0.8466229018113559
+mental disorder,MONDO_0002025,ENSG00000150995,ITPR1,"inositol 1,4,5-trisphosphate receptor type 1",0.8450168681662493
+mental disorder,MONDO_0002025,ENSG00000176165,FOXG1,forkhead box G1,0.844065716742798
+mental disorder,MONDO_0002025,ENSG00000130816,DNMT1,DNA methyltransferase 1,0.8433987134602139
+mental disorder,MONDO_0002025,ENSG00000074181,NOTCH3,notch receptor 3,0.8417406903419835
+mental disorder,MONDO_0002025,ENSG00000197969,VPS13A,vacuolar protein sorting 13 homolog A,0.8404017611416744
+mental disorder,MONDO_0002025,ENSG00000131398,KCNC3,potassium voltage-gated channel subfamily C member 3,0.8370702552354787
+mental disorder,MONDO_0002025,ENSG00000141385,AFG3L2,AFG3 like matrix AAA peptidase subunit 2,0.8357314979584618
+mental disorder,MONDO_0002025,ENSG00000183735,TBK1,TANK binding kinase 1,0.8324146483636832
+mental disorder,MONDO_0002025,ENSG00000196998,WDR45,WD repeat domain 45,0.8305887365212054
+mental disorder,MONDO_0002025,ENSG00000047457,CP,ceruloplasmin,0.8292323703233164
+mental disorder,MONDO_0002025,ENSG00000030582,GRN,granulin precursor,0.8261280158171725
+mental disorder,MONDO_0002025,ENSG00000143801,PSEN2,presenilin 2,0.8223969225840256
+mental disorder,MONDO_0002025,ENSG00000171385,KCND3,potassium voltage-gated channel subfamily D member 3,0.818918217902558
+mental disorder,MONDO_0002025,ENSG00000136352,NKX2-1,NK2 homeobox 1,0.8184635508617236
+mental disorder,MONDO_0002025,ENSG00000083937,CHMP2B,charged multivesicular body protein 2B,0.8169883936326597
+mental disorder,MONDO_0002025,ENSG00000047597,XK,"X-linked Kx blood group antigen, Kell and VPS13A binding protein",0.8071584278696977
+mental disorder,MONDO_0002025,ENSG00000115827,DCAF17,DDB1 and CUL4 associated factor 17,0.8035271398282823
+mental disorder,MONDO_0002025,ENSG00000171735,CAMTA1,calmodulin binding transcription activator 1,0.8033151602396463
+mental disorder,MONDO_0002025,ENSG00000173898,SPTBN2,"spectrin beta, non-erythrocytic 2",0.8032154307379009
+mental disorder,MONDO_0002025,ENSG00000205090,TMEM240,transmembrane protein 240,0.7985022358396026
+mental disorder,MONDO_0002025,ENSG00000136531,SCN2A,sodium voltage-gated channel alpha subunit 2,0.7976691704971164
+mental disorder,MONDO_0002025,ENSG00000130203,APOE,apolipoprotein E,0.796387569838224
+mental disorder,MONDO_0002025,ENSG00000105409,ATP1A3,ATPase Na+/K+ transporting subunit alpha 3,0.7962066514837013
+mental disorder,MONDO_0002025,ENSG00000087086,FTL,ferritin light chain,0.790760801093855
+mental disorder,MONDO_0002025,ENSG00000101327,PDYN,prodynorphin,0.7901113917618122
+mental disorder,MONDO_0002025,ENSG00000126583,PRKCG,protein kinase C gamma,0.7884292410934334
+mental disorder,MONDO_0002025,ENSG00000136535,TBR1,T-box brain transcription factor 1,0.7860130860515251
+mental disorder,MONDO_0002025,ENSG00000114861,FOXP1,forkhead box P1,0.7857013812963365
+mental disorder,MONDO_0002025,ENSG00000134644,PUM1,pumilio RNA binding family member 1,0.785550148190268
+mental disorder,MONDO_0002025,ENSG00000273079,GRIN2B,glutamate ionotropic receptor NMDA type subunit 2B,0.777897993627669
+mental disorder,MONDO_0002025,ENSG00000102466,FGF14,fibroblast growth factor 14,0.7770292985225524
+mental disorder,MONDO_0002025,ENSG00000101204,CHRNA4,cholinergic receptor nicotinic alpha 4 subunit,0.7706163893827076
+mental disorder,MONDO_0002025,ENSG00000197746,PSAP,prosaposin,0.7705061825826538
+mental disorder,MONDO_0002025,ENSG00000166948,TGM6,transglutaminase 6,0.7700337021229626
+mental disorder,MONDO_0002025,ENSG00000196549,MME,membrane metalloendopeptidase,0.7664145177670666
+mental disorder,MONDO_0002025,ENSG00000183454,GRIN2A,glutamate ionotropic receptor NMDA type subunit 2A,0.7664065280005123
+mental disorder,MONDO_0002025,ENSG00000149295,DRD2,dopamine receptor D2,0.7605199211582304
+mental disorder,MONDO_0002025,ENSG00000112038,OPRM1,opioid receptor mu 1,0.7582921953782427
+mental disorder,MONDO_0002025,ENSG00000103266,STUB1,STIP1 homology and U-box containing protein 1,0.7580892633932963
+mental disorder,MONDO_0002025,ENSG00000064687,ABCA7,ATP binding cassette subfamily A member 7,0.7570850765933036
+mental disorder,MONDO_0002025,ENSG00000250479,CHCHD10,coiled-coil-helix-coiled-coil-helix domain containing 10,0.7556748210233691
+mental disorder,MONDO_0002025,ENSG00000163288,GABRB1,gamma-aminobutyric acid type A receptor subunit beta1,0.7550513954585425
+mental disorder,MONDO_0002025,ENSG00000151067,CACNA1C,calcium voltage-gated channel subunit alpha1 C,0.7469822159077102
+mental disorder,MONDO_0002025,ENSG00000145335,SNCA,synuclein alpha,0.7453577169773644
+mental disorder,MONDO_0002025,ENSG00000082701,GSK3B,glycogen synthase kinase 3 beta,0.745290597245364
+mental disorder,MONDO_0002025,ENSG00000144285,SCN1A,sodium voltage-gated channel alpha subunit 1,0.7426952628955908
+mental disorder,MONDO_0002025,ENSG00000100888,CHD8,chromodomain helicase DNA binding protein 8,0.7412427442246067
+mental disorder,MONDO_0002025,ENSG00000118402,ELOVL4,ELOVL fatty acid elongase 4,0.740297969615832
+mental disorder,MONDO_0002025,ENSG00000151834,GABRA2,gamma-aminobutyric acid type A receptor subunit alpha2,0.7394436360151673
+mental disorder,MONDO_0002025,ENSG00000094755,GABRP,gamma-aminobutyric acid type A receptor subunit pi,0.7361803961950534
+mental disorder,MONDO_0002025,ENSG00000089280,FUS,FUS RNA binding protein,0.7361467498687242
+mental disorder,MONDO_0002025,ENSG00000120948,TARDBP,TAR DNA binding protein,0.7335076141110708
+mental disorder,MONDO_0002025,ENSG00000152822,GRM1,glutamate metabotropic receptor 1,0.7325772319004962
+mental disorder,MONDO_0002025,ENSG00000189221,MAOA,monoamine oxidase A,0.7324040426787312
+mental disorder,MONDO_0002025,ENSG00000100346,CACNA1I,calcium voltage-gated channel subunit alpha1 I,0.7289481089213449
+mental disorder,MONDO_0002025,ENSG00000251322,SHANK3,SH3 and multiple ankyrin repeat domains 3,0.7253226295139179
+mental disorder,MONDO_0002025,ENSG00000153922,CHD1,chromodomain helicase DNA binding protein 1,0.7251330092962286
+mental disorder,MONDO_0002025,ENSG00000102468,HTR2A,5-hydroxytryptamine receptor 2A,0.7243524945764962
+mental disorder,MONDO_0002025,ENSG00000128881,TTBK2,tau tubulin kinase 2,0.7216626642251467
+mental disorder,MONDO_0002025,ENSG00000145864,GABRB2,gamma-aminobutyric acid type A receptor subunit beta2,0.721183700809824
+mental disorder,MONDO_0002025,ENSG00000137642,SORL1,sortilin related receptor 1,0.7209861315525155
+mental disorder,MONDO_0002025,ENSG00000111275,ALDH2,aldehyde dehydrogenase 2 family member,0.718636524893539
+mental disorder,MONDO_0002025,ENSG00000176884,GRIN1,glutamate ionotropic receptor NMDA type subunit 1,0.7174752460120709
+mental disorder,MONDO_0002025,ENSG00000155511,GRIA1,glutamate ionotropic receptor AMPA type subunit 1,0.7174065124303505
+mental disorder,MONDO_0002025,ENSG00000081014,AP4E1,adaptor related protein complex 4 subunit epsilon 1,0.7174030173252274
+mental disorder,MONDO_0002025,ENSG00000165646,SLC18A2,solute carrier family 18 member A2,0.7170578951845301
+mental disorder,MONDO_0002025,ENSG00000116329,OPRD1,opioid receptor delta 1,0.7156364494513201
+mental disorder,MONDO_0002025,ENSG00000157445,CACNA2D3,calcium voltage-gated channel auxiliary subunit alpha2delta 3,0.7130502586568506
+mental disorder,MONDO_0002025,ENSG00000198216,CACNA1E,calcium voltage-gated channel subunit alpha1 E,0.7113937995356867
+mental disorder,MONDO_0002025,ENSG00000196876,SCN8A,sodium voltage-gated channel alpha subunit 8,0.7105650367478445
+mental disorder,MONDO_0002025,ENSG00000157388,CACNA1D,calcium voltage-gated channel subunit alpha1 D,0.7103212147786517
+mental disorder,MONDO_0002025,ENSG00000069696,DRD4,dopamine receptor D4,0.7101034029758486
+mental disorder,MONDO_0002025,ENSG00000138035,PNPT1,polyribonucleotide nucleotidyltransferase 1,0.7090324423768405
+mental disorder,MONDO_0002025,ENSG00000165995,CACNB2,calcium voltage-gated channel auxiliary subunit beta 2,0.7085853966908362
+mental disorder,MONDO_0002025,ENSG00000109158,GABRA4,gamma-aminobutyric acid type A receptor subunit alpha4,0.7078940165003895
+mental disorder,MONDO_0002025,ENSG00000108576,SLC6A4,solute carrier family 6 member 4,0.7072904027900074
+mental disorder,MONDO_0002025,ENSG00000142319,SLC6A3,solute carrier family 6 member 3,0.7036706162033477
+mental disorder,MONDO_0002025,ENSG00000184845,DRD1,dopamine receptor D1,0.7032866574255925
+mental disorder,MONDO_0002025,ENSG00000105737,GRIK5,glutamate ionotropic receptor kainate type subunit 5,0.7007881660754174
+mental disorder,MONDO_0002025,ENSG00000116032,GRIN3B,glutamate ionotropic receptor NMDA type subunit 3B,0.6982575080119271
+mental disorder,MONDO_0002025,ENSG00000160716,CHRNB2,cholinergic receptor nicotinic beta 2 subunit,0.6980010413927312
+mental disorder,MONDO_0002025,ENSG00000022355,GABRA1,gamma-aminobutyric acid type A receptor subunit alpha1,0.6964894652144377
+mental disorder,MONDO_0002025,ENSG00000166206,GABRB3,gamma-aminobutyric acid type A receptor subunit beta3,0.695524679006639
+mental disorder,MONDO_0002025,ENSG00000179915,NRXN1,neurexin 1,0.693706742161357
+mental disorder,MONDO_0002025,ENSG00000147246,HTR2C,5-hydroxytryptamine receptor 2C,0.6907300630369956
+mental disorder,MONDO_0002025,ENSG00000137845,ADAM10,ADAM metallopeptidase domain 10,0.6891208009810421
+mental disorder,MONDO_0002025,ENSG00000134640,MTNR1B,melatonin receptor 1B,0.688667248237677
+mental disorder,MONDO_0002025,ENSG00000274286,ADRA2B,adrenoceptor alpha 2B,0.6877868202850643
+mental disorder,MONDO_0002025,ENSG00000128573,FOXP2,forkhead box P2,0.6857402529161598
+mental disorder,MONDO_0002025,ENSG00000163873,GRIK3,glutamate ionotropic receptor kainate type subunit 3,0.6850742612175317
+mental disorder,MONDO_0002025,ENSG00000153956,CACNA2D1,calcium voltage-gated channel auxiliary subunit alpha2delta 1,0.6849721959775698
+mental disorder,MONDO_0002025,ENSG00000095970,TREM2,triggering receptor expressed on myeloid cells 2,0.6838803781401966
+mental disorder,MONDO_0002025,ENSG00000164885,CDK5,cyclin dependent kinase 5,0.6836782088937068
+mental disorder,MONDO_0002025,ENSG00000015133,CCDC88C,coiled-coil and HOOK domain protein 88C,0.67873360490945
+mental disorder,MONDO_0002025,ENSG00000159640,ACE,angiotensin I converting enzyme,0.6784277940589583
+mental disorder,MONDO_0002025,ENSG00000040608,RTN4R,reticulon 4 receptor,0.678109936693219
+mental disorder,MONDO_0002025,ENSG00000177000,MTHFR,methylenetetrahydrofolate reductase,0.6760370920460363
+mental disorder,MONDO_0002025,ENSG00000151577,DRD3,dopamine receptor D3,0.6741260441889529
+mental disorder,MONDO_0002025,ENSG00000164270,HTR4,5-hydroxytryptamine receptor 4,0.6732154339899851
+mental disorder,MONDO_0002025,ENSG00000148408,CACNA1B,calcium voltage-gated channel subunit alpha1 B,0.6723813130017625
+mental disorder,MONDO_0002025,ENSG00000177628,GBA1,glucosylceramidase beta 1,0.6710735801995136
+mental disorder,MONDO_0002025,ENSG00000196616,ADH1B,"alcohol dehydrogenase 1B (class I), beta polypeptide",0.6710337064211703
+mental disorder,MONDO_0002025,ENSG00000007402,CACNA2D2,calcium voltage-gated channel auxiliary subunit alpha2delta 2,0.6707923146549291
+mental disorder,MONDO_0002025,ENSG00000066427,ATXN3,ataxin 3,0.6704076519090345
+mental disorder,MONDO_0002025,ENSG00000178394,HTR1A,5-hydroxytryptamine receptor 1A,0.6699278269136225
+mental disorder,MONDO_0002025,ENSG00000118689,FOXO3,forkhead box O3,0.6677557728292802
+mental disorder,MONDO_0002025,ENSG00000011677,GABRA3,gamma-aminobutyric acid type A receptor subunit alpha3,0.6662581410454261
+mental disorder,MONDO_0002025,ENSG00000196628,TCF4,transcription factor 4,0.6657129523477864
+mental disorder,MONDO_0002025,ENSG00000122566,HNRNPA2B1,heterogeneous nuclear ribonucleoprotein A2/B1,0.6650692835926428
+mental disorder,MONDO_0002025,ENSG00000204842,ATXN2,ataxin 2,0.6633410600377327
+mental disorder,MONDO_0002025,ENSG00000067191,CACNB1,calcium voltage-gated channel auxiliary subunit beta 1,0.6617721637195039
+mental disorder,MONDO_0002025,ENSG00000081189,MEF2C,myocyte enhancer factor 2C,0.659825007880872
+mental disorder,MONDO_0002025,ENSG00000168539,CHRM1,cholinergic receptor muscarinic 1,0.6591466220622545
+mental disorder,MONDO_0002025,ENSG00000147894,C9orf72,C9orf72-SMCR8 complex subunit,0.6540718316145716
+mental disorder,MONDO_0002025,ENSG00000012660,ELOVL5,ELOVL fatty acid elongase 5,0.652761365133987
+mental disorder,MONDO_0002025,ENSG00000138613,APH1B,aph-1B gamma-secretase subunit,0.6523466531552227
+mental disorder,MONDO_0002025,ENSG00000184588,PDE4B,phosphodiesterase 4B,0.6522402121890376
+mental disorder,MONDO_0002025,ENSG00000169432,SCN9A,sodium voltage-gated channel alpha subunit 9,0.6508221291469533
+mental disorder,MONDO_0002025,ENSG00000152578,GRIA4,glutamate ionotropic receptor AMPA type subunit 4,0.6493551895623957
+mental disorder,MONDO_0002025,ENSG00000158748,HTR6,5-hydroxytryptamine receptor 6,0.6491977691657874
+mental disorder,MONDO_0002025,ENSG00000186297,GABRA5,gamma-aminobutyric acid type A receptor subunit alpha5,0.6483632896900294
+mental disorder,MONDO_0002025,ENSG00000087085,ACHE,acetylcholinesterase (Yt blood group),0.645919421585813
+mental disorder,MONDO_0002025,ENSG00000127152,BCL11B,BCL11 transcription factor B,0.6452802055121009
+mental disorder,MONDO_0002025,ENSG00000185313,SCN10A,sodium voltage-gated channel alpha subunit 10,0.6450613776800999
+mental disorder,MONDO_0002025,ENSG00000069535,MAOB,monoamine oxidase B,0.6448826918765659
+mental disorder,MONDO_0002025,ENSG00000148680,HTR7,5-hydroxytryptamine receptor 7,0.6445526935790429
+mental disorder,MONDO_0002025,ENSG00000168356,SCN11A,sodium voltage-gated channel alpha subunit 11,0.6442302562034686
+mental disorder,MONDO_0002025,ENSG00000105383,CD33,CD33 molecule,0.642780190803648
+mental disorder,MONDO_0002025,ENSG00000183873,SCN5A,sodium voltage-gated channel alpha subunit 5,0.6420247044527218
+mental disorder,MONDO_0002025,ENSG00000176749,CDK5R1,cyclin dependent kinase 5 regulatory subunit 1,0.6401155472182171
+mental disorder,MONDO_0002025,ENSG00000111676,ATN1,atrophin 1,0.6395575708349407
+mental disorder,MONDO_0002025,ENSG00000167434,CA4,carbonic anhydrase 4,0.639334733921157
+mental disorder,MONDO_0002025,ENSG00000148737,TCF7L2,transcription factor 7 like 2,0.6384060088675337
+mental disorder,MONDO_0002025,ENSG00000171189,GRIK1,glutamate ionotropic receptor kainate type subunit 1,0.6379513793920184
+mental disorder,MONDO_0002025,ENSG00000113327,GABRG2,gamma-aminobutyric acid type A receptor subunit gamma2,0.6371989342747236
+mental disorder,MONDO_0002025,ENSG00000007314,SCN4A,sodium voltage-gated channel alpha subunit 4,0.6371557577894962
+mental disorder,MONDO_0002025,ENSG00000161509,GRIN2C,glutamate ionotropic receptor NMDA type subunit 2C,0.635814856204633
+mental disorder,MONDO_0002025,ENSG00000187730,GABRD,gamma-aminobutyric acid type A receptor subunit delta,0.6336839704074954
+mental disorder,MONDO_0002025,ENSG00000166736,HTR3A,5-hydroxytryptamine receptor 3A,0.6333367189144669
+mental disorder,MONDO_0002025,ENSG00000103546,SLC6A2,solute carrier family 6 member 2,0.632807683574032
+mental disorder,MONDO_0002025,ENSG00000082556,OPRK1,opioid receptor kappa 1,0.6326728101030896
+mental disorder,MONDO_0002025,ENSG00000198785,GRIN3A,glutamate ionotropic receptor NMDA type subunit 3A,0.6320951970376086
+mental disorder,MONDO_0002025,ENSG00000145863,GABRA6,gamma-aminobutyric acid type A receptor subunit alpha6,0.6315598078522676
+mental disorder,MONDO_0002025,ENSG00000114200,BCHE,butyrylcholinesterase,0.6307923431702217
+mental disorder,MONDO_0002025,ENSG00000153253,SCN3A,sodium voltage-gated channel alpha subunit 3,0.6306689909074581
+mental disorder,MONDO_0002025,ENSG00000168412,MTNR1A,melatonin receptor 1A,0.6300175932891824
+mental disorder,MONDO_0002025,ENSG00000135597,REPS1,RALBP1 associated Eps domain containing 1,0.6292766111045237
+mental disorder,MONDO_0002025,ENSG00000163635,ATXN7,ataxin 7,0.6292719314930489
+mental disorder,MONDO_0002025,ENSG00000150594,ADRA2A,adrenoceptor alpha 2A,0.6290562794983816
+mental disorder,MONDO_0002025,ENSG00000110693,SOX6,SRY-box transcription factor 6,0.6286810540869603
+mental disorder,MONDO_0002025,ENSG00000198822,GRM3,glutamate metabotropic receptor 3,0.6286217543597455
+mental disorder,MONDO_0002025,ENSG00000112294,ALDH5A1,aldehyde dehydrogenase 5 family member A1,0.6278635248309045
+mental disorder,MONDO_0002025,ENSG00000196338,NLGN3,neuroligin 3,0.627347643454089
+mental disorder,MONDO_0002025,ENSG00000164418,GRIK2,glutamate ionotropic receptor kainate type subunit 2,0.6262787548263684
+mental disorder,MONDO_0002025,ENSG00000184160,ADRA2C,adrenoceptor alpha 2C,0.6258440927049379
+mental disorder,MONDO_0002025,ENSG00000268089,GABRQ,gamma-aminobutyric acid type A receptor subunit theta,0.6258304922010458
+mental disorder,MONDO_0002025,ENSG00000177409,SAMD9L,sterile alpha motif domain containing 9 like,0.6254200099299656
+mental disorder,MONDO_0002025,ENSG00000169676,DRD5,dopamine receptor D5,0.6253834394700909
+mental disorder,MONDO_0002025,ENSG00000105464,GRIN2D,glutamate ionotropic receptor NMDA type subunit 2D,0.6252621748750644
+mental disorder,MONDO_0002025,ENSG00000171246,NPTX1,neuronal pentraxin 1,0.6245609412992195
+mental disorder,MONDO_0002025,ENSG00000130638,ATXN10,ataxin 10,0.6238644107625195
+mental disorder,MONDO_0002025,ENSG00000112592,TBP,TATA-box binding protein,0.6235054710768458
+mental disorder,MONDO_0002025,ENSG00000167658,EEF2,eukaryotic translation elongation factor 2,0.6232813818209869
+mental disorder,MONDO_0002025,ENSG00000171456,ASXL1,ASXL transcriptional regulator 1,0.6232409310778676
+mental disorder,MONDO_0002025,ENSG00000103089,FA2H,fatty acid 2-hydroxylase,0.6231704157377768
+mental disorder,MONDO_0002025,ENSG00000049618,ARID1B,AT-rich interaction domain 1B,0.6229650412659608
+mental disorder,MONDO_0002025,ENSG00000164167,LSM6,"LSM6 homolog, U6 small nuclear RNA and mRNA degradation associated",0.6217208425455053
+mental disorder,MONDO_0002025,ENSG00000091831,ESR1,estrogen receptor 1,0.6214379496778089
+mental disorder,MONDO_0002025,ENSG00000125675,GRIA3,glutamate ionotropic receptor AMPA type subunit 3,0.6207518246206434
+mental disorder,MONDO_0002025,ENSG00000120251,GRIA2,glutamate ionotropic receptor AMPA type subunit 2,0.6205050161571013
+mental disorder,MONDO_0002025,ENSG00000138741,TRPC3,transient receptor potential cation channel subfamily C member 3,0.6203776673038336
+mental disorder,MONDO_0002025,ENSG00000182256,GABRG3,gamma-aminobutyric acid type A receptor subunit gamma3,0.6198914481433395
+mental disorder,MONDO_0002025,ENSG00000105723,GSK3A,glycogen synthase kinase 3 alpha,0.6197607100809476
+mental disorder,MONDO_0002025,ENSG00000163285,GABRG1,gamma-aminobutyric acid type A receptor subunit gamma1,0.619694125657984
+mental disorder,MONDO_0002025,ENSG00000178127,NDUFV2,NADH:ubiquinone oxidoreductase core subunit V2,0.6196708961959889
+mental disorder,MONDO_0002025,ENSG00000133731,IMPA1,inositol monophosphatase 1,0.6192208596075133
+mental disorder,MONDO_0002025,ENSG00000136546,SCN7A,sodium voltage-gated channel alpha subunit 7,0.6182256978205303
+mental disorder,MONDO_0002025,ENSG00000135312,HTR1B,5-hydroxytryptamine receptor 1B,0.6165419312011385
+mental disorder,MONDO_0002025,ENSG00000177565,TBL1XR1,TBL1X/Y related 1,0.6164839074804265
+mental disorder,MONDO_0002025,ENSG00000183117,CSMD1,CUB and Sushi multiple domains 1,0.6164103407931633
+mental disorder,MONDO_0002025,ENSG00000023228,NDUFS1,NADH:ubiquinone oxidoreductase core subunit S1,0.6160960859390286
+mental disorder,MONDO_0002025,ENSG00000157219,HTR5A,5-hydroxytryptamine receptor 5A,0.6159911800266301
+mental disorder,MONDO_0002025,ENSG00000140836,ZFHX3,zinc finger homeobox 3,0.6150668777715432
+mental disorder,MONDO_0002025,ENSG00000119421,NDUFA8,NADH:ubiquinone oxidoreductase subunit A8,0.6150310339617219
+mental disorder,MONDO_0002025,ENSG00000168653,NDUFS5,NADH:ubiquinone oxidoreductase subunit S5,0.6146620193263482
+schizophrenia,MONDO_0005090,ENSG00000149295,DRD2,dopamine receptor D2,0.7489566059976499
+schizophrenia,MONDO_0005090,ENSG00000251322,SHANK3,SH3 and multiple ankyrin repeat domains 3,0.7033414891354057
+schizophrenia,MONDO_0005090,ENSG00000040608,RTN4R,reticulon 4 receptor,0.6774218281294652
+schizophrenia,MONDO_0005090,ENSG00000151577,DRD3,dopamine receptor D3,0.6722692123991282
+schizophrenia,MONDO_0005090,ENSG00000177000,MTHFR,methylenetetrahydrofolate reductase,0.670494644473139
+schizophrenia,MONDO_0005090,ENSG00000183454,GRIN2A,glutamate ionotropic receptor NMDA type subunit 2A,0.6418299060254782
+schizophrenia,MONDO_0005090,ENSG00000069696,DRD4,dopamine receptor D4,0.6376695967404675
+schizophrenia,MONDO_0005090,ENSG00000178394,HTR1A,5-hydroxytryptamine receptor 1A,0.624658384009796
+schizophrenia,MONDO_0005090,ENSG00000102468,HTR2A,5-hydroxytryptamine receptor 2A,0.6233580006249911
+schizophrenia,MONDO_0005090,ENSG00000147246,HTR2C,5-hydroxytryptamine receptor 2C,0.6139758782536777
+schizophrenia,MONDO_0005090,ENSG00000164270,HTR4,5-hydroxytryptamine receptor 4,0.6129509211366236
+schizophrenia,MONDO_0005090,ENSG00000198822,GRM3,glutamate metabotropic receptor 3,0.6120482030297064
+schizophrenia,MONDO_0005090,ENSG00000135312,HTR1B,5-hydroxytryptamine receptor 1B,0.609619157546935
+schizophrenia,MONDO_0005090,ENSG00000157219,HTR5A,5-hydroxytryptamine receptor 5A,0.6012163488382919
+schizophrenia,MONDO_0005090,ENSG00000158748,HTR6,5-hydroxytryptamine receptor 6,0.5982740659823433
+schizophrenia,MONDO_0005090,ENSG00000166736,HTR3A,5-hydroxytryptamine receptor 3A,0.596184241436813
+schizophrenia,MONDO_0005090,ENSG00000148680,HTR7,5-hydroxytryptamine receptor 7,0.5949714456207083
+schizophrenia,MONDO_0005090,ENSG00000149305,HTR3B,5-hydroxytryptamine receptor 3B,0.5936058694731206
+schizophrenia,MONDO_0005090,ENSG00000099381,SETD1A,"SET domain containing 1A, histone lysine methyltransferase",0.5911150012819699
+schizophrenia,MONDO_0005090,ENSG00000186038,HTR3E,5-hydroxytryptamine receptor 3E,0.5910661676232379
+schizophrenia,MONDO_0005090,ENSG00000186090,HTR3D,5-hydroxytryptamine receptor 3D,0.5910661676232379
+schizophrenia,MONDO_0005090,ENSG00000178084,HTR3C,5-hydroxytryptamine receptor 3C,0.5910661676232379
+schizophrenia,MONDO_0005090,ENSG00000135914,HTR2B,5-hydroxytryptamine receptor 2B,0.5909175494077833
+schizophrenia,MONDO_0005090,ENSG00000179097,HTR1F,5-hydroxytryptamine receptor 1F,0.58921889109545
+schizophrenia,MONDO_0005090,ENSG00000179546,HTR1D,5-hydroxytryptamine receptor 1D,0.5891572944530025
+schizophrenia,MONDO_0005090,ENSG00000168830,HTR1E,5-hydroxytryptamine receptor 1E,0.5877303055696366
+schizophrenia,MONDO_0005090,ENSG00000244462,RBM12,RNA binding motif protein 12,0.5702365638161622
+schizophrenia,MONDO_0005090,ENSG00000182732,RGS6,regulator of G protein signaling 6,0.5597938127311808
+schizophrenia,MONDO_0005090,ENSG00000138821,SLC39A8,solute carrier family 39 member 8,0.5560639728804175
+schizophrenia,MONDO_0005090,ENSG00000151067,CACNA1C,calcium voltage-gated channel subunit alpha1 C,0.5511745493723945
+schizophrenia,MONDO_0005090,ENSG00000150625,GPM6A,glycoprotein M6A,0.547920087124745
+schizophrenia,MONDO_0005090,ENSG00000196628,TCF4,transcription factor 4,0.5424294300265026
+schizophrenia,MONDO_0005090,ENSG00000170396,ZNF804A,zinc finger protein 804A,0.5404827040512074
+schizophrenia,MONDO_0005090,ENSG00000179915,NRXN1,neurexin 1,0.53900563170874
+schizophrenia,MONDO_0005090,ENSG00000140564,FURIN,"furin, paired basic amino acid cleaving enzyme",0.535243509978366
+schizophrenia,MONDO_0005090,ENSG00000183117,CSMD1,CUB and Sushi multiple domains 1,0.5328212421215486
+schizophrenia,MONDO_0005090,ENSG00000164588,HCN1,hyperpolarization activated cyclic nucleotide gated potassium channel 1,0.5305525483307418
+schizophrenia,MONDO_0005090,ENSG00000182511,FES,"FES proto-oncogene, tyrosine kinase",0.5296135850595304
+schizophrenia,MONDO_0005090,ENSG00000181191,PJA1,praja ring finger ubiquitin ligase 1,0.5273207305717222
+schizophrenia,MONDO_0005090,ENSG00000127152,BCL11B,BCL11 transcription factor B,0.5250755507092025
+schizophrenia,MONDO_0005090,ENSG00000133687,TMTC1,transmembrane O-mannosyltransferase targeting cadherins 1,0.5247689693666766
+schizophrenia,MONDO_0005090,ENSG00000112038,OPRM1,opioid receptor mu 1,0.5232631319622011
+schizophrenia,MONDO_0005090,ENSG00000184903,IMMP2L,inner mitochondrial membrane peptidase subunit 2,0.523045754051395
+schizophrenia,MONDO_0005090,ENSG00000132911,NMUR2,neuromedin U receptor 2,0.523042242940407
+schizophrenia,MONDO_0005090,ENSG00000149564,ESAM,endothelial cell adhesion molecule,0.5208780153577527
+schizophrenia,MONDO_0005090,ENSG00000100346,CACNA1I,calcium voltage-gated channel subunit alpha1 I,0.5163483699913117
+schizophrenia,MONDO_0005090,ENSG00000082556,OPRK1,opioid receptor kappa 1,0.5154831235540027
+schizophrenia,MONDO_0005090,ENSG00000198597,ZNF536,zinc finger protein 536,0.5131936014346776
+schizophrenia,MONDO_0005090,ENSG00000116329,OPRD1,opioid receptor delta 1,0.5103826633346552
+schizophrenia,MONDO_0005090,ENSG00000172260,NEGR1,neuronal growth regulator 1,0.505224707858296
+schizophrenia,MONDO_0005090,ENSG00000169676,DRD5,dopamine receptor D5,0.5038964627288993
+schizophrenia,MONDO_0005090,ENSG00000069667,RORA,RAR related orphan receptor A,0.5031022516897294
+schizophrenia,MONDO_0005090,ENSG00000120907,ADRA1A,adrenoceptor alpha 1A,0.502406097709177
+schizophrenia,MONDO_0005090,ENSG00000171045,TSNARE1,t-SNARE domain containing 1,0.4997641685632539
+schizophrenia,MONDO_0005090,ENSG00000171873,ADRA1D,adrenoceptor alpha 1D,0.4979761955145615
+schizophrenia,MONDO_0005090,ENSG00000002822,MAD1L1,mitotic arrest deficient 1 like 1,0.4977630461293257
+schizophrenia,MONDO_0005090,ENSG00000080854,IGSF9B,immunoglobulin superfamily member 9B,0.4970432362684901
+schizophrenia,MONDO_0005090,ENSG00000178538,CA8,carbonic anhydrase 8 (inactive),0.496942834753086
+schizophrenia,MONDO_0005090,ENSG00000170214,ADRA1B,adrenoceptor alpha 1B,0.49688385704415244
+schizophrenia,MONDO_0005090,ENSG00000067082,KLF6,KLF transcription factor 6,0.49331246345873947
+schizophrenia,MONDO_0005090,ENSG00000133019,CHRM3,cholinergic receptor muscarinic 3,0.49245887094076607
+schizophrenia,MONDO_0005090,ENSG00000144619,CNTN4,contactin 4,0.49183282489541985
+schizophrenia,MONDO_0005090,ENSG00000156395,SORCS3,sortilin related VPS10 domain containing receptor 3,0.48914009228835226
+schizophrenia,MONDO_0005090,ENSG00000185760,KCNQ5,potassium voltage-gated channel subfamily Q member 5,0.48895946921248373
+schizophrenia,MONDO_0005090,ENSG00000184845,DRD1,dopamine receptor D1,0.4884089671786498
+schizophrenia,MONDO_0005090,ENSG00000109819,PPARGC1A,PPARG coactivator 1 alpha,0.48544867597372987
+schizophrenia,MONDO_0005090,ENSG00000075035,WSCD2,WSC domain sialate O sulfotransferase 2,0.483950217064318
+schizophrenia,MONDO_0005090,ENSG00000164794,KCNV1,potassium voltage-gated channel modifier subfamily V member 1,0.4837383977324131
+schizophrenia,MONDO_0005090,ENSG00000120451,SNX19,sorting nexin 19,0.4837062804303704
+schizophrenia,MONDO_0005090,ENSG00000119866,BCL11A,BCL11 transcription factor A,0.4826375147932694
+schizophrenia,MONDO_0005090,ENSG00000180720,CHRM4,cholinergic receptor muscarinic 4,0.4812694079747331
+schizophrenia,MONDO_0005090,ENSG00000054282,SDCCAG8,SHH signaling and ciliogenesis regulator SDCCAG8,0.48026130380494797
+schizophrenia,MONDO_0005090,ENSG00000117020,AKT3,AKT serine/threonine kinase 3,0.4772835001226011
+schizophrenia,MONDO_0005090,ENSG00000130449,ZSWIM6,zinc finger SWIM-type containing 6,0.4761450143782615
+schizophrenia,MONDO_0005090,ENSG00000184588,PDE4B,phosphodiesterase 4B,0.4752094432733348
+schizophrenia,MONDO_0005090,ENSG00000154146,NRGN,neurogranin,0.4719001877847958
+schizophrenia,MONDO_0005090,ENSG00000184304,PRKD1,protein kinase D1,0.47109944643112317
+schizophrenia,MONDO_0005090,ENSG00000119042,SATB2,SATB homeobox 2,0.46617835700675775
+schizophrenia,MONDO_0005090,ENSG00000184349,EFNA5,ephrin A5,0.46541213948930865
+schizophrenia,MONDO_0005090,ENSG00000183166,CALN1,calneuron 1,0.4645573222033891
+schizophrenia,MONDO_0005090,ENSG00000172461,FUT9,fucosyltransferase 9,0.4635068276790889
+schizophrenia,MONDO_0005090,ENSG00000149294,NCAM1,neural cell adhesion molecule 1,0.46315841185848267
+schizophrenia,MONDO_0005090,ENSG00000168621,GDNF,glial cell derived neurotrophic factor,0.46022808124764303
+schizophrenia,MONDO_0005090,ENSG00000080644,CHRNA3,cholinergic receptor nicotinic alpha 3 subunit,0.45505465085534513
+schizophrenia,MONDO_0005090,ENSG00000112893,MAN2A1,mannosidase alpha class 2A member 1,0.45502887963144234
+schizophrenia,MONDO_0005090,ENSG00000036257,CUL3,cullin 3,0.45498111309644873
+schizophrenia,MONDO_0005090,ENSG00000163634,THOC7,THO complex subunit 7,0.4523780926792046
+schizophrenia,MONDO_0005090,ENSG00000158445,KCNB1,potassium voltage-gated channel subfamily B member 1,0.45158998580874093
+schizophrenia,MONDO_0005090,ENSG00000128567,PODXL,podocalyxin like,0.4512316303767345
+schizophrenia,MONDO_0005090,ENSG00000156103,MMP16,matrix metallopeptidase 16,0.44820154453124944
+schizophrenia,MONDO_0005090,ENSG00000079691,CARMIL1,capping protein regulator and myosin 1 linker 1,0.4481088381495783
+schizophrenia,MONDO_0005090,ENSG00000151322,NPAS3,neuronal PAS domain protein 3,0.44574485511453305
+schizophrenia,MONDO_0005090,ENSG00000188641,DPYD,dihydropyrimidine dehydrogenase,0.4449642682932134
+schizophrenia,MONDO_0005090,ENSG00000140009,ESR2,estrogen receptor 2,0.44418037487193857
+schizophrenia,MONDO_0005090,ENSG00000023171,GRAMD1B,GRAM domain containing 1B,0.4441108984668499
+schizophrenia,MONDO_0005090,ENSG00000169946,ZFPM2,"zinc finger protein, FOG family member 2",0.4433824666915636
+schizophrenia,MONDO_0005090,ENSG00000101445,PPP1R16B,protein phosphatase 1 regulatory subunit 16B,0.4421616118657186
+schizophrenia,MONDO_0005090,ENSG00000154447,SH3RF1,SH3 domain containing ring finger 1,0.4416077187864624
+schizophrenia,MONDO_0005090,ENSG00000198914,POU3F3,POU class 3 homeobox 3,0.4412864646541737
+schizophrenia,MONDO_0005090,ENSG00000118946,PCDH17,protocadherin 17,0.4400570954566636
+schizophrenia,MONDO_0005090,ENSG00000162267,ITIH3,inter-alpha-trypsin inhibitor heavy chain 3,0.43850841471595364
+schizophrenia,MONDO_0005090,ENSG00000170624,SGCD,sarcoglycan delta,0.43725242963551386
+schizophrenia,MONDO_0005090,ENSG00000214078,CPNE1,copine 1,0.43660521455318735
+schizophrenia,MONDO_0005090,ENSG00000028116,VRK2,VRK serine/threonine kinase 2,0.43591113108227464
+schizophrenia,MONDO_0005090,ENSG00000181072,CHRM2,cholinergic receptor muscarinic 2,0.4351956830150071
+schizophrenia,MONDO_0005090,ENSG00000183715,OPCML,opioid binding protein/cell adhesion molecule like,0.4341335766161372
+schizophrenia,MONDO_0005090,ENSG00000135046,ANXA1,annexin A1,0.43398164791093147
+schizophrenia,MONDO_0005090,ENSG00000164574,GALNT10,polypeptide N-acetylgalactosaminyltransferase 10,0.43265604053811724
+schizophrenia,MONDO_0005090,ENSG00000112996,MRPS30,mitochondrial ribosomal protein S30,0.43090264148331425
+schizophrenia,MONDO_0005090,ENSG00000168539,CHRM1,cholinergic receptor muscarinic 1,0.4308436196987687
+schizophrenia,MONDO_0005090,ENSG00000104447,TRPS1,transcriptional repressor GATA binding 1,0.42882548255439923
+schizophrenia,MONDO_0005090,ENSG00000144285,SCN1A,sodium voltage-gated channel alpha subunit 1,0.42785625625890694
+schizophrenia,MONDO_0005090,ENSG00000104765,BNIP3L,BCL2 interacting protein 3 like,0.4275895199502927
+schizophrenia,MONDO_0005090,ENSG00000178568,ERBB4,erb-b2 receptor tyrosine kinase 4,0.4270864129662983
+schizophrenia,MONDO_0005090,ENSG00000148737,TCF7L2,transcription factor 7 like 2,0.4259260466651819
+schizophrenia,MONDO_0005090,ENSG00000137872,SEMA6D,semaphorin 6D,0.4257517888204867
+schizophrenia,MONDO_0005090,ENSG00000142319,SLC6A3,solute carrier family 6 member 3,0.42424273294537584
+schizophrenia,MONDO_0005090,ENSG00000273079,GRIN2B,glutamate ionotropic receptor NMDA type subunit 2B,0.4231179040235064
+schizophrenia,MONDO_0005090,ENSG00000146938,NLGN4X,neuroligin 4 X-linked,0.42253088078765144
+schizophrenia,MONDO_0005090,ENSG00000146399,TAAR1,trace amine associated receptor 1,0.4213558708349389
+schizophrenia,MONDO_0005090,ENSG00000081189,MEF2C,myocyte enhancer factor 2C,0.42065315275244486
+schizophrenia,MONDO_0005090,ENSG00000180530,NRIP1,nuclear receptor interacting protein 1,0.42012542429636274
+schizophrenia,MONDO_0005090,ENSG00000078328,RBFOX1,RNA binding fox-1 homolog 1,0.4200819919951275
+schizophrenia,MONDO_0005090,ENSG00000114861,FOXP1,forkhead box P1,0.41792161478685763
+schizophrenia,MONDO_0005090,ENSG00000153820,SPHKAP,"SPHK1 interactor, AKAP domain containing",0.417419708109989
+schizophrenia,MONDO_0005090,ENSG00000141668,CBLN2,cerebellin 2 precursor,0.4170285374506846
+schizophrenia,MONDO_0005090,ENSG00000108576,SLC6A4,solute carrier family 6 member 4,0.4165727482059107
+schizophrenia,MONDO_0005090,ENSG00000125398,SOX9,SRY-box transcription factor 9,0.4165210282699673
+schizophrenia,MONDO_0005090,ENSG00000136828,RALGPS1,Ral GEF with PH domain and SH3 binding motif 1,0.4161290828088611
+schizophrenia,MONDO_0005090,ENSG00000170571,EMB,embigin,0.4160706445712742
+schizophrenia,MONDO_0005090,ENSG00000178342,KCNG2,potassium voltage-gated channel modifier subfamily G member 2,0.41573686878430327
+schizophrenia,MONDO_0005090,ENSG00000165995,CACNB2,calcium voltage-gated channel auxiliary subunit beta 2,0.4149803408822376
+schizophrenia,MONDO_0005090,ENSG00000155090,KLF10,KLF transcription factor 10,0.4147858089513967
+schizophrenia,MONDO_0005090,ENSG00000159640,ACE,angiotensin I converting enzyme,0.41363813356791757
+schizophrenia,MONDO_0005090,ENSG00000152818,UTRN,utrophin,0.4134328015209203
+schizophrenia,MONDO_0005090,ENSG00000149970,CNKSR2,connector enhancer of kinase suppressor of Ras 2,0.4133926862541763
+schizophrenia,MONDO_0005090,ENSG00000155511,GRIA1,glutamate ionotropic receptor AMPA type subunit 1,0.41323992616719196
+schizophrenia,MONDO_0005090,ENSG00000198785,GRIN3A,glutamate ionotropic receptor NMDA type subunit 3A,0.4123195103277721
+schizophrenia,MONDO_0005090,ENSG00000176884,GRIN1,glutamate ionotropic receptor NMDA type subunit 1,0.41223769974403424
+schizophrenia,MONDO_0005090,ENSG00000120868,APAF1,apoptotic peptidase activating factor 1,0.41008601422568386
+schizophrenia,MONDO_0005090,ENSG00000121621,KIF18A,kinesin family member 18A,0.409668431798571
+schizophrenia,MONDO_0005090,ENSG00000116032,GRIN3B,glutamate ionotropic receptor NMDA type subunit 3B,0.40848864819153996
+schizophrenia,MONDO_0005090,ENSG00000105464,GRIN2D,glutamate ionotropic receptor NMDA type subunit 2D,0.4079337008421425
+schizophrenia,MONDO_0005090,ENSG00000196141,SPATS2L,spermatogenesis associated serine rich 2 like,0.4074978435168063
+schizophrenia,MONDO_0005090,ENSG00000196517,SLC6A9,solute carrier family 6 member 9,0.40723276707935724
+schizophrenia,MONDO_0005090,ENSG00000148572,NRBF2,nuclear receptor binding factor 2,0.4071947222279388
+schizophrenia,MONDO_0005090,ENSG00000189283,FHIT,fragile histidine triad diadenosine triphosphatase,0.40681681424409666
+schizophrenia,MONDO_0005090,ENSG00000161509,GRIN2C,glutamate ionotropic receptor NMDA type subunit 2C,0.40668195021688136
+schizophrenia,MONDO_0005090,ENSG00000174437,ATP2A2,ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2,0.40619227814513603
+schizophrenia,MONDO_0005090,ENSG00000065609,SNAP91,synaptosome associated protein 91,0.4059855982126723
+schizophrenia,MONDO_0005090,ENSG00000120658,ENOX1,ecto-NOX disulfide-thiol exchanger 1,0.405064739909079
+schizophrenia,MONDO_0005090,ENSG00000103546,SLC6A2,solute carrier family 6 member 2,0.4039796021888738
+schizophrenia,MONDO_0005090,ENSG00000133048,CHI3L1,chitinase 3 like 1,0.40394104484382215
+schizophrenia,MONDO_0005090,ENSG00000168356,SCN11A,sodium voltage-gated channel alpha subunit 11,0.4030001036563443
+schizophrenia,MONDO_0005090,ENSG00000162599,NFIA,nuclear factor I A,0.4022114008745924
+schizophrenia,MONDO_0005090,ENSG00000091831,ESR1,estrogen receptor 1,0.40175069987399054
+schizophrenia,MONDO_0005090,ENSG00000152127,MGAT5,"alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase",0.40131250187024575
+schizophrenia,MONDO_0005090,ENSG00000091164,TXNL1,thioredoxin like 1,0.4009814351523677
+schizophrenia,MONDO_0005090,ENSG00000104219,ZDHHC2,zDHHC palmitoyltransferase 2,0.4008224274432202
+schizophrenia,MONDO_0005090,ENSG00000175806,MSRA,methionine sulfoxide reductase A,0.4002378187186803
+schizophrenia,MONDO_0005090,ENSG00000112659,CUL9,cullin 9,0.3998900159945847
+schizophrenia,MONDO_0005090,ENSG00000076685,NT5C2,"5'-nucleotidase, cytosolic II",0.39805731568609
+schizophrenia,MONDO_0005090,ENSG00000169432,SCN9A,sodium voltage-gated channel alpha subunit 9,0.3980281651929691
+schizophrenia,MONDO_0005090,ENSG00000204120,GIGYF2,GRB10 interacting GYF protein 2,0.3970447820000423
+schizophrenia,MONDO_0005090,ENSG00000108953,YWHAE,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon,0.3959958186236723
+schizophrenia,MONDO_0005090,ENSG00000196876,SCN8A,sodium voltage-gated channel alpha subunit 8,0.39563053290749484
+schizophrenia,MONDO_0005090,ENSG00000124788,ATXN1,ataxin 1,0.3955114483934318
+schizophrenia,MONDO_0005090,ENSG00000185046,ANKS1B,ankyrin repeat and sterile alpha motif domain containing 1B,0.3952569847140365
+schizophrenia,MONDO_0005090,ENSG00000122584,NXPH1,neurexophilin 1,0.39460209211750424
+schizophrenia,MONDO_0005090,ENSG00000118689,FOXO3,forkhead box O3,0.3940946584488628
+schizophrenia,MONDO_0005090,ENSG00000171604,CXXC5,CXXC finger protein 5,0.39376606164750944
+schizophrenia,MONDO_0005090,ENSG00000169306,IL1RAPL1,interleukin 1 receptor accessory protein like 1,0.3936178743835537
+schizophrenia,MONDO_0005090,ENSG00000101489,CELF4,CUGBP Elav-like family member 4,0.39351389824398414
+schizophrenia,MONDO_0005090,ENSG00000185742,C11orf87,chromosome 11 open reading frame 87,0.3920069675298166
+schizophrenia,MONDO_0005090,ENSG00000136531,SCN2A,sodium voltage-gated channel alpha subunit 2,0.3911855185568156
+schizophrenia,MONDO_0005090,ENSG00000144355,DLX1,distal-less homeobox 1,0.3903435959458585
+schizophrenia,MONDO_0005090,ENSG00000165646,SLC18A2,solute carrier family 18 member A2,0.39032199992317185
+schizophrenia,MONDO_0005090,ENSG00000185313,SCN10A,sodium voltage-gated channel alpha subunit 10,0.38933080483028143
+schizophrenia,MONDO_0005090,ENSG00000156475,PPP2R2B,protein phosphatase 2 regulatory subunit Bbeta,0.3879924935266812
+schizophrenia,MONDO_0005090,ENSG00000256053,COA8,cytochrome c oxidase assembly factor 8,0.3877865528525492
+schizophrenia,MONDO_0005090,ENSG00000136546,SCN7A,sodium voltage-gated channel alpha subunit 7,0.38660160750194167
+schizophrenia,MONDO_0005090,ENSG00000118007,STAG1,STAG1 cohesin complex component,0.38611133368870865
+schizophrenia,MONDO_0005090,ENSG00000114416,FXR1,FMR1 autosomal homolog 1,0.38602949447670176
+schizophrenia,MONDO_0005090,ENSG00000130203,APOE,apolipoprotein E,0.3860228574317233
+schizophrenia,MONDO_0005090,ENSG00000019505,SYT13,synaptotagmin 13,0.3858169663872469
+schizophrenia,MONDO_0005090,ENSG00000135638,EMX1,empty spiracles homeobox 1,0.38474507760369275
+schizophrenia,MONDO_0005090,ENSG00000117569,PTBP2,polypyrimidine tract binding protein 2,0.3830059546388168
+schizophrenia,MONDO_0005090,ENSG00000106688,SLC1A1,solute carrier family 1 member 1,0.3823118053217353
+schizophrenia,MONDO_0005090,ENSG00000278311,GGNBP2,gametogenetin binding protein 2,0.38208440689022105
+schizophrenia,MONDO_0005090,ENSG00000164100,NDST3,N-deacetylase and N-sulfotransferase 3,0.38192302175010806
+schizophrenia,MONDO_0005090,ENSG00000007314,SCN4A,sodium voltage-gated channel alpha subunit 4,0.38160673120556876
+schizophrenia,MONDO_0005090,ENSG00000109572,CLCN3,Cl-/H+ antiporter 3,0.38121147357071294
+schizophrenia,MONDO_0005090,ENSG00000198797,BRINP2,BMP/retinoic acid inducible neural specific 2,0.3805896412795229
+schizophrenia,MONDO_0005090,ENSG00000165914,TTC7B,tetratricopeptide repeat domain 7B,0.37961907129220557
+schizophrenia,MONDO_0005090,ENSG00000140718,FTO,FTO alpha-ketoglutarate dependent dioxygenase,0.3786655934433719
+schizophrenia,MONDO_0005090,ENSG00000214435,AS3MT,arsenite methyltransferase,0.37840056788986637
+schizophrenia,MONDO_0005090,ENSG00000145012,LPP,LIM domain containing preferred translocation partner in lipoma,0.37771284429477897
+schizophrenia,MONDO_0005090,ENSG00000127903,ZNF835,zinc finger protein 835,0.37755654288408125
+schizophrenia,MONDO_0005090,ENSG00000183873,SCN5A,sodium voltage-gated channel alpha subunit 5,0.3755731947396434
+schizophrenia,MONDO_0005090,ENSG00000153253,SCN3A,sodium voltage-gated channel alpha subunit 3,0.3750188249576163
+seizure,HP_0001250,ENSG00000136531,SCN2A,sodium voltage-gated channel alpha subunit 2,0.7909085303533363
+seizure,HP_0001250,ENSG00000144285,SCN1A,sodium voltage-gated channel alpha subunit 1,0.7836867459172728
+seizure,HP_0001250,ENSG00000113327,GABRG2,gamma-aminobutyric acid type A receptor subunit gamma2,0.7533964373268996
+seizure,HP_0001250,ENSG00000196876,SCN8A,sodium voltage-gated channel alpha subunit 8,0.7396282443243254
+seizure,HP_0001250,ENSG00000141837,CACNA1A,calcium voltage-gated channel subunit alpha1 A,0.7302643671541023
+seizure,HP_0001250,ENSG00000148408,CACNA1B,calcium voltage-gated channel subunit alpha1 B,0.7223557429647257
+seizure,HP_0001250,ENSG00000198216,CACNA1E,calcium voltage-gated channel subunit alpha1 E,0.719065520923537
+seizure,HP_0001250,ENSG00000153253,SCN3A,sodium voltage-gated channel alpha subunit 3,0.7166472603497546
+seizure,HP_0001250,ENSG00000007314,SCN4A,sodium voltage-gated channel alpha subunit 4,0.7110008900519528
+seizure,HP_0001250,ENSG00000145864,GABRB2,gamma-aminobutyric acid type A receptor subunit beta2,0.6950966579848293
+seizure,HP_0001250,ENSG00000153956,CACNA2D1,calcium voltage-gated channel auxiliary subunit alpha2delta 1,0.6950759100473828
+seizure,HP_0001250,ENSG00000164199,ADGRV1,adhesion G protein-coupled receptor V1,0.6714710813729333
+seizure,HP_0001250,ENSG00000125675,GRIA3,glutamate ionotropic receptor AMPA type subunit 3,0.6693940163162674
+seizure,HP_0001250,ENSG00000151067,CACNA1C,calcium voltage-gated channel subunit alpha1 C,0.6678620229837737
+seizure,HP_0001250,ENSG00000166206,GABRB3,gamma-aminobutyric acid type A receptor subunit beta3,0.6614655526610587
+seizure,HP_0001250,ENSG00000151834,GABRA2,gamma-aminobutyric acid type A receptor subunit alpha2,0.6595964597209488
+seizure,HP_0001250,ENSG00000075043,KCNQ2,potassium voltage-gated channel subfamily Q member 2,0.6594283082240867
+seizure,HP_0001250,ENSG00000169432,SCN9A,sodium voltage-gated channel alpha subunit 9,0.6479658176154192
+seizure,HP_0001250,ENSG00000117394,SLC2A1,solute carrier family 2 member 1,0.6405332495763331
+seizure,HP_0001250,ENSG00000164418,GRIK2,glutamate ionotropic receptor kainate type subunit 2,0.6391059117806607
+seizure,HP_0001250,ENSG00000022355,GABRA1,gamma-aminobutyric acid type A receptor subunit alpha1,0.628609955992316
+seizure,HP_0001250,ENSG00000183454,GRIN2A,glutamate ionotropic receptor NMDA type subunit 2A,0.6258521958105847
+seizure,HP_0001250,ENSG00000186297,GABRA5,gamma-aminobutyric acid type A receptor subunit alpha5,0.6233365695335498
+seizure,HP_0001250,ENSG00000134287,ARF3,ARF GTPase 3,0.6097040991590121
+seizure,HP_0001250,ENSG00000112294,ALDH5A1,aldehyde dehydrogenase 5 family member A1,0.6096182949542229
+seizure,HP_0001250,ENSG00000136546,SCN7A,sodium voltage-gated channel alpha subunit 7,0.6095401269211836
+seizure,HP_0001250,ENSG00000159164,SV2A,synaptic vesicle glycoprotein 2A,0.6086417111977058
+seizure,HP_0001250,ENSG00000183873,SCN5A,sodium voltage-gated channel alpha subunit 5,0.6056347000920517
+seizure,HP_0001250,ENSG00000196557,CACNA1H,calcium voltage-gated channel subunit alpha1 H,0.6053057750606292
+seizure,HP_0001250,ENSG00000157388,CACNA1D,calcium voltage-gated channel subunit alpha1 D,0.605268644200453
+seizure,HP_0001250,ENSG00000185313,SCN10A,sodium voltage-gated channel alpha subunit 10,0.6049930683998908
+seizure,HP_0001250,ENSG00000007402,CACNA2D2,calcium voltage-gated channel auxiliary subunit alpha2delta 2,0.604621240613302
+seizure,HP_0001250,ENSG00000006283,CACNA1G,calcium voltage-gated channel subunit alpha1 G,0.6044354574237876
+seizure,HP_0001250,ENSG00000168356,SCN11A,sodium voltage-gated channel alpha subunit 11,0.6042539086905213
+seizure,HP_0001250,ENSG00000100346,CACNA1I,calcium voltage-gated channel subunit alpha1 I,0.6040441560243547
+seizure,HP_0001250,ENSG00000166862,CACNG2,calcium voltage-gated channel auxiliary subunit gamma 2,0.603502594255921
+seizure,HP_0001250,ENSG00000182389,CACNB4,calcium voltage-gated channel auxiliary subunit beta 4,0.6033918742911217
+seizure,HP_0001250,ENSG00000075461,CACNG4,calcium voltage-gated channel auxiliary subunit gamma 4,0.6032353161582344
+seizure,HP_0001250,ENSG00000167535,CACNB3,calcium voltage-gated channel auxiliary subunit beta 3,0.6030505262308921
+seizure,HP_0001250,ENSG00000102001,CACNA1F,calcium voltage-gated channel subunit alpha1 F,0.6026927752743714
+seizure,HP_0001250,ENSG00000081248,CACNA1S,calcium voltage-gated channel subunit alpha1 S,0.6026927752743714
+seizure,HP_0001250,ENSG00000151062,CACNA2D4,calcium voltage-gated channel auxiliary subunit alpha2delta 4,0.6026809463762074
+seizure,HP_0001250,ENSG00000130433,CACNG6,calcium voltage-gated channel auxiliary subunit gamma 6,0.6026809463762074
+seizure,HP_0001250,ENSG00000157445,CACNA2D3,calcium voltage-gated channel auxiliary subunit alpha2delta 3,0.6026809463762074
+seizure,HP_0001250,ENSG00000067191,CACNB1,calcium voltage-gated channel auxiliary subunit beta 1,0.6026809463762074
+seizure,HP_0001250,ENSG00000105605,CACNG7,calcium voltage-gated channel auxiliary subunit gamma 7,0.6026809463762074
+seizure,HP_0001250,ENSG00000108878,CACNG1,calcium voltage-gated channel auxiliary subunit gamma 1,0.6026809463762074
+seizure,HP_0001250,ENSG00000142408,CACNG8,calcium voltage-gated channel auxiliary subunit gamma 8,0.6026809463762074
+seizure,HP_0001250,ENSG00000006116,CACNG3,calcium voltage-gated channel auxiliary subunit gamma 3,0.6026809463762074
+seizure,HP_0001250,ENSG00000165995,CACNB2,calcium voltage-gated channel auxiliary subunit beta 2,0.6026809463762074
+seizure,HP_0001250,ENSG00000075429,CACNG5,calcium voltage-gated channel auxiliary subunit gamma 5,0.6026809463762074
+seizure,HP_0001250,ENSG00000184156,KCNQ3,potassium voltage-gated channel subfamily Q member 3,0.6002631033616286
+seizure,HP_0001250,ENSG00000110721,CHKA,choline kinase alpha,0.5989267399521232
+seizure,HP_0001250,ENSG00000145863,GABRA6,gamma-aminobutyric acid type A receptor subunit alpha6,0.5952638997381242
+seizure,HP_0001250,ENSG00000171206,TRIM8,tripartite motif containing 8,0.5951482666525097
+seizure,HP_0001250,ENSG00000104267,CA2,carbonic anhydrase 2,0.594959338495527
+seizure,HP_0001250,ENSG00000167434,CA4,carbonic anhydrase 4,0.5947360506666549
+seizure,HP_0001250,ENSG00000187730,GABRD,gamma-aminobutyric acid type A receptor subunit delta,0.5947071656087842
+seizure,HP_0001250,ENSG00000011677,GABRA3,gamma-aminobutyric acid type A receptor subunit alpha3,0.5940627652103989
+seizure,HP_0001250,ENSG00000102287,GABRE,gamma-aminobutyric acid type A receptor subunit epsilon,0.5940165677285634
+seizure,HP_0001250,ENSG00000182256,GABRG3,gamma-aminobutyric acid type A receptor subunit gamma3,0.5932774080191939
+seizure,HP_0001250,ENSG00000157103,SLC6A1,solute carrier family 6 member 1,0.5932527878002657
+seizure,HP_0001250,ENSG00000163285,GABRG1,gamma-aminobutyric acid type A receptor subunit gamma1,0.5929078281645093
+seizure,HP_0001250,ENSG00000094755,GABRP,gamma-aminobutyric acid type A receptor subunit pi,0.5929078281645093
+seizure,HP_0001250,ENSG00000109158,GABRA4,gamma-aminobutyric acid type A receptor subunit alpha4,0.5929078281645093
+seizure,HP_0001250,ENSG00000268089,GABRQ,gamma-aminobutyric acid type A receptor subunit theta,0.5929078281645093
+seizure,HP_0001250,ENSG00000163288,GABRB1,gamma-aminobutyric acid type A receptor subunit beta1,0.5929078281645093
+seizure,HP_0001250,ENSG00000133742,CA1,carbonic anhydrase 1,0.5889858301017256
+seizure,HP_0001250,ENSG00000074410,CA12,carbonic anhydrase 12,0.5889858301017256
+seizure,HP_0001250,ENSG00000152578,GRIA4,glutamate ionotropic receptor AMPA type subunit 4,0.5784785238581908
+seizure,HP_0001250,ENSG00000155511,GRIA1,glutamate ionotropic receptor AMPA type subunit 1,0.5781589495022837
+seizure,HP_0001250,ENSG00000120251,GRIA2,glutamate ionotropic receptor AMPA type subunit 2,0.5772837583162782
+seizure,HP_0001250,ENSG00000085382,HACE1,HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1,0.565908886378875
+seizure,HP_0001250,ENSG00000080709,KCNN2,potassium calcium-activated channel subfamily N member 2,0.5636092783941703
+seizure,HP_0001250,ENSG00000171189,GRIK1,glutamate ionotropic receptor kainate type subunit 1,0.5550880914823384
+seizure,HP_0001250,ENSG00000105737,GRIK5,glutamate ionotropic receptor kainate type subunit 5,0.5550880914823384
+seizure,HP_0001250,ENSG00000149403,GRIK4,glutamate ionotropic receptor kainate type subunit 4,0.5550880914823384
+seizure,HP_0001250,ENSG00000163873,GRIK3,glutamate ionotropic receptor kainate type subunit 3,0.5550880914823384
+seizure,HP_0001250,ENSG00000165078,CPA6,carboxypeptidase A6,0.5470103140545043
+seizure,HP_0001250,ENSG00000115568,ZNF142,zinc finger protein 142,0.5469781849333587
+seizure,HP_0001250,ENSG00000165194,PCDH19,protocadherin 19,0.5461647778550295
+seizure,HP_0001250,ENSG00000100150,DEPDC5,"DEP domain containing 5, GATOR1 subcomplex subunit",0.5370444285584939
+seizure,HP_0001250,ENSG00000118432,CNR1,cannabinoid receptor 1,0.5340765150162952
+seizure,HP_0001250,ENSG00000164904,ALDH7A1,aldehyde dehydrogenase 7 family member A1,0.5338102227948542
+seizure,HP_0001250,ENSG00000078369,GNB1,G protein subunit beta 1,0.5310481475028153
+seizure,HP_0001250,ENSG00000157540,DYRK1A,dual specificity tyrosine phosphorylation regulated kinase 1A,0.5295648716129757
+seizure,HP_0001250,ENSG00000167371,PRRT2,proline rich transmembrane protein 2,0.5265697215633475
+seizure,HP_0001250,ENSG00000110841,PPFIBP1,PPFIB scaffold protein 1,0.5247244191210964
+seizure,HP_0001250,ENSG00000109775,UFSP2,UFM1 specific peptidase 2,0.5211075951054296
+seizure,HP_0001250,ENSG00000273079,GRIN2B,glutamate ionotropic receptor NMDA type subunit 2B,0.5201225180321382
+seizure,HP_0001250,ENSG00000176884,GRIN1,glutamate ionotropic receptor NMDA type subunit 1,0.5189963587787576
+seizure,HP_0001250,ENSG00000182450,KCNK4,potassium two pore domain channel subfamily K member 4,0.5176581831283723
+seizure,HP_0001250,ENSG00000177301,KCNA2,potassium voltage-gated channel subfamily A member 2,0.5173271507307171
+seizure,HP_0001250,ENSG00000105409,ATP1A3,ATPase Na+/K+ transporting subunit alpha 3,0.5146266457068521
+seizure,HP_0001250,ENSG00000185129,PURA,purine rich element binding protein A,0.5130843705361625
+seizure,HP_0001250,ENSG00000107147,KCNT1,potassium sodium-activated channel subfamily T member 1,0.5095403537399639
+seizure,HP_0001250,ENSG00000136854,STXBP1,syntaxin binding protein 1,0.5092851003592229
+seizure,HP_0001250,ENSG00000177000,MTHFR,methylenetetrahydrofolate reductase,0.5092171617559438
+seizure,HP_0001250,ENSG00000108231,LGI1,leucine rich glioma inactivated 1,0.5068463144155989
+seizure,HP_0001250,ENSG00000180902,D2HGDH,D-2-hydroxyglutarate dehydrogenase,0.5048871459276009
+seizure,HP_0001250,ENSG00000105576,TNPO2,transportin 2,0.5030392466541774
+seizure,HP_0001250,ENSG00000177595,PIDD1,p53-induced death domain protein 1,0.5030392466541774
+seizure,HP_0001250,ENSG00000103148,NPRL3,"NPR3 like, GATOR1 complex subunit",0.4997311958288513
+seizure,HP_0001250,ENSG00000173575,CHD2,chromodomain helicase DNA binding protein 2,0.4976063741936803
+seizure,HP_0001250,ENSG00000103152,MPG,N-methylpurine DNA glycosylase,0.49721836394289337
+seizure,HP_0001250,ENSG00000197283,SYNGAP1,synaptic Ras GTPase activating protein 1,0.49673655883022527
+seizure,HP_0001250,ENSG00000113360,DROSHA,drosha ribonuclease III,0.4940564029639243
+seizure,HP_0001250,ENSG00000008869,HEATR5B,HEAT repeat containing 5B,0.4940564029639243
+seizure,HP_0001250,ENSG00000153187,HNRNPU,heterogeneous nuclear ribonucleoprotein U,0.4932016866962492
+seizure,HP_0001250,ENSG00000008086,CDKL5,cyclin dependent kinase like 5,0.4924154648592172
+seizure,HP_0001250,ENSG00000005483,KMT2E,lysine methyltransferase 2E (inactive),0.4915412067306534
+seizure,HP_0001250,ENSG00000169057,MECP2,methyl-CpG binding protein 2,0.4868562131123857
+seizure,HP_0001250,ENSG00000183597,TANGO2,transport and golgi organization 2 homolog,0.48404694856621366
+seizure,HP_0001250,ENSG00000100478,AP4S1,adaptor related protein complex 4 subunit sigma 1,0.482876612359712
+seizure,HP_0001250,ENSG00000172977,KAT5,lysine acetyltransferase 5,0.48250703250502736
+seizure,HP_0001250,ENSG00000066777,ARFGEF1,ARF guanine nucleotide exchange factor 1,0.4811375338212791
+seizure,HP_0001250,ENSG00000114388,NPRL2,"NPR2 like, GATOR1 complex subunit",0.4799946049779808
+seizure,HP_0001250,ENSG00000260230,FRRS1L,ferric chelate reductase 1 like,0.4751872981608553
+seizure,HP_0001250,ENSG00000137959,IFI44L,interferon induced protein 44 like,0.4677969735560754
+seizure,HP_0001250,ENSG00000101901,ALG13,ALG13 UDP-N-acetylglucosaminyltransferase subunit,0.46750460245837583
+seizure,HP_0001250,ENSG00000183044,ABAT,4-aminobutyrate aminotransferase,0.4664690801996384
+seizure,HP_0001250,ENSG00000147955,SIGMAR1,sigma non-opioid intracellular receptor 1,0.46522599180532437
+seizure,HP_0001250,ENSG00000147246,HTR2C,5-hydroxytryptamine receptor 2C,0.46508031574593617
+seizure,HP_0001250,ENSG00000127603,MACF1,microtubule actin crosslinking factor 1,0.46396131007480756
+seizure,HP_0001250,ENSG00000113575,PPP2CA,protein phosphatase 2 catalytic subunit alpha,0.4638227176293007
+seizure,HP_0001250,ENSG00000179546,HTR1D,5-hydroxytryptamine receptor 1D,0.46300142906333475
+seizure,HP_0001250,ENSG00000095059,DHPS,deoxyhypusine synthase,0.462898767992589
+seizure,HP_0001250,ENSG00000163399,ATP1A1,ATPase Na+/K+ transporting subunit alpha 1,0.46271397806524667
+seizure,HP_0001250,ENSG00000033627,ATP6V0A1,ATPase H+ transporting V0 subunit a1,0.46197481835587734
+seizure,HP_0001250,ENSG00000178467,P4HTM,"prolyl 4-hydroxylase, transmembrane",0.4619748183558772
+seizure,HP_0001250,ENSG00000100427,MLC1,modulator of VRAC current 1,0.4619748183558772
+seizure,HP_0001250,ENSG00000161203,AP2M1,adaptor related protein complex 2 subunit mu 1,0.4619748183558772
+seizure,HP_0001250,ENSG00000168393,DTYMK,deoxythymidylate kinase,0.4619748183558772
+seizure,HP_0001250,ENSG00000172915,NBEA,neurobeachin,0.4619748183558772
+seizure,HP_0001250,ENSG00000172432,GTPBP2,GTP binding protein 2,0.4619748183558772
+seizure,HP_0001250,ENSG00000006451,RALA,RAS like proto-oncogene A,0.4619748183558772
+seizure,HP_0001250,ENSG00000103510,KAT8,lysine acetyltransferase 8,0.4619748183558772
+seizure,HP_0001250,ENSG00000125944,HNRNPR,heterogeneous nuclear ribonucleoprotein R,0.4619748183558772
+seizure,HP_0001250,ENSG00000220205,VAMP2,vesicle associated membrane protein 2,0.4619748183558772
+seizure,HP_0001250,ENSG00000198794,SCAMP5,secretory carrier membrane protein 5,0.4619748183558772
+seizure,HP_0001250,ENSG00000185813,PCYT2,"phosphate cytidylyltransferase 2, ethanolamine",0.4619748183558772
+seizure,HP_0001250,ENSG00000070756,PABPC1,poly(A) binding protein cytoplasmic 1,0.4619748183558772
+seizure,HP_0001250,ENSG00000158290,CUL4B,cullin 4B,0.4618413589639077
+seizure,HP_0001250,ENSG00000170027,YWHAG,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma,0.4617592301073112
+seizure,HP_0001250,ENSG00000105464,GRIN2D,glutamate ionotropic receptor NMDA type subunit 2D,0.45896913034015446
+seizure,HP_0001250,ENSG00000197102,DYNC1H1,dynein cytoplasmic 1 heavy chain 1,0.45832806898727535
+seizure,HP_0001250,ENSG00000134343,ANO3,anoctamin 3,0.45766777914745566
+seizure,HP_0001250,ENSG00000124313,IQSEC2,IQ motif and Sec7 domain ArfGEF 2,0.4560615406809221
+seizure,HP_0001250,ENSG00000050030,NEXMIF,neurite extension and migration factor,0.4549528011168679
+seizure,HP_0001250,ENSG00000179364,PACS2,phosphofurin acidic cluster sorting protein 2,0.45381912631940813
+seizure,HP_0001250,ENSG00000126653,NSRP1,nuclear speckle splicing regulatory protein 1,0.4527353219887597
+seizure,HP_0001250,ENSG00000164588,HCN1,hyperpolarization activated cyclic nucleotide gated potassium channel 1,0.44593552022741106
+seizure,HP_0001250,ENSG00000105647,PIK3R2,phosphoinositide-3-kinase regulatory subunit 2,0.4445224363290996
+seizure,HP_0001250,ENSG00000136535,TBR1,T-box brain transcription factor 1,0.4430338508032863
+seizure,HP_0001250,ENSG00000165699,TSC1,TSC complex subunit 1,0.4383607157202539
+seizure,HP_0001250,ENSG00000196998,WDR45,WD repeat domain 45,0.4383319737631308
+seizure,HP_0001250,ENSG00000158445,KCNB1,potassium voltage-gated channel subfamily B member 1,0.4367426777269159
+seizure,HP_0001250,ENSG00000073614,KDM5A,lysine demethylase 5A,0.43610422852794817
+seizure,HP_0001250,ENSG00000053918,KCNQ1,potassium voltage-gated channel subfamily Q member 1,0.43610422852794806
+seizure,HP_0001250,ENSG00000132639,SNAP25,synaptosome associated protein 25,0.43610422852794806
+seizure,HP_0001250,ENSG00000187498,COL4A1,collagen type IV alpha 1 chain,0.43456203110963415
+seizure,HP_0001250,ENSG00000117013,KCNQ4,potassium voltage-gated channel subfamily Q member 4,0.4342563292545246
+seizure,HP_0001250,ENSG00000185760,KCNQ5,potassium voltage-gated channel subfamily Q member 5,0.4342563292545246
+seizure,HP_0001250,ENSG00000145348,TBCK,TBC1 domain containing kinase,0.4342563292545246
+seizure,HP_0001250,ENSG00000116032,GRIN3B,glutamate ionotropic receptor NMDA type subunit 3B,0.4301498864246946
+seizure,HP_0001250,ENSG00000198785,GRIN3A,glutamate ionotropic receptor NMDA type subunit 3A,0.4301498864246946
+seizure,HP_0001250,ENSG00000161509,GRIN2C,glutamate ionotropic receptor NMDA type subunit 2C,0.4301498864246946
+seizure,HP_0001250,ENSG00000239900,ADSL,adenylosuccinate lyase,0.42547880770576296
+seizure,HP_0001250,ENSG00000068078,FGFR3,fibroblast growth factor receptor 3,0.42501683288740705
+seizure,HP_0001250,ENSG00000241837,ATP5PO,ATP synthase peripheral stalk subunit OSCP,0.42501683288740705
+seizure,HP_0001250,ENSG00000070748,CHAT,choline O-acetyltransferase,0.42501683288740705
+seizure,HP_0001250,ENSG00000008853,RHOBTB2,Rho related BTB domain containing 2,0.42501683288740705
+seizure,HP_0001250,ENSG00000103356,EARS2,"glutamyl-tRNA synthetase 2, mitochondrial",0.42501683288740705
+seizure,HP_0001250,ENSG00000139618,BRCA2,BRCA2 DNA repair associated,0.42501683288740705
+seizure,HP_0001250,ENSG00000072071,ADGRL1,adhesion G protein-coupled receptor L1,0.42501683288740705
+seizure,HP_0001250,ENSG00000135316,SYNCRIP,synaptotagmin binding cytoplasmic RNA interacting protein,0.4157773365202895
+seizure,HP_0001250,ENSG00000065000,AP3D1,adaptor related protein complex 3 subunit delta 1,0.4157773365202895
+seizure,HP_0001250,ENSG00000087274,ADD1,adducin 1,0.4157773365202895
+seizure,HP_0001250,ENSG00000143376,SNX27,sorting nexin 27,0.4157773365202895
+seizure,HP_0001250,ENSG00000196367,TRRAP,transformation/transcription domain associated protein,0.4157773365202895
+seizure,HP_0001250,ENSG00000217236,SP9,Sp9 transcription factor,0.4157773365202895
+seizure,HP_0001250,ENSG00000116254,CHD5,chromodomain helicase DNA binding protein 5,0.41238931167329046
+seizure,HP_0001250,ENSG00000162687,KCNT2,potassium sodium-activated channel subfamily T member 2,0.41023363870001905
+seizure,HP_0001250,ENSG00000185883,ATP6V0C,ATPase H+ transporting V0 subunit c,0.406537840153172
+seizure,HP_0001250,ENSG00000110195,FOLR1,folate receptor alpha,0.4063815671899256
+seizure,HP_0001250,ENSG00000170759,KIF5B,kinesin family member 5B,0.40468994087974847
+seizure,HP_0001250,ENSG00000108439,PNPO,pyridoxamine 5'-phosphate oxidase,0.40078904803613336
+seizure,HP_0001250,ENSG00000079482,OPHN1,oligophrenin 1,0.39951582291416265
+seizure,HP_0001250,ENSG00000143473,KCNH1,potassium voltage-gated channel subfamily H member 1,0.3977603186044103
+seizure,HP_0001250,ENSG00000165650,PDZD8,PDZ domain containing 8,0.37990776372386575
+seizure,HP_0001250,ENSG00000101438,SLC32A1,solute carrier family 32 member 1,0.37620457357992504
+seizure,HP_0001250,ENSG00000167522,ANKRD11,ankyrin repeat domain 11,0.3753288746464638
+seizure,HP_0001250,ENSG00000124140,SLC12A5,solute carrier family 12 member 5,0.375026637415679
+seizure,HP_0001250,ENSG00000131095,GFAP,glial fibrillary acidic protein,0.37499362357555804
+seizure,HP_0001250,ENSG00000142192,APP,amyloid beta precursor protein,0.3743518135702196
+seizure,HP_0001250,ENSG00000184408,KCND2,potassium voltage-gated channel subfamily D member 2,0.37212969902934934
+seizure,HP_0001250,ENSG00000055163,CYFIP2,cytoplasmic FMR1 interacting protein 2,0.3707707231053524
+seizure,HP_0001250,ENSG00000123908,AGO2,argonaute RISC catalytic component 2,0.37073479173059143
+seizure,HP_0001250,ENSG00000111249,CUX2,cut like homeobox 2,0.37073479173059143
+seizure,HP_0001250,ENSG00000130005,GAMT,guanidinoacetate N-methyltransferase,0.3707065599361364
+Parkinson disease,MONDO_0005180,ENSG00000188906,LRRK2,leucine rich repeat kinase 2,0.8789712145032307
+Parkinson disease,MONDO_0005180,ENSG00000159363,ATP13A2,ATPase cation transporting 13A2,0.871459791049066
+Parkinson disease,MONDO_0005180,ENSG00000145335,SNCA,synuclein alpha,0.8706361661916207
+Parkinson disease,MONDO_0005180,ENSG00000185345,PRKN,parkin RBR E3 ubiquitin protein ligase,0.8519861101276245
+Parkinson disease,MONDO_0005180,ENSG00000158828,PINK1,PTEN induced kinase 1,0.8508349657836074
+Parkinson disease,MONDO_0005180,ENSG00000184381,PLA2G6,phospholipase A2 group VI,0.8270750649133735
+Parkinson disease,MONDO_0005180,ENSG00000116675,DNAJC6,DnaJ heat shock protein family (Hsp40) member C6,0.8195170115599697
+Parkinson disease,MONDO_0005180,ENSG00000116288,PARK7,Parkinsonism associated deglycase,0.8108202784777676
+Parkinson disease,MONDO_0005180,ENSG00000100225,FBXO7,F-box protein 7,0.8005213951330551
+Parkinson disease,MONDO_0005180,ENSG00000069329,VPS35,VPS35 retromer complex component,0.7848130188303171
+Parkinson disease,MONDO_0005180,ENSG00000177628,GBA1,glucosylceramidase beta 1,0.7740350729666612
+Parkinson disease,MONDO_0005180,ENSG00000129003,VPS13C,vacuolar protein sorting 13 homolog C,0.7337817247591292
+Parkinson disease,MONDO_0005180,ENSG00000176884,GRIN1,glutamate ionotropic receptor NMDA type subunit 1,0.6969502087656452
+Parkinson disease,MONDO_0005180,ENSG00000186868,MAPT,microtubule associated protein tau,0.6776428632894335
+Parkinson disease,MONDO_0005180,ENSG00000168539,CHRM1,cholinergic receptor muscarinic 1,0.6651920814477192
+Parkinson disease,MONDO_0005180,ENSG00000197746,PSAP,prosaposin,0.6462185393717564
+Parkinson disease,MONDO_0005180,ENSG00000149295,DRD2,dopamine receptor D2,0.6376640145148025
+Parkinson disease,MONDO_0005180,ENSG00000151577,DRD3,dopamine receptor D3,0.631055614262509
+Parkinson disease,MONDO_0005180,ENSG00000273079,GRIN2B,glutamate ionotropic receptor NMDA type subunit 2B,0.6307514409074565
+Parkinson disease,MONDO_0005180,ENSG00000093010,COMT,catechol-O-methyltransferase,0.6296763211675274
+Parkinson disease,MONDO_0005180,ENSG00000183454,GRIN2A,glutamate ionotropic receptor NMDA type subunit 2A,0.6290039778265303
+Parkinson disease,MONDO_0005180,ENSG00000184845,DRD1,dopamine receptor D1,0.6288310828557732
+Parkinson disease,MONDO_0005180,ENSG00000069535,MAOB,monoamine oxidase B,0.6284120798455826
+Parkinson disease,MONDO_0005180,ENSG00000132437,DDC,dopa decarboxylase,0.6266408841795461
+Parkinson disease,MONDO_0005180,ENSG00000087085,ACHE,acetylcholinesterase (Yt blood group),0.6188905209472699
+Parkinson disease,MONDO_0005180,ENSG00000178127,NDUFV2,NADH:ubiquinone oxidoreductase core subunit V2,0.6168292613001732
+Parkinson disease,MONDO_0005180,ENSG00000069696,DRD4,dopamine receptor D4,0.6148071214814691
+Parkinson disease,MONDO_0005180,ENSG00000161509,GRIN2C,glutamate ionotropic receptor NMDA type subunit 2C,0.6138544352996748
+Parkinson disease,MONDO_0005180,ENSG00000128271,ADORA2A,adenosine A2a receptor,0.6099360952555087
+Parkinson disease,MONDO_0005180,ENSG00000114200,BCHE,butyrylcholinesterase,0.608303773442053
+Parkinson disease,MONDO_0005180,ENSG00000105464,GRIN2D,glutamate ionotropic receptor NMDA type subunit 2D,0.6055322912371706
+Parkinson disease,MONDO_0005180,ENSG00000119421,NDUFA8,NADH:ubiquinone oxidoreductase subunit A8,0.6049928229274908
+Parkinson disease,MONDO_0005180,ENSG00000168653,NDUFS5,NADH:ubiquinone oxidoreductase subunit S5,0.6049786006770043
+Parkinson disease,MONDO_0005180,ENSG00000114867,EIF4G1,eukaryotic translation initiation factor 4 gamma 1,0.6033365785370222
+Parkinson disease,MONDO_0005180,ENSG00000023228,NDUFS1,NADH:ubiquinone oxidoreductase core subunit S1,0.6025820182070286
+Parkinson disease,MONDO_0005180,ENSG00000198785,GRIN3A,glutamate ionotropic receptor NMDA type subunit 3A,0.6017081699817503
+Parkinson disease,MONDO_0005180,ENSG00000116032,GRIN3B,glutamate ionotropic receptor NMDA type subunit 3B,0.6001548593260961
+Parkinson disease,MONDO_0005180,ENSG00000127419,TMEM175,transmembrane protein 175,0.5977084151814601
+Parkinson disease,MONDO_0005180,ENSG00000106153,CHCHD2,coiled-coil-helix-coiled-coil-helix domain containing 2,0.5921707603528791
+Parkinson disease,MONDO_0005180,ENSG00000158864,NDUFS2,NADH:ubiquinone oxidoreductase core subunit S2,0.5876561371745134
+Parkinson disease,MONDO_0005180,ENSG00000143772,ITPKB,inositol-trisphosphate 3-kinase B,0.5848138325815886
+Parkinson disease,MONDO_0005180,ENSG00000139180,NDUFA9,NADH:ubiquinone oxidoreductase subunit A9,0.5794878536694476
+Parkinson disease,MONDO_0005180,ENSG00000138246,DNAJC13,DnaJ heat shock protein family (Hsp40) member C13,0.5782627470597022
+Parkinson disease,MONDO_0005180,ENSG00000004779,NDUFAB1,NADH:ubiquinone oxidoreductase subunit AB1,0.574128958291658
+Parkinson disease,MONDO_0005180,ENSG00000099795,NDUFB7,NADH:ubiquinone oxidoreductase subunit B7,0.5737218881355036
+Parkinson disease,MONDO_0005180,ENSG00000043591,ADRB1,adrenoceptor beta 1,0.5664649015897799
+Parkinson disease,MONDO_0005180,ENSG00000102468,HTR2A,5-hydroxytryptamine receptor 2A,0.5621827338830061
+Parkinson disease,MONDO_0005180,ENSG00000244038,DDOST,dolichyl-diphosphooligosaccharide--protein glycosyltransferase non-catalytic subunit,0.5618685199313929
+Parkinson disease,MONDO_0005180,ENSG00000178950,GAK,cyclin G associated kinase,0.5562034147450088
+Parkinson disease,MONDO_0005180,ENSG00000119383,PTPA,protein phosphatase 2 phosphatase activator,0.5555878974908998
+Parkinson disease,MONDO_0005180,ENSG00000133019,CHRM3,cholinergic receptor muscarinic 3,0.5519780154336957
+Parkinson disease,MONDO_0005180,ENSG00000196876,SCN8A,sodium voltage-gated channel alpha subunit 8,0.5512001656306345
+Parkinson disease,MONDO_0005180,ENSG00000147246,HTR2C,5-hydroxytryptamine receptor 2C,0.5507324304280976
+Parkinson disease,MONDO_0005180,ENSG00000166311,SMPD1,sphingomyelin phosphodiesterase 1,0.5500854112706196
+Parkinson disease,MONDO_0005180,ENSG00000169676,DRD5,dopamine receptor D5,0.5469536900663823
+Parkinson disease,MONDO_0005180,ENSG00000144285,SCN1A,sodium voltage-gated channel alpha subunit 1,0.5460725620708357
+Parkinson disease,MONDO_0005180,ENSG00000147684,NDUFB9,NADH:ubiquinone oxidoreductase subunit B9,0.5459131859242294
+Parkinson disease,MONDO_0005180,ENSG00000181072,CHRM2,cholinergic receptor muscarinic 2,0.5449425473079156
+Parkinson disease,MONDO_0005180,ENSG00000082701,GSK3B,glycogen synthase kinase 3 beta,0.5442072390431605
+Parkinson disease,MONDO_0005180,ENSG00000151366,NDUFC2,NADH:ubiquinone oxidoreductase subunit C2,0.5436016973206385
+Parkinson disease,MONDO_0005180,ENSG00000094755,GABRP,gamma-aminobutyric acid type A receptor subunit pi,0.542901653336785
+Parkinson disease,MONDO_0005180,ENSG00000198648,STK39,serine/threonine kinase 39,0.5426270911194092
+Parkinson disease,MONDO_0005180,ENSG00000107295,SH3GL2,"SH3 domain containing GRB2 like 2, endophilin A1",0.5415660278609755
+Parkinson disease,MONDO_0005180,ENSG00000110717,NDUFS8,NADH:ubiquinone oxidoreductase core subunit S8,0.5408444825327267
+Parkinson disease,MONDO_0005180,ENSG00000184983,NDUFA6,NADH:ubiquinone oxidoreductase subunit A6,0.5407055935107933
+Parkinson disease,MONDO_0005180,ENSG00000128609,NDUFA5,NADH:ubiquinone oxidoreductase subunit A5,0.5399030501483575
+Parkinson disease,MONDO_0005180,ENSG00000007314,SCN4A,sodium voltage-gated channel alpha subunit 4,0.5392246496248119
+Parkinson disease,MONDO_0005180,ENSG00000109743,BST1,bone marrow stromal cell antigen 1,0.5372200519643635
+Parkinson disease,MONDO_0005180,ENSG00000169432,SCN9A,sodium voltage-gated channel alpha subunit 9,0.5365205885260288
+Parkinson disease,MONDO_0005180,ENSG00000103546,SLC6A2,solute carrier family 6 member 2,0.5359383633146454
+Parkinson disease,MONDO_0005180,ENSG00000124762,CDKN1A,cyclin dependent kinase inhibitor 1A,0.5332269120893744
+Parkinson disease,MONDO_0005180,ENSG00000166851,PLK1,polo like kinase 1,0.5282658404426327
+Parkinson disease,MONDO_0005180,ENSG00000167601,AXL,AXL receptor tyrosine kinase,0.5277927813713221
+Parkinson disease,MONDO_0005180,ENSG00000183873,SCN5A,sodium voltage-gated channel alpha subunit 5,0.5277227642955801
+Parkinson disease,MONDO_0005180,ENSG00000135446,CDK4,cyclin dependent kinase 4,0.5275739592990275
+Parkinson disease,MONDO_0005180,ENSG00000109390,NDUFC1,NADH:ubiquinone oxidoreductase subunit C1,0.5272008906143171
+Parkinson disease,MONDO_0005180,ENSG00000178999,AURKB,aurora kinase B,0.5270619372086831
+Parkinson disease,MONDO_0005180,ENSG00000152214,RIT2,Ras like without CAAX 2,0.5268807628590724
+Parkinson disease,MONDO_0005180,ENSG00000153253,SCN3A,sodium voltage-gated channel alpha subunit 3,0.5262134197177522
+Parkinson disease,MONDO_0005180,ENSG00000164167,LSM6,"LSM6 homolog, U6 small nuclear RNA and mRNA degradation associated",0.5261379875719714
+Parkinson disease,MONDO_0005180,ENSG00000136531,SCN2A,sodium voltage-gated channel alpha subunit 2,0.5256532385582482
+Parkinson disease,MONDO_0005180,ENSG00000058729,RIOK2,RIO kinase 2,0.5244154452261425
+Parkinson disease,MONDO_0005180,ENSG00000129757,CDKN1C,cyclin dependent kinase inhibitor 1C,0.5238109399817266
+Parkinson disease,MONDO_0005180,ENSG00000136546,SCN7A,sodium voltage-gated channel alpha subunit 7,0.5236779181081974
+Parkinson disease,MONDO_0005180,ENSG00000170312,CDK1,cyclin dependent kinase 1,0.5234681592984726
+Parkinson disease,MONDO_0005180,ENSG00000168356,SCN11A,sodium voltage-gated channel alpha subunit 11,0.5233083382535128
+Parkinson disease,MONDO_0005180,ENSG00000185313,SCN10A,sodium voltage-gated channel alpha subunit 10,0.5233083382535128
+Parkinson disease,MONDO_0005180,ENSG00000147416,ATP6V1B2,ATPase H+ transporting V1 subunit B2,0.5230628270999007
+Parkinson disease,MONDO_0005180,ENSG00000167792,NDUFV1,NADH:ubiquinone oxidoreductase core subunit V1,0.5225586409829884
+Parkinson disease,MONDO_0005180,ENSG00000112530,PACRG,parkin coregulated,0.5218892731600301
+Parkinson disease,MONDO_0005180,ENSG00000113161,HMGCR,3-hydroxy-3-methylglutaryl-CoA reductase,0.5213411142350739
+Parkinson disease,MONDO_0005180,ENSG00000010256,UQCRC1,ubiquinol-cytochrome c reductase core protein 1,0.5205580780618663
+Parkinson disease,MONDO_0005180,ENSG00000065518,NDUFB4,NADH:ubiquinone oxidoreductase subunit B4,0.5155587050726429
+Parkinson disease,MONDO_0005180,ENSG00000164615,CAMLG,calcium modulating ligand,0.5113208266130093
+Parkinson disease,MONDO_0005180,ENSG00000288636,ENSG00000288636,novel  protein,0.5093170015552139
+Parkinson disease,MONDO_0005180,ENSG00000130203,APOE,apolipoprotein E,0.5083919674424232
+Parkinson disease,MONDO_0005180,ENSG00000147889,CDKN2A,cyclin dependent kinase inhibitor 2A,0.5061345361417494
+Parkinson disease,MONDO_0005180,ENSG00000101224,CDC25B,cell division cycle 25B,0.5049953699523468
+Parkinson disease,MONDO_0005180,ENSG00000131408,NR1H2,nuclear receptor subfamily 1 group H member 2,0.5046874122061555
+Parkinson disease,MONDO_0005180,ENSG00000153234,NR4A2,nuclear receptor subfamily 4 group A member 2,0.5044313226405115
+Parkinson disease,MONDO_0005180,ENSG00000198563,DDX39B,DExD-box helicase 39B,0.5034088265088621
+Parkinson disease,MONDO_0005180,ENSG00000023516,AKAP11,A-kinase anchoring protein 11,0.5030534363260936
+Parkinson disease,MONDO_0005180,ENSG00000143374,TARS2,"threonyl-tRNA synthetase 2, mitochondrial",0.5030392466541774
+Parkinson disease,MONDO_0005180,ENSG00000100330,MTMR3,myotubularin related protein 3,0.5030392466541774
+Parkinson disease,MONDO_0005180,ENSG00000120539,MASTL,microtubule associated serine/threonine kinase like,0.5030392466541774
+Parkinson disease,MONDO_0005180,ENSG00000130787,HIP1R,huntingtin interacting protein 1 related,0.5023413460481446
+Parkinson disease,MONDO_0005180,ENSG00000155097,ATP6V1C1,ATPase H+ transporting V1 subunit C1,0.5021118030703956
+Parkinson disease,MONDO_0005180,ENSG00000087586,AURKA,aurora kinase A,0.5020136581172119
+Parkinson disease,MONDO_0005180,ENSG00000167258,CDK12,cyclin dependent kinase 12,0.5012604633369799
+Parkinson disease,MONDO_0005180,ENSG00000143393,PI4KB,phosphatidylinositol 4-kinase beta,0.4997117425799444
+Parkinson disease,MONDO_0005180,ENSG00000115020,PIKFYVE,"phosphoinositide kinase, FYVE-type zinc finger containing",0.4996715862860465
+Parkinson disease,MONDO_0005180,ENSG00000163513,TGFBR2,transforming growth factor beta receptor 2,0.4989863881778075
+Parkinson disease,MONDO_0005180,ENSG00000114573,ATP6V1A,ATPase H+ transporting V1 subunit A,0.49894183733136827
+Parkinson disease,MONDO_0005180,ENSG00000147883,CDKN2B,cyclin dependent kinase inhibitor 2B,0.49875687183353196
+Parkinson disease,MONDO_0005180,ENSG00000103510,KAT8,lysine acetyltransferase 8,0.49807273023449006
+Parkinson disease,MONDO_0005180,ENSG00000139505,MTMR6,myotubularin related protein 6,0.4976720716320659
+Parkinson disease,MONDO_0005180,ENSG00000113712,CSNK1A1,casein kinase 1 alpha 1,0.49707232418887937
+Parkinson disease,MONDO_0005180,ENSG00000198888,MT-ND1,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1,0.49477466385251123
+Parkinson disease,MONDO_0005180,ENSG00000130294,KIF1A,kinesin family member 1A,0.49434263754701707
+Parkinson disease,MONDO_0005180,ENSG00000154277,UCHL1,ubiquitin C-terminal hydrolase L1,0.49225552218461627
+Parkinson disease,MONDO_0005180,ENSG00000075785,RAB7A,"RAB7A, member RAS oncogene family",0.4901937403368014
+Parkinson disease,MONDO_0005180,ENSG00000198793,MTOR,mechanistic target of rapamycin kinase,0.4896737874354163
+Parkinson disease,MONDO_0005180,ENSG00000196639,HRH1,histamine receptor H1,0.48799156874059474
+Parkinson disease,MONDO_0005180,ENSG00000180530,NRIP1,nuclear receptor interacting protein 1,0.4859527978871039
+Parkinson disease,MONDO_0005180,ENSG00000196743,GM2A,ganglioside GM2 activator,0.48171059708929564
+Parkinson disease,MONDO_0005180,ENSG00000143669,LYST,lysosomal trafficking regulator,0.48141092457577667
+Parkinson disease,MONDO_0005180,ENSG00000136235,GPNMB,glycoprotein nmb,0.4813191362090683
+Parkinson disease,MONDO_0005180,ENSG00000006712,PAF1,PAF1 component of Paf1/RNA polymerase II complex,0.47954896942152264
+Parkinson disease,MONDO_0005180,ENSG00000131238,PPT1,palmitoyl-protein thioesterase 1,0.47953885617822867
+Parkinson disease,MONDO_0005180,ENSG00000141510,TP53,tumor protein p53,0.4795317587255591
+Parkinson disease,MONDO_0005180,ENSG00000115317,HTRA2,HtrA serine peptidase 2,0.4779317642879066
+Parkinson disease,MONDO_0005180,ENSG00000204386,NEU1,neuraminidase 1,0.4773532897660945
+Parkinson disease,MONDO_0005180,ENSG00000099194,SCD,stearoyl-CoA desaturase,0.47563357765367253
+Parkinson disease,MONDO_0005180,ENSG00000164733,CTSB,cathepsin B,0.4744592563242153
+Parkinson disease,MONDO_0005180,ENSG00000109606,DHX15,DEAH-box helicase 15,0.4727971246883328
+Parkinson disease,MONDO_0005180,ENSG00000163719,MTMR14,myotubularin related protein 14,0.4724172458194582
+Parkinson disease,MONDO_0005180,ENSG00000111481,COPZ1,coat protein complex I subunit zeta 1,0.4720374993760838
+Parkinson disease,MONDO_0005180,ENSG00000196396,PTPN1,protein tyrosine phosphatase non-receptor type 1,0.4718241867209586
+Parkinson disease,MONDO_0005180,ENSG00000117411,B4GALT2,"beta-1,4-galactosyltransferase 2",0.47171360059244544
+Parkinson disease,MONDO_0005180,ENSG00000080854,IGSF9B,immunoglobulin superfamily member 9B,0.47157067606194014
+Parkinson disease,MONDO_0005180,ENSG00000051382,PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",0.47009268853376135
+Parkinson disease,MONDO_0005180,ENSG00000132842,AP3B1,adaptor related protein complex 3 subunit beta 1,0.46977814669149875
+Parkinson disease,MONDO_0005180,ENSG00000152128,TMEM163,transmembrane protein 163,0.4695054006172043
+Parkinson disease,MONDO_0005180,ENSG00000082898,XPO1,exportin 1,0.4690043187476886
+Parkinson disease,MONDO_0005180,ENSG00000116991,SIPA1L2,signal induced proliferation associated 1 like 2,0.4686838708332621
+Parkinson disease,MONDO_0005180,ENSG00000134824,FADS2,fatty acid desaturase 2,0.4676526428650771
+Parkinson disease,MONDO_0005180,ENSG00000159082,SYNJ1,synaptojanin 1,0.46642867521200615
+Parkinson disease,MONDO_0005180,ENSG00000004468,CD38,CD38 molecule,0.4660652957690446
+Parkinson disease,MONDO_0005180,ENSG00000151229,SLC2A13,solute carrier family 2 member 13,0.46576761548220036
+Parkinson disease,MONDO_0005180,ENSG00000133059,DSTYK,dual serine/threonine and tyrosine protein kinase,0.46516244460253275
+Parkinson disease,MONDO_0005180,ENSG00000161203,AP2M1,adaptor related protein complex 2 subunit mu 1,0.4640203401904863
+Parkinson disease,MONDO_0005180,ENSG00000112335,SNX3,sorting nexin 3,0.46400237450310583
+Parkinson disease,MONDO_0005180,ENSG00000159140,SON,SON DNA and RNA binding protein,0.4638227176293007
+Parkinson disease,MONDO_0005180,ENSG00000103174,NAGPA,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase,0.4638227176293007
+Parkinson disease,MONDO_0005180,ENSG00000141367,CLTC,clathrin heavy chain,0.46321511808209204
+Parkinson disease,MONDO_0005180,ENSG00000100028,SNRPD3,small nuclear ribonucleoprotein D3 polypeptide,0.46312975540176693
+Parkinson disease,MONDO_0005180,ENSG00000102900,NUP93,nucleoporin 93,0.46308355791993133
+Parkinson disease,MONDO_0005180,ENSG00000177971,IMP3,IMP U3 small nucleolar ribonucleoprotein 3,0.462898767992589
+Parkinson disease,MONDO_0005180,ENSG00000119616,FCF1,FCF1 rRNA-processing protein,0.462898767992589
+Parkinson disease,MONDO_0005180,ENSG00000158615,PPP1R15B,protein phosphatase 1 regulatory subunit 15B,0.462898767992589
+Parkinson disease,MONDO_0005180,ENSG00000135521,LTV1,LTV1 ribosome biogenesis factor,0.46271397806524667
+Parkinson disease,MONDO_0005180,ENSG00000122218,COPA,coat protein complex I subunit alpha,0.4623443982105619
+Parkinson disease,MONDO_0005180,ENSG00000107862,GBF1,golgi brefeldin A resistant guanine nucleotide exchange factor 1,0.462001027795914
+Parkinson disease,MONDO_0005180,ENSG00000204569,PPP1R10,protein phosphatase 1 regulatory subunit 10,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000129083,COPB1,coat protein complex I subunit beta 1,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000182004,SNRPE,small nuclear ribonucleoprotein polypeptide E,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000184432,COPB2,coat protein complex I subunit beta 2,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000165733,BMS1,BMS1 ribosome biogenesis factor,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000115524,SF3B1,splicing factor 3b subunit 1,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000119285,HEATR1,HEAT repeat containing 1,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000048162,NOP16,NOP16 nucleolar protein,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000125686,MED1,mediator complex subunit 1,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000186185,KIF18B,kinesin family member 18B,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000157020,SEC13,"SEC13 homolog, nuclear pore and COPII component",0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000065328,MCM10,minichromosome maintenance 10 replication initiation factor,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000155561,NUP205,nucleoporin 205,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000130810,PPAN,peter pan homolog,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000150990,DHX37,DEAH-box helicase 37,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000168297,PXK,PX domain containing serine/threonine kinase like,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000112159,MDN1,midasin AAA ATPase 1,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000109111,SUPT6H,"SPT6 homolog, histone chaperone and transcription elongation factor",0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000010244,ZNF207,zinc finger protein 207,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000171566,PLRG1,pleiotropic regulator 1,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000149084,HSD17B12,hydroxysteroid 17-beta dehydrogenase 12,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000138756,BMP2K,BMP2 inducible kinase,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000064419,TNPO3,transportin 3,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000181789,COPG1,coat protein complex I subunit gamma 1,0.4619748183558772
+Parkinson disease,MONDO_0005180,ENSG00000067533,RRP15,ribosomal RNA processing 15 homolog,0.46188830340963777
+Parkinson disease,MONDO_0005180,ENSG00000198786,MT-ND5,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5,0.4616815324518877
+Parkinson disease,MONDO_0005180,ENSG00000042753,AP2S1,adaptor related protein complex 2 subunit sigma 1,0.4604111731671252
+Parkinson disease,MONDO_0005180,ENSG00000278540,ACACA,acetyl-CoA carboxylase alpha,0.45992109363277944
+Parkinson disease,MONDO_0005180,ENSG00000198554,WDHD1,WD repeat and HMG-box DNA binding protein 1,0.459432246174733
+Parkinson disease,MONDO_0005180,ENSG00000184967,NOC4L,nucleolar complex associated 4 homolog,0.459432246174733
+Parkinson disease,MONDO_0005180,ENSG00000145675,PIK3R1,phosphoinositide-3-kinase regulatory subunit 1,0.45750760421740794
+Parkinson disease,MONDO_0005180,ENSG00000160551,TAOK1,TAO kinase 1,0.4572962897690959
+Parkinson disease,MONDO_0005180,ENSG00000106799,TGFBR1,transforming growth factor beta receptor 1,0.4568179432689754
+Parkinson disease,MONDO_0005180,ENSG00000062598,ELMO2,engulfment and cell motility 2,0.4560426660377425
+Parkinson disease,MONDO_0005180,ENSG00000128567,PODXL,podocalyxin like,0.45524912229128
+Parkinson disease,MONDO_0005180,ENSG00000073060,SCARB1,scavenger receptor class B member 1,0.45516797636945505
+Parkinson disease,MONDO_0005180,ENSG00000137876,RSL24D1,ribosomal L24 domain containing 1,0.454607398421626

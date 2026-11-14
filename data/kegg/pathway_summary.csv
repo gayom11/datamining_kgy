@@ -1,0 +1,17 @@
+Pathway_ID,Pathway_Name,Gene_Count
+hsa04080,Neuroactive ligand-receptor interaction,371
+hsa04726,Serotonergic synapse,115
+hsa04728,Dopaminergic synapse,133
+hsa04727,GABAergic synapse,89
+hsa04725,Cholinergic synapse,115
+hsa04724,Glutamatergic synapse,116
+hsa04723,Retrograde endocannabinoid signaling,149
+hsa04721,Synaptic vesicle cycle,79
+hsa04720,Long-term potentiation,67
+hsa00982,Drug metabolism - cytochrome P450,73
+hsa00983,Drug metabolism - other enzymes,82
+hsa04014,Ras signaling pathway,239
+hsa04010,MAPK signaling pathway,301
+hsa04020,Calcium signaling pathway,254
+hsa04064,NF-kappa B signaling pathway,105
+hsa04210,Apoptosis,138

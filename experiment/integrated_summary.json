@@ -1,0 +1,52 @@
+{
+  "databases_used": [
+    {
+      "name": "PubChem",
+      "type": "Chemical/Bioassay",
+      "records": 1062
+    },
+    {
+      "name": "ChEMBL",
+      "type": "Bioactivity",
+      "records": 1801
+    },
+    {
+      "name": "KEGG",
+      "type": "Pathway",
+      "records": 2426
+    },
+    {
+      "name": "STRING",
+      "type": "PPI Network",
+      "records": 478
+    },
+    {
+      "name": "UniProt",
+      "type": "Protein Info",
+      "records": 53
+    },
+    {
+      "name": "Open Targets",
+      "type": "Disease-Target",
+      "records": 800
+    },
+    {
+      "name": "NCBI Gene",
+      "type": "Chemical-Gene",
+      "records": 388
+    },
+    {
+      "name": "OpenFDA",
+      "type": "Adverse Events",
+      "records": 800
+    },
+    {
+      "name": "Pharmacogenomics",
+      "type": "Drug Metabolism",
+      "records": 56
+    }
+  ],
+  "chemicals_analyzed": 8,
+  "high_risk_combinations": 4,
+  "total_ppi_interactions": 478
+}

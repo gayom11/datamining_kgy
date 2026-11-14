@@ -1,0 +1,8 @@
+Drug,CYP,Effect,Strength,Clinical_Impact
+Cocaine,CYP3A4,Inhibitor,Moderate,"Can increase plasma levels of fentanyl, diazepam, ketamine, THC"
+MDMA,CYP2D6,Mechanism-based inhibitor,Strong,Irreversible CYP2D6 inhibition; affects methamphetamine metabolism
+THC,CYP3A4,Inhibitor,Weak-Moderate,"May increase fentanyl, diazepam, ketamine levels"
+THC,CYP2C9,Inhibitor,Moderate,Self-inhibition of THC metabolism
+Cocaine,CYP2D6,Inhibitor,Weak,"May affect MDMA, methamphetamine metabolism"
+Ketamine,CYP3A4,Neither,None,"Primarily a substrate, not a significant inhibitor/inducer"
+Morphine,CYP3A4,Neither,None,"Primarily metabolized by UGT2B7, minimal CYP interaction"

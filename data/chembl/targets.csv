@@ -1,0 +1,101 @@
+Target_ChEMBL,Target_Name,Target_Type,Organism,UniProt
+CHEMBL612880,Leishmania mexicana,ORGANISM,Leishmania mexicana,
+CHEMBL5742,Translocator protein,SINGLE PROTEIN,Homo sapiens,Q96TF6
+CHEMBL332,Interstitial collagenase,SINGLE PROTEIN,Homo sapiens,P08156
+CHEMBL1916,Alpha-2C adrenergic receptor,SINGLE PROTEIN,Homo sapiens,Q9HB49
+CHEMBL1827,"cGMP-specific 3',5'-cyclic phosphodiesterase",SINGLE PROTEIN,Homo sapiens,Q9Y6Z6
+CHEMBL260,Mitogen-activated protein kinase 14,SINGLE PROTEIN,Homo sapiens,Q16539
+CHEMBL2095175,Monoamine transporters; Norepininephrine & dopamine,SELECTIVITY GROUP,Rattus norvegicus,Q9WTR4
+CHEMBL1907603,Glutamate NMDA receptor; GRIN1/GRIN2B,PROTEIN COMPLEX,Homo sapiens,Q9UM56
+CHEMBL4644,Melanocortin receptor 3,SINGLE PROTEIN,Homo sapiens,Q9H517
+CHEMBL3879801,NON-PROTEIN TARGET,NON-MOLECULAR,,
+CHEMBL251,Adenosine receptor A2a,SINGLE PROTEIN,Homo sapiens,P29274
+CHEMBL210,Beta-2 adrenergic receptor,SINGLE PROTEIN,Homo sapiens,P07550
+CHEMBL203,Epidermal growth factor receptor,SINGLE PROTEIN,Homo sapiens,P00533
+CHEMBL2095192,Opioid receptor,PROTEIN FAMILY,Mus musculus,P33534
+CHEMBL4329,Kappa-type opioid receptor,SINGLE PROTEIN,Mus musculus,P33534
+CHEMBL2095181,Opioid receptors; mu/kappa/delta,PROTEIN FAMILY,Homo sapiens,Q9UN57
+CHEMBL2095155,Opioid receptors; mu & delta,SELECTIVITY GROUP,Rattus norvegicus,Q64120
+CHEMBL230,Prostaglandin G/H synthase 2,SINGLE PROTEIN,Homo sapiens,Q16876
+CHEMBL2111385,Cannabinoid receptor,PROTEIN FAMILY,Rattus norvegicus,P20272
+CHEMBL5160,Transient receptor potential cation channel subfamily A member 1,SINGLE PROTEIN,Rattus norvegicus,Q6RI86
+CHEMBL1832,Calcitonin receptor,SINGLE PROTEIN,Homo sapiens,Q6T712
+CHEMBL2986,Sodium-dependent dopamine transporter,SINGLE PROTEIN,Bos taurus,P27922
+CHEMBL4729,Cytochrome P450 2B6,SINGLE PROTEIN,Homo sapiens,Q9UK46
+CHEMBL220,Acetylcholinesterase,SINGLE PROTEIN,Homo sapiens,Q9BXP7
+CHEMBL2034,Glucocorticoid receptor,SINGLE PROTEIN,Homo sapiens,Q6N0A4
+CHEMBL2111339,GABA A receptor alpha-3/beta-2/gamma-2,PROTEIN COMPLEX,Homo sapiens,Q8TAF9
+CHEMBL213,Beta-1 adrenergic receptor,SINGLE PROTEIN,Homo sapiens,Q9UKG8
+CHEMBL256,Adenosine receptor A3,SINGLE PROTEIN,Homo sapiens,Q9BYZ1
+CHEMBL612888,Toxoplasma gondii,ORGANISM,Toxoplasma gondii,
+CHEMBL373,Canis familiaris,ORGANISM,Canis lupus familiaris,
+CHEMBL4015,C-C chemokine receptor type 2,SINGLE PROTEIN,Homo sapiens,Q4VBL2
+CHEMBL2094130,GABA-A receptor; alpha-2/beta-3/gamma-2,PROTEIN COMPLEX,Homo sapiens,Q59G14
+CHEMBL269,Delta-type opioid receptor,SINGLE PROTEIN,Rattus norvegicus,P33533
+CHEMBL221,Prostaglandin G/H synthase 1,SINGLE PROTEIN,Homo sapiens,Q5T7T8
+CHEMBL612348,Trypanosoma brucei rhodesiense,ORGANISM,Trypanosoma brucei rhodesiense,
+CHEMBL211,Muscarinic acetylcholine receptor M2,SINGLE PROTEIN,Homo sapiens,Q9P1X9
+CHEMBL1743124,Solute carrier organic anion transporter family member 2B1,SINGLE PROTEIN,Homo sapiens,Q9UFU1
+CHEMBL614629,Ramos,CELL-LINE,Homo sapiens,
+CHEMBL270,Mu-type opioid receptor,SINGLE PROTEIN,Rattus norvegicus,Q64120
+CHEMBL1907608,Glutamate NMDA receptor,PROTEIN COMPLEX GROUP,Rattus norvegicus,Q9R1M7
+CHEMBL246,Beta-3 adrenergic receptor,SINGLE PROTEIN,Homo sapiens,Q4JFT4
+CHEMBL3392921,Glycine receptor,PROTEIN COMPLEX GROUP,Rattus norvegicus,P20781
+CHEMBL613373,Liver microsomes,SUBCELLULAR,Homo sapiens,
+CHEMBL3222,Delta-type opioid receptor,SINGLE PROTEIN,Mus musculus,P32300
+CHEMBL274,C-C chemokine receptor type 5,SINGLE PROTEIN,Homo sapiens,Q9UPA4
+CHEMBL2462,Tyrosine 3-monooxygenase,SINGLE PROTEIN,Rattus norvegicus,P04177
+CHEMBL2095205,Monoamine oxidase,PROTEIN FAMILY,Homo sapiens,Q7Z6S2
+CHEMBL231,Histamine H1 receptor,SINGLE PROTEIN,Homo sapiens,Q6P9E5
+CHEMBL2366686,Leishmania,ORGANISM,Leishmania,
+CHEMBL5567,Luciferin 4-monooxygenase,SINGLE PROTEIN,Photinus pyralis,Q27755
+CHEMBL319,Alpha-1A adrenergic receptor,SINGLE PROTEIN,Rattus norvegicus,P43140
+CHEMBL321,Matrix metalloproteinase-9,SINGLE PROTEIN,Homo sapiens,Q9UDK2
+CHEMBL2096981,Cannabinoid receptor,PROTEIN FAMILY,Homo sapiens,Q9UNN0
+CHEMBL1075138,Tyrosyl-DNA phosphodiesterase 1,SINGLE PROTEIN,Homo sapiens,Q9NZM8
+CHEMBL2094133,GABA-A receptor; anion channel,PROTEIN COMPLEX GROUP,Mus musculus,P16305
+CHEMBL4071,Cathepsin G,SINGLE PROTEIN,Homo sapiens,Q9UCU6
+CHEMBL5373,Cannabinoid receptor 2,SINGLE PROTEIN,Mus musculus,Q544H5
+CHEMBL1075322,G-protein coupled receptor 55,SINGLE PROTEIN,Homo sapiens,Q9Y2T6
+CHEMBL374,Oryctolagus cuniculus,ORGANISM,Oryctolagus cuniculus,
+CHEMBL2095151,Opioid receptors; delta & kappa,SELECTIVITY GROUP,Homo sapiens,P41143
+CHEMBL612442,Monoclonal antibody (mAb) 2E2,UNKNOWN,Homo sapiens,
+CHEMBL5685,Solute carrier family 22 member 1,SINGLE PROTEIN,Homo sapiens,Q9NQD4
+CHEMBL4608,Melanocortin receptor 5,SINGLE PROTEIN,Homo sapiens,Q502V1
+CHEMBL287,Sigma non-opioid intracellular receptor 1,SINGLE PROTEIN,Homo sapiens,Q9NYX0
+CHEMBL2094121,GABA-A receptor; alpha-1/beta-3/gamma-2,PROTEIN COMPLEX,Homo sapiens,Q96FM5
+CHEMBL1941,Histamine H2 receptor,SINGLE PROTEIN,Homo sapiens,Q7Z5R9
+CHEMBL1901,Cholecystokinin receptor type A,SINGLE PROTEIN,Homo sapiens,P32238
+CHEMBL338,Sodium-dependent dopamine transporter,SINGLE PROTEIN,Rattus norvegicus,P23977
+CHEMBL4074,Angiotensin-converting enzyme,SINGLE PROTEIN,Oryctolagus cuniculus,P22968
+CHEMBL612884,Trichomonas vaginalis,ORGANISM,Trichomonas vaginalis,
+CHEMBL3459,5-hydroxytryptamine receptor 1B,SINGLE PROTEIN,Rattus norvegicus,P28564
+CHEMBL234,D(3) dopamine receptor,SINGLE PROTEIN,Homo sapiens,Q4VBM8
+CHEMBL1743121,Solute carrier organic anion transporter family member 1B3,SINGLE PROTEIN,Homo sapiens,Q9NPD5
+CHEMBL2095167,GABA-A receptor; alpha-1/beta-2/gamma-2,PROTEIN COMPLEX,Rattus norvegicus,P63138
+CHEMBL3401,Nuclear receptor subfamily 1 group I member 2,SINGLE PROTEIN,Homo sapiens,Q9UNW4
+CHEMBL225,5-hydroxytryptamine receptor 2C,SINGLE PROTEIN,Homo sapiens,Q9NP28
+CHEMBL2622,Aldo-keto reductase family 1 member B1,SINGLE PROTEIN,Rattus norvegicus,P07943
+CHEMBL218,Cannabinoid receptor 1,SINGLE PROTEIN,Homo sapiens,Q9UNN0
+CHEMBL299,Protein kinase C alpha type,SINGLE PROTEIN,Homo sapiens,Q96RE4
+CHEMBL253,Cannabinoid receptor 2,SINGLE PROTEIN,Homo sapiens,Q6NSY0
+CHEMBL3048,Nitric oxide synthase 1,SINGLE PROTEIN,Rattus norvegicus,P29476
+CHEMBL402,3-hydroxy-3-methylglutaryl-coenzyme A reductase,SINGLE PROTEIN,Homo sapiens,Q8N190
+CHEMBL3243,Receptor-type tyrosine-protein phosphatase C,SINGLE PROTEIN,Homo sapiens,X6R433
+CHEMBL296,Gamma-aminobutyric acid receptor subunit gamma-1,SINGLE PROTEIN,Rattus norvegicus,P23574
+CHEMBL2434,C-X-C chemokine receptor type 2,SINGLE PROTEIN,Homo sapiens,Q9P2T7
+CHEMBL1907604,Glutamate NMDA receptor; GRIN1/GRIN2A,PROTEIN COMPLEX,Homo sapiens,Q17RZ6
+CHEMBL612558,ADMET,ADMET,,
+CHEMBL313,Sodium-dependent serotonin transporter,SINGLE PROTEIN,Rattus norvegicus,P31652
+CHEMBL1841,Tyrosine-protein kinase Fyn,SINGLE PROTEIN,Homo sapiens,Q8N5D7
+CHEMBL1824,Receptor tyrosine-protein kinase erbB-2,SINGLE PROTEIN,Homo sapiens,X5D2V5
+CHEMBL364,Plasmodium falciparum,ORGANISM,Plasmodium falciparum,
+CHEMBL1909043,Leukotriene C4 synthase,SINGLE PROTEIN,Cavia porcellus,A6XA80
+CHEMBL2094252,Monoamine transporters; serotonin & dopamine,SELECTIVITY GROUP,Rattus norvegicus,P23977
+CHEMBL3397,Cytochrome P450 2C9,SINGLE PROTEIN,Homo sapiens,Q8WW80
+CHEMBL2095156,Opioid receptors; mu & kappa,SELECTIVITY GROUP,Homo sapiens,Q9UN57
+CHEMBL2095190,GABA-A receptor; alpha-6/beta-3/gamma-2,PROTEIN COMPLEX,Homo sapiens,Q4VAV2
+CHEMBL4354,Mu-type opioid receptor,SINGLE PROTEIN,Cavia porcellus,P97266
+CHEMBL4445,Protein phosphatase 3 catalytic subunit alpha,SINGLE PROTEIN,Homo sapiens,Q8TAW9
+CHEMBL245,Muscarinic acetylcholine receptor M3,SINGLE PROTEIN,Homo sapiens,Q9HB60
+CHEMBL612877,Leishmania amazonensis,ORGANISM,Leishmania amazonensis,

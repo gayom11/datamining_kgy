@@ -1,0 +1,815 @@
+Gene_ID,Gene_Symbol,Gene_Description,Chromosome,Disease,Disease_CUI
+7157,TP53,tumor protein p53,17,Neurotoxicity,C0235032
+5743,PTGS2,prostaglandin-endoperoxide synthase 2,1,Neurotoxicity,C0235032
+6774,STAT3,signal transducer and activator of transcription 3,17,Neurotoxicity,C0235032
+3091,HIF1A,hypoxia inducible factor 1 subunit alpha,14,Neurotoxicity,C0235032
+836,CASP3,caspase 3,4,Neurotoxicity,C0235032
+1576,CYP3A4,cytochrome P450 family 3 subfamily A member 4,7,Neurotoxicity,C0235032
+348,APOE,apolipoprotein E,19,Neurotoxicity,C0235032
+207,AKT1,AKT serine/threonine kinase 1,14,Neurotoxicity,C0235032
+4780,NFE2L2,NFE2 like bZIP transcription factor 2,2,Neurotoxicity,C0235032
+4137,MAPT,microtubule associated protein tau,17,Neurotoxicity,C0235032
+5243,ABCB1,ATP binding cassette subfamily B member 1,7,Neurotoxicity,C0235032
+581,BAX,"BCL2 associated X, apoptosis regulator",19,Neurotoxicity,C0235032
+4609,MYC,"MYC proto-oncogene, bHLH transcription factor",8,Neurotoxicity,C0235032
+4318,MMP9,matrix metallopeptidase 9,20,Neurotoxicity,C0235032
+3553,IL1B,interleukin 1 beta,2,Neurotoxicity,C0235032
+9370,ADIPOQ,"adiponectin, C1Q and collagen domain containing",3,Neurotoxicity,C0235032
+6347,CCL2,C-C motif chemokine ligand 2,17,Neurotoxicity,C0235032
+7852,CXCR4,C-X-C motif chemokine receptor 4,2,Neurotoxicity,C0235032
+351,APP,amyloid beta precursor protein,21,Neurotoxicity,C0235032
+6622,SNCA,synuclein alpha,4,Neurotoxicity,C0235032
+596,BCL2,BCL2 apoptosis regulator,18,Neurotoxicity,C0235032
+3309,HSPA5,heat shock protein family A (Hsp70) member 5,9,Neurotoxicity,C0235032
+6647,SOD1,superoxide dismutase 1,21,Neurotoxicity,C0235032
+4313,MMP2,matrix metallopeptidase 2,16,Neurotoxicity,C0235032
+8743,TNFSF10,TNF superfamily member 10,3,Neurotoxicity,C0235032
+3934,LCN2,lipocalin 2,9,Neurotoxicity,C0235032
+627,BDNF,brain derived neurotrophic factor,11,Neurotoxicity,C0235032
+4790,NFKB1,nuclear factor kappa B subunit 1,4,Neurotoxicity,C0235032
+3458,IFNG,interferon gamma,12,Neurotoxicity,C0235032
+598,BCL2L1,BCL2 like 1,20,Neurotoxicity,C0235032
+3162,HMOX1,heme oxygenase 1,22,Neurotoxicity,C0235032
+5594,MAPK1,mitogen-activated protein kinase 1,22,Neurotoxicity,C0235032
+2950,GSTP1,glutathione S-transferase pi 1,11,Neurotoxicity,C0235032
+6513,SLC2A1,solute carrier family 2 member 1,1,Neurotoxicity,C0235032
+1234,CCR5,C-C motif chemokine receptor 5,3,Neurotoxicity,C0235032
+120892,LRRK2,leucine rich repeat kinase 2,12,Neurotoxicity,C0235032
+952,CD38,CD38 molecule,4,Neurotoxicity,C0235032
+23435,TARDBP,TAR DNA binding protein,1,Neurotoxicity,C0235032
+3383,ICAM1,intercellular adhesion molecule 1,19,Neurotoxicity,C0235032
+1869,E2F1,E2F transcription factor 1,20,Neurotoxicity,C0235032
+1813,DRD2,dopamine receptor D2,11,Neurotoxicity,C0235032
+1244,ABCC2,ATP binding cassette subfamily C member 2,10,Neurotoxicity,C0235032
+3606,IL18,interleukin 18,11,Neurotoxicity,C0235032
+217,ALDH2,aldehyde dehydrogenase 2 family member,12,Neurotoxicity,C0235032
+10891,PPARGC1A,PPARG coactivator 1 alpha,4,Neurotoxicity,C0235032
+2263,FGFR2,fibroblast growth factor receptor 2,10,Neurotoxicity,C0235032
+1577,CYP3A5,cytochrome P450 family 3 subfamily A member 5,7,Neurotoxicity,C0235032
+4312,MMP1,matrix metallopeptidase 1,11,Neurotoxicity,C0235032
+6531,SLC6A3,solute carrier family 6 member 3,5,Neurotoxicity,C0235032
+1545,CYP1B1,cytochrome P450 family 1 subfamily B member 1,2,Neurotoxicity,C0235032
+5621,PRNP,prion protein (Kanno blood group),20,Neurotoxicity,C0235032
+203228,C9orf72,C9orf72-SMCR8 complex subunit,9,Neurotoxicity,C0235032
+8878,SQSTM1,sequestosome 1,5,Neurotoxicity,C0235032
+2067,ERCC1,"ERCC excision repair 1, endonuclease non-catalytic subunit",19,Neurotoxicity,C0235032
+2056,EPO,erythropoietin,7,Neurotoxicity,C0235032
+1536,CYBB,cytochrome b-245 beta chain,X,Neurotoxicity,C0235032
+7276,TTR,transthyretin,18,Neurotoxicity,C0235032
+1385,CREB1,cAMP responsive element binding protein 1,2,Neurotoxicity,C0235032
+7161,TP73,tumor protein p73,1,Neurotoxicity,C0235032
+10599,SLCO1B1,solute carrier organic anion transporter family member 1B1,12,Neurotoxicity,C0235032
+706,TSPO,translocator protein,22,Neurotoxicity,C0235032
+2547,XRCC6,X-ray repair cross complementing 6,22,Neurotoxicity,C0235032
+196,AHR,aryl hydrocarbon receptor,7,Neurotoxicity,C0235032
+4314,MMP3,matrix metallopeptidase 3,11,Neurotoxicity,C0235032
+5595,MAPK3,mitogen-activated protein kinase 3,16,Neurotoxicity,C0235032
+355,FAS,Fas cell surface death receptor,10,Neurotoxicity,C0235032
+3620,IDO1,"indoleamine 2,3-dioxygenase 1",8,Neurotoxicity,C0235032
+10018,BCL2L11,BCL2 like 11,2,Neurotoxicity,C0235032
+1432,MAPK14,mitogen-activated protein kinase 14,6,Neurotoxicity,C0235032
+4842,NOS1,nitric oxide synthase 1,12,Neurotoxicity,C0235032
+3297,HSF1,heat shock transcription factor 1,8,Neurotoxicity,C0235032
+2521,FUS,FUS DNA/RNA binding protein,16,Neurotoxicity,C0235032
+2534,FYN,"FYN proto-oncogene, Src family tyrosine kinase",6,Neurotoxicity,C0235032
+5071,PRKN,parkin RBR E3 ubiquitin protein ligase,6,Neurotoxicity,C0235032
+7415,VCP,valosin containing protein,9,Neurotoxicity,C0235032
+3320,HSP90AA1,heat shock protein 90 alpha family class A member 1,14,Neurotoxicity,C0235032
+9365,KL,klotho,13,Neurotoxicity,C0235032
+3312,HSPA8,heat shock protein family A (Hsp70) member 8,11,Neurotoxicity,C0235032
+4316,MMP7,matrix metallopeptidase 7,11,Neurotoxicity,C0235032
+7351,UCP2,uncoupling protein 2,11,Neurotoxicity,C0235032
+3064,HTT,huntingtin,4,Neurotoxicity,C0235032
+55294,FBXW7,F-box and WD repeat domain containing 7,4,Neurotoxicity,C0235032
+7942,TFEB,transcription factor EB,6,Neurotoxicity,C0235032
+4804,NGFR,nerve growth factor receptor,17,Neurotoxicity,C0235032
+5599,MAPK8,mitogen-activated protein kinase 8,10,Neurotoxicity,C0235032
+9927,MFN2,mitofusin 2,1,Neurotoxicity,C0235032
+6376,CX3CL1,C-X3-C motif chemokine ligand 1,16,Neurotoxicity,C0235032
+5465,PPARA,peroxisome proliferator activated receptor alpha,22,Neurotoxicity,C0235032
+1524,CX3CR1,C-X3-C motif chemokine receptor 1,3,Neurotoxicity,C0235032
+407040,MIR34A,microRNA 34a,1,Neurotoxicity,C0235032
+1020,CDK5,cyclin dependent kinase 5,7,Neurotoxicity,C0235032
+3329,HSPD1,heat shock protein family D (Hsp60) member 1,2,Neurotoxicity,C0235032
+1558,CYP2C8,cytochrome P450 family 2 subfamily C member 8,10,Neurotoxicity,C0235032
+551,AVP,arginine vasopressin,20,Neurotoxicity,C0235032
+3308,HSPA4,heat shock protein family A (Hsp70) member 4,5,Neurotoxicity,C0235032
+1571,CYP2E1,cytochrome P450 family 2 subfamily E member 1,10,Neurotoxicity,C0235032
+3303,HSPA1A,heat shock protein family A (Hsp70) member 1A,6,Neurotoxicity,C0235032
+406952,MIR17,microRNA 17,13,Neurotoxicity,C0235032
+23569,PADI4,peptidyl arginine deiminase 4,1,Neurotoxicity,C0235032
+27250,PDCD4,programmed cell death 4,10,Neurotoxicity,C0235032
+2475,MTOR,mechanistic target of rapamycin kinase,1,Seizures,C0036572
+3569,IL6,interleukin 6,7,Seizures,C0036572
+7040,TGFB1,transforming growth factor beta 1,19,Seizures,C0036572
+5728,PTEN,phosphatase and tensin homolog,10,Seizures,C0036572
+7124,TNF,tumor necrosis factor,6,Seizures,C0036572
+1576,CYP3A4,cytochrome P450 family 3 subfamily A member 4,7,Seizures,C0036572
+7099,TLR4,toll like receptor 4,9,Seizures,C0036572
+348,APOE,apolipoprotein E,19,Seizures,C0036572
+3586,IL10,interleukin 10,1,Seizures,C0036572
+4846,NOS3,nitric oxide synthase 3,7,Seizures,C0036572
+4137,MAPT,microtubule associated protein tau,17,Seizures,C0036572
+5243,ABCB1,ATP binding cassette subfamily B member 1,7,Seizures,C0036572
+7015,TERT,telomerase reverse transcriptase,5,Seizures,C0036572
+4318,MMP9,matrix metallopeptidase 9,20,Seizures,C0036572
+3553,IL1B,interleukin 1 beta,2,Seizures,C0036572
+9370,ADIPOQ,"adiponectin, C1Q and collagen domain containing",3,Seizures,C0036572
+3576,CXCL8,C-X-C motif chemokine ligand 8,4,Seizures,C0036572
+351,APP,amyloid beta precursor protein,21,Seizures,C0036572
+114548,NLRP3,NLR family pyrin domain containing 3,1,Seizures,C0036572
+960,CD44,CD44 molecule (IN blood group),11,Seizures,C0036572
+4313,MMP2,matrix metallopeptidase 2,16,Seizures,C0036572
+3557,IL1RN,interleukin 1 receptor antagonist,2,Seizures,C0036572
+5663,PSEN1,presenilin 1,14,Seizures,C0036572
+627,BDNF,brain derived neurotrophic factor,11,Seizures,C0036572
+2332,FMR1,fragile X messenger ribonucleoprotein 1,X,Seizures,C0036572
+23621,BACE1,beta-secretase 1,11,Seizures,C0036572
+3417,IDH1,isocitrate dehydrogenase (NADP(+)) 1,2,Seizures,C0036572
+5468,PPARG,peroxisome proliferator activated receptor gamma,3,Seizures,C0036572
+4255,MGMT,O-6-methylguanine-DNA methyltransferase,10,Seizures,C0036572
+6513,SLC2A1,solute carrier family 2 member 1,1,Seizures,C0036572
+3146,HMGB1,high mobility group box 1,13,Seizures,C0036572
+3952,LEP,leptin,7,Seizures,C0036572
+3106,HLA-B,"major histocompatibility complex, class I, B",6,Seizures,C0036572
+3757,KCNH2,potassium voltage-gated channel subfamily H member 2,7,Seizures,C0036572
+2321,FLT1,fms related receptor tyrosine kinase 1,13,Seizures,C0036572
+6285,S100B,S100 calcium binding protein B,21,Seizures,C0036572
+1244,ABCC2,ATP binding cassette subfamily C member 2,10,Seizures,C0036572
+3606,IL18,interleukin 18,11,Seizures,C0036572
+4204,MECP2,methyl-CpG binding protein 2,X,Seizures,C0036572
+3605,IL17A,interleukin 17A,6,Seizures,C0036572
+10,NAT2,N-acetyltransferase 2,8,Seizures,C0036572
+361,AQP4,aquaporin 4,18,Seizures,C0036572
+6531,SLC6A3,solute carrier family 6 member 3,5,Seizures,C0036572
+5621,PRNP,prion protein (Kanno blood group),20,Seizures,C0036572
+2908,NR3C1,nuclear receptor subfamily 3 group C member 1,5,Seizures,C0036572
+7076,TIMP1,TIMP metallopeptidase inhibitor 1,X,Seizures,C0036572
+1788,DNMT3A,DNA methyltransferase 3 alpha,2,Seizures,C0036572
+177,AGER,advanced glycosylation end-product specific receptor,6,Seizures,C0036572
+1385,CREB1,cAMP responsive element binding protein 1,2,Seizures,C0036572
+1565,CYP2D6,cytochrome P450 family 2 subfamily D member 6 (gene/pseudogene),22,Seizures,C0036572
+7249,TSC2,TSC complex subunit 2,16,Seizures,C0036572
+2670,GFAP,glial fibrillary acidic protein,17,Seizures,C0036572
+406937,MIR145,microRNA 145,5,Seizures,C0036572
+4314,MMP3,matrix metallopeptidase 3,11,Seizures,C0036572
+4179,CD46,CD46 molecule,1,Seizures,C0036572
+64135,IFIH1,interferon induced with helicase C domain 1,2,Seizures,C0036572
+5027,P2RX7,purinergic receptor P2X 7,12,Seizures,C0036572
+1544,CYP1A2,cytochrome P450 family 1 subfamily A member 2,15,Seizures,C0036572
+7450,VWF,von Willebrand factor,12,Seizures,C0036572
+5080,PAX6,paired box 6,11,Seizures,C0036572
+6323,SCN1A,sodium voltage-gated channel alpha subunit 1,2,Seizures,C0036572
+4988,OPRM1,opioid receptor mu 1,6,Seizures,C0036572
+718,C3,complement C3,19,Seizures,C0036572
+3552,IL1A,interleukin 1 alpha,2,Seizures,C0036572
+7345,UCHL1,ubiquitin C-terminal hydrolase L1,4,Seizures,C0036572
+3643,INSR,insulin receptor,19,Seizures,C0036572
+3418,IDH2,isocitrate dehydrogenase (NADP(+)) 2,15,Seizures,C0036572
+5879,RAC1,Rac family small GTPase 1,7,Seizures,C0036572
+7077,TIMP2,TIMP metallopeptidase inhibitor 2,17,Seizures,C0036572
+406938,MIR146A,microRNA 146a,5,Seizures,C0036572
+23657,SLC7A11,solute carrier family 7 member 11,4,Seizures,C0036572
+7153,TOP2A,DNA topoisomerase II alpha,17,Seizures,C0036572
+4593,MUSK,muscle associated receptor tyrosine kinase,9,Seizures,C0036572
+3060,HCRT,hypocretin neuropeptide precursor,17,Seizures,C0036572
+3064,HTT,huntingtin,4,Seizures,C0036572
+59341,TRPV4,transient receptor potential cation channel subfamily V member 4,12,Seizures,C0036572
+773,CACNA1A,calcium voltage-gated channel subunit alpha1 A,19,Seizures,C0036572
+3240,HP,haptoglobin,16,Seizures,C0036572
+104,ADARB1,adenosine deaminase RNA specific B1,21,Seizures,C0036572
+6335,SCN9A,sodium voltage-gated channel alpha subunit 9,2,Seizures,C0036572
+7248,TSC1,TSC complex subunit 1,9,Seizures,C0036572
+3329,HSPD1,heat shock protein family D (Hsp60) member 1,2,Seizures,C0036572
+775,CACNA1C,calcium voltage-gated channel subunit alpha1 C,12,Seizures,C0036572
+551,AVP,arginine vasopressin,20,Seizures,C0036572
+7337,UBE3A,ubiquitin protein ligase E3A,15,Seizures,C0036572
+2316,FLNA,filamin A,X,Seizures,C0036572
+9211,LGI1,leucine rich glioma inactivated 1,10,Seizures,C0036572
+4317,MMP8,matrix metallopeptidase 8,11,Seizures,C0036572
+135,ADORA2A,adenosine A2a receptor,22,Seizures,C0036572
+7019,TFAM,"transcription factor A, mitochondrial",10,Seizures,C0036572
+3579,CXCR2,C-X-C motif chemokine receptor 2,2,Seizures,C0036572
+7364,UGT2B7,UDP glucuronosyltransferase family 2 member B7,4,Seizures,C0036572
+2030,SLC29A1,solute carrier family 29 member 1 (Augustine blood group),6,Seizures,C0036572
+51741,WWOX,WW domain containing oxidoreductase,16,Seizures,C0036572
+2289,FKBP5,FKBP prolyl isomerase 5,6,Seizures,C0036572
+1200,TPP1,tripeptidyl peptidase 1,11,Seizures,C0036572
+3778,KCNMA1,potassium calcium-activated channel subfamily M alpha 1,10,Seizures,C0036572
+5058,PAK1,p21 (RAC1) activated kinase 1,11,Seizures,C0036572
+22861,NLRP1,NLR family pyrin domain containing 1,17,Seizures,C0036572
+5428,POLG,"DNA polymerase gamma, catalytic subunit",15,Seizures,C0036572
+1565,CYP2D6,cytochrome P450 family 2 subfamily D member 6 (gene/pseudogene),22,Serotonin Syndrome,C0699828
+351,APP,amyloid beta precursor protein,21,Psychotic Disorders,C0033975
+6532,SLC6A4,solute carrier family 6 member 4,17,Psychotic Disorders,C0033975
+627,BDNF,brain derived neurotrophic factor,11,Psychotic Disorders,C0033975
+1312,COMT,catechol-O-methyltransferase,22,Psychotic Disorders,C0033975
+1813,DRD2,dopamine receptor D2,11,Psychotic Disorders,C0033975
+1815,DRD4,dopamine receptor D4,11,Psychotic Disorders,C0033975
+1814,DRD3,dopamine receptor D3,3,Psychotic Disorders,C0033975
+8864,PER2,period circadian regulator 2,2,Psychotic Disorders,C0033975
+84062,DTNBP1,dystrobrevin binding protein 1,6,Psychotic Disorders,C0033975
+6925,TCF4,transcription factor 4,18,Psychotic Disorders,C0033975
+91752,ZNF804A,zinc finger protein 804A,2,Psychotic Disorders,C0033975
+267012,DAOA,D-amino acid oxidase activator,13,Psychotic Disorders,C0033975
+7050,TGIF1,TGFB induced factor homeobox 1,18,Psychotic Disorders,C0033975
+200315,APOBEC3A,apolipoprotein B mRNA editing enzyme catalytic subunit 3A,22,Psychotic Disorders,C0033975
+2561,GABRB2,gamma-aminobutyric acid type A receptor subunit beta2,5,Psychotic Disorders,C0033975
+5625,PRODH,proline dehydrogenase 1,22,Psychotic Disorders,C0033975
+27350,APOBEC3C,apolipoprotein B mRNA editing enzyme catalytic subunit 3C,22,Psychotic Disorders,C0033975
+9685,CLINT1,clathrin interactor 1,5,Psychotic Disorders,C0033975
+100188856,DEL22Q11.2,"Chromosome 22q11.2 deletion syndrome, distal",22,Psychotic Disorders,C0033975
+221833,SP8,Sp8 transcription factor,7,Psychotic Disorders,C0033975
+7422,VEGFA,vascular endothelial growth factor A,6,Depressive Disorder,C0011581
+2475,MTOR,mechanistic target of rapamycin kinase,1,Depressive Disorder,C0011581
+3569,IL6,interleukin 6,7,Depressive Disorder,C0011581
+5743,PTGS2,prostaglandin-endoperoxide synthase 2,1,Depressive Disorder,C0011581
+7124,TNF,tumor necrosis factor,6,Depressive Disorder,C0011581
+1576,CYP3A4,cytochrome P450 family 3 subfamily A member 4,7,Depressive Disorder,C0011581
+348,APOE,apolipoprotein E,19,Depressive Disorder,C0011581
+3586,IL10,interleukin 10,1,Depressive Disorder,C0011581
+2099,ESR1,estrogen receptor 1,6,Depressive Disorder,C0011581
+4846,NOS3,nitric oxide synthase 3,7,Depressive Disorder,C0011581
+4137,MAPT,microtubule associated protein tau,17,Depressive Disorder,C0011581
+5243,ABCB1,ATP binding cassette subfamily B member 1,7,Depressive Disorder,C0011581
+4524,MTHFR,methylenetetrahydrofolate reductase,1,Depressive Disorder,C0011581
+4318,MMP9,matrix metallopeptidase 9,20,Depressive Disorder,C0011581
+3553,IL1B,interleukin 1 beta,2,Depressive Disorder,C0011581
+9370,ADIPOQ,"adiponectin, C1Q and collagen domain containing",3,Depressive Disorder,C0011581
+3576,CXCL8,C-X-C motif chemokine ligand 8,4,Depressive Disorder,C0011581
+7852,CXCR4,C-X-C motif chemokine receptor 4,2,Depressive Disorder,C0011581
+1493,CTLA4,cytotoxic T-lymphocyte associated protein 4,2,Depressive Disorder,C0011581
+351,APP,amyloid beta precursor protein,21,Depressive Disorder,C0011581
+1557,CYP2C19,cytochrome P450 family 2 subfamily C member 19,10,Depressive Disorder,C0011581
+6532,SLC6A4,solute carrier family 6 member 4,17,Depressive Disorder,C0011581
+23411,SIRT1,sirtuin 1,10,Depressive Disorder,C0011581
+3479,IGF1,insulin like growth factor 1,12,Depressive Disorder,C0011581
+1636,ACE,angiotensin I converting enzyme,17,Depressive Disorder,C0011581
+114548,NLRP3,NLR family pyrin domain containing 3,1,Depressive Disorder,C0011581
+6647,SOD1,superoxide dismutase 1,21,Depressive Disorder,C0011581
+4313,MMP2,matrix metallopeptidase 2,16,Depressive Disorder,C0011581
+142,PARP1,poly(ADP-ribose) polymerase 1,1,Depressive Disorder,C0011581
+627,BDNF,brain derived neurotrophic factor,11,Depressive Disorder,C0011581
+2932,GSK3B,glycogen synthase kinase 3 beta,3,Depressive Disorder,C0011581
+3458,IFNG,interferon gamma,12,Depressive Disorder,C0011581
+1401,CRP,C-reactive protein,1,Depressive Disorder,C0011581
+7421,VDR,vitamin D receptor,12,Depressive Disorder,C0011581
+2332,FMR1,fragile X messenger ribonucleoprotein 1,X,Depressive Disorder,C0011581
+5594,MAPK1,mitogen-activated protein kinase 1,22,Depressive Disorder,C0011581
+1471,CST3,cystatin C,20,Depressive Disorder,C0011581
+1312,COMT,catechol-O-methyltransferase,22,Depressive Disorder,C0011581
+5054,SERPINE1,serpin family E member 1,7,Depressive Disorder,C0011581
+6513,SLC2A1,solute carrier family 2 member 1,1,Depressive Disorder,C0011581
+1234,CCR5,C-C motif chemokine receptor 5,3,Depressive Disorder,C0011581
+3952,LEP,leptin,7,Depressive Disorder,C0011581
+79068,FTO,FTO alpha-ketoglutarate dependent dioxygenase,16,Depressive Disorder,C0011581
+3565,IL4,interleukin 4,5,Depressive Disorder,C0011581
+3075,CFH,complement factor H,1,Depressive Disorder,C0011581
+6285,S100B,S100 calcium binding protein B,21,Depressive Disorder,C0011581
+406947,MIR155,microRNA 155,21,Depressive Disorder,C0011581
+1813,DRD2,dopamine receptor D2,11,Depressive Disorder,C0011581
+3606,IL18,interleukin 18,11,Depressive Disorder,C0011581
+10891,PPARGC1A,PPARG coactivator 1 alpha,4,Depressive Disorder,C0011581
+1490,CCN2,cellular communication network factor 2,6,Depressive Disorder,C0011581
+3605,IL17A,interleukin 17A,6,Depressive Disorder,C0011581
+1728,NQO1,NAD(P)H quinone dehydrogenase 1,16,Depressive Disorder,C0011581
+6531,SLC6A3,solute carrier family 6 member 3,5,Depressive Disorder,C0011581
+2908,NR3C1,nuclear receptor subfamily 3 group C member 1,5,Depressive Disorder,C0011581
+5604,MAP2K1,mitogen-activated protein kinase kinase 1,15,Depressive Disorder,C0011581
+2056,EPO,erythropoietin,7,Depressive Disorder,C0011581
+3486,IGFBP3,insulin like growth factor binding protein 3,7,Depressive Disorder,C0011581
+6352,CCL5,C-C motif chemokine ligand 5,17,Depressive Disorder,C0011581
+1387,CREBBP,CREB binding lysine acetyltransferase,16,Depressive Disorder,C0011581
+90865,IL33,interleukin 33,9,Depressive Disorder,C0011581
+7276,TTR,transthyretin,18,Depressive Disorder,C0011581
+3481,IGF2,insulin like growth factor 2,11,Depressive Disorder,C0011581
+1385,CREB1,cAMP responsive element binding protein 1,2,Depressive Disorder,C0011581
+1588,CYP19A1,cytochrome P450 family 19 subfamily A member 1,15,Depressive Disorder,C0011581
+1565,CYP2D6,cytochrome P450 family 2 subfamily D member 6 (gene/pseudogene),22,Depressive Disorder,C0011581
+706,TSPO,translocator protein,22,Depressive Disorder,C0011581
+2670,GFAP,glial fibrillary acidic protein,17,Depressive Disorder,C0011581
+2697,GJA1,gap junction protein alpha 1,6,Depressive Disorder,C0011581
+51738,GHRL,ghrelin and obestatin prepropeptide,3,Depressive Disorder,C0011581
+655,BMP7,bone morphogenetic protein 7,20,Depressive Disorder,C0011581
+5027,P2RX7,purinergic receptor P2X 7,12,Depressive Disorder,C0011581
+7450,VWF,von Willebrand factor,12,Depressive Disorder,C0011581
+4353,MPO,myeloperoxidase,17,Depressive Disorder,C0011581
+3552,IL1A,interleukin 1 alpha,2,Depressive Disorder,C0011581
+1814,DRD3,dopamine receptor D3,3,Depressive Disorder,C0011581
+4340,MOG,myelin oligodendrocyte glycoprotein,6,Depressive Disorder,C0011581
+4842,NOS1,nitric oxide synthase 1,12,Depressive Disorder,C0011581
+4128,MAOA,monoamine oxidase A,X,Depressive Disorder,C0011581
+2066,ERBB4,erb-b2 receptor tyrosine kinase 4,2,Depressive Disorder,C0011581
+6648,SOD2,superoxide dismutase 2,6,Depressive Disorder,C0011581
+7077,TIMP2,TIMP metallopeptidase inhibitor 2,17,Depressive Disorder,C0011581
+2623,GATA1,GATA binding protein 1,X,Depressive Disorder,C0011581
+7132,TNFRSF1A,TNF receptor superfamily member 1A,12,Depressive Disorder,C0011581
+406938,MIR146A,microRNA 146a,5,Depressive Disorder,C0011581
+2065,ERBB3,erb-b2 receptor tyrosine kinase 3,12,Depressive Disorder,C0011581
+7128,TNFAIP3,TNF alpha induced protein 3,6,Depressive Disorder,C0011581
+2668,GDNF,glial cell derived neurotrophic factor,5,Depressive Disorder,C0011581
+3084,NRG1,neuregulin 1,8,Depressive Disorder,C0011581
+5649,RELN,reelin,7,Depressive Disorder,C0011581
+3570,IL6R,interleukin 6 receptor,1,Depressive Disorder,C0011581
+4316,MMP7,matrix metallopeptidase 7,11,Depressive Disorder,C0011581
+3484,IGFBP1,insulin like growth factor binding protein 1,7,Depressive Disorder,C0011581
+3572,IL6ST,interleukin 6 cytokine family signal transducer,5,Depressive Disorder,C0011581
+3356,HTR2A,5-hydroxytryptamine receptor 2A,13,Depressive Disorder,C0011581
+4843,NOS2,nitric oxide synthase 2,17,Depressive Disorder,C0011581
+2247,FGF2,fibroblast growth factor 2,4,Depressive Disorder,C0011581
+54210,TREM1,triggering receptor expressed on myeloid cells 1,6,Depressive Disorder,C0011581
+4803,NGF,nerve growth factor,1,Depressive Disorder,C0011581
+5021,OXTR,oxytocin receptor,3,Depressive Disorder,C0011581
+1956,EGFR,epidermal growth factor receptor,7,Schizophrenia,C0036341
+7157,TP53,tumor protein p53,17,Schizophrenia,C0036341
+7422,VEGFA,vascular endothelial growth factor A,6,Schizophrenia,C0036341
+2475,MTOR,mechanistic target of rapamycin kinase,1,Schizophrenia,C0036341
+3569,IL6,interleukin 6,7,Schizophrenia,C0036341
+5743,PTGS2,prostaglandin-endoperoxide synthase 2,1,Schizophrenia,C0036341
+836,CASP3,caspase 3,4,Schizophrenia,C0036341
+7040,TGFB1,transforming growth factor beta 1,19,Schizophrenia,C0036341
+7124,TNF,tumor necrosis factor,6,Schizophrenia,C0036341
+1499,CTNNB1,catenin beta 1,3,Schizophrenia,C0036341
+1576,CYP3A4,cytochrome P450 family 3 subfamily A member 4,7,Schizophrenia,C0036341
+7099,TLR4,toll like receptor 4,9,Schizophrenia,C0036341
+348,APOE,apolipoprotein E,19,Schizophrenia,C0036341
+3586,IL10,interleukin 10,1,Schizophrenia,C0036341
+207,AKT1,AKT serine/threonine kinase 1,14,Schizophrenia,C0036341
+2099,ESR1,estrogen receptor 1,6,Schizophrenia,C0036341
+4846,NOS3,nitric oxide synthase 3,7,Schizophrenia,C0036341
+4137,MAPT,microtubule associated protein tau,17,Schizophrenia,C0036341
+367,AR,androgen receptor,X,Schizophrenia,C0036341
+5243,ABCB1,ATP binding cassette subfamily B member 1,7,Schizophrenia,C0036341
+4524,MTHFR,methylenetetrahydrofolate reductase,1,Schizophrenia,C0036341
+7015,TERT,telomerase reverse transcriptase,5,Schizophrenia,C0036341
+4318,MMP9,matrix metallopeptidase 9,20,Schizophrenia,C0036341
+3553,IL1B,interleukin 1 beta,2,Schizophrenia,C0036341
+9370,ADIPOQ,"adiponectin, C1Q and collagen domain containing",3,Schizophrenia,C0036341
+3576,CXCL8,C-X-C motif chemokine ligand 8,4,Schizophrenia,C0036341
+6347,CCL2,C-C motif chemokine ligand 2,17,Schizophrenia,C0036341
+7852,CXCR4,C-X-C motif chemokine receptor 4,2,Schizophrenia,C0036341
+1493,CTLA4,cytotoxic T-lymphocyte associated protein 4,2,Schizophrenia,C0036341
+472,ATM,ATM serine/threonine kinase,11,Schizophrenia,C0036341
+351,APP,amyloid beta precursor protein,21,Schizophrenia,C0036341
+6622,SNCA,synuclein alpha,4,Schizophrenia,C0036341
+596,BCL2,BCL2 apoptosis regulator,18,Schizophrenia,C0036341
+1557,CYP2C19,cytochrome P450 family 2 subfamily C member 19,10,Schizophrenia,C0036341
+6532,SLC6A4,solute carrier family 6 member 4,17,Schizophrenia,C0036341
+23411,SIRT1,sirtuin 1,10,Schizophrenia,C0036341
+3479,IGF1,insulin like growth factor 1,12,Schizophrenia,C0036341
+3309,HSPA5,heat shock protein family A (Hsp70) member 5,9,Schizophrenia,C0036341
+1636,ACE,angiotensin I converting enzyme,17,Schizophrenia,C0036341
+114548,NLRP3,NLR family pyrin domain containing 3,1,Schizophrenia,C0036341
+796,CALCA,calcitonin related polypeptide alpha,11,Schizophrenia,C0036341
+6387,CXCL12,C-X-C motif chemokine ligand 12,10,Schizophrenia,C0036341
+6647,SOD1,superoxide dismutase 1,21,Schizophrenia,C0036341
+4313,MMP2,matrix metallopeptidase 2,16,Schizophrenia,C0036341
+5290,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",3,Schizophrenia,C0036341
+3557,IL1RN,interleukin 1 receptor antagonist,2,Schizophrenia,C0036341
+8743,TNFSF10,TNF superfamily member 10,3,Schizophrenia,C0036341
+7097,TLR2,toll like receptor 2,4,Schizophrenia,C0036341
+5663,PSEN1,presenilin 1,14,Schizophrenia,C0036341
+3934,LCN2,lipocalin 2,9,Schizophrenia,C0036341
+627,BDNF,brain derived neurotrophic factor,11,Schizophrenia,C0036341
+2932,GSK3B,glycogen synthase kinase 3 beta,3,Schizophrenia,C0036341
+4790,NFKB1,nuclear factor kappa B subunit 1,4,Schizophrenia,C0036341
+3458,IFNG,interferon gamma,12,Schizophrenia,C0036341
+1401,CRP,C-reactive protein,1,Schizophrenia,C0036341
+3162,HMOX1,heme oxygenase 1,22,Schizophrenia,C0036341
+7421,VDR,vitamin D receptor,12,Schizophrenia,C0036341
+3077,HFE,homeostatic iron regulator,6,Schizophrenia,C0036341
+4233,MET,"MET proto-oncogene, receptor tyrosine kinase",7,Schizophrenia,C0036341
+2346,FOLH1,folate hydrolase 1,11,Schizophrenia,C0036341
+5444,PON1,paraoxonase 1,7,Schizophrenia,C0036341
+2332,FMR1,fragile X messenger ribonucleoprotein 1,X,Schizophrenia,C0036341
+23621,BACE1,beta-secretase 1,11,Schizophrenia,C0036341
+1312,COMT,catechol-O-methyltransferase,22,Schizophrenia,C0036341
+3123,HLA-DRB1,"major histocompatibility complex, class II, DR beta 1",6,Schizophrenia,C0036341
+5054,SERPINE1,serpin family E member 1,7,Schizophrenia,C0036341
+5329,PLAUR,"plasminogen activator, urokinase receptor",19,Schizophrenia,C0036341
+2950,GSTP1,glutathione S-transferase pi 1,11,Schizophrenia,C0036341
+5468,PPARG,peroxisome proliferator activated receptor gamma,3,Schizophrenia,C0036341
+6513,SLC2A1,solute carrier family 2 member 1,1,Schizophrenia,C0036341
+1234,CCR5,C-C motif chemokine receptor 5,3,Schizophrenia,C0036341
+120892,LRRK2,leucine rich repeat kinase 2,12,Schizophrenia,C0036341
+3952,LEP,leptin,7,Schizophrenia,C0036341
+79068,FTO,FTO alpha-ketoglutarate dependent dioxygenase,16,Schizophrenia,C0036341
+3791,KDR,kinase insert domain receptor,4,Schizophrenia,C0036341
+3565,IL4,interleukin 4,5,Schizophrenia,C0036341
+5970,RELA,"RELA proto-oncogene, NF-kB subunit",11,Schizophrenia,C0036341
+23435,TARDBP,TAR DNA binding protein,1,Schizophrenia,C0036341
+3106,HLA-B,"major histocompatibility complex, class I, B",6,Schizophrenia,C0036341
+3757,KCNH2,potassium voltage-gated channel subfamily H member 2,7,Schizophrenia,C0036341
+4297,KMT2A,lysine methyltransferase 2A,11,Schizophrenia,C0036341
+3075,CFH,complement factor H,1,Schizophrenia,C0036341
+3383,ICAM1,intercellular adhesion molecule 1,19,Schizophrenia,C0036341
+6285,S100B,S100 calcium binding protein B,21,Schizophrenia,C0036341
+335,APOA1,apolipoprotein A1,11,Schizophrenia,C0036341
+19,ABCA1,ATP binding cassette subfamily A member 1,9,Schizophrenia,C0036341
+3690,ITGB3,integrin subunit beta 3,17,Schizophrenia,C0036341
+23476,BRD4,bromodomain containing 4,19,Schizophrenia,C0036341
+1803,DPP4,dipeptidyl peptidase 4,2,Schizophrenia,C0036341
+4089,SMAD4,SMAD family member 4,18,Schizophrenia,C0036341
+1813,DRD2,dopamine receptor D2,11,Schizophrenia,C0036341
+2944,GSTM1,glutathione S-transferase mu 1,1,Schizophrenia,C0036341
+2260,FGFR1,fibroblast growth factor receptor 1,8,Schizophrenia,C0036341
+3958,LGALS3,galectin 3,14,Schizophrenia,C0036341
+54106,TLR9,toll like receptor 9,3,Schizophrenia,C0036341
+3606,IL18,interleukin 18,11,Schizophrenia,C0036341
+7515,XRCC1,X-ray repair cross complementing 1,19,Schizophrenia,C0036341
+217,ALDH2,aldehyde dehydrogenase 2 family member,12,Schizophrenia,C0036341
+4204,MECP2,methyl-CpG binding protein 2,X,Schizophrenia,C0036341
+10891,PPARGC1A,PPARG coactivator 1 alpha,4,Schizophrenia,C0036341
+7124,TNF,tumor necrosis factor,6,Anxiety Disorders,C0003469
+1576,CYP3A4,cytochrome P450 family 3 subfamily A member 4,7,Anxiety Disorders,C0003469
+4137,MAPT,microtubule associated protein tau,17,Anxiety Disorders,C0003469
+1557,CYP2C19,cytochrome P450 family 2 subfamily C member 19,10,Anxiety Disorders,C0003469
+6532,SLC6A4,solute carrier family 6 member 4,17,Anxiety Disorders,C0003469
+627,BDNF,brain derived neurotrophic factor,11,Anxiety Disorders,C0003469
+2332,FMR1,fragile X messenger ribonucleoprotein 1,X,Anxiety Disorders,C0003469
+1312,COMT,catechol-O-methyltransferase,22,Anxiety Disorders,C0003469
+3952,LEP,leptin,7,Anxiety Disorders,C0003469
+1813,DRD2,dopamine receptor D2,11,Anxiety Disorders,C0003469
+1565,CYP2D6,cytochrome P450 family 2 subfamily D member 6 (gene/pseudogene),22,Anxiety Disorders,C0003469
+7249,TSC2,TSC complex subunit 2,16,Anxiety Disorders,C0003469
+51738,GHRL,ghrelin and obestatin prepropeptide,3,Anxiety Disorders,C0003469
+4684,NCAM1,neural cell adhesion molecule 1,11,Anxiety Disorders,C0003469
+6323,SCN1A,sodium voltage-gated channel alpha subunit 1,2,Anxiety Disorders,C0003469
+2919,CXCL1,C-X-C motif chemokine ligand 1,4,Anxiety Disorders,C0003469
+4842,NOS1,nitric oxide synthase 1,12,Anxiety Disorders,C0003469
+4128,MAOA,monoamine oxidase A,X,Anxiety Disorders,C0003469
+4843,NOS2,nitric oxide synthase 2,17,Anxiety Disorders,C0003469
+5021,OXTR,oxytocin receptor,3,Anxiety Disorders,C0003469
+135,ADORA2A,adenosine A2a receptor,22,Anxiety Disorders,C0003469
+133,ADM,adrenomedullin,11,Anxiety Disorders,C0003469
+3350,HTR1A,5-hydroxytryptamine receptor 1A,5,Anxiety Disorders,C0003469
+121278,TPH2,tryptophan hydroxylase 2,12,Anxiety Disorders,C0003469
+2289,FKBP5,FKBP prolyl isomerase 5,6,Anxiety Disorders,C0003469
+2915,GRM5,glutamate metabotropic receptor 5,11,Anxiety Disorders,C0003469
+4852,NPY,neuropeptide Y,7,Anxiety Disorders,C0003469
+1139,CHRNA7,cholinergic receptor nicotinic alpha 7 subunit,15,Anxiety Disorders,C0003469
+84062,DTNBP1,dystrobrevin binding protein 1,6,Anxiety Disorders,C0003469
+10021,HCN4,hyperpolarization activated cyclic nucleotide gated potassium channel 4,15,Anxiety Disorders,C0003469
+4916,NTRK3,neurotrophic receptor tyrosine kinase 3,15,Anxiety Disorders,C0003469
+41,ASIC1,acid sensing ion channel subunit 1,12,Anxiety Disorders,C0003469
+8910,SGCE,sarcoglycan epsilon,7,Anxiety Disorders,C0003469
+387129,NPSR1,neuropeptide S receptor 1,7,Anxiety Disorders,C0003469
+407019,MIR27B,microRNA 27b,9,Anxiety Disorders,C0003469
+5997,RGS2,regulator of G protein signaling 2,1,Anxiety Disorders,C0003469
+2571,GAD1,glutamate decarboxylase 1,2,Anxiety Disorders,C0003469
+2572,GAD2,glutamate decarboxylase 2,10,Anxiety Disorders,C0003469
+117,ADCYAP1R1,ADCYAP receptor type I,7,Anxiety Disorders,C0003469
+6303,SAT1,spermidine/spermine N1-acetyltransferase 1,X,Anxiety Disorders,C0003469
+2743,GLRB,glycine receptor beta,4,Anxiety Disorders,C0003469
+253559,CADM2,cell adhesion molecule 2,3,Anxiety Disorders,C0003469
+2977,GUCY1A2,guanylate cyclase 1 soluble subunit alpha 2,11,Anxiety Disorders,C0003469
+5253,PHF2,PHD finger protein 2,9,Anxiety Disorders,C0003469
+168507,PKD1L1,"polycystin 1 like 1, transient receptor potential channel interacting",7,Anxiety Disorders,C0003469
+23348,DOCK9,dedicator of cytokinesis 9,13,Anxiety Disorders,C0003469
+4045,LSAMP,limbic system associated membrane protein,3,Anxiety Disorders,C0003469
+121256,TMEM132D,transmembrane protein 132D,12,Anxiety Disorders,C0003469
+79694,MANEA,mannosidase endo-alpha,6,Anxiety Disorders,C0003469
+100188856,DEL22Q11.2,"Chromosome 22q11.2 deletion syndrome, distal",22,Anxiety Disorders,C0003469
+145567,TTC7B,tetratricopeptide repeat domain 7B,14,Anxiety Disorders,C0003469
+338599,DUSP29,dual specificity phosphatase 29,10,Anxiety Disorders,C0003469
+9848,MFAP3L,microfibril associated protein 3 like,4,Anxiety Disorders,C0003469
+390275,OR8A1,olfactory receptor family 8 subfamily A member 1,11,Anxiety Disorders,C0003469
+100505566,LINC00578,long independently transcribed non-coding RNA 578,3,Anxiety Disorders,C0003469
+1956,EGFR,epidermal growth factor receptor,7,Neurodegenerative Diseases,C0524851
+2475,MTOR,mechanistic target of rapamycin kinase,1,Neurodegenerative Diseases,C0524851
+3091,HIF1A,hypoxia inducible factor 1 subunit alpha,14,Neurodegenerative Diseases,C0524851
+836,CASP3,caspase 3,4,Neurodegenerative Diseases,C0524851
+1499,CTNNB1,catenin beta 1,3,Neurodegenerative Diseases,C0524851
+348,APOE,apolipoprotein E,19,Neurodegenerative Diseases,C0524851
+4780,NFE2L2,NFE2 like bZIP transcription factor 2,2,Neurodegenerative Diseases,C0524851
+4846,NOS3,nitric oxide synthase 3,7,Neurodegenerative Diseases,C0524851
+4137,MAPT,microtubule associated protein tau,17,Neurodegenerative Diseases,C0524851
+7015,TERT,telomerase reverse transcriptase,5,Neurodegenerative Diseases,C0524851
+4609,MYC,"MYC proto-oncogene, bHLH transcription factor",8,Neurodegenerative Diseases,C0524851
+6347,CCL2,C-C motif chemokine ligand 2,17,Neurodegenerative Diseases,C0524851
+1029,CDKN2A,cyclin dependent kinase inhibitor 2A,9,Neurodegenerative Diseases,C0524851
+472,ATM,ATM serine/threonine kinase,11,Neurodegenerative Diseases,C0524851
+351,APP,amyloid beta precursor protein,21,Neurodegenerative Diseases,C0524851
+6622,SNCA,synuclein alpha,4,Neurodegenerative Diseases,C0524851
+6532,SLC6A4,solute carrier family 6 member 4,17,Neurodegenerative Diseases,C0524851
+23411,SIRT1,sirtuin 1,10,Neurodegenerative Diseases,C0524851
+3479,IGF1,insulin like growth factor 1,12,Neurodegenerative Diseases,C0524851
+114548,NLRP3,NLR family pyrin domain containing 3,1,Neurodegenerative Diseases,C0524851
+6647,SOD1,superoxide dismutase 1,21,Neurodegenerative Diseases,C0524851
+627,BDNF,brain derived neurotrophic factor,11,Neurodegenerative Diseases,C0524851
+2932,GSK3B,glycogen synthase kinase 3 beta,3,Neurodegenerative Diseases,C0524851
+3458,IFNG,interferon gamma,12,Neurodegenerative Diseases,C0524851
+1401,CRP,C-reactive protein,1,Neurodegenerative Diseases,C0524851
+598,BCL2L1,BCL2 like 1,20,Neurodegenerative Diseases,C0524851
+3077,HFE,homeostatic iron regulator,6,Neurodegenerative Diseases,C0524851
+5444,PON1,paraoxonase 1,7,Neurodegenerative Diseases,C0524851
+2332,FMR1,fragile X messenger ribonucleoprotein 1,X,Neurodegenerative Diseases,C0524851
+120892,LRRK2,leucine rich repeat kinase 2,12,Neurodegenerative Diseases,C0524851
+841,CASP8,caspase 8,2,Neurodegenerative Diseases,C0524851
+5970,RELA,"RELA proto-oncogene, NF-kB subunit",11,Neurodegenerative Diseases,C0524851
+23435,TARDBP,TAR DNA binding protein,1,Neurodegenerative Diseases,C0524851
+3383,ICAM1,intercellular adhesion molecule 1,19,Neurodegenerative Diseases,C0524851
+340061,STING1,stimulator of interferon response cGAMP interactor 1,5,Neurodegenerative Diseases,C0524851
+2740,GLP1R,glucagon like peptide 1 receptor,6,Neurodegenerative Diseases,C0524851
+9518,GDF15,growth differentiation factor 15,19,Neurodegenerative Diseases,C0524851
+84557,MAP1LC3A,microtubule associated protein 1 light chain 3 alpha,20,Neurodegenerative Diseases,C0524851
+217,ALDH2,aldehyde dehydrogenase 2 family member,12,Neurodegenerative Diseases,C0524851
+10891,PPARGC1A,PPARG coactivator 1 alpha,4,Neurodegenerative Diseases,C0524851
+6469,SHH,sonic hedgehog signaling molecule,7,Neurodegenerative Diseases,C0524851
+5621,PRNP,prion protein (Kanno blood group),20,Neurodegenerative Diseases,C0524851
+3315,HSPB1,heat shock protein family B (small) member 1,7,Neurodegenerative Diseases,C0524851
+203228,C9orf72,C9orf72-SMCR8 complex subunit,9,Neurodegenerative Diseases,C0524851
+8878,SQSTM1,sequestosome 1,5,Neurodegenerative Diseases,C0524851
+328,APEX1,apurinic/apyrimidinic endodeoxyribonuclease 1,14,Neurodegenerative Diseases,C0524851
+9817,KEAP1,kelch like ECH associated protein 1,19,Neurodegenerative Diseases,C0524851
+4615,MYD88,MYD88 innate immune signal transduction adaptor,3,Neurodegenerative Diseases,C0524851
+1191,CLU,clusterin,8,Neurodegenerative Diseases,C0524851
+3481,IGF2,insulin like growth factor 2,11,Neurodegenerative Diseases,C0524851
+729230,CCR2,C-C motif chemokine receptor 2,3,Neurodegenerative Diseases,C0524851
+6696,SPP1,secreted phosphoprotein 1,4,Neurodegenerative Diseases,C0524851
+252995,FNDC5,fibronectin type III domain containing 5,1,Neurodegenerative Diseases,C0524851
+196,AHR,aryl hydrocarbon receptor,7,Neurodegenerative Diseases,C0524851
+2896,GRN,granulin precursor,17,Neurodegenerative Diseases,C0524851
+183,AGT,angiotensinogen,1,Neurodegenerative Diseases,C0524851
+54790,TET2,tet methylcytosine dioxygenase 2,4,Neurodegenerative Diseases,C0524851
+216,ALDH1A1,aldehyde dehydrogenase 1 family member A1,9,Neurodegenerative Diseases,C0524851
+7345,UCHL1,ubiquitin C-terminal hydrolase L1,4,Neurodegenerative Diseases,C0524851
+5300,PIN1,"peptidylprolyl cis/trans isomerase, NIMA-interacting 1",19,Neurodegenerative Diseases,C0524851
+54209,TREM2,triggering receptor expressed on myeloid cells 2,6,Neurodegenerative Diseases,C0524851
+4842,NOS1,nitric oxide synthase 1,12,Neurodegenerative Diseases,C0524851
+2521,FUS,FUS DNA/RNA binding protein,16,Neurodegenerative Diseases,C0524851
+11315,PARK7,Parkinsonism associated deglycase,1,Neurodegenerative Diseases,C0524851
+115004,CGAS,cyclic GMP-AMP synthase,6,Neurodegenerative Diseases,C0524851
+406938,MIR146A,microRNA 146a,5,Neurodegenerative Diseases,C0524851
+23657,SLC7A11,solute carrier family 7 member 11,4,Neurodegenerative Diseases,C0524851
+10059,DNM1L,dynamin 1L,12,Neurodegenerative Diseases,C0524851
+5071,PRKN,parkin RBR E3 ubiquitin protein ligase,6,Neurodegenerative Diseases,C0524851
+6786,STIM1,stromal interaction molecule 1,11,Neurodegenerative Diseases,C0524851
+7415,VCP,valosin containing protein,9,Neurodegenerative Diseases,C0524851
+2668,GDNF,glial cell derived neurotrophic factor,5,Neurodegenerative Diseases,C0524851
+5649,RELN,reelin,7,Neurodegenerative Diseases,C0524851
+2081,ERN1,endoplasmic reticulum to nucleus signaling 1,17,Neurodegenerative Diseases,C0524851
+23410,SIRT3,sirtuin 3,11,Neurodegenerative Diseases,C0524851
+7351,UCP2,uncoupling protein 2,11,Neurodegenerative Diseases,C0524851
+29110,TBK1,TANK binding kinase 1,12,Neurodegenerative Diseases,C0524851
+7316,UBC,ubiquitin C,12,Neurodegenerative Diseases,C0524851
+84876,ORAI1,ORAI calcium release-activated calcium modulator 1,12,Neurodegenerative Diseases,C0524851
+4804,NGFR,nerve growth factor receptor,17,Neurodegenerative Diseases,C0524851
+2173,FABP7,fatty acid binding protein 7,6,Neurodegenerative Diseases,C0524851
+5599,MAPK8,mitogen-activated protein kinase 8,10,Neurodegenerative Diseases,C0524851
+51548,SIRT6,sirtuin 6,19,Neurodegenerative Diseases,C0524851
+1268,CNR1,cannabinoid receptor 1,6,Neurodegenerative Diseases,C0524851
+9927,MFN2,mitofusin 2,1,Neurodegenerative Diseases,C0524851
+6376,CX3CL1,C-X3-C motif chemokine ligand 1,16,Neurodegenerative Diseases,C0524851
+4976,OPA1,OPA1 mitochondrial dynamin like GTPase,3,Neurodegenerative Diseases,C0524851
+5465,PPARA,peroxisome proliferator activated receptor alpha,22,Neurodegenerative Diseases,C0524851
+1524,CX3CR1,C-X3-C motif chemokine receptor 1,3,Neurodegenerative Diseases,C0524851
+8862,APLN,apelin,X,Neurodegenerative Diseases,C0524851
+10628,TXNIP,thioredoxin interacting protein,1,Neurodegenerative Diseases,C0524851
+4915,NTRK2,neurotrophic receptor tyrosine kinase 2,9,Neurodegenerative Diseases,C0524851
+1020,CDK5,cyclin dependent kinase 5,7,Neurodegenerative Diseases,C0524851
+283131,NEAT1,nuclear paraspeckle assembly transcript 1,11,Neurodegenerative Diseases,C0524851
+3303,HSPA1A,heat shock protein family A (Hsp70) member 1A,6,Neurodegenerative Diseases,C0524851
+7133,TNFRSF1B,TNF receptor superfamily member 1B,1,Neurodegenerative Diseases,C0524851
+9451,EIF2AK3,eukaryotic translation initiation factor 2 alpha kinase 3,2,Neurodegenerative Diseases,C0524851
+2170,FABP3,fatty acid binding protein 3,1,Neurodegenerative Diseases,C0524851
+7078,TIMP3,TIMP metallopeptidase inhibitor 3,22,Neurodegenerative Diseases,C0524851
+317,APAF1,apoptotic peptidase activating factor 1,12,Neurodegenerative Diseases,C0524851
+7157,TP53,tumor protein p53,17,Parkinson Disease,C0030567
+7422,VEGFA,vascular endothelial growth factor A,6,Parkinson Disease,C0030567
+2475,MTOR,mechanistic target of rapamycin kinase,1,Parkinson Disease,C0030567
+3569,IL6,interleukin 6,7,Parkinson Disease,C0030567
+5743,PTGS2,prostaglandin-endoperoxide synthase 2,1,Parkinson Disease,C0030567
+836,CASP3,caspase 3,4,Parkinson Disease,C0030567
+7124,TNF,tumor necrosis factor,6,Parkinson Disease,C0030567
+7099,TLR4,toll like receptor 4,9,Parkinson Disease,C0030567
+348,APOE,apolipoprotein E,19,Parkinson Disease,C0030567
+3586,IL10,interleukin 10,1,Parkinson Disease,C0030567
+4137,MAPT,microtubule associated protein tau,17,Parkinson Disease,C0030567
+5243,ABCB1,ATP binding cassette subfamily B member 1,7,Parkinson Disease,C0030567
+4524,MTHFR,methylenetetrahydrofolate reductase,1,Parkinson Disease,C0030567
+581,BAX,"BCL2 associated X, apoptosis regulator",19,Parkinson Disease,C0030567
+4318,MMP9,matrix metallopeptidase 9,20,Parkinson Disease,C0030567
+3553,IL1B,interleukin 1 beta,2,Parkinson Disease,C0030567
+6347,CCL2,C-C motif chemokine ligand 2,17,Parkinson Disease,C0030567
+351,APP,amyloid beta precursor protein,21,Parkinson Disease,C0030567
+6622,SNCA,synuclein alpha,4,Parkinson Disease,C0030567
+6532,SLC6A4,solute carrier family 6 member 4,17,Parkinson Disease,C0030567
+3479,IGF1,insulin like growth factor 1,12,Parkinson Disease,C0030567
+1636,ACE,angiotensin I converting enzyme,17,Parkinson Disease,C0030567
+6387,CXCL12,C-X-C motif chemokine ligand 12,10,Parkinson Disease,C0030567
+6647,SOD1,superoxide dismutase 1,21,Parkinson Disease,C0030567
+7097,TLR2,toll like receptor 2,4,Parkinson Disease,C0030567
+142,PARP1,poly(ADP-ribose) polymerase 1,1,Parkinson Disease,C0030567
+5663,PSEN1,presenilin 1,14,Parkinson Disease,C0030567
+3934,LCN2,lipocalin 2,9,Parkinson Disease,C0030567
+627,BDNF,brain derived neurotrophic factor,11,Parkinson Disease,C0030567
+2932,GSK3B,glycogen synthase kinase 3 beta,3,Parkinson Disease,C0030567
+4790,NFKB1,nuclear factor kappa B subunit 1,4,Parkinson Disease,C0030567
+1401,CRP,C-reactive protein,1,Parkinson Disease,C0030567
+3162,HMOX1,heme oxygenase 1,22,Parkinson Disease,C0030567
+7421,VDR,vitamin D receptor,12,Parkinson Disease,C0030567
+3077,HFE,homeostatic iron regulator,6,Parkinson Disease,C0030567
+5444,PON1,paraoxonase 1,7,Parkinson Disease,C0030567
+2332,FMR1,fragile X messenger ribonucleoprotein 1,X,Parkinson Disease,C0030567
+1312,COMT,catechol-O-methyltransferase,22,Parkinson Disease,C0030567
+5979,RET,ret proto-oncogene,10,Parkinson Disease,C0030567
+3123,HLA-DRB1,"major histocompatibility complex, class II, DR beta 1",6,Parkinson Disease,C0030567
+2950,GSTP1,glutathione S-transferase pi 1,11,Parkinson Disease,C0030567
+120892,LRRK2,leucine rich repeat kinase 2,12,Parkinson Disease,C0030567
+3146,HMGB1,high mobility group box 1,13,Parkinson Disease,C0030567
+23435,TARDBP,TAR DNA binding protein,1,Parkinson Disease,C0030567
+842,CASP9,caspase 9,1,Parkinson Disease,C0030567
+6285,S100B,S100 calcium binding protein B,21,Parkinson Disease,C0030567
+335,APOA1,apolipoprotein A1,11,Parkinson Disease,C0030567
+19,ABCA1,ATP binding cassette subfamily A member 1,9,Parkinson Disease,C0030567
+9518,GDF15,growth differentiation factor 15,19,Parkinson Disease,C0030567
+2308,FOXO1,forkhead box O1,13,Parkinson Disease,C0030567
+1813,DRD2,dopamine receptor D2,11,Parkinson Disease,C0030567
+2944,GSTM1,glutathione S-transferase mu 1,1,Parkinson Disease,C0030567
+3958,LGALS3,galectin 3,14,Parkinson Disease,C0030567
+54106,TLR9,toll like receptor 9,3,Parkinson Disease,C0030567
+3606,IL18,interleukin 18,11,Parkinson Disease,C0030567
+217,ALDH2,aldehyde dehydrogenase 2 family member,12,Parkinson Disease,C0030567
+4170,MCL1,"MCL1 apoptosis regulator, BCL2 family member",1,Parkinson Disease,C0030567
+10,NAT2,N-acetyltransferase 2,8,Parkinson Disease,C0030567
+5925,RB1,RB transcriptional corepressor 1,13,Parkinson Disease,C0030567
+6531,SLC6A3,solute carrier family 6 member 3,5,Parkinson Disease,C0030567
+203228,C9orf72,C9orf72-SMCR8 complex subunit,9,Parkinson Disease,C0030567
+8878,SQSTM1,sequestosome 1,5,Parkinson Disease,C0030567
+1815,DRD4,dopamine receptor D4,11,Parkinson Disease,C0030567
+7076,TIMP1,TIMP metallopeptidase inhibitor 1,X,Parkinson Disease,C0030567
+4879,NPPB,natriuretic peptide B,1,Parkinson Disease,C0030567
+7037,TFRC,transferrin receptor,3,Parkinson Disease,C0030567
+2952,GSTT1,glutathione S-transferase theta 1,22,Parkinson Disease,C0030567
+2147,F2,"coagulation factor II, thrombin",11,Parkinson Disease,C0030567
+1191,CLU,clusterin,8,Parkinson Disease,C0030567
+2100,ESR2,estrogen receptor 2,14,Parkinson Disease,C0030567
+7161,TP73,tumor protein p73,1,Parkinson Disease,C0030567
+729230,CCR2,C-C motif chemokine receptor 2,3,Parkinson Disease,C0030567
+6696,SPP1,secreted phosphoprotein 1,4,Parkinson Disease,C0030567
+1565,CYP2D6,cytochrome P450 family 2 subfamily D member 6 (gene/pseudogene),22,Parkinson Disease,C0030567
+4314,MMP3,matrix metallopeptidase 3,11,Parkinson Disease,C0030567
+2896,GRN,granulin precursor,17,Parkinson Disease,C0030567
+1544,CYP1A2,cytochrome P450 family 1 subfamily A member 2,15,Parkinson Disease,C0030567
+10013,HDAC6,histone deacetylase 6,X,Parkinson Disease,C0030567
+6720,SREBF1,sterol regulatory element binding transcription factor 1,17,Parkinson Disease,C0030567
+407021,MIR29A,microRNA 29a,7,Parkinson Disease,C0030567
+5788,PTPRC,protein tyrosine phosphatase receptor type C,1,Parkinson Disease,C0030567
+216,ALDH1A1,aldehyde dehydrogenase 1 family member A1,9,Parkinson Disease,C0030567
+7345,UCHL1,ubiquitin C-terminal hydrolase L1,4,Parkinson Disease,C0030567
+5300,PIN1,"peptidylprolyl cis/trans isomerase, NIMA-interacting 1",19,Parkinson Disease,C0030567
+54209,TREM2,triggering receptor expressed on myeloid cells 2,6,Parkinson Disease,C0030567
+1814,DRD3,dopamine receptor D3,3,Parkinson Disease,C0030567
+4842,NOS1,nitric oxide synthase 1,12,Parkinson Disease,C0030567
+1906,EDN1,endothelin 1,6,Parkinson Disease,C0030567
+1113,CHGA,chromogranin A,14,Parkinson Disease,C0030567
+2521,FUS,FUS DNA/RNA binding protein,16,Parkinson Disease,C0030567
+2066,ERBB4,erb-b2 receptor tyrosine kinase 4,2,Parkinson Disease,C0030567
+11315,PARK7,Parkinsonism associated deglycase,1,Parkinson Disease,C0030567
+7132,TNFRSF1A,TNF receptor superfamily member 1A,12,Parkinson Disease,C0030567
+10059,DNM1L,dynamin 1L,12,Parkinson Disease,C0030567
+5071,PRKN,parkin RBR E3 ubiquitin protein ligase,6,Parkinson Disease,C0030567
+6786,STIM1,stromal interaction molecule 1,11,Parkinson Disease,C0030567
+2668,GDNF,glial cell derived neurotrophic factor,5,Parkinson Disease,C0030567
+2629,GBA1,glucosylceramidase beta 1,1,Parkinson Disease,C0030567
+25,ABL1,"ABL proto-oncogene 1, non-receptor tyrosine kinase",9,Parkinson Disease,C0030567
+5580,PRKCD,protein kinase C delta,3,Parkinson Disease,C0030567
+7157,TP53,tumor protein p53,17,Alzheimer Disease,C0002395
+7422,VEGFA,vascular endothelial growth factor A,6,Alzheimer Disease,C0002395
+2475,MTOR,mechanistic target of rapamycin kinase,1,Alzheimer Disease,C0002395
+3569,IL6,interleukin 6,7,Alzheimer Disease,C0002395
+5743,PTGS2,prostaglandin-endoperoxide synthase 2,1,Alzheimer Disease,C0002395
+7040,TGFB1,transforming growth factor beta 1,19,Alzheimer Disease,C0002395
+7124,TNF,tumor necrosis factor,6,Alzheimer Disease,C0002395
+7099,TLR4,toll like receptor 4,9,Alzheimer Disease,C0002395
+348,APOE,apolipoprotein E,19,Alzheimer Disease,C0002395
+3586,IL10,interleukin 10,1,Alzheimer Disease,C0002395
+672,BRCA1,BRCA1 DNA repair associated,17,Alzheimer Disease,C0002395
+2099,ESR1,estrogen receptor 1,6,Alzheimer Disease,C0002395
+4846,NOS3,nitric oxide synthase 3,7,Alzheimer Disease,C0002395
+4137,MAPT,microtubule associated protein tau,17,Alzheimer Disease,C0002395
+5243,ABCB1,ATP binding cassette subfamily B member 1,7,Alzheimer Disease,C0002395
+4524,MTHFR,methylenetetrahydrofolate reductase,1,Alzheimer Disease,C0002395
+255738,PCSK9,proprotein convertase subtilisin/kexin type 9,1,Alzheimer Disease,C0002395
+4318,MMP9,matrix metallopeptidase 9,20,Alzheimer Disease,C0002395
+3553,IL1B,interleukin 1 beta,2,Alzheimer Disease,C0002395
+9370,ADIPOQ,"adiponectin, C1Q and collagen domain containing",3,Alzheimer Disease,C0002395
+3576,CXCL8,C-X-C motif chemokine ligand 8,4,Alzheimer Disease,C0002395
+6347,CCL2,C-C motif chemokine ligand 2,17,Alzheimer Disease,C0002395
+356,FASLG,Fas ligand,1,Alzheimer Disease,C0002395
+351,APP,amyloid beta precursor protein,21,Alzheimer Disease,C0002395
+6622,SNCA,synuclein alpha,4,Alzheimer Disease,C0002395
+6532,SLC6A4,solute carrier family 6 member 4,17,Alzheimer Disease,C0002395
+23411,SIRT1,sirtuin 1,10,Alzheimer Disease,C0002395
+3479,IGF1,insulin like growth factor 1,12,Alzheimer Disease,C0002395
+1636,ACE,angiotensin I converting enzyme,17,Alzheimer Disease,C0002395
+796,CALCA,calcitonin related polypeptide alpha,11,Alzheimer Disease,C0002395
+6647,SOD1,superoxide dismutase 1,21,Alzheimer Disease,C0002395
+4313,MMP2,matrix metallopeptidase 2,16,Alzheimer Disease,C0002395
+9429,ABCG2,ATP binding cassette subfamily G member 2 (JR blood group),4,Alzheimer Disease,C0002395
+8743,TNFSF10,TNF superfamily member 10,3,Alzheimer Disease,C0002395
+7097,TLR2,toll like receptor 2,4,Alzheimer Disease,C0002395
+5663,PSEN1,presenilin 1,14,Alzheimer Disease,C0002395
+627,BDNF,brain derived neurotrophic factor,11,Alzheimer Disease,C0002395
+2932,GSK3B,glycogen synthase kinase 3 beta,3,Alzheimer Disease,C0002395
+4790,NFKB1,nuclear factor kappa B subunit 1,4,Alzheimer Disease,C0002395
+3458,IFNG,interferon gamma,12,Alzheimer Disease,C0002395
+1401,CRP,C-reactive protein,1,Alzheimer Disease,C0002395
+3162,HMOX1,heme oxygenase 1,22,Alzheimer Disease,C0002395
+7421,VDR,vitamin D receptor,12,Alzheimer Disease,C0002395
+3077,HFE,homeostatic iron regulator,6,Alzheimer Disease,C0002395
+5444,PON1,paraoxonase 1,7,Alzheimer Disease,C0002395
+1071,CETP,cholesteryl ester transfer protein,16,Alzheimer Disease,C0002395
+23621,BACE1,beta-secretase 1,11,Alzheimer Disease,C0002395
+1471,CST3,cystatin C,20,Alzheimer Disease,C0002395
+1312,COMT,catechol-O-methyltransferase,22,Alzheimer Disease,C0002395
+2950,GSTP1,glutathione S-transferase pi 1,11,Alzheimer Disease,C0002395
+5468,PPARG,peroxisome proliferator activated receptor gamma,3,Alzheimer Disease,C0002395
+6513,SLC2A1,solute carrier family 2 member 1,1,Alzheimer Disease,C0002395
+1234,CCR5,C-C motif chemokine receptor 5,3,Alzheimer Disease,C0002395
+120892,LRRK2,leucine rich repeat kinase 2,12,Alzheimer Disease,C0002395
+3952,LEP,leptin,7,Alzheimer Disease,C0002395
+79068,FTO,FTO alpha-ketoglutarate dependent dioxygenase,16,Alzheimer Disease,C0002395
+5970,RELA,"RELA proto-oncogene, NF-kB subunit",11,Alzheimer Disease,C0002395
+23435,TARDBP,TAR DNA binding protein,1,Alzheimer Disease,C0002395
+3075,CFH,complement factor H,1,Alzheimer Disease,C0002395
+6285,S100B,S100 calcium binding protein B,21,Alzheimer Disease,C0002395
+335,APOA1,apolipoprotein A1,11,Alzheimer Disease,C0002395
+406947,MIR155,microRNA 155,21,Alzheimer Disease,C0002395
+857,CAV1,caveolin 1,7,Alzheimer Disease,C0002395
+19,ABCA1,ATP binding cassette subfamily A member 1,9,Alzheimer Disease,C0002395
+1869,E2F1,E2F transcription factor 1,20,Alzheimer Disease,C0002395
+2944,GSTM1,glutathione S-transferase mu 1,1,Alzheimer Disease,C0002395
+3958,LGALS3,galectin 3,14,Alzheimer Disease,C0002395
+217,ALDH2,aldehyde dehydrogenase 2 family member,12,Alzheimer Disease,C0002395
+10891,PPARGC1A,PPARG coactivator 1 alpha,4,Alzheimer Disease,C0002395
+4170,MCL1,"MCL1 apoptosis regulator, BCL2 family member",1,Alzheimer Disease,C0002395
+3605,IL17A,interleukin 17A,6,Alzheimer Disease,C0002395
+1116,CHI3L1,chitinase 3 like 1,1,Alzheimer Disease,C0002395
+1728,NQO1,NAD(P)H quinone dehydrogenase 1,16,Alzheimer Disease,C0002395
+1577,CYP3A5,cytochrome P450 family 3 subfamily A member 5,7,Alzheimer Disease,C0002395
+361,AQP4,aquaporin 4,18,Alzheimer Disease,C0002395
+6531,SLC6A3,solute carrier family 6 member 3,5,Alzheimer Disease,C0002395
+5621,PRNP,prion protein (Kanno blood group),20,Alzheimer Disease,C0002395
+1958,EGR1,early growth response 1,5,Alzheimer Disease,C0002395
+2908,NR3C1,nuclear receptor subfamily 3 group C member 1,5,Alzheimer Disease,C0002395
+8878,SQSTM1,sequestosome 1,5,Alzheimer Disease,C0002395
+4282,MIF,macrophage migration inhibitory factor,22,Alzheimer Disease,C0002395
+7076,TIMP1,TIMP metallopeptidase inhibitor 1,X,Alzheimer Disease,C0002395
+4879,NPPB,natriuretic peptide B,1,Alzheimer Disease,C0002395
+5604,MAP2K1,mitogen-activated protein kinase kinase 1,15,Alzheimer Disease,C0002395
+328,APEX1,apurinic/apyrimidinic endodeoxyribonuclease 1,14,Alzheimer Disease,C0002395
+8678,BECN1,beclin 1,17,Alzheimer Disease,C0002395
+2952,GSTT1,glutathione S-transferase theta 1,22,Alzheimer Disease,C0002395
+9817,KEAP1,kelch like ECH associated protein 1,19,Alzheimer Disease,C0002395
+5265,SERPINA1,serpin family A member 1,14,Alzheimer Disease,C0002395
+338,APOB,apolipoprotein B,2,Alzheimer Disease,C0002395
+3486,IGFBP3,insulin like growth factor binding protein 3,7,Alzheimer Disease,C0002395
+3949,LDLR,low density lipoprotein receptor,19,Alzheimer Disease,C0002395
+6667,SP1,Sp1 transcription factor,12,Alzheimer Disease,C0002395
+3105,HLA-A,"major histocompatibility complex, class I, A",6,Alzheimer Disease,C0002395
+6352,CCL5,C-C motif chemokine ligand 5,17,Alzheimer Disease,C0002395
+90865,IL33,interleukin 33,9,Alzheimer Disease,C0002395
+1191,CLU,clusterin,8,Alzheimer Disease,C0002395
+177,AGER,advanced glycosylation end-product specific receptor,6,Alzheimer Disease,C0002395
+7276,TTR,transthyretin,18,Alzheimer Disease,C0002395
+1385,CREB1,cAMP responsive element binding protein 1,2,Alzheimer Disease,C0002395
+5243,ABCB1,ATP binding cassette subfamily B member 1,7,Drug Dependence,C1510472
+6532,SLC6A4,solute carrier family 6 member 4,17,Drug Dependence,C1510472
+1312,COMT,catechol-O-methyltransferase,22,Drug Dependence,C1510472
+2950,GSTP1,glutathione S-transferase pi 1,11,Drug Dependence,C1510472
+1813,DRD2,dopamine receptor D2,11,Drug Dependence,C1510472
+2944,GSTM1,glutathione S-transferase mu 1,1,Drug Dependence,C1510472
+4684,NCAM1,neural cell adhesion molecule 1,11,Drug Dependence,C1510472
+1555,CYP2B6,cytochrome P450 family 2 subfamily B member 6,19,Drug Dependence,C1510472
+4988,OPRM1,opioid receptor mu 1,6,Drug Dependence,C1510472
+3708,ITPR1,"inositol 1,4,5-trisphosphate receptor type 1",3,Drug Dependence,C1510472
+4803,NGF,nerve growth factor,1,Drug Dependence,C1510472
+121278,TPH2,tryptophan hydroxylase 2,12,Drug Dependence,C1510472
+43,ACHE,acetylcholinesterase (Yt blood group),7,Drug Dependence,C1510472
+84062,DTNBP1,dystrobrevin binding protein 1,6,Drug Dependence,C1510472
+255239,ANKK1,ankyrin repeat and kinase domain containing 1,11,Drug Dependence,C1510472
+2166,FAAH,fatty acid amide hydrolase,1,Drug Dependence,C1510472
+6536,SLC6A9,solute carrier family 6 member 9,1,Drug Dependence,C1510472
+1129,CHRM2,cholinergic receptor muscarinic 2,7,Drug Dependence,C1510472
+2555,GABRA2,gamma-aminobutyric acid type A receptor subunit alpha2,4,Drug Dependence,C1510472
+4986,OPRK1,opioid receptor kappa 1,8,Drug Dependence,C1510472
+4985,OPRD1,opioid receptor delta 1,1,Drug Dependence,C1510472
+5368,PNOC,prepronociceptin,8,Drug Dependence,C1510472
+5173,PDYN,prodynorphin,20,Drug Dependence,C1510472
+9177,HTR3B,5-hydroxytryptamine receptor 3B,11,Drug Dependence,C1510472
+79971,WLS,Wnt ligand secretion mediator,1,Drug Dependence,C1510472
+127,ADH4,"alcohol dehydrogenase 4 (class II), pi polypeptide",4,Drug Dependence,C1510472
+54970,TTC12,tetratricopeptide repeat domain 12,11,Drug Dependence,C1510472
+4846,NOS3,nitric oxide synthase 3,7,Substance Use Disorder,C0038586
+6532,SLC6A4,solute carrier family 6 member 4,17,Substance Use Disorder,C0038586
+627,BDNF,brain derived neurotrophic factor,11,Substance Use Disorder,C0038586
+1312,COMT,catechol-O-methyltransferase,22,Substance Use Disorder,C0038586
+1813,DRD2,dopamine receptor D2,11,Substance Use Disorder,C0038586
+6531,SLC6A3,solute carrier family 6 member 3,5,Substance Use Disorder,C0038586
+1815,DRD4,dopamine receptor D4,11,Substance Use Disorder,C0038586
+3350,HTR1A,5-hydroxytryptamine receptor 1A,5,Substance Use Disorder,C0038586
+2289,FKBP5,FKBP prolyl isomerase 5,6,Substance Use Disorder,C0038586
+23284,ADGRL3,adhesion G protein-coupled receptor L3,4,Substance Use Disorder,C0038586
+3097,HIVEP2,HIVEP zinc finger 2,6,Substance Use Disorder,C0038586

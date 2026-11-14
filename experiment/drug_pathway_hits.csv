@@ -1,0 +1,93 @@
+Chemical,Pathway,Pathway_ID,Hit_Count,Pathway_Size,Hit_Ratio
+Cocaine,Neuroactive ligand-receptor interaction,hsa04080,20,371,0.05390835579514825
+Cocaine,MAPK signaling pathway,hsa04010,15,301,0.04983388704318937
+Cocaine,Apoptosis,hsa04210,15,138,0.10869565217391304
+Cocaine,Serotonergic synapse,hsa04726,13,115,0.11304347826086956
+Cocaine,Dopaminergic synapse,hsa04728,12,133,0.09022556390977443
+Cocaine,Ras signaling pathway,hsa04014,10,239,0.04184100418410042
+Cocaine,Cholinergic synapse,hsa04725,8,115,0.06956521739130435
+Cocaine,Retrograde endocannabinoid signaling,hsa04723,7,149,0.04697986577181208
+Cocaine,Glutamatergic synapse,hsa04724,6,116,0.05172413793103448
+Cocaine,Synaptic vesicle cycle,hsa04721,6,79,0.0759493670886076
+Cocaine,Calcium signaling pathway,hsa04020,6,254,0.023622047244094488
+Cocaine,Long-term potentiation,hsa04720,4,67,0.05970149253731343
+Cocaine,Drug metabolism - cytochrome P450,hsa00982,3,73,0.0410958904109589
+Cocaine,NF-kappa B signaling pathway,hsa04064,3,105,0.02857142857142857
+Cocaine,Drug metabolism - other enzymes,hsa00983,2,82,0.024390243902439025
+Cocaine,GABAergic synapse,hsa04727,1,89,0.011235955056179775
+Diazepam,Drug metabolism - cytochrome P450,hsa00982,3,73,0.0410958904109589
+Diazepam,Serotonergic synapse,hsa04726,1,115,0.008695652173913044
+Diazepam,Dopaminergic synapse,hsa04728,1,133,0.007518796992481203
+Diazepam,Cholinergic synapse,hsa04725,1,115,0.008695652173913044
+Diazepam,Glutamatergic synapse,hsa04724,1,116,0.008620689655172414
+Diazepam,Synaptic vesicle cycle,hsa04721,1,79,0.012658227848101266
+Diazepam,Drug metabolism - other enzymes,hsa00983,1,82,0.012195121951219513
+Fentanyl,Neuroactive ligand-receptor interaction,hsa04080,3,371,0.008086253369272238
+Fentanyl,Drug metabolism - cytochrome P450,hsa00982,3,73,0.0410958904109589
+Fentanyl,Dopaminergic synapse,hsa04728,2,133,0.015037593984962405
+Fentanyl,Drug metabolism - other enzymes,hsa00983,2,82,0.024390243902439025
+Fentanyl,MAPK signaling pathway,hsa04010,2,301,0.006644518272425249
+Fentanyl,NF-kappa B signaling pathway,hsa04064,2,105,0.01904761904761905
+Fentanyl,Ras signaling pathway,hsa04014,1,239,0.0041841004184100415
+Fentanyl,Calcium signaling pathway,hsa04020,1,254,0.003937007874015748
+Fentanyl,Apoptosis,hsa04210,1,138,0.007246376811594203
+Ketamine,Neuroactive ligand-receptor interaction,hsa04080,8,371,0.0215633423180593
+Ketamine,Dopaminergic synapse,hsa04728,6,133,0.045112781954887216
+Ketamine,Ras signaling pathway,hsa04014,6,239,0.02510460251046025
+Ketamine,Calcium signaling pathway,hsa04020,6,254,0.023622047244094488
+Ketamine,Glutamatergic synapse,hsa04724,5,116,0.04310344827586207
+Ketamine,MAPK signaling pathway,hsa04010,5,301,0.016611295681063124
+Ketamine,Long-term potentiation,hsa04720,4,67,0.05970149253731343
+Ketamine,Retrograde endocannabinoid signaling,hsa04723,3,149,0.020134228187919462
+Ketamine,Serotonergic synapse,hsa04726,2,115,0.017391304347826087
+Ketamine,GABAergic synapse,hsa04727,2,89,0.02247191011235955
+Ketamine,Synaptic vesicle cycle,hsa04721,2,79,0.02531645569620253
+Ketamine,Cholinergic synapse,hsa04725,1,115,0.008695652173913044
+Ketamine,Drug metabolism - cytochrome P450,hsa00982,1,73,0.0136986301369863
+Ketamine,NF-kappa B signaling pathway,hsa04064,1,105,0.009523809523809525
+Ketamine,Apoptosis,hsa04210,1,138,0.007246376811594203
+MDMA,Drug metabolism - cytochrome P450,hsa00982,5,73,0.0684931506849315
+MDMA,Serotonergic synapse,hsa04726,3,115,0.02608695652173913
+MDMA,Neuroactive ligand-receptor interaction,hsa04080,2,371,0.005390835579514825
+MDMA,Synaptic vesicle cycle,hsa04721,2,79,0.02531645569620253
+MDMA,Dopaminergic synapse,hsa04728,1,133,0.007518796992481203
+MDMA,Drug metabolism - other enzymes,hsa00983,1,82,0.012195121951219513
+MDMA,Calcium signaling pathway,hsa04020,1,254,0.003937007874015748
+Methamphetamine,Neuroactive ligand-receptor interaction,hsa04080,29,371,0.07816711590296496
+Methamphetamine,Dopaminergic synapse,hsa04728,13,133,0.09774436090225563
+Methamphetamine,Calcium signaling pathway,hsa04020,13,254,0.051181102362204724
+Methamphetamine,Glutamatergic synapse,hsa04724,10,116,0.08620689655172414
+Methamphetamine,Long-term potentiation,hsa04720,7,67,0.1044776119402985
+Methamphetamine,GABAergic synapse,hsa04727,6,89,0.06741573033707865
+Methamphetamine,Retrograde endocannabinoid signaling,hsa04723,6,149,0.040268456375838924
+Methamphetamine,Drug metabolism - cytochrome P450,hsa00982,6,73,0.0821917808219178
+Methamphetamine,Ras signaling pathway,hsa04014,6,239,0.02510460251046025
+Methamphetamine,MAPK signaling pathway,hsa04010,6,301,0.019933554817275746
+Methamphetamine,Serotonergic synapse,hsa04726,4,115,0.034782608695652174
+Methamphetamine,Cholinergic synapse,hsa04725,4,115,0.034782608695652174
+Methamphetamine,Synaptic vesicle cycle,hsa04721,3,79,0.0379746835443038
+Methamphetamine,Drug metabolism - other enzymes,hsa00983,3,82,0.036585365853658534
+Methamphetamine,NF-kappa B signaling pathway,hsa04064,2,105,0.01904761904761905
+Methamphetamine,Apoptosis,hsa04210,2,138,0.014492753623188406
+Morphine,Neuroactive ligand-receptor interaction,hsa04080,19,371,0.05121293800539083
+Morphine,MAPK signaling pathway,hsa04010,18,301,0.059800664451827246
+Morphine,Dopaminergic synapse,hsa04728,12,133,0.09022556390977443
+Morphine,Cholinergic synapse,hsa04725,12,115,0.10434782608695652
+Morphine,Apoptosis,hsa04210,12,138,0.08695652173913043
+Morphine,Ras signaling pathway,hsa04014,9,239,0.03765690376569038
+Morphine,Retrograde endocannabinoid signaling,hsa04723,8,149,0.053691275167785234
+Morphine,Glutamatergic synapse,hsa04724,7,116,0.0603448275862069
+Morphine,Calcium signaling pathway,hsa04020,7,254,0.027559055118110236
+Morphine,Serotonergic synapse,hsa04726,6,115,0.05217391304347826
+Morphine,Long-term potentiation,hsa04720,6,67,0.08955223880597014
+Morphine,NF-kappa B signaling pathway,hsa04064,6,105,0.05714285714285714
+Morphine,Drug metabolism - other enzymes,hsa00983,4,82,0.04878048780487805
+Morphine,Drug metabolism - cytochrome P450,hsa00982,3,73,0.0410958904109589
+Morphine,GABAergic synapse,hsa04727,2,89,0.02247191011235955
+Morphine,Synaptic vesicle cycle,hsa04721,1,79,0.012658227848101266
+THC,Neuroactive ligand-receptor interaction,hsa04080,2,371,0.005390835579514825
+THC,Serotonergic synapse,hsa04726,1,115,0.008695652173913044
+THC,Dopaminergic synapse,hsa04728,1,133,0.007518796992481203
+THC,Retrograde endocannabinoid signaling,hsa04723,1,149,0.006711409395973154
+THC,Drug metabolism - cytochrome P450,hsa00982,1,73,0.0136986301369863
+THC,Drug metabolism - other enzymes,hsa00983,1,82,0.012195121951219513

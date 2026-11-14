@@ -1,0 +1,9 @@
+Chemical,CYP1A2,CYP2B6,CYP2C19,CYP2C8,CYP2C9,CYP2D6,CYP2E1,CYP3A4
+Cocaine,none,none,none,,none,none,none,major
+Diazepam,none,minor,major,,minor,none,none,major
+Fentanyl,none,none,none,,none,none,none,major
+Ketamine,none,major,minor,,minor,none,none,major
+MDMA,minor,minor,minor,,none,major,none,minor
+Methamphetamine,minor,none,none,,none,major,none,minor
+Morphine,none,none,none,minor,none,minor,,minor
+THC,none,none,minor,,major,none,none,major

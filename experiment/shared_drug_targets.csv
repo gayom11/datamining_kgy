@@ -1,0 +1,13 @@
+Drug_1,Drug_2,Shared_Target_Count,Shared_Targets,Drug1_Total,Drug2_Total,Jaccard_Index
+Fentanyl,Ketamine,7,Cytochrome P450 2D6; Cytochrome P450 3A4; Delta-type opioid receptor; Histamine H1 receptor; Kappa-type opioid receptor; Mu-type opioid receptor; Voltage-gated inwardly rectifying potassium channel KCNH2,20,87,0.07
+Cocaine,Ketamine,3,Sodium-dependent dopamine transporter; Sodium-dependent noradrenaline transporter; Voltage-gated inwardly rectifying potassium channel KCNH2,10,87,0.031914893617021274
+Fentanyl,Morphine,3,Delta-type opioid receptor; Kappa-type opioid receptor; Mu-type opioid receptor,20,9,0.11538461538461539
+Ketamine,Morphine,3,Delta-type opioid receptor; Kappa-type opioid receptor; Mu-type opioid receptor,87,9,0.03225806451612903
+Cocaine,Diazepam,2,"GABA-A receptor; anion channel; Sodium channel alpha subunits; brain (Types I, II, III)",10,14,0.09090909090909091
+Cocaine,Morphine,2,"Sigma non-opioid intracellular receptor 1; Sodium channel alpha subunits; brain (Types I, II, III)",10,9,0.11764705882352941
+Fentanyl,THC,2,Homo sapiens; Tyrosyl-DNA phosphodiesterase 1,20,8,0.07692307692307693
+Cocaine,Fentanyl,1,Voltage-gated inwardly rectifying potassium channel KCNH2,10,20,0.034482758620689655
+Diazepam,THC,1,Homo sapiens,14,8,0.047619047619047616
+Diazepam,Morphine,1,"Sodium channel alpha subunits; brain (Types I, II, III)",14,9,0.045454545454545456
+Diazepam,Fentanyl,1,Homo sapiens,14,20,0.030303030303030304
+Ketamine,THC,1,Cannabinoid receptor 1,87,8,0.010638297872340425

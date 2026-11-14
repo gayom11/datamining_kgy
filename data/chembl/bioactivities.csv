@@ -1,0 +1,1802 @@
+Chemical,ChEMBL_ID,Target_ChEMBL,Target_Name,Target_Organism,Activity_Type,Activity_Value,Activity_Units,Activity_Relation,Assay_Type,pChEMBL
+Methamphetamine,CHEMBL1201202,CHEMBL244,Coagulation factor X,Homo sapiens,IC50,11.0,nM,=,A,7.96
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,89.0,nM,=,B,7.05
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,208.0,nM,=,F,6.68
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,580.0,nM,=,B,6.24
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,570.0,nM,=,F,6.24
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,1.7,mg.kg-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug response,6.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug response,44.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug response,61.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug response,98.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug response,99.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Rate response,27.0,min-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Rate response,21.0,min-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Rate response,32.0,min-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Rate response,89.0,min-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Rate response,76.0,min-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. resp animals / Total,7.0,/ 7,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,n/N,7.0,/ 7,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. resp animals / Total,7.0,/ 7,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. resp animals / Total,7.0,/ 7,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. resp animals / Total,7.0,/ 7,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug response,85.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug response,99.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug response,100.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug response,81.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug response,31.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Rate response,28.0,min-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Rate response,76.0,min-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Rate response,61.0,min-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Rate response,23.0,min-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Rate response,28.0,min-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. resp animals / Total,7.0,/ 7,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. resp animals / Total,7.0,/ 7,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. resp animals / Total,7.0,/ 7,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. resp animals / Total,7.0,/ 7,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. resp animals / Total,7.0,/ 7,=,F,
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,Ki,32.0,nM,=,B,7.50
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,Ki,388.0,nM,=,B,6.41
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,IC50,405.0,nM,=,B,6.39
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Log potency ratio,0.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Log potency ratio,0.0,,=,F,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Log potency ratio,0.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Log potency ratio,0.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,101.0,nM,=,B,7.00
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,209.0,nM,=,F,6.68
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Log potency ratio,0.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,187.0,nM,=,B,6.73
+Cocaine,CHEMBL370805,CHEMBL287,Sigma non-opioid intracellular receptor 1,Homo sapiens,Ki,8830.0,nM,=,B,5.05
+Cocaine,CHEMBL370805,CHEMBL612545,Unchecked,,Ratio,47.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2362975,No relevant target,,CLogD,1.51,,=,P,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,259.0,nM,=,B,6.59
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,Ki,155.0,nM,=,B,6.81
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,Ki,108.0,nM,=,B,6.97
+Cocaine,CHEMBL370805,CHEMBL2094252,Monoamine transporters; serotonin & dopamine,Rattus norvegicus,Ratio,0.6,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2095175,Monoamine transporters; Norepininephrine & dopamine,Rattus norvegicus,Ratio,0.42,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2096672,Monoamine transporters; Norepinephrine & serotonin,Rattus norvegicus,Ratio,0.7,,=,B,
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,Ki,231.0,nM,=,B,6.64
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,274.0,nM,=,B,6.56
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,Ki,155.0,nM,=,B,6.81
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,Ki,108.0,nM,=,B,6.97
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,221.0,nM,=,B,6.66
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,IC50,207.0,nM,=,B,6.68
+Cocaine,CHEMBL370805,CHEMBL612545,Unchecked,,Ki,230.0,nM,=,B,6.64
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,270.0,nM,=,B,6.57
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,Ki,160.0,nM,=,B,6.80
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,Ki,190.0,nM,=,B,6.72
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,297.0,nM,=,F,6.53
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,423.0,nM,=,B,6.37
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,Ki,155.0,nM,=,B,6.81
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,Ki,108.0,nM,=,B,6.97
+Cocaine,CHEMBL370805,CHEMBL2094252,Monoamine transporters; serotonin & dopamine,Rattus norvegicus,Ratio,0.37,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2095175,Monoamine transporters; Norepininephrine & dopamine,Rattus norvegicus,Ratio,0.26,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2096672,Monoamine transporters; Norepinephrine & serotonin,Rattus norvegicus,Ratio,0.7,,=,B,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Vdss,2.0,L.kg-1,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Fu,0.09,,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Fu,0.018,,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,eLog D,0.48,,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Fraction ionised,0.952,,=,A,
+Cocaine,CHEMBL370805,CHEMBL2362975,No relevant target,,pKa,8.7,,=,P,
+Cocaine,CHEMBL370805,CHEMBL5032,Sodium-dependent dopamine transporter,Macaca fascicularis,IC50,95.6,nM,=,B,7.02
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,IC50,270.0,nM,=,B,6.57
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,82.0,nM,=,B,7.09
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,179.0,nM,=,B,6.75
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,296.0,nM,=,B,6.53
+Cocaine,CHEMBL370805,CHEMBL1907608,Glutamate NMDA receptor,Rattus norvegicus,Ki,10000.0,nM,>,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ratio,1.8,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ratio,4.7,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,32.0,nM,=,B,7.50
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,388.0,nM,=,B,6.41
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,405.0,nM,=,F,6.39
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,ED50,20.79,umol.kg-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Max effect,12518.0,Counts 10min-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,8.74,umol.kg-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Ki,320.0,nM,=,F,6.50
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Ki,280.0,nM,=,F,6.55
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,336.0,nM,=,F,6.47
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,32.0,nM,=,B,7.50
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,390.0,nM,=,B,6.41
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,459.0,nM,=,F,6.34
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,423.0,nM,=,B,6.37
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,127.0,nM,=,F,6.90
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,Ki,108.0,nM,=,B,6.97
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,168.0,nM,=,F,6.78
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,Ki,155.0,nM,=,B,6.81
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,Ki,270.0,nM,=,B,6.57
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,Ki,155.0,nM,=,B,6.81
+Cocaine,CHEMBL370805,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,Ki,108.0,nM,=,B,6.97
+Cocaine,CHEMBL370805,CHEMBL2362975,No relevant target,,Log S,-2.25,,=,P,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,160.0,nM,=,B,6.80
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,IC50,3300.0,nM,=,B,5.48
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,IC50,1050.0,nM,=,B,5.98
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,404.0,nM,=,B,6.39
+Cocaine,CHEMBL370805,CHEMBL612545,Unchecked,,Ratio,21.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2095201,Monoamine transporters; serotonin & dopamine,Homo sapiens,Ratio,6.6,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,102.0,nM,=,B,6.99
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Potency,100.0,%,=,B,
+Cocaine,CHEMBL370805,CHEMBL612545,Unchecked,,Hill coefficient,0.91,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,230.0,nM,=,B,6.64
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,423.0,nM,=,B,6.37
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,Ki,108.0,nM,=,B,6.97
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,Ki,155.0,nM,=,B,6.81
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,15800.0,nM,=,B,4.80
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Potency,0.65,%,=,B,
+Cocaine,CHEMBL370805,CHEMBL612545,Unchecked,,Hill coefficient,0.96,,=,B,
+Cocaine,CHEMBL370805,CHEMBL614874,Monkey,Cercopithecidae,Peak striatal uptake,0.06,,=,F,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Fu,0.1,,=,A,
+Cocaine,CHEMBL370805,CHEMBL614874,Monkey,Cercopithecidae,IC50,70.0,nM,=,F,7.16
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Unmetabolized,17.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Plasma integral,2.1,uCi min ml-1,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,70.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,44.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,31.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,17.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,12.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,13.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,11.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,12.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,0.4,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,22.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,38.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,60.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,6.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,30.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,37.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Tracer,44.0,%,=,A,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,139.0,nM,=,B,6.86
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,150.0,nM,=,B,6.82
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,1810.0,nM,=,B,5.74
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,66.0,nM,=,B,7.18
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,1450.0,nM,=,B,5.84
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,843.0,nM,=,B,6.07
+Cocaine,CHEMBL370805,CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,Homo sapiens,IC50,4.4,nM,=,F,8.36
+Cocaine,CHEMBL370805,CHEMBL2986,Sodium-dependent dopamine transporter,Bos taurus,IC50,65.0,nM,=,B,7.19
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,213.0,nM,=,F,6.67
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,89.1,nM,=,B,7.05
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,IC50,1045.0,nM,=,B,5.98
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,IC50,3298.0,nM,=,B,5.48
+Cocaine,CHEMBL370805,CHEMBL2094252,Monoamine transporters; serotonin & dopamine,Rattus norvegicus,Ratio,12.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2095175,Monoamine transporters; Norepininephrine & dopamine,Rattus norvegicus,Ratio,37.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,89.0,nM,=,B,7.05
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,IC50,3298.0,nM,=,B,5.48
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,IC50,1045.0,nM,=,B,5.98
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,241.3,nM,=,B,6.62
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,Ki,160.55,nM,=,B,6.79
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,Ki,112.11,nM,=,B,6.95
+Cocaine,CHEMBL370805,CHEMBL2095175,Monoamine transporters; Norepininephrine & dopamine,Rattus norvegicus,Ratio,37.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2094252,Monoamine transporters; serotonin & dopamine,Rattus norvegicus,Ratio,12.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2095175,Monoamine transporters; Norepininephrine & dopamine,Rattus norvegicus,Ratio,0.69,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2094252,Monoamine transporters; serotonin & dopamine,Rattus norvegicus,Ratio,0.46,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2096682,"Sodium channel alpha subunits; brain (Types I, II, III)",Homo sapiens,IC50,49000.0,nM,=,B,4.31
+Cocaine,CHEMBL370805,CHEMBL2096682,"Sodium channel alpha subunits; brain (Types I, II, III)",Homo sapiens,Inhibition,19.5,%,=,B,
+Cocaine,CHEMBL370805,CHEMBL2096682,"Sodium channel alpha subunits; brain (Types I, II, III)",Homo sapiens,Inhibition,63.2,%,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,32.0,nM,=,B,7.50
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,338.0,nM,=,B,6.47
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,405.0,nM,=,F,6.39
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,IC50,1045.0,nM,=,B,5.98
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,89.0,nM,=,B,7.05
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,IC50,3298.0,nM,=,B,5.48
+Cocaine,CHEMBL370805,CHEMBL2094252,Monoamine transporters; serotonin & dopamine,Rattus norvegicus,Ratio,0.09,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2096672,Monoamine transporters; Norepinephrine & serotonin,Rattus norvegicus,Ratio,3.2,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2093872,GABA-A receptor; anion channel,Homo sapiens,IC50,127000.0,nM,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,89.1,nM,=,B,7.05
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,Ki,490.0,nM,=,B,6.31
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,Ki,328.0,nM,=,B,6.48
+Cocaine,CHEMBL370805,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,Ki,1940.0,nM,=,B,5.71
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,IC50,296.0,nM,=,F,6.53
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,IC50,338.0,nM,=,F,6.47
+Cocaine,CHEMBL370805,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,IC50,233.0,nM,=,F,6.63
+Cocaine,CHEMBL370805,CHEMBL2095201,Monoamine transporters; serotonin & dopamine,Homo sapiens,Ratio,0.7,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2096990,Monoamine transporters; Norepinephrine & dopamine,Homo sapiens,Ratio,4.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL612545,Unchecked,,Ratio,0.6,,=,F,
+Cocaine,CHEMBL370805,CHEMBL612545,Unchecked,,Ratio,1.0,,=,F,
+Cocaine,CHEMBL370805,CHEMBL612545,Unchecked,,Ratio,0.1,,=,F,
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,Ki,760.0,nM,=,B,6.12
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,Ki,390.0,nM,=,B,6.41
+Cocaine,CHEMBL370805,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,Ki,1770.0,nM,=,B,5.75
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,IC50,190.0,nM,=,B,6.72
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,IC50,340.0,nM,=,B,6.47
+Cocaine,CHEMBL370805,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,IC50,230.0,nM,=,B,6.64
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,Ki,419.0,nM,=,B,6.38
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,IC50,330.0,nM,=,B,6.48
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,Ki,297.0,nM,=,B,6.53
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,IC50,325.0,nM,=,B,6.49
+Cocaine,CHEMBL370805,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,Ki,645.0,nM,=,B,6.19
+Cocaine,CHEMBL370805,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,IC50,192.0,nM,=,B,6.72
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,10.0,mg.kg-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL612442,Monoclonal antibody (mAb) 2E2,Homo sapiens,Ki,3.5,nM,=,B,8.46
+Cocaine,CHEMBL370805,CHEMBL612442,Monoclonal antibody (mAb) 2E2,Homo sapiens,Kd,4.4,nM,=,B,8.36
+Cocaine,CHEMBL370805,CHEMBL612442,Monoclonal antibody (mAb) 2E2,Homo sapiens,RBA,1.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL612442,Monoclonal antibody (mAb) 2E2,Homo sapiens,RBA,1.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,266.0,nM,=,B,6.58
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,IC50,737.0,nM,=,B,6.13
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,IC50,3520.0,nM,=,B,5.45
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,191.0,nM,=,F,6.72
+Cocaine,CHEMBL370805,CHEMBL2095201,Monoamine transporters; serotonin & dopamine,Homo sapiens,Selectivity,2.7,,=,B,
+Cocaine,CHEMBL370805,CHEMBL2096990,Monoamine transporters; Norepinephrine & dopamine,Homo sapiens,Selectivity,6.36,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,187.0,nM,=,B,6.73
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,388.0,nM,=,B,6.41
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Vdss,2.0,L.kg-1,=,A,
+Cocaine,CHEMBL370805,CHEMBL612558,ADMET,,Fu,0.09,,=,A,
+Cocaine,CHEMBL370805,CHEMBL2362975,No relevant target,,pKa,8.7,,=,P,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,285.0,nM,=,B,6.54
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,236.0,nM,=,F,6.63
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,32.0,nM,=,B,7.50
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,390.0,nM,=,B,6.41
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,280.0,nM,=,B,6.55
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Ki,320.0,nM,=,F,6.50
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,89.1,nM,=,B,7.05
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,IC50,3300.0,nM,=,B,5.48
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,IC50,1050.0,nM,=,B,5.98
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,Ki,1990.0,nM,=,B,5.70
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,Ki,45.0,nM,=,B,7.35
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Change,5.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Change,-26.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Change,-53.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Change,-1.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Change,179.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Change,-7.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Change,-53.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Change,-26.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Change,452.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Change,201.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Change,-47.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Change,-24.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,ED50,18.8,mg.kg-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug discrimination effect,21.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug discrimination effect,32.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug discrimination effect,59.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug discrimination effect,82.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Drug discrimination effect,97.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,2.64,mg.kg-1,=,F,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,173.0,nM,=,B,6.76
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,404.0,nM,=,F,6.39
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Hill coefficient,1.03,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ratio,2.3,,=,F,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,74.3,nM,=,B,7.13
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,Ki,293.0,nM,=,B,6.53
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,Ki,3302.0,nM,=,B,5.48
+Cocaine,CHEMBL370805,CHEMBL276,Muscarinic acetylcholine receptor M1,Rattus norvegicus,Ki,61397.0,nM,=,B,4.21
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,Ki,759.0,nM,=,B,6.12
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,Ki,387.0,nM,=,B,6.41
+Cocaine,CHEMBL370805,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,Ki,1770.0,nM,=,B,5.75
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,IC50,190.0,nM,=,F,6.72
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,IC50,336.0,nM,=,F,6.47
+Cocaine,CHEMBL370805,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,IC50,230.0,nM,=,F,6.64
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,15800.0,nM,=,B,4.80
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,102.0,nM,=,B,6.99
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,297.0,nM,=,F,6.53
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,538.0,nM,=,F,6.27
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,686.0,nM,=,F,6.16
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,490.0,nM,=,F,6.31
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,696.0,nM,=,F,6.16
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,32.0,nM,=,B,7.50
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,Ki,272.0,nM,=,B,6.57
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,Ki,601.0,nM,=,B,6.22
+Cocaine,CHEMBL370805,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,Ki,830.0,nM,=,B,6.08
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,IC50,267.0,nM,=,B,6.57
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,IC50,318.0,nM,=,B,6.50
+Cocaine,CHEMBL370805,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,IC50,385.0,nM,=,B,6.42
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,Ratio,1.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,Ratio,0.53,,=,B,
+Cocaine,CHEMBL370805,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,Ratio,0.46,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,388.0,nM,=,B,6.41
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,IC50,123254.0,nM,=,F,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,89.0,nM,=,B,7.05
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,IC50,3298.0,nM,=,B,5.48
+Cocaine,CHEMBL370805,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,IC50,1045.0,nM,=,B,5.98
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Amnesia reversal,15.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Amnesia reversal,10.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Amnesia reversal,10.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Amnesia reversal,15.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL375,Mus musculus,Mus musculus,Amnesia reversal,10.0,%,=,F,
+Cocaine,CHEMBL370805,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,IC50,95.6,nM,=,B,7.02
+Cocaine,CHEMBL370805,CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,IC50,270.0,nM,=,B,6.57
+Cocaine,CHEMBL370805,CHEMBL612545,Unchecked,,Selectivity ratio,3.0,,=,B,
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,230.0,nM,=,B,6.64
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Ki,423.0,nM,=,B,6.37
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Ki,155.0,nM,=,F,6.81
+Cocaine,CHEMBL370805,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Ki,108.0,nM,=,F,6.97
+Cocaine,CHEMBL370805,CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,IC50,89.1,nM,=,B,7.05
+Cocaine,CHEMBL370805,CHEMBL304,Norepinephrine transporter,Rattus norvegicus,IC50,3300.0,nM,=,B,5.48
+Morphine,CHEMBL70,CHEMBL2095192,Opioid receptor,Mus musculus,Relative molar potency,1.0,,=,F,
+Morphine,CHEMBL70,CHEMBL2095181,Opioid receptors; mu/kappa/delta,Homo sapiens,Relative molar potency,1.0,,=,F,
+Morphine,CHEMBL70,CHEMBL2095192,Opioid receptor,Mus musculus,Relative molar potency,1.0,,=,F,
+Morphine,CHEMBL70,CHEMBL3879801,NON-PROTEIN TARGET,,Molar potency,6.5,,=,F,
+Morphine,CHEMBL70,CHEMBL2094129,Opioid receptor,Rattus norvegicus,Ki,32.5,nM,=,B,7.49
+Morphine,CHEMBL70,CHEMBL2094129,Opioid receptor,Rattus norvegicus,IC50,4.2,nM,=,B,8.38
+Morphine,CHEMBL70,CHEMBL2094129,Opioid receptor,Rattus norvegicus,IC50,27.0,nM,=,B,7.57
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,7.3,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,2.1,nM,=,B,8.68
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,4.68,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,1.11,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,2.77,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,Duration,60.0,min,>,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,18.5,min,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,102.2,min,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,37.0,min,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,115.3,min,=,F,
+Morphine,CHEMBL70,CHEMBL612545,Unchecked,,IC50,54.7,nM,=,B,7.26
+Morphine,CHEMBL70,CHEMBL2095192,Opioid receptor,Mus musculus,IC50,258.0,nM,=,B,6.59
+Morphine,CHEMBL70,CHEMBL233,Mu-type opioid receptor,Homo sapiens,IC50,,nM,=,B,
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,IC50,,nM,=,B,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,A50,2.7,nM,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,A50,6.3,mM kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,A50,14.6,mM kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,A50,13.2,mM kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,5.8,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.2,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,1.0,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,AD50,,,,F,
+Morphine,CHEMBL70,CHEMBL612558,ADMET,,Vdss,3.3,L.kg-1,=,A,
+Morphine,CHEMBL70,CHEMBL612558,ADMET,,Fu,0.65,,=,A,
+Morphine,CHEMBL70,CHEMBL612558,ADMET,,Fu,0.079,,=,A,
+Morphine,CHEMBL70,CHEMBL612558,ADMET,,eLog D,0.32,,=,A,
+Morphine,CHEMBL70,CHEMBL612558,ADMET,,Fraction ionised,0.858,,=,A,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,pKa,8.18,,=,P,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.9,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED2sec,0.7,mg kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,5.7,nM,=,B,8.24
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,Ki,167.0,nM,=,B,6.78
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,Ki,0.88,nM,=,B,9.06
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,140.0,nM,=,B,6.85
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,Ki,24.0,nM,=,B,7.62
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.11,ug,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,10.0,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,3.811,umol.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,7.319,umol.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,1.339,umol.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,9.81,umol.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,32.58,umol.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,Ki,301.0,nM,=,B,6.52
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,Ki,3.3,nM,=,B,8.48
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,456.0,nM,=,B,6.34
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,IC50,68.2,nM,=,F,7.17
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,IC50,492.0,nM,=,F,6.31
+Morphine,CHEMBL70,CHEMBL2095156,Opioid receptors; mu & kappa,Homo sapiens,Ke,,,,B,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,Ke,,,,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,1.8,umol.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Relative potency,1.0,,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,1.4,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,3.4,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,23.0,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL2094129,Opioid receptor,Rattus norvegicus,IC50,4.5,nM,=,B,8.35
+Morphine,CHEMBL70,CHEMBL2094129,Opioid receptor,Rattus norvegicus,IC50,73.0,nM,=,B,7.14
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,1.2,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL2095181,Opioid receptors; mu/kappa/delta,Homo sapiens,IC50,10.0,nM,=,B,8.00
+Morphine,CHEMBL70,CHEMBL2095181,Opioid receptors; mu/kappa/delta,Homo sapiens,IC50,250.0,nM,=,B,6.60
+Morphine,CHEMBL70,CHEMBL2095181,Opioid receptors; mu/kappa/delta,Homo sapiens,Ratio,25.0,,=,B,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,1.2,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,0.78,nM,=,B,9.11
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,4.8,nM,=,B,8.32
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,AUEC,1030.0,A% min-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,AUEC,1987.0,A% min-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,4.9,umol.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.72,umol.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.68,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,3.8,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL2094129,Opioid receptor,Rattus norvegicus,IC50,11.0,nM,=,B,7.96
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,Log S,-3.28,,=,P,
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,Ki,38.0,nM,=,B,7.42
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,Ki,1870.0,nM,=,B,5.73
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,375.0,nM,=,B,6.43
+Morphine,CHEMBL70,CHEMBL287,Sigma non-opioid intracellular receptor 1,Homo sapiens,Ki,100000.0,nM,>,B,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.98,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,IC50,79.0,nM,=,F,7.10
+Morphine,CHEMBL70,CHEMBL612545,Unchecked,,Ratio,38.0,,=,F,
+Morphine,CHEMBL70,CHEMBL612545,Unchecked,,Ke,2.7,nM,=,F,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,Kd,6.31,nM,=,F,8.20
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,IC50,71.6,nM,=,B,7.14
+Morphine,CHEMBL70,CHEMBL3222,Delta-type opioid receptor,Mus musculus,IC50,736.0,nM,=,B,6.13
+Morphine,CHEMBL70,CHEMBL237,Kappa-type opioid receptor,Homo sapiens,IC50,,nM,,B,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,1.85,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,Ki,7.71,nM,=,B,8.11
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,629.51,nM,=,B,6.20
+Morphine,CHEMBL70,CHEMBL4329,Kappa-type opioid receptor,Mus musculus,Ki,1549.49,nM,=,B,5.81
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.8,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,16.0,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL2094129,Opioid receptor,Rattus norvegicus,IC50,22.0,nM,=,B,7.66
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,LD50,530.0,mg.kg-1,=,T,
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,Ki,151.0,nM,=,B,6.82
+Morphine,CHEMBL70,CHEMBL237,Kappa-type opioid receptor,Homo sapiens,Ki,64.0,nM,=,B,7.19
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,Ki,3.0,nM,=,B,8.52
+Morphine,CHEMBL70,CHEMBL233,Mu-type opioid receptor,Homo sapiens,Ki,3.0,nM,=,B,8.52
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,456.0,nM,=,B,6.34
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,299.0,nM,=,B,6.52
+Morphine,CHEMBL70,CHEMBL237,Kappa-type opioid receptor,Homo sapiens,Ki,86.0,nM,=,B,7.07
+Morphine,CHEMBL70,CHEMBL233,Mu-type opioid receptor,Homo sapiens,Ki,1.8,nM,=,B,8.74
+Morphine,CHEMBL70,CHEMBL233,Mu-type opioid receptor,Homo sapiens,Ratio,0.021,,=,B,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MPE50,0.61,mg kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL2095181,Opioid receptors; mu/kappa/delta,Homo sapiens,IC50,29.0,nM,=,F,7.54
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,IC50,79.8,nM,=,F,7.10
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,IC50,244.0,nM,=,F,6.61
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,2.8,nM mouse-1,=,F,
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,IC50,1.94,nM,=,B,8.71
+Morphine,CHEMBL70,CHEMBL269,Delta-type opioid receptor,Rattus norvegicus,IC50,684.0,nM,=,B,6.17
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,IC50,271.0,nM,=,B,6.57
+Morphine,CHEMBL70,CHEMBL2095155,Opioid receptors; mu & delta,Rattus norvegicus,Ratio,2.84,,=,B,
+Morphine,CHEMBL70,CHEMBL612545,Unchecked,,Ratio,0.396,,=,B,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,Activity,8.2,,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,1.2,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL614874,Monkey,Cercopithecidae,Physical dependence capacity,,,,F,
+Morphine,CHEMBL70,CHEMBL612558,ADMET,,Potency,,,,A,
+Morphine,CHEMBL70,CHEMBL233,Mu-type opioid receptor,Homo sapiens,Ki,0.88,nM,=,B,9.06
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,140.0,nM,=,B,6.85
+Morphine,CHEMBL70,CHEMBL237,Kappa-type opioid receptor,Homo sapiens,Ki,24.0,nM,=,B,7.62
+Morphine,CHEMBL70,CHEMBL2095156,Opioid receptors; mu & kappa,Homo sapiens,Ratio,0.04,,=,B,
+Morphine,CHEMBL70,CHEMBL2095151,Opioid receptors; delta & kappa,Homo sapiens,Ratio,5.8,,=,B,
+Morphine,CHEMBL70,CHEMBL2096682,"Sodium channel alpha subunits; brain (Types I, II, III)",Homo sapiens,Inhibition,5.3,%,=,B,
+Morphine,CHEMBL70,CHEMBL269,Delta-type opioid receptor,Rattus norvegicus,Ki,90.0,nM,=,B,7.05
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,1.8,nM,=,B,8.74
+Morphine,CHEMBL70,CHEMBL2095155,Opioid receptors; mu & delta,Rattus norvegicus,Ratio,0.02,,=,B,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,1.0,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.8,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.23,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL2858,Mu-type opioid receptor,Mus musculus,Ratio,3.0,,=,F,
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,IC50,130.0,nM,=,B,6.89
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,IC50,8.5,nM,=,B,8.07
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,IC50,430.0,nM,=,B,6.37
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,GPI,58.6,nM,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.4,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.5,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,1.9,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL3879801,NON-PROTEIN TARGET,,Ratio,0.6,,=,F,
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,Ki,0.88,nM,=,B,9.06
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,140.0,nM,=,B,6.85
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,Ki,24.0,nM,=,B,7.62
+Morphine,CHEMBL70,CHEMBL2095149,Opioid receptors; mu & delta,Homo sapiens,Selectivity,156.0,,=,B,
+Morphine,CHEMBL70,CHEMBL2095156,Opioid receptors; mu & kappa,Homo sapiens,Selectivity,27.0,,=,B,
+Morphine,CHEMBL70,CHEMBL2095151,Opioid receptors; delta & kappa,Homo sapiens,Selectivity,6.0,,=,B,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,IC50,0.13,nM,=,F,9.89
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,IC50,0.14,nM,=,B,9.85
+Morphine,CHEMBL70,CHEMBL269,Delta-type opioid receptor,Rattus norvegicus,IC50,7.37,nM,=,B,8.13
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,IC50,1.82,nM,=,B,8.74
+Morphine,CHEMBL70,CHEMBL2095181,Opioid receptors; mu/kappa/delta,Homo sapiens,IC50,65.0,nM,=,F,7.19
+Morphine,CHEMBL70,CHEMBL2095181,Opioid receptors; mu/kappa/delta,Homo sapiens,Relative potency,1.0,,=,B,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,3030.0,umol.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,10.9,umol.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,Relative potency,1.0,,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,Relative potency,1.0,,=,F,
+Morphine,CHEMBL70,CHEMBL612558,ADMET,,Vdss,2.6,L.kg-1,=,A,
+Morphine,CHEMBL70,CHEMBL612558,ADMET,,Fu,0.61,,=,A,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,pKa,8.18,,=,P,
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,IC50,1.94,nM,=,B,8.71
+Morphine,CHEMBL70,CHEMBL269,Delta-type opioid receptor,Rattus norvegicus,IC50,684.0,nM,=,B,6.17
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,2.5,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.42,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,IC50,500.0,nM,=,F,6.30
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,Relative potency,1.1,,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,LD50,531.0,mg.kg-1,=,T,
+Morphine,CHEMBL70,CHEMBL233,Mu-type opioid receptor,Homo sapiens,Ki,17.0,nM,=,B,7.77
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,150.0,nM,=,B,6.82
+Morphine,CHEMBL70,CHEMBL237,Kappa-type opioid receptor,Homo sapiens,Ki,260.0,nM,=,B,6.58
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,2.4,ug,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,17.9,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,MPE,100.0,%,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,1.9,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,,mg.kg-1,,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.4,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.9,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL269,Delta-type opioid receptor,Rattus norvegicus,Ki,157.0,nM,=,B,6.80
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,11.0,nM,=,B,7.96
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,Ki,188.0,nM,=,B,6.73
+Morphine,CHEMBL70,CHEMBL2095155,Opioid receptors; mu & delta,Rattus norvegicus,Ratio,0.07,,=,B,
+Morphine,CHEMBL70,CHEMBL612545,Unchecked,,Ratio,1.2,,=,B,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,A50,4.2,,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,Activity,,,=,F,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,CLogP,1.4,,=,P,
+Morphine,CHEMBL70,CHEMBL269,Delta-type opioid receptor,Rattus norvegicus,Ki,90.0,nM,=,B,7.05
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,1.8,nM,=,B,8.74
+Morphine,CHEMBL70,CHEMBL2095155,Opioid receptors; mu & delta,Rattus norvegicus,Ratio,0.02,,=,B,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,12.42,umol.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,Potency,1000000000.0,nM,=,F,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,IC50,69.7,nM,=,F,7.16
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,Kd,1000.0,nM,>,F,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,CLogP,1.1,,=,P,
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,IC50,2390.0,nM,=,B,5.62
+Morphine,CHEMBL70,CHEMBL4329,Kappa-type opioid receptor,Mus musculus,Potency ratio,0.13,,=,F,
+Morphine,CHEMBL70,CHEMBL4329,Kappa-type opioid receptor,Mus musculus,Ke,4.2,nM,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.4,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,,mg.kg-1,,F,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,CLogP,1.0,,=,P,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,EC50,19700.0,nM,=,F,4.71
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,EC50,51.0,nM,=,F,7.29
+Morphine,CHEMBL70,CHEMBL269,Delta-type opioid receptor,Rattus norvegicus,Ki,90.0,nM,=,B,7.05
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,1.0,nM,=,B,9.00
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,pKa,9.26,,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,pKa,9.26,,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,pKa,9.46,,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,pKa,8.18,,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,pKa,8.17,,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,pKa,8.13,,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,LogD,-0.07,,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,LogD,-0.02,,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,LogD,-0.08,,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,LogD,-2.1,,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,LogD,-2.0,,<,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,LogD,-2.0,,<,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,LogD,0.89,,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,LogD,0.9,,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,LogD,0.81,,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,LogD,-2.0,,<,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,LogD,-2.0,,<,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,LogD,-1.5,,=,P,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,2.1,umol.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.3,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,pD2,7.17,,=,F,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,Relative potency,100.0,%,=,F,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,Inhibition,87.2,%,=,F,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,Inhibition,100.0,%,=,F,
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,Ki,3.467,nM,=,B,8.46
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,416.87,nM,=,B,6.38
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,Ki,467.74,nM,=,B,6.33
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,Relative affinity,98.5,%,=,B,
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Relative affinity,0.8,%,=,B,
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,Relative affinity,0.7,%,=,B,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,Contraction,27.4,%,=,F,
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,Relative potency,100.0,,=,F,
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,IC50,57.3,nM,=,F,7.24
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,Relative potency,1.0,,=,F,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,IC50,75.0,nM,=,F,7.12
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.0000017,M kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,IC50,58.6,nM,=,F,7.23
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,Relative potency,4.2,,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,IC50,644.0,nM,=,F,6.19
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,Relative potency,0.02,,=,F,
+Morphine,CHEMBL70,CHEMBL612545,Unchecked,,Ratio,11.0,,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.0056,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL236,Delta-type opioid receptor,Homo sapiens,IC50,150.0,nM,=,B,6.82
+Morphine,CHEMBL70,CHEMBL237,Kappa-type opioid receptor,Homo sapiens,IC50,1705.1,nM,=,B,5.77
+Morphine,CHEMBL70,CHEMBL233,Mu-type opioid receptor,Homo sapiens,IC50,0.57,nM,=,B,9.24
+Morphine,CHEMBL70,CHEMBL233,Mu-type opioid receptor,Homo sapiens,Ratio,265.0,,=,B,
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,IC50,70.0,nM,=,F,7.16
+Morphine,CHEMBL70,CHEMBL2095149,Opioid receptors; mu & delta,Homo sapiens,IC50,309.0,nM,=,F,6.51
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,2.15,nM,=,B,8.67
+Morphine,CHEMBL70,CHEMBL269,Delta-type opioid receptor,Rattus norvegicus,Ki,280.0,nM,=,B,6.55
+Morphine,CHEMBL70,CHEMBL2095149,Opioid receptors; mu & delta,Homo sapiens,Selectivity,5.55,,=,B,
+Morphine,CHEMBL70,CHEMBL2095155,Opioid receptors; mu & delta,Rattus norvegicus,Ratio,130.0,,=,B,
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,IC50,292.0,nM,=,F,6.54
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,IC50,1420.0,nM,=,F,5.85
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,IC50,24.0,nM,=,F,7.62
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.85,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,1.9,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.4,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Effect,70.0,%,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,70.0,%,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,Permeability,,,,A,
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,2.8,nM,=,B,8.55
+Morphine,CHEMBL70,CHEMBL369,Cavia porcellus,Cavia porcellus,IC50,2.92,nM,=,F,8.54
+Morphine,CHEMBL70,CHEMBL2858,Mu-type opioid receptor,Mus musculus,IC50,1420.0,nM,=,F,5.85
+Morphine,CHEMBL70,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,6.55,nM,=,B,8.18
+Morphine,CHEMBL70,CHEMBL269,Delta-type opioid receptor,Rattus norvegicus,Ki,217.0,nM,=,B,6.66
+Morphine,CHEMBL70,CHEMBL3614,Kappa-type opioid receptor,Rattus norvegicus,Ki,113.0,nM,=,B,6.95
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.85,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,1.92,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.4,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,Ki,676082975.39,nM,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,Ki,758577575.03,nM,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,Ki,812830516.16,nM,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,Ki,512861383.99,nM,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,Ki,107151930.52,nM,=,P,
+Morphine,CHEMBL70,CHEMBL2362975,No relevant target,,Ki,31622776.6,nM,=,P,
+Morphine,CHEMBL70,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,Ki,86.0,nM,=,B,7.07
+Morphine,CHEMBL70,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,Ki,1.8,nM,=,B,8.74
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MPE50,13.0,mg kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MPE50,1.4,mg kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL2095156,Opioid receptors; mu & kappa,Homo sapiens,Ratio,0.02,,=,B,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,1.5,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,28.9,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,4.4,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,15.0,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,DOSE,5.2,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL2094129,Opioid receptor,Rattus norvegicus,IC50,160.0,nM,=,B,6.80
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,3.0,umol.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,23.0,nM,=,F,7.64
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,Activity,1.3,,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,Activity,5.8,,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,Activity,0.23,,=,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,F,
+Morphine,CHEMBL70,CHEMBL375,Mus musculus,Mus musculus,ED50,0.52,mg.kg-1,=,F,
+Morphine,CHEMBL70,CHEMBL2094129,Opioid receptor,Rattus norvegicus,IC50,8.6,nM,=,B,8.07
+Morphine,CHEMBL70,CHEMBL612545,Unchecked,,Ratio,8.5,,=,B,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Analgesia,0.018,%,=,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Analgesia,0.018,%,=,F,
+Fentanyl,CHEMBL596,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,2.16,nM,=,B,8.67
+Fentanyl,CHEMBL596,CHEMBL374,Oryctolagus cuniculus,Oryctolagus cuniculus,Reversal,,,,F,
+Fentanyl,CHEMBL596,CHEMBL374,Oryctolagus cuniculus,Oryctolagus cuniculus,Reversal,,,,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Reversal type,0.0,,=,F,
+Fentanyl,CHEMBL596,CHEMBL2094129,Opioid receptor,Rattus norvegicus,IC50,1.6,nM,=,B,8.80
+Fentanyl,CHEMBL596,CHEMBL2094129,Opioid receptor,Rattus norvegicus,IC50,25.0,nM,=,B,7.60
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,ED50,0.018,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,2.16,nM,=,B,8.67
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,ED50,0.018,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.0043,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.0086,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,POE score,0.98,,=,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Duration,11.7,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Duration,27.1,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,7.6,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,34.0,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,11.62,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,32.35,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.0209,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,8.8,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL233,Mu-type opioid receptor,Homo sapiens,IC50,1.3,nM,=,B,8.89
+Fentanyl,CHEMBL596,CHEMBL237,Kappa-type opioid receptor,Homo sapiens,IC50,1580.0,nM,=,B,5.80
+Fentanyl,CHEMBL596,CHEMBL236,Delta-type opioid receptor,Homo sapiens,IC50,431.0,nM,=,B,6.37
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.0105,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Time of peak action,15.0,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration of peak action,40.0,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Vdss,4.0,L.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Fu,0.16,,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Fu,0.016,,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,eLog D,2.39,,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Fraction ionised,0.915,,=,A,
+Fentanyl,CHEMBL596,CHEMBL2362975,No relevant target,,pKa,8.43,,=,P,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.018,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.004,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.008,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Succeeded/tested,,,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Succeeded/tested,,,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Succeeded/tested,,,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Rotorod index,18.2,,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,GRI,17.3,,=,F,
+Fentanyl,CHEMBL596,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,IC50,3.1,nM,=,B,8.51
+Fentanyl,CHEMBL596,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,IC50,5893.0,nM,=,B,5.23
+Fentanyl,CHEMBL596,CHEMBL236,Delta-type opioid receptor,Homo sapiens,IC50,187.4,nM,=,B,6.73
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.011,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL2094129,Opioid receptor,Rattus norvegicus,IC50,25.0,nM,=,B,7.60
+Fentanyl,CHEMBL596,CHEMBL2094129,Opioid receptor,Rattus norvegicus,Ki,2.16,nM,=,B,8.67
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,ED50,0.018,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Analgesia duration,,,,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,LED100,6.0,mg kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Anesthesia duration,3.16,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.4,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.03,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,7.0,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.5,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL2094129,Opioid receptor,Rattus norvegicus,IC50,8.0,nM,=,B,8.10
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,LD50,62.0,mg.kg-1,=,T,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Vdss,5.1,L.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Fu,0.16,,=,A,
+Fentanyl,CHEMBL596,CHEMBL2362975,No relevant target,,pKa,8.43,,=,P,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,EC50,490.0,nM,=,F,6.31
+Fentanyl,CHEMBL596,CHEMBL369,Cavia porcellus,Cavia porcellus,EC50,4.5,nM,=,F,8.35
+Fentanyl,CHEMBL596,CHEMBL269,Delta-type opioid receptor,Rattus norvegicus,Ki,400.0,nM,=,B,6.40
+Fentanyl,CHEMBL596,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,1.5,nM,=,B,8.82
+Fentanyl,CHEMBL596,CHEMBL369,Cavia porcellus,Cavia porcellus,EC50,1.76,nM,=,F,8.75
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.0046,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,60.0,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,ED50,0.01,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,3.97,nM,=,B,8.40
+Fentanyl,CHEMBL596,CHEMBL269,Delta-type opioid receptor,Rattus norvegicus,Ki,1035.0,nM,=,B,5.99
+Fentanyl,CHEMBL596,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,Ki,196.5,nM,=,B,6.71
+Fentanyl,CHEMBL596,CHEMBL369,Cavia porcellus,Cavia porcellus,IC50,3.45,nM,=,F,8.46
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,IC50,9.45,nM,=,F,8.03
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MED50,0.011,mg kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,30.0,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,pKa,8.43,,=,A,
+Fentanyl,CHEMBL596,CHEMBL2362975,No relevant target,,LogP,4.05,,=,P,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,LogPapp,2.98,,=,A,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,30.0,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,55.0,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,85.0,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,120.0,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration,165.0,min,=,F,
+Fentanyl,CHEMBL596,CHEMBL233,Mu-type opioid receptor,Homo sapiens,Ki,3.97,nM,=,B,8.40
+Fentanyl,CHEMBL596,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,1035.0,nM,=,B,5.99
+Fentanyl,CHEMBL596,CHEMBL237,Kappa-type opioid receptor,Homo sapiens,Ki,196.5,nM,=,B,6.71
+Fentanyl,CHEMBL596,CHEMBL2094129,Opioid receptor,Rattus norvegicus,IC50,1.14,nM,=,B,8.94
+Fentanyl,CHEMBL596,CHEMBL2094129,Opioid receptor,Rattus norvegicus,Potency,3.0,,=,B,
+Fentanyl,CHEMBL596,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,679.0,nM,=,B,6.17
+Fentanyl,CHEMBL596,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,Ki,8.45,nM,=,B,8.07
+Fentanyl,CHEMBL596,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,Ki,1130.0,nM,=,B,5.95
+Fentanyl,CHEMBL596,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,EC50,32.4,nM,=,F,7.49
+Fentanyl,CHEMBL596,CHEMBL2095205,Monoamine oxidase,Homo sapiens,Ki,5462.0,nM,=,B,5.26
+Fentanyl,CHEMBL596,CHEMBL233,Mu-type opioid receptor,Homo sapiens,Ki,2.9,nM,=,B,8.54
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.006,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,IC50,3.1,nM,=,B,8.51
+Fentanyl,CHEMBL596,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,IC50,5893.0,nM,=,B,5.23
+Fentanyl,CHEMBL596,CHEMBL236,Delta-type opioid receptor,Homo sapiens,IC50,187.0,nM,=,B,6.73
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,ED50,0.018,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.0086,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.0043,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ROI,18.2,,=,F,
+Fentanyl,CHEMBL596,CHEMBL340,Cytochrome P450 3A4,Homo sapiens,Log 1/Km,-2.068,,=,A,
+Fentanyl,CHEMBL596,CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,Homo sapiens,IC50,1819.7,nM,=,B,5.74
+Fentanyl,CHEMBL596,CHEMBL233,Mu-type opioid receptor,Homo sapiens,Ki,,nM,=,B,
+Fentanyl,CHEMBL596,CHEMBL613427,Zone of skin,Homo sapiens,log Kp,-5.94,,=,A,
+Fentanyl,CHEMBL596,CHEMBL5685,Solute carrier family 22 member 1,Homo sapiens,Inhibition,73.6,%,=,B,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,CL,4.7,mL.min-1.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,CL_renal,0.8,mL.min-1.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,IC50,3.45,nM,=,F,8.46
+Fentanyl,CHEMBL596,CHEMBL3222,Delta-type opioid receptor,Mus musculus,IC50,9.45,nM,=,F,8.03
+Fentanyl,CHEMBL596,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,5.9,nM,=,B,8.23
+Fentanyl,CHEMBL596,CHEMBL269,Delta-type opioid receptor,Rattus norvegicus,Ki,568.0,nM,=,B,6.25
+Fentanyl,CHEMBL596,CHEMBL3952,Kappa-type opioid receptor,Cavia porcellus,Ki,298.0,nM,=,B,6.53
+Fentanyl,CHEMBL596,CHEMBL612545,Unchecked,,Ratio Ki,96.0,,=,B,
+Fentanyl,CHEMBL596,CHEMBL612545,Unchecked,,Ratio Ki,51.0,,=,B,
+Fentanyl,CHEMBL596,CHEMBL368,Trypanosoma cruzi,Trypanosoma cruzi,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL612348,Trypanosoma brucei rhodesiense,Trypanosoma brucei rhodesiense,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL612851,Trypanosoma brucei brucei,Trypanosoma brucei brucei,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL612849,Trypanosoma brucei,Trypanosoma brucei,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL612884,Trichomonas vaginalis,Trichomonas vaginalis,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL612888,Toxoplasma gondii,Toxoplasma gondii,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL613064,Pneumocystis carinii,Pneumocystis carinii,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL364,Plasmodium falciparum,Plasmodium falciparum,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL2366686,Leishmania,Leishmania,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL612880,Leishmania mexicana,Leishmania mexicana,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL612879,Leishmania major,Leishmania major,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL612848,Leishmania infantum,Leishmania infantum,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL367,Leishmania donovani,Leishmania donovani,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL612877,Leishmania amazonensis,Leishmania amazonensis,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL612853,Entamoeba histolytica,Entamoeba histolytica,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL612855,Cryptosporidium parvum,Cryptosporidium parvum,IC50,,,,F,
+Fentanyl,CHEMBL596,CHEMBL2362975,No relevant target,,Solubility,500000.0,nM,>,P,
+Fentanyl,CHEMBL596,CHEMBL2362975,No relevant target,,Solubility,740.0,ug.mL-1,=,P,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,CL,39.0,mL.min-1.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Fu,0.16,,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Vdss,0.89,L.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Vdss,1.1,mL/min/kg,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,T1/2,3.0,hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,MRT,3.2,hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Vdss,4.0,L.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,CL,4.7,mL.min-1.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Vdss,7.0,L.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Vdss,9.5,L.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,CL,13.0,mL.min-1.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,CL,33.0,mL.min-1.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,CL,36.0,mL.min-1.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,Hepatotoxicity,,,,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,Hepatotoxicity,,,,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,Hepatotoxicity,,,,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,Composite Activity - Score,,,,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,Composite Activity - Active,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,Composite Activity - Marginal,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,Alkaline Phosphatase Increase - Activity Score,,,,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,Alkaline Phosphatase Increase - Index Value,0.2,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,Alkaline Phosphatase Increase - Number of Reports,4.0,,<,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,SGOT Increase - Activity Score,,,,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,SGOT Increase - Index Value,0.2,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,SGOT Increase - Number of Reports,4.0,,<,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,SGPT Increase - Activity Score,,,,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,SGPT Increase - Index Value,0.2,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,SGPT Increase - Number of Reports,4.0,,<,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,LDH Increase - Activity Score,,,,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,LDH Increase - Index Value,0.4,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,LDH Increase - Number of Reports,4.0,,<,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,GGT Increase - Activity Score,,,,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,GGT Increase - Index Value,0.2,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,GGT Increase - Number of Reports,4.0,,<,A,
+Fentanyl,CHEMBL596,CHEMBL6032,Histone-lysine N-methyltransferase EHMT2,Homo sapiens,Potency,1122.0,nM,,F,
+Fentanyl,CHEMBL596,CHEMBL289,Cytochrome P450 2D6,Homo sapiens,Activity,,,,A,
+Fentanyl,CHEMBL596,CHEMBL340,Cytochrome P450 3A4,Homo sapiens,Activity,,,,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,logP(lung),1.14,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_bilirubinemia,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_cholecystitis,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_cholelithiasis,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_cirrhosis,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_elevated liver function tests,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_hepatic failure,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_hepatic necrosis,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_hepatitis,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_hepatomegaly,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_jaundice,1.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_liver disease,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_liver fatty,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_liver function tests abnormal,0.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697861,Hepatotoxicity,,HepSE_Combined Scores,1.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL5567,Luciferin 4-monooxygenase,Photinus pyralis,Potency,40533.4,nM,,F,
+Fentanyl,CHEMBL596,CHEMBL613373,Liver microsomes,Homo sapiens,CL,32.3,mL.min-1.g-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL613373,Liver microsomes,Homo sapiens,Drug metabolism,50.0,%,=,A,
+Fentanyl,CHEMBL596,CHEMBL4302,ATP-dependent translocase ABCB1,Homo sapiens,IC50,6500.0,nM,=,F,5.19
+Fentanyl,CHEMBL596,CHEMBL231,Histamine H1 receptor,Homo sapiens,IC50,147910.84,nM,=,F,
+Fentanyl,CHEMBL596,CHEMBL4701,Histamine H1 receptor,Rattus norvegicus,IC50,19952.62,nM,=,B,4.70
+Fentanyl,CHEMBL596,CHEMBL612545,Unchecked,,Inhibition,,%,,F,
+Fentanyl,CHEMBL596,CHEMBL1743124,Solute carrier organic anion transporter family member 2B1,Homo sapiens,Inhibition,11.7,%,=,A,
+Fentanyl,CHEMBL596,CHEMBL1743121,Solute carrier organic anion transporter family member 1B3,Homo sapiens,Inhibition,22.6,%,=,A,
+Fentanyl,CHEMBL596,CHEMBL1697668,Solute carrier organic anion transporter family member 1B1,Homo sapiens,Inhibition,-53.3,%,=,A,
+Fentanyl,CHEMBL596,CHEMBL613416,Blood,Homo sapiens,Retention_time,5.39,min,=,A,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,LD50,17.5,mg.kg-1,=,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,LD50,27.8,mg.kg-1,=,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,ED50,28.0,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Ratio ED50,1.0,,=,F,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Ratio LD50/ED50,625.0,,=,A,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Inhibition,,%,,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Inhibition,78.0,%,=,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,LD50,6.9,mg.kg-1,=,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,T,
+Fentanyl,CHEMBL596,CHEMBL1075138,Tyrosyl-DNA phosphodiesterase 1,Homo sapiens,Potency,26608.6,nM,,F,
+Fentanyl,CHEMBL596,CHEMBL1075138,Tyrosyl-DNA phosphodiesterase 1,Homo sapiens,Potency,29855.4,nM,,F,
+Fentanyl,CHEMBL596,CHEMBL3222,Delta-type opioid receptor,Mus musculus,IC50,9.4,nM,=,B,8.03
+Fentanyl,CHEMBL596,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,IC50,3.4,nM,=,B,8.47
+Fentanyl,CHEMBL596,CHEMBL2362975,No relevant target,,pKa,8.43,,,P,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,ED50,0.015,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL612545,Unchecked,,Potency,39810.7,nM,,B,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,ED50,0.8,mg.kg-1,=,F,
+Fentanyl,CHEMBL596,CHEMBL3401,Nuclear receptor subfamily 1 group I member 2,Homo sapiens,Efficacy,93.9,%,=,A,
+Fentanyl,CHEMBL596,CHEMBL3401,Nuclear receptor subfamily 1 group I member 2,Homo sapiens,Efficacy,205.6,%,=,A,
+Fentanyl,CHEMBL596,CHEMBL3401,Nuclear receptor subfamily 1 group I member 2,Homo sapiens,EC50,31600.0,nM,=,A,4.50
+Fentanyl,CHEMBL596,CHEMBL3401,Nuclear receptor subfamily 1 group I member 2,Homo sapiens,EC50,31600.0,nM,=,A,4.50
+Fentanyl,CHEMBL596,CHEMBL2146315,Nuclear receptor subfamily 1 group I member 2,Rattus norvegicus,Activity,,,,A,
+Fentanyl,CHEMBL596,CHEMBL3401,Nuclear receptor subfamily 1 group I member 2,Homo sapiens,EC50,31600.0,nM,=,A,4.50
+Fentanyl,CHEMBL596,CHEMBL3401,Nuclear receptor subfamily 1 group I member 2,Homo sapiens,Efficacy,102.9,%,=,A,
+Fentanyl,CHEMBL596,CHEMBL2858,Mu-type opioid receptor,Mus musculus,Ki,5.9,nM,=,B,8.23
+Fentanyl,CHEMBL596,CHEMBL3222,Delta-type opioid receptor,Mus musculus,Ki,568.0,nM,=,B,6.25
+Fentanyl,CHEMBL596,CHEMBL3222,Delta-type opioid receptor,Mus musculus,IC50,3.45,nM,=,B,8.46
+Fentanyl,CHEMBL596,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,IC50,9.45,nM,=,B,8.03
+Fentanyl,CHEMBL596,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,570.0,nM,=,B,6.24
+Fentanyl,CHEMBL596,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,IC50,1258.93,nM,=,B,5.90
+Fentanyl,CHEMBL596,CHEMBL3222,Delta-type opioid receptor,Mus musculus,IC50,9.5,nM,=,B,8.02
+Fentanyl,CHEMBL596,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,IC50,3.4,nM,=,B,8.47
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Retention_time,4.28,min,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,CLH,89.3,uL/mg/min,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Drug metabolism,50.6,%,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,Retention_time,2.94,min,=,A,
+Fentanyl,CHEMBL596,CHEMBL270,Mu-type opioid receptor,Rattus norvegicus,Ki,5.9,nM,=,B,8.23
+Fentanyl,CHEMBL596,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,570.0,nM,=,B,6.24
+Fentanyl,CHEMBL596,CHEMBL3222,Delta-type opioid receptor,Mus musculus,IC50,9400.0,nM,=,B,
+Fentanyl,CHEMBL596,CHEMBL4354,Mu-type opioid receptor,Cavia porcellus,IC50,3400.0,nM,=,B,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,T1/2,0.65,hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL612558,ADMET,,CLH,89.0,uL/mg/min,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Tmax,31.7,hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Cmax,2.526,nM,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Tmax,32.8,hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Cmax,5.112,nM,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Cmax,6.895,nM,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Tmax,35.8,hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Tmax,29.9,hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Cmax,9.986,nM,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,CL,27.0,L/hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Vdss,3.0,L.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,T1/2,3.0,hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,CL,3.0,L/hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Vdss,0.8,L.kg-1,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,T1/2,4.0,hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,CL,30.0,L/hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Tmax,38.1,hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Cmax,1.783,nM,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Cmax,4.161,nM,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Tmax,34.8,hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Cmax,5.052,nM,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Tmax,33.5,hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Tmax,36.8,hr,=,A,
+Fentanyl,CHEMBL596,CHEMBL372,Homo sapiens,Homo sapiens,Cmax,7.43,nM,=,A,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,TIME,0.005556,hr,=,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,F,
+Fentanyl,CHEMBL596,CHEMBL375,Mus musculus,Mus musculus,TIME,0.005556,hr,=,F,
+Fentanyl,CHEMBL596,CHEMBL2362975,No relevant target,,pKa,8.4,,=,P,
+Fentanyl,CHEMBL596,CHEMBL233,Mu-type opioid receptor,Homo sapiens,IC50,10.72,nM,=,F,7.97
+Fentanyl,CHEMBL596,CHEMBL233,Mu-type opioid receptor,Homo sapiens,IC50,5.495,nM,=,F,8.26
+Fentanyl,CHEMBL596,CHEMBL233,Mu-type opioid receptor,Homo sapiens,Ratio IC50,1.9,,=,B,
+Fentanyl,CHEMBL596,CHEMBL5685,Solute carrier family 22 member 1,Homo sapiens,FC,1.0,,=,B,
+Fentanyl,CHEMBL596,CHEMBL5685,Solute carrier family 22 member 1,Homo sapiens,FC,1.0,,=,B,
+Diazepam,CHEMBL12,CHEMBL2362975,No relevant target,,LogP,1.49,,=,P,
+Diazepam,CHEMBL12,CHEMBL2362975,No relevant target,,LogP,2.87,,=,P,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,2.5,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,12.0,nM,=,B,7.92
+Diazepam,CHEMBL12,CHEMBL372,Homo sapiens,Homo sapiens,Pc,756000000.0,cm s-1,=,A,
+Diazepam,CHEMBL12,CHEMBL612558,ADMET,,Papp,119000000.0,cm s-1,=,A,
+Diazepam,CHEMBL12,CHEMBL372,Homo sapiens,Homo sapiens,Ratio,1.7,,=,A,
+Diazepam,CHEMBL12,CHEMBL372,Homo sapiens,Homo sapiens,FA,97.0,,=,A,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,40.6,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,14.8,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,1.5,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.9,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,6.0,nM,=,B,8.22
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Impaired,100.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Activity,10.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Impaired,50.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Impaired,0.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Activity,5.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Activity,0.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL612558,ADMET,,Vdss,1.1,L.kg-1,=,A,
+Diazepam,CHEMBL12,CHEMBL612558,ADMET,,Fu,0.013,,=,A,
+Diazepam,CHEMBL12,CHEMBL612558,ADMET,,Fu,0.005,,=,A,
+Diazepam,CHEMBL12,CHEMBL612558,ADMET,,eLog D,2.98,,=,A,
+Diazepam,CHEMBL12,CHEMBL612558,ADMET,,Fraction ionised,0.0,,=,A,
+Diazepam,CHEMBL12,CHEMBL2094107,GABA-A receptor; anion channel,Bos taurus,IC50,25.0,nM,=,B,7.60
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ki,5.02,nM,=,B,8.30
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.15,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL5742,Translocator protein,Homo sapiens,IC50,123594743.34,nM,=,B,
+Diazepam,CHEMBL12,CHEMBL3253,Albumin,Homo sapiens,Binding,86.1,%,=,B,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,1.19,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,17.7,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,LD50,1386.0,mg.kg-1,=,T,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. of shocks accepted/5 min,23.6,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Effect,306.5,%,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. of shocks accepted/5 min,41.1,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Effect,533.8,%,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. of shocks accepted/5 min,52.8,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Effect,685.7,%,=,F,
+Diazepam,CHEMBL12,CHEMBL2093872,GABA-A receptor; anion channel,Homo sapiens,IC50,74000.0,nM,=,B,4.13
+Diazepam,CHEMBL12,CHEMBL2094133,GABA-A receptor; anion channel,Mus musculus,IC50,12.0,nM,=,B,7.92
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MED,2.5,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL612558,ADMET,,Binding energy,11.5,kCal mol-1,=,A,
+Diazepam,CHEMBL12,CHEMBL2362975,No relevant target,,LogP,2.66,,=,P,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Log 1/C,1.793,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Log 1/C,1.876,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Log 1/C,1.659,,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,28.0,nM,=,B,7.55
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,13.0,nM,=,B,7.89
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.11,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MED,5.0,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,GS,2.2,,=,B,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ki,14.0,nM,=,B,7.85
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. of shocks,21.2,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,1.5,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,3.1,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,3.8,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,1000.0,nM,>,B,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ki,6.6,nM,=,B,8.18
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,GABA shift,2.24,,=,B,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,4.0,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Locomotor activity,42.0,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,TD50,2.8,mg kg-1,=,T,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.5,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,1.1,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.39,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,2.3,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,30.0,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL612545,Unchecked,,PI,0.7,,=,F,
+Diazepam,CHEMBL12,CHEMBL2362975,No relevant target,,Log S,-3.75,,=,P,
+Diazepam,CHEMBL12,CHEMBL4552,Translocator protein,Rattus norvegicus,Kd,213.0,nM,=,B,6.67
+Diazepam,CHEMBL12,CHEMBL2093872,GABA-A receptor; anion channel,Homo sapiens,IC50,123594743.34,nM,=,B,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Log ED50,1.45,mM kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL2095167,GABA-A receptor; alpha-1/beta-2/gamma-2,Rattus norvegicus,Ki,16.0,nM,=,B,7.80
+Diazepam,CHEMBL12,CHEMBL2111343,GABA A receptor alpha-3/beta-2/gamma-2,Rattus norvegicus,Ki,17.0,nM,=,B,7.77
+Diazepam,CHEMBL12,CHEMBL612545,Unchecked,,Ki,10000.0,nM,>,B,
+Diazepam,CHEMBL12,CHEMBL612545,Unchecked,,Ki,15.0,nM,=,B,7.82
+Diazepam,CHEMBL12,CHEMBL2111365,GABA A receptor alpha-6/beta-2/gamma-2,Rattus norvegicus,Ki,10000.0,nM,>,B,
+Diazepam,CHEMBL12,CHEMBL2095167,GABA-A receptor; alpha-1/beta-2/gamma-2,Rattus norvegicus,Ki,10000.0,nM,>,B,
+Diazepam,CHEMBL12,CHEMBL612545,Unchecked,,Ki,23.0,nM,=,B,7.64
+Diazepam,CHEMBL12,CHEMBL2111365,GABA A receptor alpha-6/beta-2/gamma-2,Rattus norvegicus,Ki,98.0,nM,=,B,7.01
+Diazepam,CHEMBL12,CHEMBL2111365,GABA A receptor alpha-6/beta-2/gamma-2,Rattus norvegicus,Ki,20.0,nM,=,B,7.70
+Diazepam,CHEMBL12,CHEMBL2111365,GABA A receptor alpha-6/beta-2/gamma-2,Rattus norvegicus,Ki,9.0,nM,=,B,8.05
+Diazepam,CHEMBL12,CHEMBL2111365,GABA A receptor alpha-6/beta-2/gamma-2,Rattus norvegicus,Ki,2.1,nM,=,B,8.68
+Diazepam,CHEMBL12,CHEMBL612545,Unchecked,,Ki,20.0,nM,=,B,7.70
+Diazepam,CHEMBL12,CHEMBL372,Homo sapiens,Homo sapiens,FA,97.0,%,=,A,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ki,4.9,nM,=,B,8.31
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,[35S] TBPS shift,1.0,,=,B,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,36Cl- uptake,1.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.5,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL2095172,GABA-A receptor; alpha-1/beta-2/gamma-2,Homo sapiens,Ki,13.0,nM,=,B,7.89
+Diazepam,CHEMBL12,CHEMBL2111339,GABA A receptor alpha-3/beta-2/gamma-2,Homo sapiens,Ki,10.0,nM,=,B,8.00
+Diazepam,CHEMBL12,CHEMBL2111370,GABA A receptor alpha-6/beta-2/gamma-2,Homo sapiens,Ki,7000.0,nM,>,B,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.54,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.86,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,6.0,nM,=,B,8.22
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,5.4,nM,=,B,8.27
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,1.4,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,25.0,mg.kg-1,>,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,3.2,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MED,1.25,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,DUR,20.0,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL614874,Monkey,Cercopithecidae,MED,0.31,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL614874,Monkey,Cercopithecidae,HED,20.0,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.97,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL612670,Felis catus,Felis catus,MED,0.2,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL614629,Ramos,Homo sapiens,EC50,80000.0,nM,>,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Retention,53.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Retention,40.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Retention,41.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL2096682,"Sodium channel alpha subunits; brain (Types I, II, III)",Homo sapiens,Inhibition,15.2,%,=,B,
+Diazepam,CHEMBL12,CHEMBL2096682,"Sodium channel alpha subunits; brain (Types I, II, III)",Homo sapiens,Inhibition,45.4,%,=,B,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Displacement,33.0,%,=,B,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Displacement,25.0,%,=,B,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Displacement,-13.0,%,=,B,
+Diazepam,CHEMBL12,CHEMBL2095167,GABA-A receptor; alpha-1/beta-2/gamma-2,Rattus norvegicus,GABA current,300.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,20.0,nM,=,B,7.70
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,20.0,nM,=,B,7.70
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Cortex_Clearance,300.0,ml s-1 (10e4*g)-1,=,A,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.29,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,TD50,6.8,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,1.2,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.52,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.62,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.58,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,5.4,nM,=,B,8.27
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,1.4,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,2.6,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.28,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.28,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.1,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,2.6,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.035,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.2,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,50.0,mg.kg-1,>,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,50.0,mg.kg-1,>,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,50.0,mg.kg-1,>,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,10.0,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL612558,ADMET,,Vdss,1.3,L.kg-1,=,A,
+Diazepam,CHEMBL12,CHEMBL612558,ADMET,,Fu,0.02,,=,A,
+Diazepam,CHEMBL12,CHEMBL2362975,No relevant target,,pKa,,,,P,
+Diazepam,CHEMBL12,CHEMBL2094107,GABA-A receptor; anion channel,Bos taurus,Ki,10.0,nM,=,B,8.00
+Diazepam,CHEMBL12,CHEMBL2094107,GABA-A receptor; anion channel,Bos taurus,GR,1.5,,=,B,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,No. of falls,0.23,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Activity,47.6,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,No. of falls,0.56,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Activity,81.2,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,No. of crosses,22.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Time in light,95.5,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,No. of falls,0.73,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Activity,100.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Activity,90.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Lethality,10.0,%,=,A,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,No. of crosses,28.5,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Time in light,144.9,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,No. of falls,1.4,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Activity,100.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Activity,100.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Lethality,0.0,%,=,A,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,No. of crosses,16.5,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Time in light,211.1,%,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,6.0,nM,=,B,8.22
+Diazepam,CHEMBL12,CHEMBL2095172,GABA-A receptor; alpha-1/beta-2/gamma-2,Homo sapiens,Ki,12.0,nM,=,B,7.92
+Diazepam,CHEMBL12,CHEMBL2094130,GABA-A receptor; alpha-2/beta-3/gamma-2,Homo sapiens,Ki,6.6,nM,=,B,8.18
+Diazepam,CHEMBL12,CHEMBL2094120,GABA-A receptor; alpha-3/beta-3/gamma-2,Homo sapiens,Ki,33.0,nM,=,B,7.48
+Diazepam,CHEMBL12,CHEMBL2095172,GABA-A receptor; alpha-1/beta-2/gamma-2,Homo sapiens,Efficacy,157.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ki,10.5,nM,=,B,7.98
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,GABA ratio,1.5,,=,B,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ki,5.0,nM,=,B,8.30
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ki,2.9,nM,=,B,8.54
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,GABA ratio,2.3,,=,B,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MED,0.5,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.2,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.18,%,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ki,7.0,nM,~,B,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,GABA shift,2.0,,=,B,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Anxiolytic activity,35.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ki,5.02,nM,=,B,8.30
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.67,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,77.0,nM,=,B,7.11
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,GABA shift,3.07,,=,B,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,5.0,nM,=,B,8.30
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,ID50,0.91,mg.kg-1,=,B,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,ID50,5.0,mg.kg-1,=,B,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,4.0,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,VI30,5.9,%,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,VI30,6.1,%,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,VI30,3.6,%,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,VI30,-23.8,%,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,FR10 treated,97.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,FR10 treated,131.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,FR10 treated,206.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,FR10 treated,240.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,FR10 control,82.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,FR10 control,85.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,FR10 control,63.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,FR10 control,76.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,1.6,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,1.2,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,4.8,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,LD50,620.0,mg.kg-1,=,T,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,30.0,mg.kg-1,>,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Delta t,-0.1,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,30.0,mg.kg-1,>,F,
+Diazepam,CHEMBL12,CHEMBL612545,Unchecked,,Ratio,3.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ki,5.0,nM,=,B,8.30
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.67,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,28.0,nM,=,B,7.55
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,13.0,nM,=,B,7.89
+Diazepam,CHEMBL12,CHEMBL613490,Mus sp.,Mus sp.,ED50,0.11,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL613490,Mus sp.,Mus sp.,ED50,0.3,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MED,5.0,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MED,5.0,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL612545,Unchecked,,MED,1.0,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL612545,Unchecked,,MED,0.1,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL612545,Unchecked,,ED50,1.0,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL612545,Unchecked,,ED50,0.1,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,GABA shift,2.2,,=,B,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ki,14.0,nM,=,B,7.85
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Recovery time,5.0,min,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Recovery time,82.0,min,=,F,
+Diazepam,CHEMBL12,CHEMBL612558,ADMET,,Log k'w,2.63,,=,A,
+Diazepam,CHEMBL12,CHEMBL2362975,No relevant target,,LogP,3.03,,=,P,
+Diazepam,CHEMBL12,CHEMBL2362975,No relevant target,,LogP,2.79,,=,P,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,20.6,nM,=,B,7.69
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ratio,1.78,,=,B,
+Diazepam,CHEMBL12,CHEMBL2094121,GABA-A receptor; alpha-1/beta-3/gamma-2,Homo sapiens,Ki,14.0,nM,=,B,7.85
+Diazepam,CHEMBL12,CHEMBL2094130,GABA-A receptor; alpha-2/beta-3/gamma-2,Homo sapiens,Ki,20.0,nM,=,B,7.70
+Diazepam,CHEMBL12,CHEMBL2094120,GABA-A receptor; alpha-3/beta-3/gamma-2,Homo sapiens,Ki,15.0,nM,=,B,7.82
+Diazepam,CHEMBL12,CHEMBL2094122,GABA-A receptor; alpha-5/beta-3/gamma-2,Homo sapiens,Ki,11.0,nM,=,B,7.96
+Diazepam,CHEMBL12,CHEMBL2095190,GABA-A receptor; alpha-6/beta-3/gamma-2,Homo sapiens,Ki,3000.0,nM,>,B,
+Diazepam,CHEMBL12,CHEMBL612545,Unchecked,,Ratio,1.3,,=,B,
+Diazepam,CHEMBL12,CHEMBL2094121,GABA-A receptor; alpha-1/beta-3/gamma-2,Homo sapiens,Ki,14.0,nM,=,B,7.85
+Diazepam,CHEMBL12,CHEMBL2094130,GABA-A receptor; alpha-2/beta-3/gamma-2,Homo sapiens,Ki,20.0,nM,=,B,7.70
+Diazepam,CHEMBL12,CHEMBL2094120,GABA-A receptor; alpha-3/beta-3/gamma-2,Homo sapiens,Ki,15.0,nM,=,B,7.82
+Diazepam,CHEMBL12,CHEMBL2094122,GABA-A receptor; alpha-5/beta-3/gamma-2,Homo sapiens,Ki,11.0,nM,=,B,7.96
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Permeability,,,,A,
+Diazepam,CHEMBL12,CHEMBL2094122,GABA-A receptor; alpha-5/beta-3/gamma-2,Homo sapiens,Ki,11.2,nM,=,B,7.95
+Diazepam,CHEMBL12,CHEMBL2094122,GABA-A receptor; alpha-5/beta-3/gamma-2,Homo sapiens,Efficacy,73.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL2094121,GABA-A receptor; alpha-1/beta-3/gamma-2,Homo sapiens,Ki,14.3,nM,=,B,7.84
+Diazepam,CHEMBL12,CHEMBL2094121,GABA-A receptor; alpha-1/beta-3/gamma-2,Homo sapiens,Efficacy,156.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL2094130,GABA-A receptor; alpha-2/beta-3/gamma-2,Homo sapiens,Ki,26.2,nM,=,B,7.58
+Diazepam,CHEMBL12,CHEMBL2094130,GABA-A receptor; alpha-2/beta-3/gamma-2,Homo sapiens,Efficacy,89.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL2094120,GABA-A receptor; alpha-3/beta-3/gamma-2,Homo sapiens,Ki,23.7,nM,=,B,7.62
+Diazepam,CHEMBL12,CHEMBL2094120,GABA-A receptor; alpha-3/beta-3/gamma-2,Homo sapiens,Efficacy,211.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Sleeping time,245.0,s,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Sleeping time,709.0,s,<,F,
+Diazepam,CHEMBL12,CHEMBL296,Gamma-aminobutyric acid receptor subunit gamma-1,Rattus norvegicus,IC50,5.0,nM,=,F,8.30
+Diazepam,CHEMBL12,CHEMBL2462,Tyrosine 3-monooxygenase,Rattus norvegicus,Inhibition,23.0,%,=,B,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ki,4.9,nM,=,B,8.31
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ratio,1.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL2095172,GABA-A receptor; alpha-1/beta-2/gamma-2,Homo sapiens,Activity,1.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.5,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL2111365,GABA A receptor alpha-6/beta-2/gamma-2,Rattus norvegicus,Ki,7000.0,nM,>,B,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,1.2,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL2093872,GABA-A receptor; anion channel,Homo sapiens,IC50,8.1,nM,=,B,8.09
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,30.0,nM,=,B,7.52
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,7.0,nM,=,B,8.15
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.9,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.2,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,GABA shift,3.14,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MED,1.0,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,MED,1.0,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Sedative dose,10.0,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,1.7,mg.kg-1,=,T,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,MED,2.5,mg kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,Ki,8.5,nM,=,B,8.07
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,GABA ratio,2.13,,=,B,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,39.4,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Activity,25.1,,=,F,
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,15.4,nM,=,B,7.81
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,No. of shocks,22.7,,=,F,
+Diazepam,CHEMBL12,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Anticonflict activity,25.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Activity,30.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Antiamnesic activity,1.0,,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,7.0,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.28,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.28,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.1,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,2.6,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.035,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.2,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.17,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,TD50,7.3,mg kg-1,=,A,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Change,50.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Change,60.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Change,15.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,Change,40.0,%,=,F,
+Diazepam,CHEMBL12,CHEMBL2094133,GABA-A receptor; anion channel,Mus musculus,IC50,,nM,=,B,
+Diazepam,CHEMBL12,CHEMBL2094133,GABA-A receptor; anion channel,Mus musculus,Ki,85000.0,nM,=,B,4.07
+Diazepam,CHEMBL12,CHEMBL1907607,GABA-A receptor; anion channel,Rattus norvegicus,IC50,6.0,nM,=,B,8.22
+Diazepam,CHEMBL12,CHEMBL2094107,GABA-A receptor; anion channel,Bos taurus,IC50,41.0,nM,=,B,7.39
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,2.6,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.1,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.035,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.28,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.28,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,0.2,mg.kg-1,=,F,
+Diazepam,CHEMBL12,CHEMBL375,Mus musculus,Mus musculus,ED50,50.0,mg.kg-1,>,F,
+Ketamine,CHEMBL742,CHEMBL1907608,Glutamate NMDA receptor,Rattus norvegicus,IC50,860.0,nM,=,B,6.07
+Ketamine,CHEMBL742,CHEMBL1907608,Glutamate NMDA receptor,Rattus norvegicus,IC50,8860.0,nM,=,F,5.05
+Ketamine,CHEMBL742,CHEMBL1907608,Glutamate NMDA receptor,Rattus norvegicus,ED50,6.0,mg.kg-1,=,F,
+Ketamine,CHEMBL742,CHEMBL375,Mus musculus,Mus musculus,Ataxia,10.0,mg kg-1,=,F,
+Ketamine,CHEMBL742,CHEMBL2362975,No relevant target,,LogD,2.18,,=,P,
+Ketamine,CHEMBL742,CHEMBL375,Mus musculus,Mus musculus,Counts,94.3,min-1,=,F,
+Ketamine,CHEMBL742,CHEMBL1907608,Glutamate NMDA receptor,Rattus norvegicus,IC50,610.0,nM,=,B,6.21
+Ketamine,CHEMBL742,CHEMBL1907608,Glutamate NMDA receptor,Rattus norvegicus,IC50,610.0,nM,=,B,6.21
+Ketamine,CHEMBL742,CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,Ki,,nM,,B,
+Ketamine,CHEMBL742,CHEMBL2072,Sodium channel protein type 4 subunit alpha,Homo sapiens,IC50,800000.0,nM,=,F,
+Ketamine,CHEMBL742,CHEMBL2072,Sodium channel protein type 4 subunit alpha,Homo sapiens,IC50,2300000.0,nM,=,F,
+Ketamine,CHEMBL742,CHEMBL2094124,Glutamate [NMDA] receptor,Homo sapiens,Ki,420.0,nM,=,B,6.38
+Ketamine,CHEMBL742,CHEMBL2362975,No relevant target,,LogD,1.14,,=,P,
+Ketamine,CHEMBL742,CHEMBL612558,ADMET,,delta logD,-0.69,,=,A,
+Ketamine,CHEMBL742,CHEMBL2362975,No relevant target,,pKa,7.5,,=,P,
+Ketamine,CHEMBL742,CHEMBL612558,ADMET,,F,20.0,%,<=,A,
+Ketamine,CHEMBL742,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration of anesthesia,7.11,min,=,F,
+Ketamine,CHEMBL742,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Duration of increase in SLA,24.65,min,=,F,
+Ketamine,CHEMBL742,CHEMBL612558,ADMET,,Partition coefficient,6.36,,=,A,
+Ketamine,CHEMBL742,CHEMBL612558,ADMET,,Partition coefficient,98.6,,=,A,
+Ketamine,CHEMBL742,CHEMBL612558,ADMET,,Partition coefficient,299.0,,=,A,
+Ketamine,CHEMBL742,CHEMBL612558,ADMET,,CL,136.0,mL.min-1.g-1,=,A,
+Ketamine,CHEMBL742,CHEMBL5763,Cholinesterase,Equus caballus,Inhibition,50.0,%,<,B,
+Ketamine,CHEMBL742,CHEMBL1907604,Glutamate NMDA receptor; GRIN1/GRIN2A,Homo sapiens,Activity,104.9,%,=,B,
+Ketamine,CHEMBL742,CHEMBL1907603,Glutamate NMDA receptor; GRIN1/GRIN2B,Homo sapiens,IC50,3200.0,nM,=,B,5.50
+Ketamine,CHEMBL742,CHEMBL1907604,Glutamate NMDA receptor; GRIN1/GRIN2A,Homo sapiens,IC50,6100.0,nM,=,B,5.21
+Ketamine,CHEMBL742,CHEMBL612558,ADMET,,CC50,100000.0,nM,>,A,
+Ketamine,CHEMBL742,CHEMBL4078,Acetylcholinesterase,Electrophorus electricus,IC50,10000.0,nM,>,B,
+Ketamine,CHEMBL742,CHEMBL5763,Cholinesterase,Equus caballus,IC50,10000.0,nM,>,B,
+Ketamine,CHEMBL742,CHEMBL4078,Acetylcholinesterase,Electrophorus electricus,Inhibition,50.0,%,<,B,
+Ketamine,CHEMBL742,CHEMBL1907604,Glutamate NMDA receptor; GRIN1/GRIN2A,Homo sapiens,Activity,,,,B,
+Ketamine,CHEMBL742,CHEMBL612558,ADMET,,Activity,99.8,%,=,A,
+Ketamine,CHEMBL742,CHEMBL368,Trypanosoma cruzi,Trypanosoma cruzi,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL612348,Trypanosoma brucei rhodesiense,Trypanosoma brucei rhodesiense,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL612851,Trypanosoma brucei brucei,Trypanosoma brucei brucei,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL612849,Trypanosoma brucei,Trypanosoma brucei,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL612884,Trichomonas vaginalis,Trichomonas vaginalis,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL612888,Toxoplasma gondii,Toxoplasma gondii,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL613064,Pneumocystis carinii,Pneumocystis carinii,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL364,Plasmodium falciparum,Plasmodium falciparum,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL2366686,Leishmania,Leishmania,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL612880,Leishmania mexicana,Leishmania mexicana,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL612879,Leishmania major,Leishmania major,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL612848,Leishmania infantum,Leishmania infantum,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL367,Leishmania donovani,Leishmania donovani,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL612877,Leishmania amazonensis,Leishmania amazonensis,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL612853,Entamoeba histolytica,Entamoeba histolytica,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL612855,Cryptosporidium parvum,Cryptosporidium parvum,IC50,,,,F,
+Ketamine,CHEMBL742,CHEMBL1293235,Prelamin-A/C,Homo sapiens,Potency,35481.3,nM,=,F,4.45
+Ketamine,CHEMBL742,CHEMBL612558,ADMET,,Fu,0.47,,=,A,
+Ketamine,CHEMBL742,CHEMBL612558,ADMET,,MRT,2.5,hr,=,A,
+Ketamine,CHEMBL742,CHEMBL612558,ADMET,,T1/2,2.8,hr,=,A,
+Ketamine,CHEMBL742,CHEMBL612558,ADMET,,Vdss,2.9,L.kg-1,=,A,
+Ketamine,CHEMBL742,CHEMBL612558,ADMET,,CL,19.0,mL.min-1.kg-1,=,A,
+Ketamine,CHEMBL742,CHEMBL1697861,Hepatotoxicity,,Hepatotoxicity,,,,A,
+Ketamine,CHEMBL742,CHEMBL1697861,Hepatotoxicity,,Hepatotoxicity,,,,A,
+Ketamine,CHEMBL742,CHEMBL1697861,Hepatotoxicity,,Hepatotoxicity,,,,A,
+Ketamine,CHEMBL742,CHEMBL4729,Cytochrome P450 2B6,Homo sapiens,Activity,,,,A,
+Ketamine,CHEMBL742,CHEMBL340,Cytochrome P450 3A4,Homo sapiens,Activity,,,,A,
+Ketamine,CHEMBL742,CHEMBL1907603,Glutamate NMDA receptor; GRIN1/GRIN2B,Homo sapiens,IC50,5011.87,nM,=,B,5.30
+Ketamine,CHEMBL742,CHEMBL1907604,Glutamate NMDA receptor; GRIN1/GRIN2A,Homo sapiens,IC50,1258.93,nM,=,B,5.90
+Ketamine,CHEMBL742,CHEMBL1907603,Glutamate NMDA receptor; GRIN1/GRIN2B,Homo sapiens,Activity,100.0,%,>,B,
+Ketamine,CHEMBL742,CHEMBL1907604,Glutamate NMDA receptor; GRIN1/GRIN2A,Homo sapiens,Activity,100.0,%,>,B,
+Ketamine,CHEMBL742,CHEMBL1741193,Chromobox protein homolog 1,Homo sapiens,Potency,79432.8,nM,,F,
+Ketamine,CHEMBL742,CHEMBL220,Acetylcholinesterase,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL220,Acetylcholinesterase,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL226,Adenosine receptor A1,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL226,Adenosine receptor A1,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL251,Adenosine receptor A2a,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL251,Adenosine receptor A2a,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL256,Adenosine receptor A3,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL256,Adenosine receptor A3,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL319,Alpha-1A adrenergic receptor,Rattus norvegicus,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL319,Alpha-1A adrenergic receptor,Rattus norvegicus,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL315,Alpha-1B adrenergic receptor,Rattus norvegicus,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL315,Alpha-1B adrenergic receptor,Rattus norvegicus,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL223,Alpha-1D adrenergic receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL223,Alpha-1D adrenergic receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1867,Alpha-2A adrenergic receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1867,Alpha-2A adrenergic receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1942,Alpha-2B adrenergic receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1942,Alpha-2B adrenergic receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1916,Alpha-2C adrenergic receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1916,Alpha-2C adrenergic receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL213,Beta-1 adrenergic receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL213,Beta-1 adrenergic receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL210,Beta-2 adrenergic receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL210,Beta-2 adrenergic receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL246,Beta-3 adrenergic receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL246,Beta-3 adrenergic receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL2622,Aldo-keto reductase family 1 member B1,Rattus norvegicus,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL2622,Aldo-keto reductase family 1 member B1,Rattus norvegicus,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL4607,Type-2 angiotensin II receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL4607,Type-2 angiotensin II receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL3157,B2 bradykinin receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL3157,B2 bradykinin receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1832,Calcitonin receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1832,Calcitonin receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL205,Carbonic anhydrase 2,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL205,Carbonic anhydrase 2,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL4015,C-C chemokine receptor type 2,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL4015,C-C chemokine receptor type 2,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL2414,C-C chemokine receptor type 4,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL2414,C-C chemokine receptor type 4,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL274,C-C chemokine receptor type 5,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL274,C-C chemokine receptor type 5,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL4029,C-X-C chemokine receptor type 1,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL4029,C-X-C chemokine receptor type 1,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL2434,C-X-C chemokine receptor type 2,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL2434,C-X-C chemokine receptor type 2,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1901,Cholecystokinin receptor type A,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1901,Cholecystokinin receptor type A,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL221,Prostaglandin G/H synthase 1,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL221,Prostaglandin G/H synthase 1,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL230,Prostaglandin G/H synthase 2,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL230,Prostaglandin G/H synthase 2,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL3356,Cytochrome P450 1A2,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL3356,Cytochrome P450 1A2,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL5282,Cytochrome P450 2A6,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL5282,Cytochrome P450 2A6,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL3622,Cytochrome P450 2C19,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL3622,Cytochrome P450 2C19,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL3397,Cytochrome P450 2C9,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL3397,Cytochrome P450 2C9,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL289,Cytochrome P450 2D6,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL289,Cytochrome P450 2D6,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL5281,Cytochrome P450 2E1,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL5281,Cytochrome P450 2E1,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL340,Cytochrome P450 3A4,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL340,Cytochrome P450 3A4,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL2056,D(1A) dopamine receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL2056,D(1A) dopamine receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL217,D(2) dopamine receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL217,D(2) dopamine receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL234,D(3) dopamine receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL234,D(3) dopamine receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL219,D(4) dopamine receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL219,D(4) dopamine receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL252,Endothelin-1 receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL252,Endothelin-1 receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL206,Estrogen receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL206,Estrogen receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL242,Estrogen receptor beta,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL242,Estrogen receptor beta,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL2034,Glucocorticoid receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL2034,Glucocorticoid receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,1010.0,nM,=,B,6.00
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,684.0,nM,=,B,6.17
+Ketamine,CHEMBL742,CHEMBL3392921,Glycine receptor,Rattus norvegicus,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL3392921,Glycine receptor,Rattus norvegicus,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL231,Histamine H1 receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL231,Histamine H1 receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1941,Histamine H2 receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1941,Histamine H2 receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL402,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL402,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL5486,Insulin receptor,Rattus norvegicus,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL5486,Insulin receptor,Rattus norvegicus,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1909043,Leukotriene C4 synthase,Cavia porcellus,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1909043,Leukotriene C4 synthase,Cavia porcellus,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1798,Cysteinyl leukotriene receptor 1,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1798,Cysteinyl leukotriene receptor 1,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL4358,Polyunsaturated fatty acid lipoxygenase ALOX15,Oryctolagus cuniculus,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL4358,Polyunsaturated fatty acid lipoxygenase ALOX15,Oryctolagus cuniculus,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL4644,Melanocortin receptor 3,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL4644,Melanocortin receptor 3,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL259,Melanocortin receptor 4,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL259,Melanocortin receptor 4,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL4608,Melanocortin receptor 5,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL4608,Melanocortin receptor 5,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1951,Amine oxidase [flavin-containing] A,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1951,Amine oxidase [flavin-containing] A,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL216,Muscarinic acetylcholine receptor M1,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL216,Muscarinic acetylcholine receptor M1,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL211,Muscarinic acetylcholine receptor M2,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL211,Muscarinic acetylcholine receptor M2,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL245,Muscarinic acetylcholine receptor M3,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL245,Muscarinic acetylcholine receptor M3,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1821,Muscarinic acetylcholine receptor M4,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1821,Muscarinic acetylcholine receptor M4,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL2035,Muscarinic acetylcholine receptor M5,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL2035,Muscarinic acetylcholine receptor M5,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL4777,Neuropeptide Y receptor type 1,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL4777,Neuropeptide Y receptor type 1,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL4018,Neuropeptide Y receptor type 2,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL4018,Neuropeptide Y receptor type 2,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL3048,Nitric oxide synthase 1,Rattus norvegicus,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL3048,Nitric oxide synthase 1,Rattus norvegicus,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL3464,"Nitric oxide synthase, inducible",Mus musculus,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL3464,"Nitric oxide synthase, inducible",Mus musculus,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL236,Delta-type opioid receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL236,Delta-type opioid receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL237,Kappa-type opioid receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL237,Kappa-type opioid receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL233,Mu-type opioid receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL233,Mu-type opioid receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1827,"cGMP-specific 3',5'-cyclic phosphodiesterase",Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1827,"cGMP-specific 3',5'-cyclic phosphodiesterase",Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL250,Platelet-activating factor receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL250,Platelet-activating factor receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1909044,Progesterone receptor,Bos taurus,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1909044,Progesterone receptor,Bos taurus,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL4074,Angiotensin-converting enzyme,Oryctolagus cuniculus,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL4074,Angiotensin-converting enzyme,Oryctolagus cuniculus,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL4801,Caspase-1,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL4801,Caspase-1,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL4071,Cathepsin G,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL4071,Cathepsin G,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL248,Neutrophil elastase,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL248,Neutrophil elastase,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL332,Interstitial collagenase,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL332,Interstitial collagenase,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL321,Matrix metalloproteinase-9,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL321,Matrix metalloproteinase-9,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL299,Protein kinase C alpha type,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL299,Protein kinase C alpha type,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL3385,Mitogen-activated protein kinase 3,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL3385,Mitogen-activated protein kinase 3,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL4040,Mitogen-activated protein kinase 1,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL4040,Mitogen-activated protein kinase 1,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL260,Mitogen-activated protein kinase 14,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL260,Mitogen-activated protein kinase 14,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL4445,Protein phosphatase 3 catalytic subunit alpha,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL4445,Protein phosphatase 3 catalytic subunit alpha,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL203,Epidermal growth factor receptor,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL203,Epidermal growth factor receptor,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1841,Tyrosine-protein kinase Fyn,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1841,Tyrosine-protein kinase Fyn,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1824,Receptor tyrosine-protein kinase erbB-2,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1824,Receptor tyrosine-protein kinase erbB-2,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL258,Tyrosine-protein kinase Lck,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL258,Tyrosine-protein kinase Lck,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL3243,Receptor-type tyrosine-protein phosphatase C,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL3243,Receptor-type tyrosine-protein phosphatase C,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL273,5-hydroxytryptamine receptor 1A,Rattus norvegicus,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL273,5-hydroxytryptamine receptor 1A,Rattus norvegicus,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL3459,5-hydroxytryptamine receptor 1B,Rattus norvegicus,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL3459,5-hydroxytryptamine receptor 1B,Rattus norvegicus,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL224,5-hydroxytryptamine receptor 2A,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL224,5-hydroxytryptamine receptor 2A,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL1833,5-hydroxytryptamine receptor 2B,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL1833,5-hydroxytryptamine receptor 2B,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL225,5-hydroxytryptamine receptor 2C,Homo sapiens,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL225,5-hydroxytryptamine receptor 2C,Homo sapiens,Ki,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,IC50,,,,B,
+Ketamine,CHEMBL742,CHEMBL612545,Unchecked,,Ki,,,,B,
+THC,CHEMBL465,CHEMBL612558,ADMET,,Vdss,9.8,L.kg-1,=,A,
+THC,CHEMBL465,CHEMBL612558,ADMET,,Fu,0.03,,=,A,
+THC,CHEMBL465,CHEMBL612558,ADMET,,Fu,0.001,,=,A,
+THC,CHEMBL465,CHEMBL612558,ADMET,,eLog D,6.8,,=,A,
+THC,CHEMBL465,CHEMBL612558,ADMET,,Fraction ionised,0.0,,=,A,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Cataleptic effect,48.9,,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Spont activity,54.0,Counts 10min-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Spont activity,70.0,Counts 10min-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Spont activity,30.0,Counts 10min-1,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Spont activity,23.0,Counts 10min-1,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Spont activity,7.0,Counts 10min-1,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Spont activity,103.0,Counts 10min-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Spont activity,46.0,Counts 10min-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Spont activity,41.0,Counts 10min-1,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Spont activity,33.0,Counts 10min-1,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Temperature,-1.1,degrees C,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Temperature,-1.0,degrees C,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Temperature,-2.4,degrees C,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Temperature,-2.9,degrees C,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Temperature,-5.1,degrees C,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Temperature,-2.2,degrees C,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Temperature,-2.3,degrees C,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Temperature,-3.6,degrees C,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Temperature,-5.5,degrees C,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Tail flick latency,0.6,s,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Tail flick latency,2.0,s,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Tail flick latency,2.9,s,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Tail flick latency,4.9,s,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Tail flick latency,5.1,s,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Tail flick latency,-0.2,s,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Tail flick latency,1.6,s,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Tail flick latency,2.3,s,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Tail flick latency,4.0,s,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Immobility,8.0,%,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Immobility,9.0,%,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Immobility,25.0,%,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Immobility,42.0,%,<,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Immobility,57.0,%,<,F,
+THC,CHEMBL465,CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,IC50,5.8,nM,=,B,8.24
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,IC50,4.0,nM,=,F,8.40
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.006,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.415,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.415,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.51,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL614874,Monkey,Cercopithecidae,Activity,,,,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Decrease in Systolic blood pressure,39.0,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Decrease in Systolic blood pressure,21.0,%,=,F,
+THC,CHEMBL465,CHEMBL612558,ADMET,,Vdss,9.8,L.kg-1,=,A,
+THC,CHEMBL465,CHEMBL612558,ADMET,,Fu,0.03,,=,A,
+THC,CHEMBL465,CHEMBL2362975,No relevant target,,pKa,,,,P,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,MPE,27.0,%,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,3.2,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,MPE,53.0,%,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,MPE,61.0,%,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Hypothermic effect,2.6,,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Hypothermic effect,3.6,,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Hypothermic effect,3.8,,=,F,
+THC,CHEMBL465,CHEMBL2111385,Cannabinoid receptor,Rattus norvegicus,IC50,5.8,nM,=,B,8.24
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,IC50,4.0,nM,=,F,8.40
+THC,CHEMBL465,CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,Ki,47.6,nM,=,B,7.32
+THC,CHEMBL465,CHEMBL5373,Cannabinoid receptor 2,Mus musculus,Ki,39.3,nM,=,B,7.41
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ki,41.0,nM,=,B,7.39
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.0,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.4,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.4,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.5,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Activity,59.0,,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Activity,20.0,,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Activity,17.0,,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Activity,6.0,,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Change in temparature,-2.6,degrees C,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Change in temparature,-3.6,degrees C,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Change in temparature,-3.8,degrees C,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Change in temparature,-4.2,degrees C,=,F,
+THC,CHEMBL465,CHEMBL373,Canis familiaris,Canis lupus familiaris,Average score,0.0,,=,F,
+THC,CHEMBL465,CHEMBL373,Canis familiaris,Canis lupus familiaris,Average score,3.0,,=,F,
+THC,CHEMBL465,CHEMBL373,Canis familiaris,Canis lupus familiaris,Average score,4.0,,=,F,
+THC,CHEMBL465,CHEMBL373,Canis familiaris,Canis lupus familiaris,Change,-46.0,%,=,F,
+THC,CHEMBL465,CHEMBL373,Canis familiaris,Canis lupus familiaris,Change,-39.0,%,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.0,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,MPE50,1.4,mg kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.4,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.5,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,0.6,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL2111385,Cannabinoid receptor,Rattus norvegicus,IC50,218.0,nM,=,B,6.66
+THC,CHEMBL465,CHEMBL3037,Cannabinoid receptor 1,Mus musculus,Ki,41.0,nM,=,B,7.39
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.0,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.4,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.4,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.5,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,Ki,66.5,nM,=,B,7.18
+THC,CHEMBL465,CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,Ki,80.3,nM,=,B,7.09
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,32.2,nM,=,B,7.49
+THC,CHEMBL465,CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,EC50,11.0,nM,=,F,7.96
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Inhibition,21.0,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,27.0,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,43.0,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Decrease in fighting,36.0,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Decrease in activity,15.0,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Decrease in activity,15.0,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Decrease in activity,72.0,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Decrease in activity,41.0,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Possible response,29.0,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Possible response,100.0,%,=,F,
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ki,41.0,nM,=,B,7.39
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,36.0,nM,=,B,7.44
+THC,CHEMBL465,CHEMBL2362975,No relevant target,,LogD,4.49,,=,P,
+THC,CHEMBL465,CHEMBL612558,ADMET,,delta logD,0.0,,=,A,
+THC,CHEMBL465,CHEMBL612558,ADMET,,F,20.0,%,<,A,
+THC,CHEMBL465,CHEMBL2362975,No relevant target,,pKa,,,,P,
+THC,CHEMBL465,CHEMBL613484,Columba livia,Columba livia,ED50,0.16,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL613484,Columba livia,Columba livia,ED50,0.25,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL613484,Columba livia,Columba livia,ED50,1.21,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL2111385,Cannabinoid receptor,Rattus norvegicus,Ki,46.0,nM,=,B,7.34
+THC,CHEMBL465,CHEMBL614874,Monkey,Cercopithecidae,Activity,,,,F,
+THC,CHEMBL465,CHEMBL614874,Monkey,Cercopithecidae,Activity,,,,F,
+THC,CHEMBL465,CHEMBL614874,Monkey,Cercopithecidae,Activity,,,,F,
+THC,CHEMBL465,CHEMBL2096981,Cannabinoid receptor,Homo sapiens,Ki,41.0,nM,=,B,7.39
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,4.7,umol.kg-1,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.66,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL613484,Columba livia,Columba livia,ED50,0.18,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL2096981,Cannabinoid receptor,Homo sapiens,Relative potency,100.0,,=,F,
+THC,CHEMBL465,CHEMBL374,Oryctolagus cuniculus,Oryctolagus cuniculus,No. of rabbits convulsed,0.0,,=,F,
+THC,CHEMBL465,CHEMBL374,Oryctolagus cuniculus,Oryctolagus cuniculus,No. of rabbits convulsed,14.0,,=,F,
+THC,CHEMBL465,CHEMBL374,Oryctolagus cuniculus,Oryctolagus cuniculus,No. of rabbits convulsed,10.0,,=,F,
+THC,CHEMBL465,CHEMBL374,Oryctolagus cuniculus,Oryctolagus cuniculus,No. of rabbits convulsed,20.0,,=,F,
+THC,CHEMBL465,CHEMBL374,Oryctolagus cuniculus,Oryctolagus cuniculus,No. of rabbits convulsed,9.0,,=,F,
+THC,CHEMBL465,CHEMBL374,Oryctolagus cuniculus,Oryctolagus cuniculus,No. of rabbits convulsed,1.0,,=,F,
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ki,28.5,nM,=,B,7.54
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,25.0,nM,=,B,7.60
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ratio,1.14,,=,B,
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Log Ki,1.6,nM,=,B,
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Log Ki,1.56,nM,=,B,
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ki,41.0,nM,=,B,7.39
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,36.0,nM,=,B,7.44
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,2.9,umol.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,4.8,umol.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,4.5,umol.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,MPE50,5.9,mg kg-1,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MPE50,29.1,mg kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,MPE50,178.0,mg kg-1,>,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,MPE50,55.0,mg kg-1,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MPE50,83.1,mg kg-1,=,F,
+THC,CHEMBL465,CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,Ki,41.0,nM,=,B,7.39
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,36.0,nM,=,B,7.44
+THC,CHEMBL465,CHEMBL612545,Unchecked,,Ratio,1.1,,=,B,
+THC,CHEMBL465,CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,Ki,37.0,nM,=,B,7.43
+THC,CHEMBL465,CHEMBL612545,Unchecked,,Ki,20.0,nM,=,B,7.70
+THC,CHEMBL465,CHEMBL3455,Fatty-acid amide hydrolase 1,Mus musculus,Inhibition,31.0,%,=,F,
+THC,CHEMBL465,CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,EC50,199.53,nM,=,F,6.70
+THC,CHEMBL465,CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,Emax,159.0,%,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.0,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.4,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,1.4,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Activity,29.0,ug,=,F,
+THC,CHEMBL465,CHEMBL5373,Cannabinoid receptor 2,Mus musculus,Ki,9.2,nM,=,B,8.04
+THC,CHEMBL465,CHEMBL3037,Cannabinoid receptor 1,Mus musculus,Ki,40.0,nM,=,B,7.40
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,3.3,nM,=,B,8.48
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ki,17.0,nM,=,B,7.77
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,0.4,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,0.3,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,,,,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,t1/2,,,,A,
+THC,CHEMBL465,CHEMBL372,Homo sapiens,Homo sapiens,F,15.0,%,=,A,
+THC,CHEMBL465,CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,Ki,41.0,nM,=,B,7.39
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,36.0,nM,=,B,7.44
+THC,CHEMBL465,CHEMBL612545,Unchecked,,Ratio Ki,1.1,,=,B,
+THC,CHEMBL465,CHEMBL352,Staphylococcus aureus,Staphylococcus aureus,MIC,2.0,ug.mL-1,=,F,
+THC,CHEMBL465,CHEMBL352,Staphylococcus aureus,Staphylococcus aureus,MIC,1.0,ug.mL-1,=,F,
+THC,CHEMBL465,CHEMBL352,Staphylococcus aureus,Staphylococcus aureus,MIC,1.0,ug.mL-1,=,F,
+THC,CHEMBL465,CHEMBL352,Staphylococcus aureus,Staphylococcus aureus,MIC,1.0,ug.mL-1,=,F,
+THC,CHEMBL465,CHEMBL352,Staphylococcus aureus,Staphylococcus aureus,MIC,2.0,ug.mL-1,=,F,
+THC,CHEMBL465,CHEMBL352,Staphylococcus aureus,Staphylococcus aureus,MIC,0.5,ug.mL-1,=,F,
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,41.0,nM,=,B,7.39
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ki,2.9,nM,=,B,8.54
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,EC50,1.5,nM,=,F,8.82
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ki,40.0,nM,=,B,7.40
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,36.0,nM,=,B,7.44
+THC,CHEMBL465,CHEMBL5160,Transient receptor potential cation channel subfamily A member 1,Rattus norvegicus,EC50,230.0,nM,=,F,6.64
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,36.0,nM,=,B,7.44
+THC,CHEMBL465,CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,Ki,41.0,nM,=,B,7.39
+THC,CHEMBL465,CHEMBL612545,Unchecked,,Ratio Ki,1.1,,=,B,
+THC,CHEMBL465,CHEMBL6007,Transient receptor potential cation channel subfamily A member 1,Homo sapiens,Activity,10.0,uM,=,F,
+THC,CHEMBL465,CHEMBL612545,Unchecked,,Ratio Ki,1.1,,=,B,
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,36.0,nM,=,B,7.44
+THC,CHEMBL465,CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,Ki,41.0,nM,=,B,7.39
+THC,CHEMBL465,CHEMBL2362975,No relevant target,,Solubility,500000.0,nM,>,P,
+THC,CHEMBL465,CHEMBL612558,ADMET,,MRT,46.0,hr,=,A,
+THC,CHEMBL465,CHEMBL612558,ADMET,,Fu,0.05,,=,A,
+THC,CHEMBL465,CHEMBL612558,ADMET,,CL,3.2,mL.min-1.kg-1,=,A,
+THC,CHEMBL465,CHEMBL612558,ADMET,,Vdss,8.9,L.kg-1,=,A,
+THC,CHEMBL465,CHEMBL612558,ADMET,,T1/2,33.0,hr,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,Hepatotoxicity,,,,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,Hepatotoxicity,,,,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,Hepatotoxicity,,,,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,Composite Activity - Score,,,,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,Composite Activity - Active,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,Composite Activity - Marginal,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,Alkaline Phosphatase Increase - Activity Score,,,,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,Alkaline Phosphatase Increase - Index Value,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,Alkaline Phosphatase Increase - Number of Reports,4.0,,<,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,SGOT Increase - Activity Score,,,,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,SGOT Increase - Index Value,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,SGOT Increase - Number of Reports,4.0,,<,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,SGPT Increase - Activity Score,,,,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,SGPT Increase - Index Value,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,SGPT Increase - Number of Reports,4.0,,<,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,LDH Increase - Activity Score,,,,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,LDH Increase - Index Value,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,LDH Increase - Number of Reports,4.0,,<,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,GGT Increase - Activity Score,,,,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,GGT Increase - Index Value,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,GGT Increase - Number of Reports,4.0,,<,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_bilirubinemia,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_cholecystitis,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_cholelithiasis,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_cirrhosis,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_elevated liver function tests,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_hepatic failure,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_hepatic necrosis,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_hepatitis,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_hepatomegaly,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_jaundice,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_liver disease,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_liver fatty,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_liver function tests abnormal,0.0,,=,A,
+THC,CHEMBL465,CHEMBL1697861,Hepatotoxicity,,HepSE_Combined Scores,0.0,,=,A,
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,IC50,2.8,nM,=,B,8.55
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,IC50,9.5,nM,=,B,8.02
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ki,10.0,nM,=,B,8.00
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,EC50,17.0,nM,=,F,7.77
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Emax,20.0,%,=,F,
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,24.0,nM,=,B,7.62
+THC,CHEMBL465,CHEMBL2362975,No relevant target,,Solubility,10.0,ug.mL-1,<,P,
+THC,CHEMBL465,CHEMBL345,Nucleic Acid,,BPR,1.0,,=,A,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,4.8,umol.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,4.5,umol.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,4.5,umol.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,3.2,umol.kg-1,=,F,
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ki,41.0,nM,=,B,7.39
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,36.0,nM,=,B,7.44
+THC,CHEMBL465,CHEMBL612545,Unchecked,,Ratio Ki,1.1,,=,B,
+THC,CHEMBL465,CHEMBL1075138,Tyrosyl-DNA phosphodiesterase 1,Homo sapiens,Potency,26608.6,nM,,F,
+THC,CHEMBL465,CHEMBL1075138,Tyrosyl-DNA phosphodiesterase 1,Homo sapiens,Potency,21136.0,nM,,F,
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,71.6,nM,=,B,7.14
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ki,3.88,nM,=,B,8.41
+THC,CHEMBL465,CHEMBL2384898,N-arachidonyl glycine receptor,Homo sapiens,EC50,4610.0,nM,=,B,5.34
+THC,CHEMBL465,CHEMBL1075322,G-protein coupled receptor 55,Homo sapiens,IC50,14200.0,nM,=,B,4.85
+THC,CHEMBL465,CHEMBL612545,Unchecked,,Potency,35481.3,nM,,B,
+THC,CHEMBL465,CHEMBL612545,Unchecked,,Potency,15848.9,nM,,F,
+THC,CHEMBL465,CHEMBL2384898,N-arachidonyl glycine receptor,Homo sapiens,EC50,4610.0,nM,=,B,5.34
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,71.6,nM,=,B,7.14
+THC,CHEMBL465,CHEMBL2384898,N-arachidonyl glycine receptor,Homo sapiens,EC50,960.0,nM,=,B,6.02
+THC,CHEMBL465,CHEMBL1075322,G-protein coupled receptor 55,Homo sapiens,EC50,14200.0,nM,=,B,4.85
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ki,3.88,nM,=,B,8.41
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,0.02,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL612545,Unchecked,,Ratio Ki,1.1,,=,B,
+THC,CHEMBL465,CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Ki,36.4,nM,=,B,7.44
+THC,CHEMBL465,CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Ki,40.7,nM,=,B,7.39
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,MED,5.0,mg kg-1,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,,,,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,MED,10.0,mg kg-1,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,0.062,mg.kg-1,=,T,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,,,,T,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,100.0,mg.kg-1,>,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,43.0,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL612545,Unchecked,,Ki,302.0,nM,=,B,6.52
+THC,CHEMBL465,CHEMBL3879801,NON-PROTEIN TARGET,,pAH50,4.1,,=,F,
+THC,CHEMBL465,CHEMBL2362975,No relevant target,,Vm,2.687,10'-4m3/mol,=,P,
+THC,CHEMBL465,CHEMBL612545,Unchecked,,Ratio Ki,100.0,,=,B,
+THC,CHEMBL465,CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,Ki,39.5,nM,=,B,7.40
+THC,CHEMBL465,CHEMBL5373,Cannabinoid receptor 2,Mus musculus,Ki,40.0,nM,=,B,7.40
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,15.0,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,41.0,%,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Activity,20.0,mg kg-1,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,39.0,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,21.0,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,6.0,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,8.0,%,=,F,
+THC,CHEMBL465,CHEMBL612670,Felis catus,Felis catus,TIME,0.4833,hr,=,F,
+THC,CHEMBL465,CHEMBL612670,Felis catus,Felis catus,TIME,0.2833,hr,=,F,
+THC,CHEMBL465,CHEMBL612670,Felis catus,Felis catus,TIME,0.01667,hr,=,F,
+THC,CHEMBL465,CHEMBL612670,Felis catus,Felis catus,TIME,-0.05,hr,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,0.7,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,7.5,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,7.3,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,8.2,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Activity,8.9,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Inhibition,0.0,%,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,LD50,1000.0,mg.kg-1,>=,T,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,9.6,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Activity,,,,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,ED50,27.2,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,ED50,43.0,mg.kg-1,=,F,
+THC,CHEMBL465,CHEMBL375,Mus musculus,Mus musculus,Inhibition,36.0,%,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Inhibition,39.0,%,=,F,
+THC,CHEMBL465,CHEMBL373,Canis familiaris,Canis lupus familiaris,Activity,4.0,mg kg-1,=,F,
+THC,CHEMBL465,CHEMBL376,Rattus norvegicus,Rattus norvegicus,Inhibition,15.0,%,=,F,
+THC,CHEMBL465,CHEMBL612670,Felis catus,Felis catus,TIME,0.4833,hr,=,F,

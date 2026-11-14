@@ -1,0 +1,1063 @@
+AID,Panel Member ID,SID,CID,Activity Outcome,Target Accession,Target GeneID,Activity Value [uM],Activity Name,Assay Name,Assay Type,PubMed ID,RNAi,Chemical
+203990,,104234344,10836,Active,Q99720,10280,8.32,Ki,Binding affinity towards sigma opioid receptor in guinea pig cerebral homogenate using [3H]DTG as radioligand,Confirmatory,1848295,,Methamphetamine
+635286,,104234344,10836,Active,Q96RJ0,,1.5,EC50,"Activation of C-terminal HA epitope tagged human TAAR1 expressed in RD-HGA16 cells co-expressing Gq protein, Galpha16 by cAMP accumulation assay",Confirmatory,22037049,,Methamphetamine
+635287,,104234344,10836,Active,Q8HZ64,,5.3,EC50,Activation of rhesus monkey TAAR1 expressed in RD-HGA16 cells co-expressing Gq protein assessed as cAMP accumulation by fluorescence plate reader,Confirmatory,22037049,,Methamphetamine
+635289,,104234344,10836,Active,Q923Y9,113914,0.89,EC50,Activation of rat TAAR1 expressed in HEK293 cells assessed as accumulation of [3H]cAMP after 1 hr by liquid scintillation counting,Confirmatory,22037049,,Methamphetamine
+635292,,104234344,10836,Active,Q923Y8,111174,0.92,EC50,Activation of mouse TAAR1 expressed in human HEK293 cells assessed as accumulation of [3H]cAMP after 1 hr by liquid scintillation counting,Confirmatory,22037049,,Methamphetamine
+635293,,104234344,10836,Active,Q923Y8,111174,0.07,EC50,Activation of mouse TAAR1 expressed in human HEK293 cells assessed as accumulation of cAMP after 15 mins,Confirmatory,22037049,,Methamphetamine
+635294,,104234344,10836,Active,,,4.44,EC50,Activation of chimeric rat-human expressed in human HEK293 cells assessed as accumulation of [3H]cAMP after 1 hr by liquid scintillation counting,Confirmatory,22037049,,Methamphetamine
+635296,,104234344,10836,Active,Q96RJ0,134864,1.3,EC50,Activation of human TAAR1 expressed in human HEK293T cells assessed as cAMP accumulation after 10 mins by BRET assay,Confirmatory,22037049,,Methamphetamine
+778856,,104234344,10836,Active,Q01827,25549,2.46,Ki,Inhibition of VMAT2-mediated [3H]-dopamine uptake in rat striata isolated synaptic vesicles by liquid scintillation spectroscopy,Confirmatory,23993667,,Methamphetamine
+1066366,,104234344,10836,Active,Q923Y8,111174,1.822,EC50,Activation of mouse TAAR1 transmembrane domain 7 Tyr287(7.39)Asn mutant expressed in HEK293 cells assessed as stimulation of cAMP production after 1 hr by chemiluminescent assay,Confirmatory,24354319,,Methamphetamine
+1066367,,104234344,10836,Active,Q923Y9,113914,0.2018,EC50,Activation of rat TAAR1 transmembrane domain 7 Asn287(7.39)Tyr mutant expressed in HEK293 cells assessed as stimulation of cAMP production after 1 hr by chemiluminescent assay,Confirmatory,24354319,,Methamphetamine
+1066368,,104234344,10836,Active,Q923Y8,111174,0.01781,EC50,Activation of mouse TAAR1 transmembrane domain 6 Thr268(6.55)Met mutant expressed in HEK293 cells assessed as stimulation of cAMP production after 1 hr by chemiluminescent assay,Confirmatory,24354319,,Methamphetamine
+1066369,,104234344,10836,Active,Q923Y9,113914,2.044,EC50,Activation of rat TAAR1 transmembrane domain 6 Met268(6.55)Thr mutant expressed in HEK293 cells assessed as stimulation of cAMP production after 1 hr by chemiluminescent assay,Confirmatory,24354319,,Methamphetamine
+1066370,,104234344,10836,Active,Q923Y8,111174,0.2789,EC50,Activation of mouse wild type TAAR1 expressed in HEK293 cells assessed as stimulation of cAMP production after 1 hr by chemiluminescent assay,Confirmatory,24354319,,Methamphetamine
+1066371,,104234344,10836,Active,Q923Y9,113914,0.1333,EC50,Activation of rat wild type TAAR1 expressed in HEK293 cells assessed as stimulation of cAMP production after 1 hr by chemiluminescent assay,Confirmatory,24354319,,Methamphetamine
+1233247,,104234344,10836,Active,Q01827,25549,2.46,Ki,Inhibition of VMAT2-mediated [3H]DA uptake in rat brain synaptic vesicles by liquid scintillation spectrometry,Confirmatory,25991431,,Methamphetamine
+51042,,103225016,1615,Active,,,0.000123,Kd,Binding affinity was determined towards serotonin uptake site in presence of [3H]paroxetine radioligand in rat brain cortical homogenate,Confirmatory,1967651,,MDMA
+51043,,103225016,1615,Active,,,0.000195,Kd,Binding affinity was determined towards serotonin uptake site in presence of [3H]paroxetine radioligand in rat hippocampal homogenate,Confirmatory,1967651,,MDMA
+254565,,103225016,1615,Active,P10635,1565,1.9,Km,"Michaelis-Menten constant for oxidation to 3,4-OH-MA by cytochrome P450 2D6 (wild type pSP19T7LT)",Confirmatory,16162012,,MDMA
+408801,,103225016,1615,Active,P31645,,0.00073,Ki,Displacement of [3H]citalopram from human SERT expressed in HEK293 cells,Confirmatory,18487050,,MDMA
+408802,,103225016,1615,Active,P31645,,0.00203,Ki,Displacement of [3H]paroxetine from human SERT expressed in HEK293 cells,Confirmatory,18487050,,MDMA
+471630,,103225016,1615,Active,P31652,25553,1.06,IC50,Inhibition of [3H]5-HT reuptake at rat SERT expressed in HEK293 cells after 2 mins by liquid scintillation counting,Confirmatory,19717215,,MDMA
+471666,,103225016,1615,Active,P31645,,0.425,IC50,Inhibition of [3H]5-HT uptake at SERT,Confirmatory,19717215,,MDMA
+471667,,103225016,1615,Active,P23975,6530,0.405,IC50,Inhibition of human noradrenaline transporter,Confirmatory,19717215,,MDMA
+471668,,103225016,1615,Active,Q01959,6531,1.442,IC50,Inhibition of human dopamine transporter,Confirmatory,19717215,,MDMA
+488692,,103225016,1615,Active,P31645,,0.425,IC50,Binding affinity to human SERT,Confirmatory,20466553,,MDMA
+488693,,103225016,1615,Active,P23975,6530,0.405,IC50,Binding affinity to human NET,Confirmatory,20466553,,MDMA
+488694,,103225016,1615,Active,Q01959,6531,1.442,IC50,Binding affinity to human DAT,Confirmatory,20466553,,MDMA
+576813,,103225016,1615,Active,P31645,,1.1,IC50,Inhibition of [3H]-serotonin reuptake at human SERT expressed in HEK293 cells after 15 to 20 mins by fluorescence neurotransmitter transporter assay,Confirmatory,21227702,,MDMA
+635290,,103225016,1615,Active,Q923Y9,113914,1.7,EC50,Activation of rat TAAR1 expressed in HEK293 cells assessed as accumulation of [3H]cAMP after 1 hr by competitive binding assay,Confirmatory,22037049,,MDMA
+752491,,103225016,1615,Active,P31645,,0.948,Ki,Inhibition of [3H]5-HT uptake at human SERT expressed in HEK293 cells preincubated for 10 mins prior to substrate addition measured after 4 mins by FLIPR assay,Confirmatory,23602445,,MDMA
+752491,,103225016,1615,Active,P31645,,2.75423,IC50,Inhibition of [3H]5-HT uptake at human SERT expressed in HEK293 cells preincubated for 10 mins prior to substrate addition measured after 4 mins by FLIPR assay,Confirmatory,23602445,,MDMA
+752492,,103225016,1615,Active,P23975,6530,0.398,Ki,Inhibition of [3H]norepinephrine uptake at human NET expressed in HEK293 cells preincubated for 10 mins prior to substrate addition measured after 4 mins by FLIPR assay,Confirmatory,23602445,,MDMA
+752492,,103225016,1615,Active,P23975,6530,1.99526,IC50,Inhibition of [3H]norepinephrine uptake at human NET expressed in HEK293 cells preincubated for 10 mins prior to substrate addition measured after 4 mins by FLIPR assay,Confirmatory,23602445,,MDMA
+752493,,103225016,1615,Active,Q01959,6531,0.897,Ki,Inhibition of [3H]dopamine uptake at human DAT expressed in HEK293 cells preincubated for 10 mins prior to substrate addition measured after 4 mins by FLIPR assay,Confirmatory,23602445,,MDMA
+752493,,103225016,1615,Active,Q01959,6531,2.39883,IC50,Inhibition of [3H]dopamine uptake at human DAT expressed in HEK293 cells preincubated for 10 mins prior to substrate addition measured after 4 mins by FLIPR assay,Confirmatory,23602445,,MDMA
+1143930,,103225016,1615,Active,P09483,25590,1.44,Ki,Displacement of [3H]epibatidine from alpha4beta2 nAChR in Sprague-Dawley rat brain cortical membrane after 3 hrs,Confirmatory,24942641,,MDMA
+1143930,,103225016,1615,Active,P12390,54239,1.44,Ki,Displacement of [3H]epibatidine from alpha4beta2 nAChR in Sprague-Dawley rat brain cortical membrane after 3 hrs,Confirmatory,24942641,,MDMA
+1240847,,103225016,1615,Active,P31652,25553,0.061,EC50,Binding affinity to SERT in Sprague-Dawley rat brain synaptosomes assessed as induction of [3H]5-HT release by liquid scintillation counting method,Confirmatory,26233799,,MDMA
+1240848,,103225016,1615,Active,P23977,24898,0.075,EC50,Binding affinity to DAT in Sprague-Dawley rat brain synaptosomes assessed as induction of [3H]MPP+ release by liquid scintillation counting method,Confirmatory,26233799,,MDMA
+1240849,,103225016,1615,Active,,,0.072,EC50,Binding affinity to NET in Sprague-Dawley rat brain synaptosomes assessed as induction of [3H]MPP+ release by liquid scintillation counting method,Confirmatory,26233799,,MDMA
+1240855,,103225016,1615,Active,P31645,,1,EC50,Binding affinity to human SERT expressed in HEK293 cells assessed as induction of [3H]5-HT release by liquid scintillation counting method,Confirmatory,26233799,,MDMA
+1240856,,103225016,1615,Active,Q01959,6531,1,EC50,Binding affinity to human DAT expressed in HEK293 cells assessed as induction of [3H]MPP+ release by liquid scintillation counting method,Confirmatory,26233799,,MDMA
+1240857,,103225016,1615,Active,P23975,6530,1,EC50,Binding affinity to human NET expressed in HEK293 cells assessed as induction of [3H]MPP+ release by liquid scintillation counting method,Confirmatory,26233799,,MDMA
+1442369,,103225016,1615,Active,P31652,25553,0.072,EC50,Activity at SERT in rat synaptosomes assessed as release of [3H]HT after 5 mins by liquid scintillation counting method,Confirmatory,28244748,,MDMA
+1442370,,103225016,1615,Active,P23977,24898,0.278,EC50,Activity at DAT in rat synaptosomes assessed as release of [3H]DA after 5 mins by liquid scintillation counting method,Confirmatory,28244748,,MDMA
+1442371,,103225016,1615,Active,,,0.11,EC50,Activity at NET in rat synaptosomes assessed as release of [3H]NE after 30 mins by liquid scintillation counting method,Confirmatory,28244748,,MDMA
+1919763,,103923364,1615,Active,P31645,6532,0.384,IC50,"SERT Uptake Inhibition Assay from US Patent US11767305B2: ""Advantageous benzofuran compositions for mental disorders or enhancement""",Confirmatory,,,MDMA
+2060761,,508823184,1615,Active,P08173,1132,8.245,Ki,"Ray2010 Assay 74 from Article : ""Psychedelics and the human receptorome.""",Confirmatory,20126400,,MDMA
+2060761,,508823184,1615,Active,P08912,1133,6.33,Ki,"Ray2010 Assay 74 from Article : ""Psychedelics and the human receptorome.""",Confirmatory,20126400,,MDMA
+2060761,,508823184,1615,Active,P08913,150,2.532,Ki,"Ray2010 Assay 74 from Article : ""Psychedelics and the human receptorome.""",Confirmatory,20126400,,MDMA
+2060761,,508823184,1615,Active,P18089,151,1.785,Ki,"Ray2010 Assay 74 from Article : ""Psychedelics and the human receptorome.""",Confirmatory,20126400,,MDMA
+2060761,,508823184,1615,Active,P18825,152,1.346,Ki,"Ray2010 Assay 74 from Article : ""Psychedelics and the human receptorome.""",Confirmatory,20126400,,MDMA
+2060761,,508823184,1615,Active,P20309,1131,1.851,Ki,"Ray2010 Assay 74 from Article : ""Psychedelics and the human receptorome.""",Confirmatory,20126400,,MDMA
+2060761,,508823184,1615,Active,P41595,3357,0.5,Ki,"Ray2010 Assay 74 from Article : ""Psychedelics and the human receptorome.""",Confirmatory,20126400,,MDMA
+2060761,,508823184,1615,Active,P54289,781,1.198,Ki,"Ray2010 Assay 74 from Article : ""Psychedelics and the human receptorome.""",Confirmatory,20126400,,MDMA
+2060761,,508823184,1615,Active,Q9Y2I1,11188,0.2197,Ki,"Ray2010 Assay 74 from Article : ""Psychedelics and the human receptorome.""",Confirmatory,20126400,,MDMA
+2060762,,508823184,1615,Active,P28223,3356,8.284,EC50,"Ray2010 Assay 75 from Article : ""Psychedelics and the human receptorome.""",Confirmatory,20126400,,MDMA
+2060762,,508823184,1615,Active,P28335,3358,0.831,EC50,"Ray2010 Assay 75 from Article : ""Psychedelics and the human receptorome.""",Confirmatory,20126400,,MDMA
+2060762,,508823184,1615,Active,P28335,3358,4.299,EC50,"Ray2010 Assay 75 from Article : ""Psychedelics and the human receptorome.""",Confirmatory,20126400,,MDMA
+2060794,,508823184,1615,Active,P31645,6532,3.35,IC50,"Serotonin transporter (SERT) Uptake Inhibition Assay from US Patent US20240425470A1: ""SUBSTITUTED BENZOFURAN PROPYL AMINE MODULATORS OF MONOAMINERGIC TRANSPORTERS""",Confirmatory,,,MDMA
+2060795,,508823184,1615,Active,Q01959,6531,5.25,IC50,"Dopamine transporter (DAT) Uptake Inhibition Assay from US Patent US20240425470A1: ""SUBSTITUTED BENZOFURAN PROPYL AMINE MODULATORS OF MONOAMINERGIC TRANSPORTERS""",Confirmatory,,,MDMA
+2060796,,508823184,1615,Active,P23975,6530,1.42,IC50,"Norepinephrine transporter (NET) Uptake Inhibition ASsay from US Patent US20240425470A1: ""SUBSTITUTED BENZOFURAN PROPYL AMINE MODULATORS OF MONOAMINERGIC TRANSPORTERS""",Confirmatory,,,MDMA
+2060869,,508823184,1615,Active,P31645,6532,0.0943,EC50,"Human Serotonin Transporter (SERT, SLC6A4) Functional Antagonist Uptake Assay from US Patent US20250019357A1: ""BENZOFURAN SALT MORPHIC FORMS AND MIXTURES FOR THE TREATMENT OF MENTAL DISORDERS OR MENTAL ENHANCEMENT""",Confirmatory,,,MDMA
+2060869,,508823184,1615,Active,P31645,6532,0.384,IC50,"Human Serotonin Transporter (SERT, SLC6A4) Functional Antagonist Uptake Assay from US Patent US20250019357A1: ""BENZOFURAN SALT MORPHIC FORMS AND MIXTURES FOR THE TREATMENT OF MENTAL DISORDERS OR MENTAL ENHANCEMENT""",Confirmatory,,,MDMA
+6428,,123092435,446220,Active,P31645,,0.325,IC50,Inhibition of [3H]5-HT uptake in HEK cells expressing human SERT,Confirmatory,14592523,,Cocaine
+42844,,123092435,446220,Active,,,0.843,IC50,Competitive inhibition against [3H]dopamine uptake in bovine striatal tissue,Confirmatory,2362282,,Cocaine
+52195,,123092435,446220,Active,P23977,24898,0.032,Ki,Binding affinity was determined against cocaine receptor by measuring the ability of compound to displace bound [3H]-3 from rat caudate-putamen tissue,Confirmatory,7966147,,Cocaine
+52195,,123092435,446220,Active,P23977,24898,0.388,Ki,Binding affinity was determined against cocaine receptor by measuring the ability of compound to displace bound [3H]-3 from rat caudate-putamen tissue,Confirmatory,7966147,,Cocaine
+52197,,123092435,446220,Active,P27922,788410,0.139,IC50,Competitive inhibition against [3H]cocaine binding to cocaine receptor in bovine striatal tissue,Confirmatory,2362282,,Cocaine
+52200,,123092435,446220,Active,P23977,24898,0.07,IC50,Tested for inhibition of [3H]cocaine binding to rat striatal P2 membranes,Confirmatory,8035432,,Cocaine
+52202,,123092435,446220,Active,P23977,24898,0.101,IC50,Inhibition of [3H]cocaine binding to Cocaine receptor in rat striatal membranes,Confirmatory,9526561,,Cocaine
+52203,,123092435,446220,Active,P27922,788410,0.065,IC50,In vitro inhibitory activity towards [3H]cocaine binding to rat striatal tissue,Confirmatory,1995895,,Cocaine
+61818,,123092435,446220,Active,Q01959,6531,0.258,Ki,Compound was evaluated for binding affinity to dopamine transporter using [125I]RTI-55 as a radioligand in HEK cells expressing human transporters.,Confirmatory,10821718,,Cocaine
+61819,,123092435,446220,Active,Q01959,6531,0.276,Ki,Compound was evaluated for inhibition of [3H]DA uptake in HEK-hDAT cells expressing Human dopamine Transporter,Confirmatory,10821718,,Cocaine
+62290,,123092435,446220,Active,P23977,24898,0.58,IC50,Compound was evaluated for its ability to displace [3H]mazindol binding from rat striatal membranes,Confirmatory,1469704,,Cocaine
+63033,,123092435,446220,Active,Q01959,6531,0.33,IC50,Inhibition of [3H]dopamine uptake in HEK cells expressing human DAT,Confirmatory,14592523,,Cocaine
+64205,,123092435,446220,Active,Q01959,6531,0.0956,IC50,Inhibition of [3H]3-beta-(4-fluorophenyl)tropane-2beta-carboxylic acid methyl ester binding to dopamine transporter of cynomolgus monkey striatum,Confirmatory,8464040,,Cocaine
+64214,,123092435,446220,Active,Q9GJT6,,0.0956,IC50,Inhibition of [3H]WIN-35428 binding to dopamine transporter (DAT) of cynomolgus monkey caudate-putamen,Confirmatory,10206550,,Cocaine
+64341,,123092435,446220,Active,P23977,24898,0.0678,IC50,Compound was evaluated for inhibition of specifically bound [3H]- cocaine (2.7 nM) against Dopamine transporter in cynomolgus monkeys,Confirmatory,2033595,,Cocaine
+64342,,123092435,446220,Active,P23977,24898,0.221,IC50,Compound was tested for binding affinity to dopamine reuptake sites in the tissue homogenates prepared from primate rat striatum using [3H]CFT as radioligand,Confirmatory,1920365,,Cocaine
+64356,,123092435,446220,Active,Q01959,6531,0.296,IC50,Inhibition of dopamine uptake in HEK cells expressing human dopamine transporter (hDAT),Confirmatory,12213053,,Cocaine
+64361,,123092435,446220,Active,Q01959,6531,0.19,IC50,Inhibition of [3H]DA uptake in HEK cells expressing dopamine transporter,Confirmatory,10479296,,Cocaine
+64362,,123092435,446220,Active,Q01959,6531,0.267,IC50,Compound was tested for inhibition of [3H]DA binding to Dopamine transporter in HEK cells,Confirmatory,12798324,,Cocaine
+64364,,123092435,446220,Active,Q01959,6531,0.19,IC50,Inhibition of [3H]dopamine reuptake in HEK293 cells expressing human dopamine transporter,Confirmatory,10649976,,Cocaine
+64367,,123092435,446220,Active,Q01959,6531,0.301,IC50,Inhibition of [3H]dopamine uptake in HEK cells expressing human Dopamine transporter,Confirmatory,10698458,,Cocaine
+64377,,123092435,446220,Active,Q01959,6531,0.49,Ki,Displacement of [125I]- RTI-55 from Dopamine transporter expressed in HEK cells,Confirmatory,12213053,,Cocaine
+64503,,123092435,446220,Active,Q01959,6531,0.419,Ki,Displacement of [125I]RT155 binding in HEK cells expressing human DAT,Confirmatory,14592523,,Cocaine
+64506,,123092435,446220,Active,Q01959,6531,0.3,Ki,Binding affinity against cloned human dopamine transporter using 40-80 pM [125I]RTI.,Confirmatory,11150168,,Cocaine
+64508,,123092435,446220,Active,Q01959,6531,0.76,Ki,Inhibition of [125I]RTI-55 binding to dopamine transporter,Confirmatory,10649976,,Cocaine
+64511,,123092435,446220,Active,Q01959,6531,0.272,Ki,Compound was tested for inhibition of [125I]RTI-55 binding to dopamine transporter in HEK cells,Confirmatory,12798324,,Cocaine
+64513,,123092435,446220,Active,Q01959,6531,0.759,Ki,Inhibition of [125I]RTI-55 binding at Dopamine transporter (DAT) expressed in HEK cells,Confirmatory,10479296,,Cocaine
+64526,,123092435,446220,Active,Q01959,6531,0.33,Ki,Inhibition of reuptake of [3H]DA (20 nM) by dopamine transporter,Confirmatory,11150168,,Cocaine
+64539,,123092435,446220,Active,Q01959,6531,0.405,IC50,Inhibitory activity against [3H]-Dopamine uptake from Dopamine transporter in rat caudate putamen tissue,Confirmatory,8691489,,Cocaine
+64541,,123092435,446220,Active,Q01959,6531,0.032,Ki,Binding affinity towards dopamine transporter using [3H]WIN-35428 as radioligand from rat caudate putamen tissue (high affinity),Confirmatory,8691489,,Cocaine
+64542,,123092435,446220,Active,Q01959,6531,0.388,Ki,Binding affinity towards dopamine transporter using [3H]WIN-35428 as radioligand from rat caudate putamen tissue (low affinity),Confirmatory,8691489,,Cocaine
+64677,,123092435,446220,Active,P23977,24898,0.089,IC50,Ability to inhibit binding of [3H]WIN-35428 to dopamine transporter in rat caudate putamen,Confirmatory,11277529,,Cocaine
+64678,,123092435,446220,Active,P23977,24898,0.102,IC50,Ability to displace [3H]WIN-35428 binding to dopamine transporter from rat striatal membranes,Confirmatory,9599245,,Cocaine
+64679,,123092435,446220,Active,P23977,24898,0.0891,IC50,Ability to displace [3H]WIN-35428 from Dopamine Transporter of rat striatal membrane,Confirmatory,12213053,,Cocaine
+64682,,123092435,446220,Active,P23977,24898,0.266,IC50,In vitro binding affinity at dopamine transporter in rat striatum by [3H]WIN-35428 displacement.,Confirmatory,11300876,,Cocaine
+64683,,123092435,446220,Active,P23977,24898,0.338,IC50,Affinity for dopamine transporter was assessed by the ability to displace [3H]WIN-35428 from rat caudate-putamen tissue,Confirmatory,11881989,,Cocaine
+64687,,123092435,446220,Active,P23977,24898,0.089,IC50,Binding affinity at the Dopamine transporter in rat striata by inhibition of 0.5 nM [3H]WIN-35428 binding,Confirmatory,7830281,,Cocaine
+64690,,123092435,446220,Active,P23977,24898,0.187,IC50,Binding affinity for compound at site labeled by [3H]BTCP (1-[1-(2-benxo[b]thienyl)cyclohexyl]piperidine) in rat forebrain.,Confirmatory,8098066,,Cocaine
+64692,,123092435,446220,Active,P23977,24898,0.107,IC50,Binding affinity of compound at site labeled by [3H]-cocaine in rat forebrain.,Confirmatory,8098066,,Cocaine
+64695,,123092435,446220,Active,P23977,24898,0.266,IC50,Binding affinity was evaluated by measuring the inhibition of [3H]WIN-35428 binding to Dopamine transporter in rat brain tissue,Confirmatory,11527726,,Cocaine
+64697,,123092435,446220,Active,P23977,24898,0.266,IC50,Binding affinity towards dopamine transporter in rat striatum using [3H]WIN-35 428 as radioligand,Confirmatory,12646032,,Cocaine
+64698,,123092435,446220,Active,P23977,24898,0.089,IC50,Binding affinity towards dopamine transporter was determined using DA[3H]WIN-35428 as radioligand,Confirmatory,7658431,,Cocaine
+64701,,123092435,446220,Active,P23977,24898,0.0891,IC50,Inhibition of [3H]WIN-35428 binding to Dopamine transporter,Confirmatory,8863789,,Cocaine
+64703,,123092435,446220,Active,P23977,24898,0.338,IC50,Compound was evaluated for its ability to displace [3H]WIN-35428 from dopamine transporter in rat caudate putamen tissue,Confirmatory,9435910,,Cocaine
+64704,,123092435,446220,Active,P23977,24898,0.102,IC50,Inhibition of [3H]WIN-35428l binding to Dopamine transporter,Confirmatory,1619622,,Cocaine
+64711,,123092435,446220,Active,P23977,24898,0.66,IC50,Binding against Dopamine transporter using radioligand as [3H]GBR 12935,Confirmatory,8941383,,Cocaine
+64833,,123092435,446220,Active,P23977,24898,0.341,IC50,Compound was tested for binding against Dopamine transporter using radioligand as [3H]-RTI 55,Confirmatory,8941383,,Cocaine
+64841,,123092435,446220,Active,P23977,24898,0.478,IC50,Inhibition of dopamine DA reuptake,Confirmatory,8941383,,Cocaine
+64842,,123092435,446220,Active,P23977,24898,0.249,IC50,Compound was tested for inhibitory activity to displace [3H]WIN-35428 at dopamine transporter in Rat Striatal Membranes.,Confirmatory,9258354,,Cocaine
+64843,,123092435,446220,Active,P23977,24898,0.089,IC50,Compound was tested for its ability to inhibit the neurotransmitter dopamine-DA reuptake system using [3H]dopamine as radioligand,Confirmatory,,,Cocaine
+64846,,123092435,446220,Active,P23977,24898,0.266,IC50,Binding affinity at the dopamine transporter in rast striatum by [3H]WIN-35428 displacement.,Confirmatory,12747792,,Cocaine
+64847,,123092435,446220,Active,P23977,24898,0.102,IC50,Inhibition of [3H]3-beta-(p-fluorophenyl)tropane-2beta-carboxylic acid methyl ester [3H]7a binding to Dopamine transporter of rat striatal membranes,Confirmatory,1732521,,Cocaine
+64849,,123092435,446220,Active,P23977,24898,0.249,IC50,Inhibition of dopamine Transporter Affinity against rat whole brain using [3H]WIN-35428 as radioligand,Confirmatory,9632371,,Cocaine
+64852,,123092435,446220,Active,P23977,24898,0.102,IC50,Inhibition of [3H]WIN-35248 binding to the dopamine transporter in rat striatal membranes.,Confirmatory,1588560,,Cocaine
+64853,,123092435,446220,Active,P23977,24898,0.102,IC50,Inhibition of [3H]3-beta-(p-fluorophenyl)tropane-2beta-carboxylic acid methyl ester binding to Dopamine transporter in rat striatal membranes.,Confirmatory,1732520,,Cocaine
+64857,,123092435,446220,Active,P23977,24898,0.0891,IC50,Displacement of 0.5 nM [3H]WIN-35248 from Dopamine transporter,Confirmatory,11078197,,Cocaine
+64860,,123092435,446220,Active,P23977,24898,0.0891,IC50,"In vitro inhibitory activity against radioligand [3H]-WN 35,428 binding to dopamine transporter (DAT) in rat striatal tissue",Confirmatory,9397165,,Cocaine
+64862,,123092435,446220,Active,P23977,24898,0.236,IC50,In vitro potency for inhibiting [3H]- dopamine uptake was determined,Confirmatory,12825932,,Cocaine
+64863,,123092435,446220,Active,P23977,24898,0.0891,IC50,Inhibitory concentration required to inhibit dopamine transporter DAT was determined by using [3H]WIN-35428 radioligand,Confirmatory,14711303,,Cocaine
+64864,,123092435,446220,Active,P23977,24898,0.089,IC50,Inhibition of [3H]WIN-35428 binding to the dopamine transporter in rat striata.,Confirmatory,8831768,,Cocaine
+64865,,123092435,446220,Active,P23977,24898,0.404,IC50,Inhibition of [3H]DA binding to DAT in rat striatal synaptosomes.,Confirmatory,12672245,,Cocaine
+64867,,123092435,446220,Active,P23977,24898,0.089,IC50,Inhibition of [3H]WIN-35428 binding at dopamine transporter was determined,Confirmatory,12723940,,Cocaine
+64868,,123092435,446220,Active,P23977,24898,0.5106,IC50,Inhibition of [3H]WIN-35428 binding to Dopamine transporter in rat striatal synaptic membranes,Confirmatory,11714614,,Cocaine
+64869,,123092435,446220,Active,P23977,24898,0.16,IC50,Inhibition of [3H]WIN-35428 binding to the cocaine binding site on the dopamine transporter (DAT) in synaptosomal membrane preparations from rat striatal tissue.,Confirmatory,12672245,,Cocaine
+64870,,123092435,446220,Active,P23977,24898,0.102,IC50,Inhibition of [3H]WIN-35428 binding to rat striatal membrane dopamine transporter,Confirmatory,2002468,,Cocaine
+64872,,123092435,446220,Active,P23977,24898,0.0891,IC50,Inhibition of [3H]WIN-35428 binding to dopamine (DA) transporter,Confirmatory,8164265,,Cocaine
+64873,,123092435,446220,Active,P23977,24898,0.266,IC50,Inhibition of binding of 3[H] WIN-35 428 to Dopamine transporter (DAT) of rat striatum.,Confirmatory,11806716,,Cocaine
+64995,,123092435,446220,Active,P23977,24898,0.266,IC50,Inhibition of binding of [3H]WIN-35 428 to (DAT) dopamine transporter in rat striatum,Confirmatory,12699762,,Cocaine
+64996,,123092435,446220,Active,P23977,24898,0.102,IC50,Inhibition of [3H]WIN-35428 binding to dopamine transporter in rat striatal membranes.,Confirmatory,8246225,,Cocaine
+64997,,123092435,446220,Active,P23977,24898,0.239,IC50,Inhibition of high-affinity uptake of [3H]dopamine at dopamine transporter into rat striatal nerve endings (synaptosomes),Confirmatory,9599245,,Cocaine
+65000,,123092435,446220,Active,P23977,24898,0.089,IC50,Inhibitory activity against Dopamine transporter using 0.5 nM [3H]WIN-35428 as radioligand,Confirmatory,9111298,,Cocaine
+65003,,123092435,446220,Active,P23977,24898,0.459,IC50,Inhibitory activity determined for [3H]DA (Dopamine transporter) uptake by striated synaptosomes,Confirmatory,9836615,,Cocaine
+65006,,123092435,446220,Active,P23977,24898,0.089,IC50,Inhibitory activity against radioligand [3H]WIN-35428 binding at the dopamine transporter,Confirmatory,9934496,,Cocaine
+65008,,123092435,446220,Active,P23977,24898,0.4,IC50,Inhibitory activity on dopamine transporters of rat striated membranes using [3H]- mazindol.,Confirmatory,9836615,,Cocaine
+65012,,123092435,446220,Active,P23977,24898,0.404,IC50,Inhibitory potency against [3H]DA uptake using [3H]WIN-35428 (WIN-) binding assay,Confirmatory,10579846,,Cocaine
+65013,,123092435,446220,Active,P23977,24898,0.16,IC50,Inhibitory potency against dopamine (DA) transporter using [3H]WIN-35428 (WIN-) binding assay.,Confirmatory,10579846,,Cocaine
+65028,,123092435,446220,Active,P23977,24898,0.296,IC50,Tested for inhibition of radioligand [3H]dopamine (DA) uptake in rat synaptosomes,Confirmatory,8258830,,Cocaine
+65029,,123092435,446220,Active,P23977,24898,0.405,IC50,Tested for its ability to inhibit high affinity uptake of [3H]dopamine into rat caudate-putamen tissue,Confirmatory,7966147,,Cocaine
+65030,,123092435,446220,Active,P23977,24898,0.179,IC50,Tested for radioligand [3H]BTCP displacement from dopamine transporter in rat forebrain,Confirmatory,8258830,,Cocaine
+65031,,123092435,446220,Active,P23977,24898,0.082,IC50,Tested for radioligand [3H]cocaine displacement from dopamine transporter in rat forebrain,Confirmatory,8258830,,Cocaine
+65154,,123092435,446220,Active,P23977,24898,0.205,IC50,Inhibition of Dopamine uptake in male Sprague-Dawley rats using [3H]DA ligand,Confirmatory,10543888,,Cocaine
+65155,,123092435,446220,Active,P23977,24898,0.404,IC50,"Inhibition of dopamine uptake into rat striatal tissue, using [3H]- dopamine as the radioligand.",Confirmatory,10072685,,Cocaine
+65156,,123092435,446220,Active,P23977,24898,0.16,IC50,Inhibitory binding activity against rat striatal tissue using [3H]WIN-35248 as the radioligand.,Confirmatory,10072685,,Cocaine
+65171,,123092435,446220,Active,P23977,24898,0.423,Ki,Ability to inhibit high affinity reuptake of [3H]DA from dopamine transporter into nerve endings synaptosomes,Confirmatory,11960503,,Cocaine
+65174,,123092435,446220,Active,P23977,24898,0.23,Ki,Displacement of [3H]mazindol from cocaine binding site on Dopamine transporter (DAT),Confirmatory,10612593,,Cocaine
+65178,,123092435,446220,Active,P23977,24898,0.23,Ki,Displacement of [3H]mazindol binding to dopamine transporter (DAT) in rat synaptosomes,Confirmatory,11334571,,Cocaine
+65179,,123092435,446220,Active,P23977,24898,0.423,Ki,Ability to inhibit [3H]DA reuptake at dopamine transporter from rat brain,Confirmatory,12723962,,Cocaine
+65182,,123092435,446220,Active,P23977,24898,0.32,Ki,Inhibition of high affinity uptake of [3H]dopamine into striatal nerve endings (synaptosomes),Confirmatory,10406650,,Cocaine
+65183,,123092435,446220,Active,P23977,24898,0.259,Ki,Inhibition of high affinity uptake of [3H]-DA by dopamine transporter in nerve endings obtained from rat brain.,Confirmatory,12109901,,Cocaine
+65184,,123092435,446220,Active,P23977,24898,0.259,Ki,Ability to inhibit high affinity uptake of [3H]DA at Dopamine transporter (DAT) using rat brain striatum,Confirmatory,15163183,,Cocaine
+65186,,123092435,446220,Active,P23977,24898,0.032,Ki,Affinity for dopamine transporter was assessed by the ability to displace [3H]WIN-35428 from rat caudate-putamen tissue,Confirmatory,11881989,,Cocaine
+65191,,123092435,446220,Active,P23977,24898,0.187,Ki,Binding affinity against dopamine transporter was determined by the displacement of [3H]WIN-35428 radioligand in rat brain,Confirmatory,12801223,,Cocaine
+65193,,123092435,446220,Active,P23977,24898,0.423,Ki,Binding affinity for [3H]DA (Dopamine transporter) uptake by striated synaptosomes,Confirmatory,9836615,,Cocaine
+65318,,123092435,446220,Active,P23977,24898,0.281,Ki,Binding affinity of compound on dopamine transporters of rat striated membranes using [3H]- mazindol.,Confirmatory,9836615,,Cocaine
+65320,,123092435,446220,Active,P23977,24898,0.46,Ki,Displacement of [125I]RTI-55 from Dopamine transporter of rat caudate membranes,Confirmatory,12127543,,Cocaine
+65323,,123092435,446220,Active,P23977,24898,0.28,Ki,Binding affinity to inhibit [3H]mazindol binding in rat corpus striatum P2 synaptosomes,Confirmatory,,,Cocaine
+65327,,123092435,446220,Active,P23977,24898,0.285,Ki,Binding affinity at dopamine transporter in rat brain by [3H]WIN-35428 displacement.,Confirmatory,15189035,,Cocaine
+65328,,123092435,446220,Active,P23977,24898,0.032,Ki,Binding affinity towards dopamine transporter using [3H]WIN-35428 as radioligand in rat caudate-putamen tissue,Confirmatory,9632375,,Cocaine
+65328,,123092435,446220,Active,P23977,24898,0.39,Ki,Binding affinity towards dopamine transporter using [3H]WIN-35428 as radioligand in rat caudate-putamen tissue,Confirmatory,9632375,,Cocaine
+65333,,123092435,446220,Active,P23977,24898,0.28,Ki,Binding affinity towards dopamine transporter using [3H]- mazindol as radioligand in rat striatal membranes,Confirmatory,10406650,,Cocaine
+65334,,123092435,446220,Active,P23977,24898,0.28,Ki,Binding affinity was tested by measuring its ability to displace [3H]mazindol binding against dopamine transporter (DAT) of rat striatal membranes,Confirmatory,7932572,,Cocaine
+65337,,123092435,446220,Active,P23977,24898,0.0743,Ki,Displacement of [3H]WIN-35428 from dopamine transporter of rat brain membrane,Confirmatory,15149693,,Cocaine
+65339,,123092435,446220,Active,P23977,24898,0.032,Ki,Affinity for rat dopamine transporter using [3H]WIN-35428 displacement.,Confirmatory,7562926,,Cocaine
+65340,,123092435,446220,Active,P23977,24898,0.423,Ki,Inhibition of reuptake of [3H]DA at Dopamine transporter (DAT),Confirmatory,10821718,,Cocaine
+65341,,123092435,446220,Active,P23977,24898,0.032,Ki,Displacement of [3H]WIN-35428 from dopamine transporter in rat caudate putamen tissue,Confirmatory,9435910,,Cocaine
+65343,,123092435,446220,Active,P23977,24898,0.388,Ki,Compound was evaluated for its ability to displace [3H]WIN-35428 binding in rat caudate-putamen,Confirmatory,8057273,,Cocaine
+65344,,123092435,446220,Active,P23977,24898,0.259,Ki,Inhibition of [3H]DA reuptake at dopamine transporter in rat striatum,Confirmatory,11909701,,Cocaine
+65348,,123092435,446220,Active,P23977,24898,0.42,Ki,Compound was tested for its ability to inhibit high affinity uptake of [3H]DA into rat striatal membrane,Confirmatory,10888328,,Cocaine
+65349,,123092435,446220,Active,P23977,24898,0.423,Ki,Ability to inhibit reuptake of dopamine ([3H]DA) at dopamine transporter of rat striatum,Confirmatory,14505672,,Cocaine
+65352,,123092435,446220,Active,P23977,24898,0.388,Ki,Displacement of [3H]WIN-35428 binding to the dopamine transporter (DAT) in Rat Caudate Putamen,Confirmatory,9083473,,Cocaine
+65353,,123092435,446220,Active,P23977,24898,0.032,Ki,Displacement of [3H]WIN-35428 from dopamine transporter (DAT) in Rat Caudate Putamen,Confirmatory,9083474,,Cocaine
+65353,,123092435,446220,Active,P23977,24898,0.388,Ki,Displacement of [3H]WIN-35428 from dopamine transporter (DAT) in Rat Caudate Putamen,Confirmatory,9083474,,Cocaine
+65354,,123092435,446220,Active,P23977,24898,0.259,Ki,Inhibition of high affinity uptake of [3H]DA using rat nerve endings obtained from brain regions enriched in DAT.,Confirmatory,11514143,,Cocaine
+65355,,123092435,446220,Active,P23977,24898,0.146,Ki,Displacement of [3H]WIN-35248 from dopamine transporter (DAT) of rat striatal membrane,Confirmatory,11514143,,Cocaine
+65475,,123092435,446220,Active,P23977,24898,0.187,Ki,Displacement of [3H]WIN-35428 from dopamine transporter of rat caudate putamen tissue,Confirmatory,12161139,,Cocaine
+65477,,123092435,446220,Active,P23977,24898,0.35,Ki,In vitro binding affinity towards dopamine transporter in rat striatal membranes by [3H]GBR-12395 displacement.,Confirmatory,8558525,,Cocaine
+65480,,123092435,446220,Active,P23977,24898,0.285,Ki,In vitro dopamine transporter binding affinity using [3H]WIN-35428 as radioligand was determined,Confirmatory,12825932,,Cocaine
+65484,,123092435,446220,Active,P23977,24898,0.274,Ki,Inhibition of [3H]DA Uptake was measured by liquid scintillation spectrometry,Confirmatory,10669562,,Cocaine
+65485,,123092435,446220,Active,P23977,24898,0.27,Ki,Inhibition of [3H]DA uptake at Dopamine transporter in rat cortex.,Confirmatory,11354356,,Cocaine
+65490,,123092435,446220,Active,P23977,24898,0.2413,Ki,Inhibition of [3H]DA uptake by rat striatal dopamine transporter,Confirmatory,7830281,,Cocaine
+65491,,123092435,446220,Active,P23977,24898,0.42,Ki,Inhibition of [3H]dopamine uptake at striatal nerve endings by dopamine transporter,Confirmatory,10612593,,Cocaine
+65495,,123092435,446220,Active,P23977,24898,0.642,Ki,Inhibitory constant towards reuptake of [125I]-13 from dopamine transporter in rat striatal membranes,Confirmatory,8182712,,Cocaine
+65500,,123092435,446220,Active,P23977,24898,0.51,Ki,Binding affinity for dopamine transporters in rat brain tissue.,Confirmatory,8201589,,Cocaine
+65501,,123092435,446220,Active,P23977,24898,0.23,Ki,Inhibition of [3H]- Mazindol binding to dopamine transporter of rat striatal membrane.,Confirmatory,10937724,,Cocaine
+65502,,123092435,446220,Active,P23977,24898,0.301,Ki,Inhibition of [3H]DA binding to dopamine transporter of rat brain synaptosomes,Confirmatory,10937724,,Cocaine
+65505,,123092435,446220,Active,P23977,24898,0.23,Ki,Inhibition of [3H]mazindol binding to dopamine transporter of rat striatal membranes.,Confirmatory,10966747,,Cocaine
+65506,,123092435,446220,Active,P23977,24898,0.28,Ki,ability to displace [3H]- Mazindol binding to cocaine binding sites on Dopamine transporter of rat striatal membranes,Confirmatory,10888328,,Cocaine
+65508,,123092435,446220,Active,P23977,24898,0.39,Ki,Binding affinity against dopamine transporter in rat caudate putamen tissue using [3H]WIN-35428 radioligand.,Confirmatory,8941387,,Cocaine
+65509,,123092435,446220,Active,P23977,24898,0.032,Ki,Binding affinity against dopamine transporter in rat caudate putamen tissue using [3H]WIN-35428 radioligand. (from other reference),Confirmatory,8941387,,Cocaine
+65637,,123092435,446220,Active,P23977,24898,0.187,Ki,Binding affinity Sprague-Dawley rats using [3H]WIN-35428 ligand,Confirmatory,10543888,,Cocaine
+65640,,123092435,446220,Active,P23977,24898,0.173,IC50,Inhibition of [3H]WIN-35428 binding to dopamine transporter in rat striatal tissue,Confirmatory,8632426,,Cocaine
+65644,,123092435,446220,Active,P23977,24898,0.066,IC50,Inhibition of [125I]RTI-55 cocaine binding to the dopamine transporter.,Confirmatory,1552510,,Cocaine
+65646,,123092435,446220,Active,P23977,24898,1.45,IC50,Inhibition of [3H]GBR-12935 binding to the dopamine transporter.,Confirmatory,1552510,,Cocaine
+65647,,123092435,446220,Active,P23977,24898,1.81,IC50,Inhibition of [3H]WIN-35065-2 binding to the dopamine transporter.,Confirmatory,1552510,,Cocaine
+65648,,123092435,446220,Active,P23977,24898,0.15,IC50,Inhibition of [3H]WIN-35428 binding to the dopamine transporter.,Confirmatory,1552510,,Cocaine
+65650,,123092435,446220,Active,P23977,24898,0.139,IC50,Inhibition of [3H]cocaine binding to the dopamine transporter.,Confirmatory,1552510,,Cocaine
+65651,,123092435,446220,Active,P23977,24898,0.843,IC50,Inhibition of [3H]dopamine uptake at the dopamine transporter.,Confirmatory,1552510,,Cocaine
+65794,,123092435,446220,Active,Q01959,6531,0.27,Ki,Affinity to inhibit [3H]DA uptake,Confirmatory,12565962,,Cocaine
+65795,,123092435,446220,Active,Q01959,6531,0.231,Ki,Binding Affinity to Dopamine transporter in caudate nuclei which was homogenized and incubated with [3H]mazindol. ,Confirmatory,10669562,,Cocaine
+65824,,123092435,446220,Active,P23977,24898,0.423,Ki,Inhibition of high affinity DA uptake into rat synaptosomes using [3H]DA,Confirmatory,11334571,,Cocaine
+125065,,123092435,446220,Active,,,0.07,IC50,Concentration inhibiting [3H]cocaine binding to rat striatal membranes.,Confirmatory,1613745,,Cocaine
+127359,,123092435,446220,Active,,,0.0044,Kd,Dissociation Constant for human monoclonal antibody 2E2 with [3H]cocaine,Confirmatory,14695827,,Cocaine
+127361,,123092435,446220,Active,,,0.0035,Ki,Binding affinity towards human monoclonal antibody 2E2 using [3H]cocaine,Confirmatory,14695827,,Cocaine
+143640,,123092435,446220,Active,P23975,6530,0.23,IC50,Inhibition of [3H]NE reuptake by human norepinephrine transporter expressed in HEK293 cells,Confirmatory,10649976,,Cocaine
+143641,,123092435,446220,Active,P23975,6530,1.77,Ki,Binding affinity at the norepinephrine transporter was measured using [125I]RTI-55 as a radioligand,Confirmatory,10649976,,Cocaine
+143647,,123092435,446220,Active,Q9WTR4,,0.108,Ki,Inhibition of [3H]NE Uptake in rat parietal/occipital cortex,Confirmatory,10669562,,Cocaine
+145365,,123092435,446220,Active,P23975,6530,0.645,Ki,Displacement of [125I]RT155 binding in HEK cells expressing human NET,Confirmatory,14592523,,Cocaine
+145370,,123092435,446220,Active,P23975,6530,0.83,Ki,Compound was tested for inhibition of [125I]-RTI-55 binding to norepinephrine transporter HEK cells,Confirmatory,12798324,,Cocaine
+145382,,123092435,446220,Active,Q9WTR4,,3.825,IC50,Inhibition of [3H]mazindol binding to Norepinephrine transporter,Confirmatory,1619622,,Cocaine
+145387,,123092435,446220,Active,Q9WTR4,,3.53,IC50,Inhibition of binding of [3H]- nisoxatine to Norepinephrine transporter (NET) of rat cerebral cortex.,Confirmatory,11806716,,Cocaine
+145388,,123092435,446220,Active,Q9WTR4,,3.53,IC50,Inhibition of binding of [3H]nisoxetine to (NET) norepinephrine transporter in rat striatum,Confirmatory,12699762,,Cocaine
+145392,,123092435,446220,Active,Q9WTR4,,0.108,Ki,Ability to inhibit high affinity reuptake of [3H]-NE (Norepinephrine transporter) into nerve ending synaptosomes prepared from brain regions,Confirmatory,11960503,,Cocaine
+145393,,123092435,446220,Active,Q9WTR4,,0.108,Ki,Inhibition of high affinity uptake of [3H]NE by norepinephrine transporter in nerve endings obtained from rat brain.,Confirmatory,12109901,,Cocaine
+145395,,123092435,446220,Active,Q9WTR4,,0.108,Ki,Inhibition of reuptake of [3H]-NE at Norepinephrine transporter,Confirmatory,10821718,,Cocaine
+145396,,123092435,446220,Active,Q9WTR4,,0.108,Ki,Inhibition of [3H]NE uptake by Norepinephrine transporter of rat occipital cortex synaptosomes,Confirmatory,10737754,,Cocaine
+145400,,123092435,446220,Active,Q9WTR4,,0.108,Ki,Ability to inhibit reuptake of norepinephrine ([3H]NE) at norepinephrine transporter of rat parietal/occipital region,Confirmatory,14505672,,Cocaine
+145537,,123092435,446220,Active,P23975,6530,0.108,Ki,Inhibition of [3H]-NE uptake evaluated at the monoamine transporter (NET),Confirmatory,12565962,,Cocaine
+145541,,123092435,446220,Active,P23975,6530,2.7,Ki,Binding affinity against norepinephrine cloned human transporter using 40-80 pM [125I]RTI,Confirmatory,11150168,,Cocaine
+145542,,123092435,446220,Active,P23975,6530,0.19,Ki,Inhibition of reuptake of [3H]-NE (20 nM) by norepinephrine transporter,Confirmatory,11150168,,Cocaine
+145550,,123092435,446220,Active,P23975,6530,1.74,Ki,Compound was evaluated for binding affinity using [125I]RTI-55 as a radioligand in HEK-hNET cells expressing human norepinephrine transporter,Confirmatory,10821718,,Cocaine
+145551,,123092435,446220,Active,P23975,6530,0.264,Ki,Compound was evaluated for inhibition of [3H]NE uptake in HEK-hNET cells expressing Human norepinephrine transporter,Confirmatory,10821718,,Cocaine
+145557,,123092435,446220,Active,P23975,6530,0.192,IC50,Inhibition of [3H]norepinephrine uptake in HEK cells expressing human NET,Confirmatory,14592523,,Cocaine
+145559,,123092435,446220,Active,P23975,6530,0.23,IC50,Inhibition of [3H]- NE uptake in HEK cells expressing norepinephrine transporter,Confirmatory,10479296,,Cocaine
+145560,,123092435,446220,Active,P23975,6530,0.186,IC50,The compound was tested for inhibition of [3H]norepinephrine uptake in HEK cells by expressing cDNA for human norepinephrine transporter,Confirmatory,10698458,,Cocaine
+145692,,123092435,446220,Active,P23975,6530,1.77,Ki,Inhibition of [125I]RTI-55 binding to norepinephrine transporter (NET) expressed in HEK cells,Confirmatory,10479296,,Cocaine
+145699,,123092435,446220,Active,Q9WTR4,,3.53,IC50,"Affinity at norepinephrine transporter (NET) in rat striatum, using [3H]- nisoxatine as radioligand",Confirmatory,11300876,,Cocaine
+145701,,123092435,446220,Active,Q9WTR4,,3.298,IC50,Binding affinity at the Norepinephrine transporter in rat frontal cortex by inhibition of 0.5 nM [3H]nisoxetine binding,Confirmatory,7830281,,Cocaine
+145703,,123092435,446220,Active,Q9WTR4,,3.52,IC50,Binding affinity was evaluated by measuring inhibiting the binding of [3H]nisoxetine to Norepinephrine transporter in rat brain tissue,Confirmatory,11527726,,Cocaine
+145704,,123092435,446220,Active,Q9WTR4,,3.298,IC50,Binding affinity towards Norepinephrine transporter was determined using NE[3H]Nisoxetine as radioligand,Confirmatory,7658431,,Cocaine
+145705,,123092435,446220,Active,Q9WTR4,,3.298,IC50,Binding potency for Norepinephrine transporter using [3H]NE,Confirmatory,8863789,,Cocaine
+145708,,123092435,446220,Active,Q9WTR4,,2.5,IC50,Inhibition of norepinephrine Transporter Affinity against rat whole brain using [3H]nisoxetine radioligand,Confirmatory,9632371,,Cocaine
+145710,,123092435,446220,Active,Q9WTR4,,3.3,IC50,Inhibition of 0.5 nM [3H]nisoxetine binding toNorepinephrine transporter,Confirmatory,11078197,,Cocaine
+145711,,123092435,446220,Active,Q9WTR4,,3.3,IC50,In vitro inhibitory activity against radioligand [3H]-nisoxatine binding to norepinephrine transporter (NET) in rat cortical tissue,Confirmatory,9397165,,Cocaine
+145712,,123092435,446220,Active,Q9WTR4,,3.3,IC50,Inhibition of norepinephrine transporter (NET) determined using [3H]nisoxetine radioligand.,Confirmatory,14711303,,Cocaine
+145714,,123092435,446220,Active,Q9WTR4,,3.298,IC50,Inhibition of [3H]nisoxetine binding to norepinephrine (NE) transporter,Confirmatory,8164265,,Cocaine
+145717,,123092435,446220,Active,Q9WTR4,,3.298,IC50,Inhibition of [3H]nisoxetine binding to the norepinephrine transporter in rat midbrain.,Confirmatory,8831768,,Cocaine
+145718,,123092435,446220,Active,Q9WTR4,,3.3,IC50,Inhibitory activity against Norepinephrine transporter using 0.5 nM [3H]-radioligand,Confirmatory,9111298,,Cocaine
+145719,,123092435,446220,Active,Q9WTR4,,3.3,IC50,Inhibitory activity against radioligand [3H]nisoxetine binding at the norepinephrine transporter,Confirmatory,9934496,,Cocaine
+145721,,123092435,446220,Active,Q9WTR4,,3.3,IC50,Norepinephrine transporter activity was determined by the ability of compound to inhibit the neurotransmitter norepinephrine-NE reuptake system using [3H]norepinephrine as radioligand,Confirmatory,,,Cocaine
+145722,,123092435,446220,Active,Q9WTR4,,3.3,IC50,Selectivity for the norepinephrine transporter using [3H]nisoxetine binding assay,Confirmatory,10579846,,Cocaine
+145728,,123092435,446220,Active,Q9WTR4,,0.108,Ki,Ability to inhibit high affinity uptake of norepinephrine transporter into the nerve endings of rat synaptosomes using [3H]NE as a radioligand,Confirmatory,11334571,,Cocaine
+145861,,123092435,446220,Active,Q9WTR4,,0.108,Ki,Ability to inhibit high affinity uptake of [3H]NE at Norepinephrine transporter (NET) using rat brain parietal/occipital cortex,Confirmatory,15163183,,Cocaine
+145866,,123092435,446220,Active,Q9WTR4,,3.3,Ki,Displacement of [3H]nisoxetine from norepinephrine transporter (NET) of rat brain,Confirmatory,15189035,,Cocaine
+145868,,123092435,446220,Active,Q9WTR4,,1.99,Ki,Binding affinity towards norepinephrine transporter was determined using [3H]nisoxetine radioligand.,Confirmatory,14711303,,Cocaine
+145871,,123092435,446220,Active,Q9WTR4,,3.302,Ki,Displacement of [3H]-nisoxatine from norepinephrine transporter of rat brain membrane,Confirmatory,15149693,,Cocaine
+145873,,123092435,446220,Active,Q9WTR4,,0.108,Ki,Compound was tested for its ability to inhibit high-affinity uptake of [3H]NE into parietal and occipital cortex in rat,Confirmatory,10888328,,Cocaine
+145878,,123092435,446220,Active,Q9WTR4,,1.9,Ki,Inhibition of 0.5 nM [3H]nisoxetine binding to Norepinephrine transporter,Confirmatory,11078197,,Cocaine
+145879,,123092435,446220,Active,Q9WTR4,,0.19,Ki,Inhibition of [3H]NE uptake at Norepinephrine transporter in rat parietal/occipital cortex was determined,Confirmatory,11354356,,Cocaine
+145880,,123092435,446220,Active,Q9WTR4,,0.16055,Ki,Inhibition of [3H]NE uptake by rat frontal cortex Norepinephrine transporter,Confirmatory,7830281,,Cocaine
+145884,,123092435,446220,Active,Q9WTR4,,0.186,Ki,Inhibition of [3H]NE binding to norepinephrine transporter of rat brain synaptosomes,Confirmatory,10937724,,Cocaine
+145888,,123092435,446220,Active,Q9WTR4,,3.3,Ki,The compound was tested for binding affinity nisoxatine ligand,Confirmatory,10543888,,Cocaine
+147731,,123092435,446220,Active,Q9WTR4,,3.53,IC50,Binding affinity towards norepinephrine transporter in rat striatum using [3H]nisoxetine as radioligand,Confirmatory,12646032,,Cocaine
+147733,,123092435,446220,Active,Q9WTR4,,3.53,IC50,Binding affinity at the norepinephrine transporter in rat striatum by [3H]nisoxetine displacement.,Confirmatory,12747792,,Cocaine
+147736,,123092435,446220,Active,Q9WTR4,,3.3,IC50,Inhibition of [3H]nisoxetine binding at norepinephrine transporter was determined,Confirmatory,12723940,,Cocaine
+147739,,123092435,446220,Active,Q9WTR4,,0.108,Ki,Ability to inhibit [3H]NE reuptake at norepinephrine transporter from rat brain,Confirmatory,12723962,,Cocaine
+147743,,123092435,446220,Active,Q9WTR4,,0.108,Ki,Inhibition of [3H]-NE reuptake at Norepinephrine transporter in rat parietal/occipital cortex,Confirmatory,11909701,,Cocaine
+147746,,123092435,446220,Active,Q9WTR4,,0.108,Ki,Displacement of [3H]NE from Norepinephrine transporter of rat brain,Confirmatory,11514143,,Cocaine
+147748,,123092435,446220,Active,Q9WTR4,,2,Ki,Inhibition of [3H]nisoxetine binding at norepinephrine transporter was determined,Confirmatory,12723940,,Cocaine
+147756,,123092435,446220,Active,P23975,6530,0.233,IC50,Inhibition of NE uptake in HEK cells expressing human noradrenaline transporter (hNET),Confirmatory,12213053,,Cocaine
+147757,,123092435,446220,Active,P23975,6530,0.385,IC50,Compound was tested for inhibition of [3H]NE binding to norepinephrine transporter HEK cells,Confirmatory,12798324,,Cocaine
+147760,,123092435,446220,Active,P23975,6530,1.94,Ki,Displacement of [125I]RTI-55 from human Norepinephrine transporter expressed in HEK cells,Confirmatory,12213053,,Cocaine
+161281,,123092435,446220,Active,Q12809,,7.24436,IC50,Inhibition of human Potassium channel HERG expressed in mammalian cells,Confirmatory,12873512,,Cocaine
+179055,,123092435,446220,Active,,,0.213,IC50,"Compound was evaluated in vitro, for the ability to inhibit [3H]- dopamine uptake into synaptosomes (prepared from rat striatal tissues).",Confirmatory,1995895,,Cocaine
+179067,,123092435,446220,Active,P23977,24898,0.209,IC50,Inhibition [3H]DA uptake in rat striatal synaptosomes.,Confirmatory,9526561,,Cocaine
+179419,,123092435,446220,Active,,,0.336,IC50,Effect on cocaine inhibition of [3H]dopamine uptake,Confirmatory,8254627,,Cocaine
+180282,,123092435,446220,Active,P23977,24898,0.404,IC50,Inhibitory activity against [3H]dopamine uptake in rat striatal tissue,Confirmatory,8632426,,Cocaine
+181502,,123092435,446220,Active,,,0.405,IC50,Ability to inhibit [3H]dopamine uptake was measured in a chopped tissue assay,Confirmatory,11881989,,Cocaine
+181504,,123092435,446220,Active,,,0.208,IC50,Ability to inhibit high-affinity uptake of [3H]DA into striatal nerve endings (synaptosomes),Confirmatory,11277529,,Cocaine
+181665,,123092435,446220,Active,,,0.138,IC50,Compound is evaluated for [3H]dopamine uptake inhibition in rat forebrain,Confirmatory,8098066,,Cocaine
+181688,,123092435,446220,Active,,,0.127,IC50,"Compound was evaluated for its ability to antagonizing norepinephrine (NE), high affinity uptake was determined using [3H]NE on synaptosomes prepared from rat occipital cortices.",Confirmatory,10737754,,Cocaine
+181689,,123092435,446220,Active,,,0.168,IC50,Compound was evaluated for its ability to antagonizing serotonin high affinity uptake was determined using [3H]5-HT on synaptosomes prepared from rat midbrain or parietal cortices.,Confirmatory,10737754,,Cocaine
+181696,,123092435,446220,Active,,,0.57,IC50,Compound was evaluated for its ability to inhibit high-affinity uptake of [3H]dopamine into striatal nerve endings of rat,Confirmatory,1469704,,Cocaine
+181697,,123092435,446220,Active,,,0.459,IC50,Compound was evaluated for its ability to inhibit the uptake of dopamine(DA) into nerve ending using [3H]DA on synaptosomes obtained from dissected rat striata.,Confirmatory,10737754,,Cocaine
+181698,,123092435,446220,Active,,,0.405,IC50,Compound was evaluated for its ability to inhibit uptake of [3H]-dopamine into rat caudate putamen tissue,Confirmatory,9435910,,Cocaine
+184408,,123092435,446220,Active,,,0.32,Ki,Inhibitory activity towards [3H]dopamine uptake in rat corpus striatum P2 synaptosomes,Confirmatory,,,Cocaine
+184425,,123092435,446220,Active,,,0.155,Ki,To inhibit high affinity uptake of [3H]5-HT into nerve endings (synaptosomes) prepared from various regions of the rat brain.,Confirmatory,10966747,,Cocaine
+184426,,123092435,446220,Active,,,0.108,Ki,To inhibit high affinity uptake of [3H]NE into nerve endings (synaptosomes) prepared from various regions of the rat brain.,Confirmatory,10966747,,Cocaine
+184428,,123092435,446220,Active,P23977,24898,0.423,Ki,Inhibition of high affinity uptake of [3H]dopamine into nerve endings (synaptosomes) prepared from various regions of the rat brain.,Confirmatory,10966747,,Cocaine
+187150,,123092435,446220,Active,,,0.28,Ki,Binding affinity against [3H]mazindol,Confirmatory,8254627,,Cocaine
+187153,,123092435,446220,Active,,,0.32,Ki,Compound tested for inhibitory activity against [3H]dopamine uptake in synaptosomes from rat caudate nucleus,Confirmatory,8254627,,Cocaine
+196214,,123092435,446220,Active,,,0.405,IC50,Compound was evaluated for inhibition of [3H]- dopamine uptake in rat caudate - putamen tissue.,Confirmatory,9083474,,Cocaine
+196430,,123092435,446220,Active,,,0.297,IC50,Inhibitory concentration for [3H]dopamine uptake by striatal membrane preparations,Confirmatory,11229756,,Cocaine
+196431,,123092435,446220,Active,,,0.686,IC50,Inhibitory concentration for [3H]-dopamine uptake by striatal membrane preparations in presence of 1000 nM compound 5,Confirmatory,11229756,,Cocaine
+196432,,123092435,446220,Active,,,0.49,IC50,Inhibitory concentration for [3H]dopamine uptake by striatal membrane preparations in presence of 20 nM compound 43,Confirmatory,11229756,,Cocaine
+196433,,123092435,446220,Active,,,0.538,IC50,Inhibitory concentration for [3H]dopamine uptake by striatal membrane preparations in presence of 500 nM compound 5,Confirmatory,11229756,,Cocaine
+196434,,123092435,446220,Active,,,0.696,IC50,Inhibitory concentration for [3H]-dopamine uptake by striatal membrane preparations in presence of 50 nM compound 43,Confirmatory,11229756,,Cocaine
+196575,,123092435,446220,Active,,,0.191,IC50,Inhibition of [3H]dopamine reuptake in rat cytosol,Confirmatory,11527726,,Cocaine
+196579,,123092435,446220,Active,,,0.21,IC50,Tested for inhibition of [3H]-dopamine uptake into rat striatal synaptosomes,Confirmatory,8035432,,Cocaine
+196581,,123092435,446220,Active,,,0.32,Ki,Compound was tested to inhibit high affinity uptake of [3H]- -Dopamine into striatal nerve endings (synaptosomes),Confirmatory,7932572,,Cocaine
+196928,,123092435,446220,Active,,,0.236,IC50,Compound was tested for inhibition of [3H]dopamine uptake (DAUI) in rat synaptosomes,Confirmatory,15189035,,Cocaine
+200769,,123092435,446220,Active,P31652,25553,0.737,IC50,Inhibition of binding of [3H]- citalopram to Serotonin transporter (SERT) of rat cerebral cortex.,Confirmatory,11806716,,Cocaine
+200773,,123092435,446220,Active,P31652,25553,0.155,Ki,Inhibition of high affinity re-uptake of [3H]5-HT (serotonin) into nerve ending synaptosomes,Confirmatory,11960503,,Cocaine
+200913,,123092435,446220,Active,P31645,,0.5,Ki,Binding affinity against cloned serotonin human transporter using 40-80 PM [125I]RTI,Confirmatory,11150168,,Cocaine
+200914,,123092435,446220,Active,P31645,,0.31,Ki,Inhibition of reuptake of [3H]5-HT (20 nM) by serotonin transporter,Confirmatory,11150168,,Cocaine
+203920,,123092435,446220,Active,P31645,,0.343,Ki,Compound was evaluated for binding affinity using [125I]RTI-55 as a radioligand in HEK-hSERT cells expressing human serotonin transporter,Confirmatory,10821718,,Cocaine
+203921,,123092435,446220,Active,P31645,,0.301,Ki,Compound was evaluated for inhibition of [3H]5-HT uptake in HEK-hSERT cells expressing Human serotonin transporter,Confirmatory,10821718,,Cocaine
+204057,,123092435,446220,Active,P31645,,0.27,IC50,Inhibition of [3H]citalopram binding to serotonin transporter (SERT) of cynomolgus monkey caudate-putamen,Confirmatory,10206550,,Cocaine
+204063,,123092435,446220,Active,P31645,,0.338,IC50,Inhibition of 5-HT uptake in HEK cells expressing human serotonin transporter (hSERT),Confirmatory,12213053,,Cocaine
+204066,,123092435,446220,Active,P31645,,0.336,IC50,Inhibition of [3H]- 5-HT uptake in HEK cells expressing serotonin transporter,Confirmatory,10479296,,Cocaine
+204067,,123092435,446220,Active,P31645,,0.318,IC50,Compound was tested for inhibition of [3H]5-HT binding to Serotonin transporter in HEK cells,Confirmatory,12798324,,Cocaine
+204072,,123092435,446220,Active,P31645,,0.34,IC50,Inhibition of [3H]5-HT reuptake in HEK293 cells expressing human serotonin transporter,Confirmatory,10649976,,Cocaine
+204083,,123092435,446220,Active,P31645,,0.328,Ki,Displacement of [125I]- RTI-55 from Serotonin transporter expressed in HEK cells,Confirmatory,12213053,,Cocaine
+204084,,123092435,446220,Active,P31645,,0.297,Ki,Displacement of [125I]RT155 binding in HEK cells expressing human SERT,Confirmatory,14592523,,Cocaine
+204089,,123092435,446220,Active,P31645,,0.39,Ki,Binding affinity for serotonin transporter using [125I]RTI-55,Confirmatory,10649976,,Cocaine
+204094,,123092435,446220,Active,P31645,,0.601,Ki,Compound was tested for inhibition of [125I]RTI-55 binding to Serotonin transporter in HEK cells,Confirmatory,12798324,,Cocaine
+204197,,123092435,446220,Active,P31645,,0.387,Ki,Inhibition of [125I]RTI-55 binding to serotonin transporter (SERT) expressed in HEK cells,Confirmatory,10479296,,Cocaine
+204226,,123092435,446220,Active,P31652,25553,0.737,IC50,In vitro binding affinity at serotonin transporter in rat striatum by [3H]- citalopram displacement.,Confirmatory,11300876,,Cocaine
+204230,,123092435,446220,Active,P31652,25553,1.045,IC50,Binding affinity at the Serotonin transporter in rat midbrain by inhibition of 0.5 nM [3H]-paroxetine binding,Confirmatory,7830281,,Cocaine
+204233,,123092435,446220,Active,P31652,25553,0.737,IC50,Binding affinity was evaluated by measuring inhibiting the binding of [3H]citalopram to Serotonin transporter in rat brain tissue,Confirmatory,11527726,,Cocaine
+204234,,123092435,446220,Active,P31652,25553,1.045,IC50,Binding affinity towards Serotonin transporter was determined using 5-HT [3H]paroxetine as radioligand,Confirmatory,7658431,,Cocaine
+204236,,123092435,446220,Active,P31652,25553,0.737,IC50,Binding affinity towards serotonin transporter in rat striatum using [3H]citalopram as radioligand,Confirmatory,12646032,,Cocaine
+204238,,123092435,446220,Active,P31652,25553,1.045,IC50,Binding potency for Serotonin transporter using [3H]- paroxetine,Confirmatory,8863789,,Cocaine
+204356,,123092435,446220,Active,P31652,25553,1.059,IC50,Inhibition of [3H]paroxetine binding to Serotonin transporter,Confirmatory,1619622,,Cocaine
+204357,,123092435,446220,Active,P31652,25553,0.207,IC50,Compound was tested for binding affinity to Serotonin transporter sites in homogenates prepared from rat cortical membranes using [3H]paroxetine as radioligand,Confirmatory,1920365,,Cocaine
+204358,,123092435,446220,Active,P31652,25553,0.304,IC50,Inhibition of [3H]5-HT reuptake at rat serotonin transporter,Confirmatory,8941383,,Cocaine
+204361,,123092435,446220,Active,P31652,25553,1.045,IC50,Compound was tested for its ability to inhibit the neurotransmitter serotonin-5-HT reuptake system using [3H]5-HT as radioligand,Confirmatory,,,Cocaine
+204362,,123092435,446220,Active,P31652,25553,0.737,IC50,Binding affinity at serotonin transporter in rat striatum by [3H]citalopram displacement.,Confirmatory,12747792,,Cocaine
+204363,,123092435,446220,Active,P31652,25553,0.615,IC50,Inhibition of serotonin Transporter Affinity against rat whole brain using [3H]paroxetine as radioligand,Confirmatory,9632371,,Cocaine
+204370,,123092435,446220,Active,P31652,25553,1.05,IC50,Inhibition of 0.2 nM [3H]paroxetine binding to Serotonin transporter,Confirmatory,11078197,,Cocaine
+204371,,123092435,446220,Active,P31652,25553,1.05,IC50,In vitro inhibitory activity against radioligand [3H]paroxetine binding to serotonin transporter (5-HTT) in rat midbrain tissue,Confirmatory,9397165,,Cocaine
+204372,,123092435,446220,Active,P31652,25553,1.05,IC50,Inhibitory concentration required to inhibit serotonin transporter 5-HTT was determined by using [3H]paroxetine radioligand,Confirmatory,14711303,,Cocaine
+204373,,123092435,446220,Active,P31652,25553,0.389,IC50,Inhibition of [3H]citalopram binding to Serotonin transporter (5-HTT) in rat cortical tissue.,Confirmatory,12672245,,Cocaine
+204374,,123092435,446220,Active,P31652,25553,1.05,IC50,Inhibition of [3H]paroxetine binding at serotonin transporter was determined,Confirmatory,12723940,,Cocaine
+204375,,123092435,446220,Active,P31652,25553,1.045,IC50,Inhibition of [3H]paroxetine binding to serotonin transporter in rat frontal cortex,Confirmatory,8831768,,Cocaine
+204376,,123092435,446220,Active,P31652,25553,1.045,IC50,Inhibition of [3H]paroxetine binding to 5-hydroxytryptamine (5-HT) transporter,Confirmatory,8164265,,Cocaine
+204377,,123092435,446220,Active,P31652,25553,0.737,IC50,Inhibition of binding of [3H]citalopram to (SERT) serotonin transporter in rat striatum,Confirmatory,12699762,,Cocaine
+204378,,123092435,446220,Active,P31652,25553,1.05,IC50,Inhibitory activity against Serotonin transporter using 0.2 nM [3H]paroxetine as radioligand,Confirmatory,9111298,,Cocaine
+204379,,123092435,446220,Active,P31652,25553,0.168,IC50,Inhibitory activity against Serotonin transporter was determined for [3H]5-HT (serotonin) uptake by striated synaptosomes,Confirmatory,9836615,,Cocaine
+204383,,123092435,446220,Active,P31652,25553,1.05,IC50,Inhibitory activity against radioligand [3H]paroxetine binding at the serotonin transporter,Confirmatory,9934496,,Cocaine
+204389,,123092435,446220,Active,P31652,25553,1.05,IC50,Selectivity for the Serotonin transporter using [3H]paroxetine binding assay,Confirmatory,10579846,,Cocaine
+204523,,123092435,446220,Active,P31652,25553,0.155,Ki,Ability to inhibit [3H]5-HT reuptake at serotonin transporter from rat brain,Confirmatory,12723962,,Cocaine
+204524,,123092435,446220,Active,P31652,25553,0.155,Ki,Inhibition of high affinity serotonin uptake into rat synaptosomes using [3H]5-HT,Confirmatory,11334571,,Cocaine
+204525,,123092435,446220,Active,P31652,25553,0.155,Ki,Inhibition of high affinity uptake of [3H]5-HT by serotonin transporter in nerve endings obtained from rat brain.,Confirmatory,12109901,,Cocaine
+204526,,123092435,446220,Active,P31652,25553,0.155,Ki,Ability to inhibit high affinity uptake of [3H]-5-HT at Serotonin transporter (SERT) using rat midbrain,Confirmatory,15163183,,Cocaine
+204537,,123092435,446220,Active,P31652,25553,0.155,Ki,Binding affinity for Serotonin transporter was determined by [3H]5-HT (serotonin) uptake by striated synaptosomes,Confirmatory,9836615,,Cocaine
+204542,,123092435,446220,Active,P31652,25553,0.13,Ki,Inhibition of [125I]RTI-55 binding to Serotonin transporter of rat caudate membranes,Confirmatory,12127543,,Cocaine
+204550,,123092435,446220,Active,P31652,25553,0.286,Ki,Binding affinity at serotonin transporter in rat brain by [3H]-citalopram displacement.,Confirmatory,15189035,,Cocaine
+204551,,123092435,446220,Active,P31652,25553,0.045,Ki,Binding affinity towards serotonin transporter 5-HTT was determined using [3H]paroxetine radioligand.,Confirmatory,14711303,,Cocaine
+204630,,123092435,446220,Active,Q99720,10280,8.83,Ki,Binding affinity against Sigma receptor type 1 was determined by the displacement of [3H]pentazocine radioligand,Confirmatory,12801223,,Cocaine
+204692,,123092435,446220,Active,P31652,25553,0.293,Ki,Displacement of [3H]-citalopram from serotonin transporter of rat brain membrane,Confirmatory,15149693,,Cocaine
+204693,,123092435,446220,Active,P31652,25553,0.155,Ki,Inhibition of reuptake of [3H]5-HT at serotonin transporter,Confirmatory,10821718,,Cocaine
+204698,,123092435,446220,Active,P31652,25553,0.155,Ki,Inhibition of [3H]5-HT uptake by Serotonin transporter of rat midbrain or parietal synaptosomes,Confirmatory,10737754,,Cocaine
+204699,,123092435,446220,Active,P31652,25553,0.155,Ki,Inhibition of [3H]5-HT reuptake at serotonin transporter in rat mid brain,Confirmatory,11909701,,Cocaine
+204708,,123092435,446220,Active,P31652,25553,0.16,Ki,Compound was tested for its ability to inhibit high affinity uptake of [3H]5-HT into mid brain nerve endings (synaptosomes) in rat,Confirmatory,10888328,,Cocaine
+204709,,123092435,446220,Active,P31652,25553,0.155,Ki,Ability to inhibit reuptake of serotonin ([3H]5-HT) at serotonin transporter of rat midbrian,Confirmatory,14505672,,Cocaine
+204712,,123092435,446220,Active,P31652,25553,0.155,Ki,Displacement of [3H]5-HT from serotonin transporter of rat brain,Confirmatory,11514143,,Cocaine
+204719,,123092435,446220,Active,P31652,25553,0.095,Ki,Inhibition of 0.2 nM [3H]paroxetine binding to Serotonin transporter,Confirmatory,11078197,,Cocaine
+204848,,123092435,446220,Active,P31652,25553,0.155,Ki,Inhibition of [3H]5-HT Uptake in rat mid brain.,Confirmatory,10669562,,Cocaine
+204849,,123092435,446220,Active,P31652,25553,0.16,Ki,Inhibition of [3H]5-HT uptake at Serotonin transporter in rat mid brain,Confirmatory,11354356,,Cocaine
+204850,,123092435,446220,Active,P31652,25553,0.16,Ki,Inhibition of [3H]5-HT uptake at striatal nerve endings by serotonin transporter,Confirmatory,10612593,,Cocaine
+204852,,123092435,446220,Active,P31652,25553,0.096,Ki,Inhibition of [3H]paroxetine binding at serotonin transporter was determined,Confirmatory,12723940,,Cocaine
+204853,,123092435,446220,Active,P31652,25553,0.11211,Ki,Ratio of Ki value towards Serotonin transporter to that of dopamine transporter,Confirmatory,7830281,,Cocaine
+204857,,123092435,446220,Active,P31652,25553,0.413,Ki,Inhibition of [3H]-5-HT binding to serotonin transporter of rat brain synaptosomes,Confirmatory,10937724,,Cocaine
+204870,,123092435,446220,Active,P31652,25553,0.172,Ki,Binding affinity against Serotonin transporter in male Sprague-Dawley rats using [3H]paroxetine ligand,Confirmatory,10543888,,Cocaine
+204882,,123092435,446220,Active,P31645,,0.155,Ki,Inhibition of [3H]-5-HT uptake evaluated at the Serotonin transporter,Confirmatory,12565962,,Cocaine
+213369,,123092435,446220,Active,P31645,,0.413,IC50,The compound was tested for inhibition of [3H]-5-hydroxy tryptamine uptake in HEK cells by expressing cDNA for human tryptamine transporter,Confirmatory,10698458,,Cocaine
+218789,,123092435,446220,Active,P23977,24898,0.423,Ki,Inhibition of [3H]DA uptake by dopamine transporter of rat striata synaptosomes,Confirmatory,10737754,,Cocaine
+218899,,123092435,446220,Active,P23977,24898,0.297,IC50,Functional cocaine antagonism was evaluated by inhibition of [3H]dopamine reuptake,Confirmatory,11354356,,Cocaine
+222148,,123092435,446220,Active,Q12809,3757,0.0044,IC50,K+ channel blocking activity in human embryonic kidney cells expressing HERG Kv11.1,Confirmatory,12190308,,Cocaine
+228127,,123092435,446220,Active,,,0.23,Ki,In vitro Ki against [3H]mazindol binding.,Confirmatory,11354356,,Cocaine
+229006,,123092435,446220,Active,P31645,,0.27,IC50,Ability to inhibit [3H]citalopram binding to serotonin transporter in cynomolgus monkey striatum,Confirmatory,8464040,,Cocaine
+1195,,48416295,5288826,Active,,,,,DSSTox (FDAMDD) FDA Maximum (Recommended) Daily Dose Database,Other,,,Morphine
+56291,,103169185,5288826,Active,P41143,4985,0.43,IC50,Binding to delta opioid receptor by using [3H]DPDPE as radioligand in guinea pig brain minus cerebellum,Confirmatory,,,Morphine
+76090,,103169185,5288826,Active,,,0.075,IC50,Inhibition of twitches in guinea pig ileum,Confirmatory,6312044,,Morphine
+76095,,103169185,5288826,Active,,,0.0331,IC50,Inhibition of opioid activity in electricaly stimulated myenteric plexus longitudinal muscle of guinea pig ileum(GPI) preparation,Confirmatory,6827557,,Morphine
+76209,,103169185,5288826,Active,,,0.00013,IC50,Inhibitory activity of compound in guinea pig ileum tissue,Confirmatory,2754695,,Morphine
+76212,,103169185,5288826,Active,,,0.0697,IC50,Inhibitory concentration evaluated in electrically stimulated guinea pig myenteric plexus longitudinal muscle,Confirmatory,6268787,,Morphine
+76232,,103169185,5288826,Active,,,0.292,IC50,Irreversible antagonistic potency in guinea pig ileal longitudinal muscle (GPI),Confirmatory,6310111,,Morphine
+76238,,103169185,5288826,Active,,,0.079,IC50,Opioid agonist activity was measured by Anti-Straub tail (AST) test after subcutaneous administration in guinea pig ilium,Confirmatory,7932535,,Morphine
+76240,,103169185,5288826,Active,,,0.0682,IC50,Opioid agonistic activity was measured in guinea pig ileum,Confirmatory,7205890,,Morphine
+76379,,103169185,5288826,Active,,,0.024,IC50,Tested for potent reversible agonist activity on electrically stimulated guinea pig ileal longitudinal muscle preparation,Confirmatory,6245210,,Morphine
+77837,,103169185,5288826,Active,,,0.0586,GPI,In vitro opioid activity of compound in the GPI (guinea pig ileum) by determination of inhibition of electrically induced contractions,Confirmatory,3361582,,Morphine
+78160,,103169185,5288826,Active,,,0.0586,IC50,Concentration inhibiting electrically induced contraction of guinea pig ileum(GPI) at an ED50 of 5.6(ug/kg).,Confirmatory,1433221,,Morphine
+78284,,103169185,5288826,Active,,,0.00292,IC50,Evaluated for the inhibition concentration in the guinea pig ileal longitudinal muscle preparation (GPI),Confirmatory,6090663,,Morphine
+78310,,103169185,5288826,Active,,,0.0586,IC50,In vitro inhibition of contractions in the electrically stimulated guinea pig ileum.,Confirmatory,4009598,,Morphine
+78840,,103169185,5288826,Active,,,0.051,EC50,Inhibition of the electrically induced muscle contractions was determined using the guinea pig ileum,Confirmatory,12570383,,Morphine
+78857,,103169185,5288826,Active,,,0.0798,IC50,Agonist activity in guinea pig ileum preparation,Confirmatory,6207298,,Morphine
+79036,,103169185,5288826,Active,,,0.14,IC50,Inhibitory effect was measured on guinea pig ileum for maximal contraction,Confirmatory,1714957,,Morphine
+79038,,103169185,5288826,Active,P97266,100379267,0.0573,IC50,Mu opioid receptor agonist activity as inhibition of electrically stimulated mysenteric plexus in guinea pig ileum,Confirmatory,7154002,,Morphine
+79379,,103169185,5288826,Active,,,0.00631,Kd,Opioid antagonist activity in guinea pig ileum assay,Confirmatory,9276018,,Morphine
+95208,,103169185,5288826,Active,P41144,100135587,0.13,IC50,Binding to kappa opioid receptor by using [3H]U-69593 as radioligand in guinea pig cerebellum,Confirmatory,,,Morphine
+125446,,103169185,5288826,Active,,,0.00013,Ki,Antinociceptive activity determined in vivo in tail flick assay in male Swiss mice with 0.2 mg/kg Naloxone,Confirmatory,8390575,,Morphine
+126651,,103169185,5288826,Active,,,,,Physical dependence capacity (PDC) of the compound; high physical dependence capacity,Other,1433169,,Morphine
+127143,,103169185,5288826,Active,,,,,Physical dependence capacity at abstinence suppressant dose; high,Other,7365738,,Morphine
+129479,,103169185,5288826,Active,,,4.27,ED50,Compound tested for in vivo writhing antinociceptive assay in mouse after subcutaneous administration,Confirmatory,8960554,,Morphine
+131044,,103169185,5288826,Active,,,0.0032,ED50,Compound was tested in vivo by a mouse tail-flick assay after intracerebroventricular (icv) injection,Confirmatory,9288177,,Morphine
+131166,,103169185,5288826,Active,,,0.0109,ED50,Compound was tested in vivo by a mouse tail-flick assay after subcutaneous (sc) injection,Confirmatory,9288177,,Morphine
+132344,,103169185,5288826,Active,,,0.5,IC50,Compound was evaluated for the inhibition of twitches in mouse vas deferens,Confirmatory,7241506,,Morphine
+132524,,103169185,5288826,Active,,,0.644,IC50,Concentration inhibiting electrically induced contraction of mouse vas deferens(MVD) at an ED50 of 5.6(ug/kg).,Confirmatory,1433221,,Morphine
+132687,,103169185,5288826,Active,,,0.194,IC50,Inhibition of opioid activity in electricaly stimulated myenteric plexus longitudinal muscle of mouse vas deferens(MVD) preparation,Confirmatory,6827557,,Morphine
+132837,,103169185,5288826,Active,,,1.722,IC50,Inhibitory effect was measured on mouse vas deferens,Confirmatory,1714957,,Morphine
+132841,,103169185,5288826,Active,,,0.309,IC50,Inhibition of electrically evoked contraction of guinea pig ileum (myenteric plexus;longitudinal muscle)[agonist action at mu 1 opioid receptors) and inhibition of electrically evoked contraction of mouse vas deferens (agonist action at delta 1 opioid receptor),Confirmatory,2828622,,Morphine
+132843,,103169185,5288826,Active,,,1.42,IC50,Irreversible antagonistic potency in mouse vas deferens (MVD),Confirmatory,6310111,,Morphine
+132845,,103169185,5288826,Active,,,0.492,IC50,Opioid agonistic activity was measured in mouse vas deferens,Confirmatory,7205890,,Morphine
+134208,,103169185,5288826,Active,,,0.0042,Ke naloxone,Antagonist Ke values of approximately 15 nM which are indicative of k receptor antagonism on field-stimulated mouse vas deferens.,Confirmatory,1846918,,Morphine
+134210,,103169185,5288826,Active,,,0.001,Ki,Antinociceptive activity determined in vivo in tail flick assay in male Swiss mice with saline,Confirmatory,8390575,,Morphine
+138855,,103169185,5288826,Active,P97266,100379267,0.0085,IC50,Binding to mu opioid receptor by using [3H]DAMGO as radioligand in guinea pig brain minus cerebellum,Confirmatory,,,Morphine
+139638,,103169185,5288826,Active,,,0.244,IC50,Antagonist activity in mouse vas deferens preparation.,Confirmatory,6207298,,Morphine
+141504,,103169185,5288826,Active,P97266,100379267,0.038,Ki,Binding affinity against mu opioid receptor was determined in brain membrane preparations from male Hartley guinea-pigs,Confirmatory,9873439,,Morphine
+141512,,103169185,5288826,Active,P97266,100379267,0.038,Ki,In vivo binding affinity against mu opioid receptor was measured by using labeled ligand [3H]naloxone (0.5 nM),Confirmatory,7932535,,Morphine
+141657,,103169185,5288826,Active,P33535,25601,0.002,Ki,Compound was evaluated for binding affinity towards mu-specific opiate receptor from combinatorial peptoid library,Confirmatory,8064796,,Morphine
+141761,,103169185,5288826,Active,P33535,25601,0.003,Ki,Inhibition of [3H]dihydromorphine (1 nM) binding to mu opioid receptor of rat brain homogenate,Confirmatory,,,Morphine
+145933,,103169185,5288826,Active,P33533,24613,2.7e-05,IC50,50% Inhibition of stereospecific [3H]-naltrexone (10e-9 M) binding towards opiate receptor in rat brain homogenate,Confirmatory,2863378,,Morphine
+145933,,103169185,5288826,Active,P33535,25601,2.7e-05,IC50,50% Inhibition of stereospecific [3H]-naltrexone (10e-9 M) binding towards opiate receptor in rat brain homogenate,Confirmatory,2863378,,Morphine
+145933,,103169185,5288826,Active,P34975,29335,2.7e-05,IC50,50% Inhibition of stereospecific [3H]-naltrexone (10e-9 M) binding towards opiate receptor in rat brain homogenate,Confirmatory,2863378,,Morphine
+145936,,103169185,5288826,Active,P33533,24613,0.16,IC50,Concentration required to inhibit opiate receptor using radioligand [3H]- Etorphine,Confirmatory,2876106,,Morphine
+145936,,103169185,5288826,Active,P33535,25601,0.16,IC50,Concentration required to inhibit opiate receptor using radioligand [3H]- Etorphine,Confirmatory,2876106,,Morphine
+145936,,103169185,5288826,Active,P34975,29335,0.16,IC50,Concentration required to inhibit opiate receptor using radioligand [3H]- Etorphine,Confirmatory,2876106,,Morphine
+145939,,103169185,5288826,Active,P33533,24613,0.0086,IC50,Inhibitory activity against opiate receptor in rat using [3H]naloxone as radioligand,Confirmatory,2999399,,Morphine
+145939,,103169185,5288826,Active,P33535,25601,0.0086,IC50,Inhibitory activity against opiate receptor in rat using [3H]naloxone as radioligand,Confirmatory,2999399,,Morphine
+145939,,103169185,5288826,Active,P34975,29335,0.0086,IC50,Inhibitory activity against opiate receptor in rat using [3H]naloxone as radioligand,Confirmatory,2999399,,Morphine
+147865,,103169185,5288826,Active,P41145,4986,1.7051,IC50,In vitro binding affinity against cloned human Opioid receptor kappa 1 expressed in HEK 293S cells,Confirmatory,12502358,,Morphine
+147902,,103169185,5288826,Active,P97266,100379267,0.00771,Ki,Binding affinities against Opioid receptor mu 1 of guinea pig brain membrane using [3H]DAGO as the radioligand using competition binding assays.,Confirmatory,1967312,,Morphine
+147910,,103169185,5288826,Active,P97266,100379267,0.0018,Ki,Binding affinity for the Opioid receptor mu 1,Confirmatory,2832603,,Morphine
+147914,,103169185,5288826,Active,P97266,100379267,0.003,Ki,Binding affinity of compound was determined against Opioid receptor mu 1 from native receptor in guinea pig,Confirmatory,12930147,,Morphine
+147944,,103169185,5288826,Active,P41143,4985,0.14,Ki,Inhibition of [3H]naltrindole binding to opioid receptor delta 1 of Chinese hamster ovary membrane,Confirmatory,15055988,,Morphine
+147956,,103169185,5288826,Active,P41144,100135587,2.39,IC50,"Binding affinity against opioid receptor kappa, in guinea pig brain membrane, using [3H]bremazocine as the radioligand.",Confirmatory,1659636,,Morphine
+147959,,103169185,5288826,Active,P41144,100135587,2.39,IC50,Compound was evaluated for the opioid receptor kappa affinity using guinea pig brain membranes.,Confirmatory,1846918,,Morphine
+147976,,103169185,5288826,Active,P41144,100135587,0.301,Ki,Displacement of [3H]-BRL 52537 from opioid receptor kappa site in guinea pig,Confirmatory,1652025,,Morphine
+147979,,103169185,5288826,Active,P41144,100135587,0.151,Ki,Displacement of [3H]U-69593 from kappa opioid receptors in guine pig brain (minus cerebellum).,Confirmatory,1846921,,Morphine
+147982,,103169185,5288826,Active,P41144,100135587,0.301,Ki,Receptor binding affinity towards opioid receptor kappa,Confirmatory,1323679,,Morphine
+147998,,103169185,5288826,Active,P41145,4986,0.064,Ki,Binding affinity against opioid receptor kappa 1 from human cloned receptor,Confirmatory,12930147,,Morphine
+148021,,103169185,5288826,Active,P41145,4986,0.113,Ki,In vitro binding affinity at opioid receptor kappa 1 was determined in human CHO cells using [3H]U-69593,Confirmatory,12699394,,Morphine
+148023,,103169185,5288826,Active,P41145,4986,0.26,Ki,In vitro potency was measured against human Opioid receptor kappa 1,Confirmatory,9651168,,Morphine
+148028,,103169185,5288826,Active,P97266,100379267,0.00088,Ki,Binding affinity to displace radioligand [3H]DAMGO on Opioid receptor mu 1 in guinea pig membranes.,Confirmatory,11000010,,Morphine
+148030,,103169185,5288826,Active,P97266,100379267,0.00088,Ki,Binding affinity towards Opioid receptor mu 1 of guinea pig brain membranes using radioligand 0.25 nM [3H]DAMGO,Confirmatory,11425545,,Morphine
+148090,,103169185,5288826,Active,P41143,4985,0.15,IC50,In vitro binding affinity against cloned human Opioid receptor delta 1 expressed in HEK 293S cells,Confirmatory,12502358,,Morphine
+148146,,103169185,5288826,Active,P41145,4986,0.26,Ki,Inhibition of binding of [3H]diprenorphine to cloned human Opioid receptor kappa 1 expressed in CHO cell membrane,Confirmatory,12166947,,Morphine
+148204,,103169185,5288826,Active,P97266,100379267,0.003467,Ki,"Binding affinity using guinea pig brain membrane preparations, towards Opioid receptor mu 1 using [3H]- DAMGO as radioligand",Confirmatory,11960505,,Morphine
+148228,,103169185,5288826,Active,P41143,4985,0.299,Ki,Binding affinity determined against Opioid receptor delta 1 from human cloned receptor,Confirmatory,12930147,,Morphine
+148252,,103169185,5288826,Active,P41143,4985,0.15,Ki,In vitro potency was measured against human Opioid receptor delta 1,Confirmatory,9651168,,Morphine
+148260,,103169185,5288826,Active,P41144,100135587,0.33,Ki,Activity was evaluated by inhibition of the binding of 1 nM [3H]U-69593 at Opioid receptor kappa 1 binding site,Confirmatory,8642554,,Morphine
+148288,,103169185,5288826,Active,P33534,18387,1.54949,Ki,"Binding affinities against Opioid receptor kappa 1 of guinea pig brain membrane using [3H]U69,593 as the radioligand using competition binding assays.",Confirmatory,1967312,,Morphine
+148318,,103169185,5288826,Active,P33534,18387,0.301,Ki,Evaluated for the binding affinity at kappa receptor,Confirmatory,7932577,,Morphine
+148328,,103169185,5288826,Active,P35372,4988,0.00088,Ki,Inhibition of [3H]-DAMGO binding to Opioid receptor mu 1 of Chinese hamster ovary membrane,Confirmatory,15055988,,Morphine
+148367,,103169185,5288826,Active,P41143,4985,0.15,Ki,Inhibition of binding of [3H]diprenorphine to cloned human Opioid receptor delta 1 expressed in CHO cell membrane;Range is between (63-360),Confirmatory,12166947,,Morphine
+148388,,103169185,5288826,Active,P32300,18386,0.736,IC50,Evaluated for inhibitory activity against Opioid receptor delta 1 of mouse vas deferens (MVD).,Confirmatory,1967312,,Morphine
+148461,,103169185,5288826,Active,P34975,29335,0.113,Ki,Binding affinity against Opioid receptor kappa 1 isolated from rat brain membrane was determined using [3H]U-69593 as radioligand,Confirmatory,12954070,,Morphine
+148474,,103169185,5288826,Active,,,0.0547,IC50,Opioid receptor activity was evaluated using guinea pig ileum (GPI) assay,Confirmatory,10891118,,Morphine
+148481,,103169185,5288826,Active,P35372,4988,0.029,IC50,Compound was tested for irreversible antagonistic activity against opioid receptor in electrically stimulated longitudinal muscle of guinea pig ileum,Confirmatory,3020245,,Morphine
+148481,,103169185,5288826,Active,P41143,4985,0.029,IC50,Compound was tested for irreversible antagonistic activity against opioid receptor in electrically stimulated longitudinal muscle of guinea pig ileum,Confirmatory,3020245,,Morphine
+148481,,103169185,5288826,Active,P41145,4986,0.029,IC50,Compound was tested for irreversible antagonistic activity against opioid receptor in electrically stimulated longitudinal muscle of guinea pig ileum,Confirmatory,3020245,,Morphine
+148482,,103169185,5288826,Active,P35372,4988,0.065,IC50,In vitro opioid inhibitory activity against in guinea pig ileum,Confirmatory,2872334,,Morphine
+148482,,103169185,5288826,Active,P41143,4985,0.065,IC50,In vitro opioid inhibitory activity against in guinea pig ileum,Confirmatory,2872334,,Morphine
+148482,,103169185,5288826,Active,P41145,4986,0.065,IC50,In vitro opioid inhibitory activity against in guinea pig ileum,Confirmatory,2872334,,Morphine
+148565,,103169185,5288826,Active,P41144,100135587,0.271,IC50,"Inhibition of [3H]- U69,593 binding to Guinea pig Opioid receptor kappa 1",Confirmatory,8642567,,Morphine
+148595,,103169185,5288826,Active,P34975,29335,0.027,Ki,Inhibition of 9 (2 nM) binding to Opioid receptor kappa 1 of rat brain homogenate,Confirmatory,,,Morphine
+148625,,103169185,5288826,Active,P35372,4988,0.024,IC50,Evaluated the ability to protect against the irreversible antagonism of morphines effects by beta-FNA in guinea pig ileal longitudinal muscle.,Confirmatory,6312042,,Morphine
+148625,,103169185,5288826,Active,P41143,4985,0.024,IC50,Evaluated the ability to protect against the irreversible antagonism of morphines effects by beta-FNA in guinea pig ileal longitudinal muscle.,Confirmatory,6312042,,Morphine
+148625,,103169185,5288826,Active,P41145,4986,0.024,IC50,Evaluated the ability to protect against the irreversible antagonism of morphines effects by beta-FNA in guinea pig ileal longitudinal muscle.,Confirmatory,6312042,,Morphine
+148626,,103169185,5288826,Active,P35372,4988,0.028,IC50,In vitro inhibitory activity against opioid receptor in Guinea pig ileum,Confirmatory,1310115,,Morphine
+148626,,103169185,5288826,Active,P41143,4985,0.028,IC50,In vitro inhibitory activity against opioid receptor in Guinea pig ileum,Confirmatory,1310115,,Morphine
+148626,,103169185,5288826,Active,P41145,4986,0.028,IC50,In vitro inhibitory activity against opioid receptor in Guinea pig ileum,Confirmatory,1310115,,Morphine
+148653,,103169185,5288826,Active,P32300,18386,0.39,IC50,Inhibitory potency against delta Opioid receptor delta 1 in longitudinal muscle preparation of mouse vas deferens,Confirmatory,6276540,,Morphine
+148678,,103169185,5288826,Active,P41144,100135587,0.53,IC50,Evaluated for the inhibition of [3H]EKC binding to Opioid receptor kappa 1 of guinea pig brain,Confirmatory,2887656,,Morphine
+148680,,103169185,5288826,Active,P41144,100135587,0.00182,IC50,Inhibition of [3H]U-69593 radioligand binding to Guinea pig opioid receptor kappa 1.,Confirmatory,7739011,,Morphine
+148710,,103169185,5288826,Active,P41145,4986,0.086,Ki,Binding affinity towards Opioid receptor kappa 1 was determined,Confirmatory,2567782,,Morphine
+148712,,103169185,5288826,Active,P41145,4986,0.05214,Ki,Binding affinity for Opioid receptor kappa 1 was determined.,Confirmatory,12372519,,Morphine
+148747,,103169185,5288826,Active,P41145,4986,0.033,Ki,Binding affinity towards opioid receptor kappa 2,Confirmatory,1315868,,Morphine
+148890,,103169185,5288826,Active,P32300,18386,0.258,IC50,Opioid receptor activity was evaluated using mouse vas deferens (MVD) assay,Confirmatory,10891118,,Morphine
+148890,,103169185,5288826,Active,P33534,18387,0.258,IC50,Opioid receptor activity was evaluated using mouse vas deferens (MVD) assay,Confirmatory,10891118,,Morphine
+148890,,103169185,5288826,Active,P42866,18390,0.258,IC50,Opioid receptor activity was evaluated using mouse vas deferens (MVD) assay,Confirmatory,10891118,,Morphine
+148991,,103169185,5288826,Active,P97266,100379267,0.038,IC50,Inhibition of opioid receptor mu in guinea pig ileum (GPI),Confirmatory,1851843,,Morphine
+149009,,103169185,5288826,Active,P97266,100379267,0.0033,Ki,Affinity for opioid receptor mu sites,Confirmatory,1652025,,Morphine
+149012,,103169185,5288826,Active,P97266,100379267,0.0033,Ki,Displacement of [3H]DAGO from mu opioid receptors in guinea pig brain (minus cerebellum).,Confirmatory,1846921,,Morphine
+149014,,103169185,5288826,Active,P97266,100379267,0.0033,Ki,Receptor binding affinity towards opioid receptor mu,Confirmatory,1323679,,Morphine
+149117,,103169185,5288826,Active,P41144,100135587,0.11,Ki,Binding affinity against Opioid receptor kappa 1 in guinea pig brain membranes,Confirmatory,9873603,,Morphine
+149124,,103169185,5288826,Active,P41144,100135587,0.188,Ki,Binding affinity at Opioid receptor kappa 1 by displacement of [3H]U-69593 in guinea pig brain membranes,Confirmatory,14998329,,Morphine
+149130,,103169185,5288826,Active,P41144,100135587,6.424,Ki,Binding affinity for kappa opioid receptor was evaluated by displacing [3H]- diprenorphine,Confirmatory,8390575,,Morphine
+149131,,103169185,5288826,Active,P41144,100135587,0.086,Ki,Binding affinity for the Opioid receptor kappa 1,Confirmatory,2832603,,Morphine
+149135,,103169185,5288826,Active,P41144,100135587,0.151,Ki,Binding affinity determined against Opioid receptor kappa 1 from a native receptor in guinea pig,Confirmatory,12930147,,Morphine
+149142,,103169185,5288826,Active,P41144,100135587,1.87,Ki,Binding affinity against Opioid receptor kappa 1 was determined in brain membrane preparations from male Hartley guinea-pigs,Confirmatory,9873439,,Morphine
+149177,,103169185,5288826,Active,P33535,25601,0.0016,IC50,Opioid receptor activity in terms of inhibition of [3H]dihydromorphine binding in rat brain membrane,Confirmatory,1671414,,Morphine
+149189,,103169185,5288826,Active,P41143,4985,0.456,Ki,Affinity for opioid receptor delta sites,Confirmatory,1652025,,Morphine
+149193,,103169185,5288826,Active,P41143,4985,0.46,Ki,Compound was evaluated for its binding affinity against opioid receptor delta subtype in guinea pig brain (minus cerebellum) using [3H]-DADLE as radioligand.,Confirmatory,1846921,,Morphine
+149194,,103169185,5288826,Active,P41143,4985,0.456,Ki,Receptor binding affinity towards opioid receptor delta,Confirmatory,1323679,,Morphine
+149256,,103169185,5288826,Active,P41144,100135587,0.024,Ki,Binding affinity to displace radioligand [3H]U-69593 on Opioid receptor kappa 1 in guinea pig membranes.,Confirmatory,11000010,,Morphine
+149261,,103169185,5288826,Active,P41144,100135587,0.0691,Ki,Binding affinity towards Opioid receptor kappa 1 using [3H]U-69593 as radioligand.,Confirmatory,7739013,,Morphine
+149262,,103169185,5288826,Active,P41144,100135587,0.024,Ki,Binding affinity towards guinea pig Opioid receptor kappa 1 using radioligand [3H]U-69593,Confirmatory,11425545,,Morphine
+149264,,103169185,5288826,Active,P41144,100135587,0.049,Ki,Binding affinity towards opioid receptor kappa 1,Confirmatory,1315868,,Morphine
+149268,,103169185,5288826,Active,P41144,100135587,0.167,Ki,Binding affinity to Opioid receptor kappa 1 in guinea pig cortex using [3H]EKC as radioligand,Confirmatory,2831363,,Morphine
+149290,,103169185,5288826,Active,P33535,25601,0.0039,IC50,Displacement of [3H]- DAGO from opioid receptor mu in rat brain membrane,Confirmatory,1851843,,Morphine
+149340,,103169185,5288826,Active,P33533,24613,0.205,IC50,Displacement of [3H]DSLET from delta opioid receptor in rat brain membrane,Confirmatory,1851843,,Morphine
+149372,,103169185,5288826,Active,P33533,24613,1.22,Activity,Binding affinity for rat delta opioid receptor was evaluated by displacing [3H]- diprenorphine,Confirmatory,8390575,,Morphine
+149425,,103169185,5288826,Active,P41144,100135587,1.87,Ki,In vivo binding affinity against kappa opioid receptor was measured by using labeled ligand [3H]ethylketocyclazocine (1 nM) with 500 nM DADLE and 20 nM sufentanil,Confirmatory,7932535,,Morphine
+149447,,103169185,5288826,Active,P79350,281958,0.0009,Ki,Activity was evaluated by inhibition of the binding of 0.8 nM [3H]- DAMGO at Opioid receptor mu 1 binding site,Confirmatory,8642554,,Morphine
+149449,,103169185,5288826,Active,P79350,281958,0.0005,Ki,Binding affinity towards opioid receptor mu 1,Confirmatory,1315868,,Morphine
+149480,,103169185,5288826,Active,P41143,4985,0.132,Ki,Activity was evaluated by inhibition of the binding of 1 nM [3H]DPDPE at Opioid receptor delta 1 binding site,Confirmatory,8642554,,Morphine
+149481,,103169185,5288826,Active,P41143,4985,0.28,Ki,Binding affinity towards Opioid receptor delta 1,Confirmatory,1315868,,Morphine
+149505,,103169185,5288826,Active,P33533,24613,0.684,IC50,Inhibition of [3H]- DADLE binding to Rat brain Opioid receptor delta 1,Confirmatory,8642567,,Morphine
+149520,,103169185,5288826,Active,P33533,24613,0.00737,IC50,Inhibition of [3H]DADLE radioligand binding to rat brain opioid receptor delta 1.,Confirmatory,7739011,,Morphine
+149520,,103169185,5288826,Active,P33533,24613,0.684,IC50,Inhibition of [3H]DADLE radioligand binding to rat brain opioid receptor delta 1.,Confirmatory,7739011,,Morphine
+149633,,103169185,5288826,Active,P41143,4985,0.185,IC50,Evaluated for the inhibition of [3H]DADLE binding to Opioid receptor delta 1 of guinea pig brain,Confirmatory,2887656,,Morphine
+149646,,103169185,5288826,Active,P33533,24613,0.28,Ki,Inhibition of [3H]DSLET binding to delta 1 opioid receptors in rat brain membranes,Confirmatory,2828622,,Morphine
+149659,,103169185,5288826,Active,P33533,24613,0.157,Ki,Binding affinity at opioid receptor delta 1 by displacement of [3H]DADLE in rat brain membrane,Confirmatory,14998329,,Morphine
+149667,,103169185,5288826,Active,P33533,24613,0.09,Ki,Binding affinity of compound evaluated for Opioid receptor delta 1 isolated from rat brain,Confirmatory,12570383,,Morphine
+149669,,103169185,5288826,Active,P33533,24613,0.217,Ki,Binding affinity against Opioid receptor delta 1 isolated from rat brain membrane was determined using [3H][Ile]-deltorphin as radioligand,Confirmatory,12954070,,Morphine
+149726,,103169185,5288826,Active,P97266,100379267,0.077,IC50,Ability to induce 50% of maximal effect in guinea pig ileum expressing Opioid receptor mu 1,Confirmatory,6313921,,Morphine
+149742,,103169185,5288826,Active,P97266,100379267,0.0716,IC50,Evaluated for inhibitory activity against Opioid receptor mu 1 of guinea pig ileum (GPI),Confirmatory,1967312,,Morphine
+149769,,103169185,5288826,Active,P41143,4985,0.62951,Ki,Binding affinities against Opioid receptor delta 1 of guinea pig brain membrane using [3H]DPDPE as the radioligand using competition binding assays.,Confirmatory,1967312,,Morphine
+149771,,103169185,5288826,Active,P41143,4985,0.71,Ki,Binding affinity against Opioid receptor delta 1 in guinea pig brain membranes,Confirmatory,9873603,,Morphine
+149782,,103169185,5288826,Active,P41143,4985,0.456,Ki,Binding affinity of compound was determined against Opioid receptor delta 1 from a native receptor in guinea pig,Confirmatory,12930147,,Morphine
+149784,,103169185,5288826,Active,P33533,24613,0.684,Ki,Binding affinity towards Opioid receptor delta 1 using [3H]DADLE as radioligand.,Confirmatory,7739013,,Morphine
+149787,,103169185,5288826,Active,P33533,24613,0.09,Ki,Inhibition of [3H]DPDPE radioligand binding to rat opioid receptor delta 1 site from rat brain membranes,Confirmatory,10843229,,Morphine
+149816,,103169185,5288826,Active,P33533,24613,0.217,Ki,"In vitro binding affinity at opioid receptor delta 1 was determined in C6 rat glioma cells using [3H]Ile5,6 deltorphin II",Confirmatory,12699394,,Morphine
+149845,,103169185,5288826,Active,P41144,100135587,0.46774,Ki,"Binding affinity using guinea pig brain membrane preparations, towards Opioid receptor kappa 1 using [3H]- U-69,593 as radioligand",Confirmatory,11960505,,Morphine
+149864,,103169185,5288826,Active,P97266,100379267,0.07,IC50,Inhibitory potency against Opioid receptor mu 1 in longitudinal muscle preparation of guinea pig ileum,Confirmatory,6276540,,Morphine
+149865,,103169185,5288826,Active,P97266,100379267,0.07,IC50,Inhibition of electrically evoked contraction of guinea pig ileum (myenteric plexus:longitudinal muscle preparation) by antagonist action at mu 1 opioid receptors,Confirmatory,2828622,,Morphine
+149892,,103169185,5288826,Active,P41143,4985,0.51,Ki,Binding affinity against Opioid receptor delta 1 was determined in brain membrane preparations from male Hartley guinea-pigs,Confirmatory,9873439,,Morphine
+149896,,103169185,5288826,Active,P41143,4985,0.14,Ki,Binding affinity to displace radioligand [3H]naltrindole on Opioid receptor delta 1 in guinea pig membranes.,Confirmatory,11000010,,Morphine
+149897,,103169185,5288826,Active,P41143,4985,0.14,Ki,Binding affinity towards Opioid receptor delta 1 of guinea pig brain membranes using radioligand 0.2 nM [3H]Naltrindole,Confirmatory,11425545,,Morphine
+149928,,103169185,5288826,Active,P33533,24613,0.09,Ki,Inhibition of binding of [3H]-DPDPE to opioid receptor delta 1 from rat brain membrane.,Confirmatory,11425550,,Morphine
+149932,,103169185,5288826,Active,P33533,24613,0.015,Ki,"Inhibition of [3H]-[D-Pen2, D-Pen5]-enkephalin (2 nM) to Opioid receptor delta 1 of male Sprague-Dawley rat brain homogenate",Confirmatory,,,Morphine
+149978,,103169185,5288826,Active,P41145,4986,0.024,Ki,Inhibition of [3H]U-69593 binding to Opioid receptor kappa 1 of Chinese hamster ovary membrane,Confirmatory,15055988,,Morphine
+150030,,103169185,5288826,Active,P41143,4985,0.375,Ki,In vivo binding affinity against delta Opioid receptor was measured by using labeled ligand [3H]DADLE (1 nM) with 4 nM sufentanil,Confirmatory,7932535,,Morphine
+150056,,103169185,5288826,Active,P41143,4985,0.41687,Ki,"Binding affinity using guinea pig brain membrane preparations, towards Opioid receptor delta 1 using [3H]DPDPE as radioligand",Confirmatory,11960505,,Morphine
+150090,,103169185,5288826,Active,P41143,4985,0.1133,Ki,Binding affinity for Opioid receptor delta 1 was determined,Confirmatory,12372519,,Morphine
+150234,,103169185,5288826,Active,P35372,4988,0.01,IC50,Inhibition of Opioid receptors with [3H]naloxone binding in the absence of NaCl,Confirmatory,6106064,,Morphine
+150234,,103169185,5288826,Active,P41143,4985,0.01,IC50,Inhibition of Opioid receptors with [3H]naloxone binding in the absence of NaCl,Confirmatory,6106064,,Morphine
+150234,,103169185,5288826,Active,P41145,4986,0.01,IC50,Inhibition of Opioid receptors with [3H]naloxone binding in the absence of NaCl,Confirmatory,6106064,,Morphine
+150235,,103169185,5288826,Active,P35372,4988,0.25,IC50,Inhibition of Opioid receptors binding by inhibiting specific [3H]naloxone binding by 50% in the presence of 100 mM NaCl,Confirmatory,6106064,,Morphine
+150235,,103169185,5288826,Active,P41143,4985,0.25,IC50,Inhibition of Opioid receptors binding by inhibiting specific [3H]naloxone binding by 50% in the presence of 100 mM NaCl,Confirmatory,6106064,,Morphine
+150235,,103169185,5288826,Active,P41145,4986,0.25,IC50,Inhibition of Opioid receptors binding by inhibiting specific [3H]naloxone binding by 50% in the presence of 100 mM NaCl,Confirmatory,6106064,,Morphine
+150244,,103169185,5288826,Active,P32300,18386,0.027,IC50,Concentration required to inhibit [3H]naltrexone binding to Opioid receptors,Confirmatory,6292420,,Morphine
+150244,,103169185,5288826,Active,P33534,18387,0.027,IC50,Concentration required to inhibit [3H]naltrexone binding to Opioid receptors,Confirmatory,6292420,,Morphine
+150244,,103169185,5288826,Active,P42866,18390,0.027,IC50,Concentration required to inhibit [3H]naltrexone binding to Opioid receptors,Confirmatory,6292420,,Morphine
+150260,,103169185,5288826,Active,P33533,24613,0.022,IC50,Displacement of [3H]naloxone from rat brain Opioid receptors,Confirmatory,6259354,,Morphine
+150260,,103169185,5288826,Active,P33535,25601,0.022,IC50,Displacement of [3H]naloxone from rat brain Opioid receptors,Confirmatory,6259354,,Morphine
+150260,,103169185,5288826,Active,P34975,29335,0.022,IC50,Displacement of [3H]naloxone from rat brain Opioid receptors,Confirmatory,6259354,,Morphine
+150395,,103169185,5288826,Active,P33533,24613,0.011,IC50,Tested for In vitro binding constant for Opioid receptors by measuring the inhibition of stereospecific binding of [3H]naloxone in rat brain homogenates,Confirmatory,6249930,,Morphine
+150395,,103169185,5288826,Active,P33535,25601,0.011,IC50,Tested for In vitro binding constant for Opioid receptors by measuring the inhibition of stereospecific binding of [3H]naloxone in rat brain homogenates,Confirmatory,6249930,,Morphine
+150395,,103169185,5288826,Active,P34975,29335,0.011,IC50,Tested for In vitro binding constant for Opioid receptors by measuring the inhibition of stereospecific binding of [3H]naloxone in rat brain homogenates,Confirmatory,6249930,,Morphine
+150396,,103169185,5288826,Active,P33533,24613,0.027,IC50,Displacement of [3H]nalotrexone from rat-brain Opioid receptors,Confirmatory,6288945,,Morphine
+150396,,103169185,5288826,Active,P33535,25601,0.027,IC50,Displacement of [3H]nalotrexone from rat-brain Opioid receptors,Confirmatory,6288945,,Morphine
+150396,,103169185,5288826,Active,P34975,29335,0.027,IC50,Displacement of [3H]nalotrexone from rat-brain Opioid receptors,Confirmatory,6288945,,Morphine
+150397,,103169185,5288826,Active,P33533,24613,0.0042,IC50,Displacement [3H]naloxone from rat-brain Opioid receptors,Confirmatory,6288945,,Morphine
+150397,,103169185,5288826,Active,P33535,25601,0.0042,IC50,Displacement [3H]naloxone from rat-brain Opioid receptors,Confirmatory,6288945,,Morphine
+150397,,103169185,5288826,Active,P34975,29335,0.0042,IC50,Displacement [3H]naloxone from rat-brain Opioid receptors,Confirmatory,6288945,,Morphine
+150406,,103169185,5288826,Active,P33533,24613,0.0325,Ki,Compound was tested for its binding affinity towards Opioid receptors using [3H]naloxone from rat whole brain,Confirmatory,9572880,,Morphine
+150406,,103169185,5288826,Active,P33535,25601,0.0325,Ki,Compound was tested for its binding affinity towards Opioid receptors using [3H]naloxone from rat whole brain,Confirmatory,9572880,,Morphine
+150406,,103169185,5288826,Active,P34975,29335,0.0325,Ki,Compound was tested for its binding affinity towards Opioid receptors using [3H]naloxone from rat whole brain,Confirmatory,9572880,,Morphine
+150822,,103169185,5288826,Active,P35372,4988,0.00057,IC50,In vitro binding affinity against cloned human Opioid receptor mu 1 expressed in HEK 293S cells,Confirmatory,12502358,,Morphine
+150851,,103169185,5288826,Active,P35372,4988,0.003,Ki,Binding affinity determined against Opioid receptor mu 1 from human cloned receptor,Confirmatory,12930147,,Morphine
+150992,,103169185,5288826,Active,P35372,4988,0.017,Ki,In vitro potency was measured against human Opioid receptor mu 1,Confirmatory,9651168,,Morphine
+151000,,103169185,5288826,Active,P35372,4988,0.017,Ki,Inhibition of binding of [3H]diprenorphine to cloned human Opioid receptor mu 1 expressed in CHO cell membrane;Range is in between (6.8-43),Confirmatory,12166947,,Morphine
+151137,,103169185,5288826,Active,P42866,18390,1.42,IC50,Compound was tested for irreversible antagonist activity at Opioid receptor mu 1 by determining by MVD response,Confirmatory,6090663,,Morphine
+151303,,103169185,5288826,Active,P33535,25601,0.00194,IC50,Inhibition of [3H]- DAMGO binding to Rat brain Opioid receptor mu 1,Confirmatory,8642567,,Morphine
+151440,,103169185,5288826,Active,P33535,25601,0.00014,IC50,Inhibition of [3H]DAMGO radioligand binding to rat brain opioid receptor mu 1.,Confirmatory,7739011,,Morphine
+151440,,103169185,5288826,Active,P33535,25601,0.00194,IC50,Inhibition of [3H]DAMGO radioligand binding to rat brain opioid receptor mu 1.,Confirmatory,7739011,,Morphine
+151590,,103169185,5288826,Active,P33535,25601,0.0021,Ki,Ability to displace [3H]naloxone from the Opioid receptor mu 1 isolated from the rat brain membranes.,Confirmatory,2170652,,Morphine
+151592,,103169185,5288826,Active,P33535,25601,0.00215,Ki,Inhibition of [3H]DAGO binding to mu 1 opioid receptor in rat brain membranes,Confirmatory,2828622,,Morphine
+151601,,103169185,5288826,Active,P33535,25601,0.011,Ki,Binding affinity at Opioid receptor mu 1 by displacement of [3H]DAMGO in rat brain membrane,Confirmatory,14998329,,Morphine
+151606,,103169185,5288826,Active,P33535,25601,0.001,Ki,Inhibition of [3H]DAMGO binding to mu opioid receptor of rat brain membranes,Confirmatory,12570383,,Morphine
+151608,,103169185,5288826,Active,P33535,25601,0.00655,Ki,Binding affinity against Opioid receptor mu 1 isolated from rat brain membrane was determined using [3H]DAMGO as radioligand,Confirmatory,12954070,,Morphine
+151621,,103169185,5288826,Active,P33535,25601,0.00814,Ki,Binding affinity towards Opioid receptor mu 1 using [3H]DAMGO as radioligand.,Confirmatory,7739013,,Morphine
+151742,,103169185,5288826,Active,P33535,25601,0.0018,Ki,Binding affinity by inhibition of [3H]DAMGO binding to Opioid receptor mu 1 from rat brain membranes,Confirmatory,10843229,,Morphine
+151744,,103169185,5288826,Active,P33535,25601,0.0057,Ki,Binding affinity to Opioid receptor mu 1 in rat brain using [3H]-NAL as radioligand,Confirmatory,2831363,,Morphine
+151750,,103169185,5288826,Active,P33535,25601,0.0028,Ki,Inhibition of [3H]DAMGO binding to rat brain homogenat Opioid receptor mu 1,Confirmatory,10841790,,Morphine
+151769,,103169185,5288826,Active,P33535,25601,0.00655,Ki,In vitro binding affinity at opioid receptor mu 1 was determined in C6 rat glioma cells using [3H]DAMGO,Confirmatory,12699394,,Morphine
+151890,,103169185,5288826,Active,P33535,25601,0.0018,Ki,Inhibition of binding of [3H]DAMGO to opioid receptor mu 1 from rat brain membrane.,Confirmatory,11425550,,Morphine
+151912,,103169185,5288826,Active,P33535,25601,0.00078,Ki,"mu-1 receptor binding affinity in rat brain by 3H [d-Ala2, d-Leu5] enkephalin displacement.",Confirmatory,12643945,,Morphine
+152069,,103169185,5288826,Active,P35372,4988,0.00396,Ki,Binding affinity for Opioid receptor mu 1,Confirmatory,12372519,,Morphine
+152074,,103169185,5288826,Active,P35372,4988,0.0018,Ki,Binding affinity towards mu opioid receptor was determined,Confirmatory,2567782,,Morphine
+152210,,103169185,5288826,Active,P79350,281958,0.0025,Ki,Binding affinity towards opioid receptor mu 2,Confirmatory,1315868,,Morphine
+152212,,103169185,5288826,Active,P33535,25601,0.0048,Ki,"mu-2 receptor binding affinity in rat brain by 3H [d-Ala2, (N-Me)Phe4, Gly5-ol] enkephalin displacement.",Confirmatory,12643945,,Morphine
+169256,,103169185,5288826,Active,,,0.0027,A50,Amount of the drug required to produce 50% antinociception when administered intracerebroventricularly; value ranges from 1.8-4.2,Confirmatory,10891118,,Morphine
+176713,,103169185,5288826,Active,,,0.015,ED50,Dosage necessary to produce half maximal effect; Range is in between (10-24),Confirmatory,12166947,,Morphine
+178023,,103169185,5288826,Active,,,0.023,ED50,Effective dose for analgetic activity on intracerebroventricular administration in rats using tail flick test,Confirmatory,2876106,,Morphine
+181510,,103169185,5288826,Active,,,0.2,IC50,Ability to displace 50% of (-)-naloxone (1.0) in mouse brain homogenate,Confirmatory,6313921,,Morphine
+1195,,48416008,3345,Active,,,,,DSSTox (FDAMDD) FDA Maximum (Recommended) Daily Dose Database,Other,,,Fentanyl
+2063,,85209936,3345,Active,,,,,Ligands of peptide (Class A) GPCRs,Other,,,Fentanyl
+56292,,103182112,3345,Active,P41143,4985,0.187,IC50,Compound was tested in vitro for binding affinity towards delta opioid receptor by measuring displacement of [3H]DPDPE from guinea pig brain membranes,Confirmatory,,,Fentanyl
+73902,,103182112,3345,Active,,,0.00176,EC50,Inhibition of electrically evoked contraction in guinea pig ileum determined in vitro,Confirmatory,2066993,,Fentanyl
+76095,,103182112,3345,Active,,,0.00345,IC50,Inhibition of opioid activity in electricaly stimulated myenteric plexus longitudinal muscle of guinea pig ileum(GPI) preparation,Confirmatory,6827557,,Fentanyl
+78840,,103182112,3345,Active,,,0.0045,EC50,Inhibition of the electrically induced muscle contractions was determined using the guinea pig ileum,Confirmatory,12570383,,Fentanyl
+95209,,103182112,3345,Active,P41144,100135587,5.893,IC50,Compound was tested in vitro for binding affinity towards kappa opioid receptor by measuring displacement of [3H]EKC from guinea pig brain membranes,Confirmatory,,,Fentanyl
+132687,,103182112,3345,Active,,,0.00945,IC50,Inhibition of opioid activity in electricaly stimulated myenteric plexus longitudinal muscle of mouse vas deferens(MVD) preparation,Confirmatory,6827557,,Fentanyl
+138330,,103182112,3345,Active,,,0.49,EC50,Inhibition of the electrically induced muscle contractions was determined using the mouse vas deferens,Confirmatory,12570383,,Fentanyl
+138856,,103182112,3345,Active,P97266,100379267,0.0031,IC50,Compound was tested in vitro for binding affinity towards mu opioid receptor by measuring displacement of [3H]DAGO from guinea pig brain membranes,Confirmatory,,,Fentanyl
+147859,,103182112,3345,Active,P41145,4986,1.58,IC50,"Binding affinity against opioid receptor kappa 1 using [3H]- U-69,593 radioligand",Confirmatory,11585443,,Fentanyl
+147962,,103182112,3345,Active,P41144,100135587,5.893,IC50,In vitro binding activity against opioid receptor kappa using [3H]EKC as radioligand,Confirmatory,1847432,,Fentanyl
+148078,,103182112,3345,Active,P41143,4985,0.431,IC50,Binding affinity against delta-opiate receptor (human) using [3H]-DPDPE radioligand,Confirmatory,11585443,,Fentanyl
+148708,,103182112,3345,Active,P41145,4986,0.1965,Ki,Binding affinity against Opioid receptor kappa 1,Confirmatory,10669565,,Fentanyl
+148995,,103182112,3345,Active,P97266,100379267,0.0031,IC50,In vitro binding activity against opioid receptor mu using [3H]-DAGO as radioligand,Confirmatory,1847432,,Fentanyl
+149047,,103182112,3345,Active,P33533,24613,0.025,IC50,In vivo binding affinity to opioid receptor preparations from rat brain,Confirmatory,3012085,,Fentanyl
+149047,,103182112,3345,Active,P33535,25601,0.025,IC50,In vivo binding affinity to opioid receptor preparations from rat brain,Confirmatory,3012085,,Fentanyl
+149047,,103182112,3345,Active,P34975,29335,0.025,IC50,In vivo binding affinity to opioid receptor preparations from rat brain,Confirmatory,3012085,,Fentanyl
+149117,,103182112,3345,Active,P41144,100135587,1.13,Ki,Binding affinity against Opioid receptor kappa 1 in guinea pig brain membranes,Confirmatory,9873603,,Fentanyl
+149185,,103182112,3345,Active,P41143,4985,0.1874,IC50,In vitro binding activity against opioid receptor delta using [3DPDPE] as radioligand,Confirmatory,1847432,,Fentanyl
+149261,,103182112,3345,Active,P41144,100135587,0.1965,Ki,Binding affinity towards Opioid receptor kappa 1 using [3H]U-69593 as radioligand.,Confirmatory,7739013,,Fentanyl
+149667,,103182112,3345,Active,P33533,24613,0.4,Ki,Binding affinity of compound evaluated for Opioid receptor delta 1 isolated from rat brain,Confirmatory,12570383,,Fentanyl
+149771,,103182112,3345,Active,P41143,4985,0.679,Ki,Binding affinity against Opioid receptor delta 1 in guinea pig brain membranes,Confirmatory,9873603,,Fentanyl
+149784,,103182112,3345,Active,P33533,24613,1.035,Ki,Binding affinity towards Opioid receptor delta 1 using [3H]DADLE as radioligand.,Confirmatory,7739013,,Fentanyl
+150088,,103182112,3345,Active,P41143,4985,1.035,Ki,Binding affinity against Opioid receptor delta 1,Confirmatory,10669565,,Fentanyl
+150260,,103182112,3345,Active,P33533,24613,0.008,IC50,Displacement of [3H]naloxone from rat brain Opioid receptors,Confirmatory,6259354,,Fentanyl
+150260,,103182112,3345,Active,P33535,25601,0.008,IC50,Displacement of [3H]naloxone from rat brain Opioid receptors,Confirmatory,6259354,,Fentanyl
+150260,,103182112,3345,Active,P34975,29335,0.008,IC50,Displacement of [3H]naloxone from rat brain Opioid receptors,Confirmatory,6259354,,Fentanyl
+150261,,103182112,3345,Active,P33533,24613,0.00114,IC50,Binding affinity to opioid receptors by the displacement of [3H]fentanyl in rat brain homogenates,Confirmatory,6268786,,Fentanyl
+150261,,103182112,3345,Active,P33535,25601,0.00114,IC50,Binding affinity to opioid receptors by the displacement of [3H]fentanyl in rat brain homogenates,Confirmatory,6268786,,Fentanyl
+150261,,103182112,3345,Active,P34975,29335,0.00114,IC50,Binding affinity to opioid receptors by the displacement of [3H]fentanyl in rat brain homogenates,Confirmatory,6268786,,Fentanyl
+150396,,103182112,3345,Active,P33533,24613,0.025,IC50,Displacement of [3H]nalotrexone from rat-brain Opioid receptors,Confirmatory,6288945,,Fentanyl
+150396,,103182112,3345,Active,P33535,25601,0.025,IC50,Displacement of [3H]nalotrexone from rat-brain Opioid receptors,Confirmatory,6288945,,Fentanyl
+150396,,103182112,3345,Active,P34975,29335,0.025,IC50,Displacement of [3H]nalotrexone from rat-brain Opioid receptors,Confirmatory,6288945,,Fentanyl
+150397,,103182112,3345,Active,P33533,24613,0.0016,IC50,Displacement [3H]naloxone from rat-brain Opioid receptors,Confirmatory,6288945,,Fentanyl
+150397,,103182112,3345,Active,P33535,25601,0.0016,IC50,Displacement [3H]naloxone from rat-brain Opioid receptors,Confirmatory,6288945,,Fentanyl
+150397,,103182112,3345,Active,P34975,29335,0.0016,IC50,Displacement [3H]naloxone from rat-brain Opioid receptors,Confirmatory,6288945,,Fentanyl
+150412,,103182112,3345,Active,P33533,24613,0.00216,Ki,In vitro affinity to displace [3H]naloxone from opiate receptor in freshly prepared rat brain homogenates,Confirmatory,2709383,,Fentanyl
+150412,,103182112,3345,Active,P33535,25601,0.00216,Ki,In vitro affinity to displace [3H]naloxone from opiate receptor in freshly prepared rat brain homogenates,Confirmatory,2709383,,Fentanyl
+150412,,103182112,3345,Active,P34975,29335,0.00216,Ki,In vitro affinity to displace [3H]naloxone from opiate receptor in freshly prepared rat brain homogenates,Confirmatory,2709383,,Fentanyl
+150843,,103182112,3345,Active,P35372,4988,0.0029,Ki,Displacement of [3H]DAMGO (2 nM ) from opioid receptor mu 1 in human brain,Confirmatory,14698188,,Fentanyl
+150845,,103182112,3345,Active,P35372,4988,0.00397,Ki,Binding affinity against Opioid receptor mu 1,Confirmatory,10669565,,Fentanyl
+151590,,103182112,3345,Active,P33535,25601,0.00216,Ki,Ability to displace [3H]naloxone from the Opioid receptor mu 1 isolated from the rat brain membranes.,Confirmatory,2170652,,Fentanyl
+151606,,103182112,3345,Active,P33535,25601,0.0015,Ki,Inhibition of [3H]DAMGO binding to mu opioid receptor of rat brain membranes,Confirmatory,12570383,,Fentanyl
+151621,,103182112,3345,Active,P33535,25601,0.00397,Ki,Binding affinity towards Opioid receptor mu 1 using [3H]DAMGO as radioligand.,Confirmatory,7739013,,Fentanyl
+151900,,103182112,3345,Active,P33535,25601,0.00216,Ki,Displacement [3H]-naloxone from the Opioid receptor mu 1 isolated from rat brain membrane.,Confirmatory,2563773,,Fentanyl
+152239,,103182112,3345,Active,P35372,4988,0.0013,IC50,Binding affinity against mu-opiate receptor (human) using [3H]DAMGO radioligand,Confirmatory,11585443,,Fentanyl
+223244,,103182112,3345,Active,P21397,4128,5.462,Ki,Displacement of [3H]2-BFI (1 nM) from imidazoline receptor I-2 in human brain,Confirmatory,14698188,,Fentanyl
+223244,,103182112,3345,Active,P27338,4129,5.462,Ki,Displacement of [3H]2-BFI (1 nM) from imidazoline receptor I-2 in human brain,Confirmatory,14698188,,Fentanyl
+224569,,103182112,3345,Active,P97266,100379267,0.00845,Ki,Binding affinity against mu opioid receptor in guinea pig brain membranes,Confirmatory,9873603,,Fentanyl
+224581,,103182112,3345,Active,P33535,25601,0.0324,EC50,"Compound was tested for its ability to stimulate [35S]GTP-gamma-S, binding to membranes from C6 glioma cells stably expressing rat mu opioid receptor",Confirmatory,9873603,,Fentanyl
+243151,,103182112,3345,Active,Q12809,3757,1.8197,IC50,Inhibitory concentration against potassium channel HERG,Confirmatory,15911273,,Fentanyl
+476632,,103182112,3345,Active,P97266,100379267,0.00345,IC50,Agonist activity at mu opioid receptor in guinea pig ileum assessed as inhibition of electrically-stimulated muscle contraction,Confirmatory,20218625,,Fentanyl
+476633,,103182112,3345,Active,P32300,18386,0.00945,IC50,Agonist activity at delta opioid receptor in mouse vas deferens assessed as inhibition of electrically-stimulated muscle contraction,Confirmatory,20218625,,Fentanyl
+476634,,103182112,3345,Active,P33535,25601,0.0059,Ki,Displacement of [3H]DAMGO from mu opioid receptor in rat brain membrane,Confirmatory,20218625,,Fentanyl
+476635,,103182112,3345,Active,P33533,24613,0.568,Ki,Displacement of [3H]DSLET from delta opioid receptor in rat brain membrane,Confirmatory,20218625,,Fentanyl
+476636,,103182112,3345,Active,P41144,100135587,0.298,Ki,Displacement of [3H]U69593 from kappa opioid receptor in guinea pig brain membrane,Confirmatory,20218625,,Fentanyl
+504749,,50113065,3345,Active,,,,,qHTS profiling for inhibitors of Plasmodium falciparum proliferation,Other,21817045,,Fentanyl
+588834,,144206164,3345,Active,NP_001191727,3757,2.2387,Potency,qHTS Assay for Small Molecule Inhibitors of the Human hERG Channel Activity,Confirmatory,,,Fentanyl
+679130,,103182112,3345,Active,P08183,5243,6.5,IC50,TP_TRANSPORTER: inhibition of Digoxin transepithelial transport (basal to apical) (Digoxin: 5 uM) in Caco-2 cells,Confirmatory,11964599,,Fentanyl
+743012,,144206164,3345,Active,,,13.3332,Potency,qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line,Confirmatory,,,Fentanyl
+743015,,144206164,3345,Active,,,26.6032,Potency,qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line,Confirmatory,,,Fentanyl
+743036,,144206164,3345,Active,AAI32976,367,23.9145,Potency,qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway,Confirmatory,,,Fentanyl
+743040,,144206164,3345,Active,AAI32976,367,21.1317,Potency,qHTS assay to identify small molecule agonists of the androgen  receptor (AR) signaling pathway using the MDA cell line,Confirmatory,,,Fentanyl
+743053,,144206164,3345,Active,AAI32976,367,22.1476,Potency,qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway: Summary,Summary,,,Fentanyl
+749871,,103182112,3345,Active,P32300,18386,0.0094,IC50,Inhibition of delta opioid receptor in mouse vas deferens assessed as inhibition of electrically-stimulated muscle contraction,Confirmatory,23623418,,Fentanyl
+749874,,103182112,3345,Active,P97266,100379267,0.0034,IC50,Inhibition of mu opioid receptor in guinea pig ileum assessed as inhibition of electrically-stimulated muscle contraction,Confirmatory,23623418,,Fentanyl
+1245110,,103182112,3345,Active,P42866,18390,0.0059,Ki,Displacement of [3H]-DAMGO from Swiss Webster mouse neural membranes mu opioid receptor after 60 mins by liquid scintillation spectrometric analysis,Confirmatory,26299827,,Fentanyl
+1245111,,103182112,3345,Active,P32300,18386,0.568,Ki,Displacement of [3H]-DPDPE from Swiss Webster mouse neural membranes delta opioid receptor after 60 mins by liquid scintillation spectrometric analysis,Confirmatory,26299827,,Fentanyl
+1245112,,103182112,3345,Active,P32300,18386,0.00345,IC50,Agonist activity at delta opioid receptor in beta-funaltrexamine-treated mouse vas deferens,Confirmatory,26299827,,Fentanyl
+1245113,,103182112,3345,Active,P97266,100379267,0.00945,IC50,Agonist activity at mu opioid receptor in beta-funaltrexamine-treated guinea pig isolated ileum,Confirmatory,26299827,,Fentanyl
+1247885,,103182112,3345,Active,P33535,25601,0.57,Ki,Displacement of [3H] DAMGO from rat mu-opioid receptor,Confirmatory,26323872,,Fentanyl
+1247885,,103182112,3345,Active,P33535,25601,1.25893,IC50,Displacement of [3H] DAMGO from rat mu-opioid receptor,Confirmatory,26323872,,Fentanyl
+1247889,,103182112,3345,Active,P32300,18386,0.0095,IC50,Agonist activity at delta opioid receptor in mouse vas deferens assessed as inhibition of electrically stimulated muscle contraction,Confirmatory,26323872,,Fentanyl
+1247890,,103182112,3345,Active,P97266,100379267,0.0034,IC50,Agonist activity at mu opioid receptor in guinea pig ileum assessed as inhibition of electrically stimulated muscle contraction,Confirmatory,26323872,,Fentanyl
+1272081,,103182112,3345,Active,P97266,100379267,3.4,IC50,Agonist activity at mu opioid receptor in guinea pig isolated ileum assessed as inhibition of electric stimulation-induced contraction,Confirmatory,26712115,,Fentanyl
+1272083,,103182112,3345,Active,P32300,18386,9.4,IC50,Agonist activity at delta opioid receptor in mouse vas deferens assessed as inhibition of electric stimulation-induced contraction,Confirmatory,26712115,,Fentanyl
+1272086,,103182112,3345,Active,P41143,4985,0.57,Ki,Displacement of [3H]DPDPE from human delta opioid receptor,Confirmatory,26712115,,Fentanyl
+1272087,,103182112,3345,Active,P33535,25601,0.0059,Ki,Displacement of [3H]DAMGO from mu opioid receptor in rat brain membranes,Confirmatory,26712115,,Fentanyl
+1314270,,103182112,3345,Active,,,0.002526,Cmax,Determination of pharmacokinetic pararmeters of Fentanyl following first 72-hour application of Fentanyl Transdermal System to healthy subjects and intravenous (IV) administration to surgical and hepatically impaired patients,Confirmatory,,,Fentanyl
+1314270,,103182112,3345,Active,,,0.005112,Cmax,Determination of pharmacokinetic pararmeters of Fentanyl following first 72-hour application of Fentanyl Transdermal System to healthy subjects and intravenous (IV) administration to surgical and hepatically impaired patients,Confirmatory,,,Fentanyl
+1314270,,103182112,3345,Active,,,0.006895,Cmax,Determination of pharmacokinetic pararmeters of Fentanyl following first 72-hour application of Fentanyl Transdermal System to healthy subjects and intravenous (IV) administration to surgical and hepatically impaired patients,Confirmatory,,,Fentanyl
+1314270,,103182112,3345,Active,,,0.009986,Cmax,Determination of pharmacokinetic pararmeters of Fentanyl following first 72-hour application of Fentanyl Transdermal System to healthy subjects and intravenous (IV) administration to surgical and hepatically impaired patients,Confirmatory,,,Fentanyl
+1314296,,103182112,3345,Active,,,0.001783,Cmax,Evaluation of pharmacokinetic parameters for Fentanyl following first 72-hour topical application of a Fentanyl transdermal system,Confirmatory,,,Fentanyl
+1314296,,103182112,3345,Active,,,0.004161,Cmax,Evaluation of pharmacokinetic parameters for Fentanyl following first 72-hour topical application of a Fentanyl transdermal system,Confirmatory,,,Fentanyl
+1314296,,103182112,3345,Active,,,0.005052,Cmax,Evaluation of pharmacokinetic parameters for Fentanyl following first 72-hour topical application of a Fentanyl transdermal system,Confirmatory,,,Fentanyl
+1314296,,103182112,3345,Active,,,0.00743,Cmax,Evaluation of pharmacokinetic parameters for Fentanyl following first 72-hour topical application of a Fentanyl transdermal system,Confirmatory,,,Fentanyl
+1345199,,144206164,3345,Active,,,11.2202,,Drug repurposing screens with cells derived from glioblastoma tumor samples,Confirmatory,,,Fentanyl
+1346329,,135650258,3345,Active,NP_000903,4986,,,Human kappa receptor (Opioid receptors),Other,9686407,,Fentanyl
+1346361,,135650258,3345,Active,NP_000902,4985,,,Human delta receptor (Opioid receptors),Other,9686407,,Fentanyl
+1346364,,135650258,3345,Active,NP_001138755,4988,,,Human mu receptor (Opioid receptors),Other,9686407,,Fentanyl
+1346400,,135650258,3345,Active,NP_001033688,25601,,,Rat mu receptor (Opioid receptors),Other,8114680,,Fentanyl
+1346984,,144206164,3345,Active,ABI96208,1576,14.1254,Potency,"CYP3A4 induction through human pregnane X receptor (PXR) by small molecules, qHTS assay",Confirmatory,,,Fentanyl
+1346985,,144206164,3345,Active,ADZ17384,8856,10,Potency,"Human pregnane X receptor (PXR) activation by small molecules, qHTS assay",Confirmatory,,,Fentanyl
+1512057,,103182112,3345,Active,P35372,4988,0.01072,IC50,Agonist activity at Gi-coupled mu opioid receptor (unknown origin) expressed in HEK293T cells assessed as inhibition of cAMP production at pH 7.4 measured after 15 mins by Glo-Sensor assay,Confirmatory,31531209,,Fentanyl
+1512058,,103182112,3345,Active,P35372,4988,0.005495,IC50,Agonist activity at Gi-coupled mu opioid receptor (unknown origin) expressed in HEK293T cells assessed as inhibition of cAMP production at pH 6.5 measured after 15 mins by Glo-Sensor assay,Confirmatory,31531209,,Fentanyl
+1526814,,103182112,3345,Active,,,0.004,Cmax,"Cmax in human at 5 mg, TD",Confirmatory,31597043,,Fentanyl
+1526815,,103182112,3345,Active,,,0.0007,fCmax,"Unbound Cmax in human at 5 mg, TD",Confirmatory,31597043,,Fentanyl
+1526816,,103182112,3345,Active,,,0.14,fCmax,"Unbound maximal portal vein concentration of in human at 5 mg, TD",Confirmatory,31597043,,Fentanyl
+1526819,,103182112,3345,Active,,,0.002,Cmax,Cmax in human at 0.5 mg. TM,Confirmatory,31597043,,Fentanyl
+1526820,,103182112,3345,Active,,,0.0004,fCmax,Unbound Cmax in human at 0.5 mg. TM,Confirmatory,31597043,,Fentanyl
+1526821,,103182112,3345,Active,,,0.01,fCmax,Unbound maximal portal vein concentration of in human at 0.5 mg. TM,Confirmatory,31597043,,Fentanyl
+1572983,,103182112,3345,Active,P35372,4988,0.0011,Ki,Binding affinity to mu opioid receptor (unknown origin) expressed in HEK cells at pH 7.4,Confirmatory,29400967,,Fentanyl
+1573395,,103182112,3345,Active,P35372,4988,0.043,EC50,Agonist activity at human mu opioid receptor expressed in CHO cell membranes after 1 hr by [35S]-GTPgammaS binding assay,Confirmatory,29939744,,Fentanyl
+1573397,,103182112,3345,Active,P35372,4988,0.053,EC50,Agonist activity at human mu opioid receptor expressed in human U2OS cells co-transfected with beta-arrestin-2 assessed as increase in beta-arrestin-2 recruitment after 90 mins by BRET assay,Confirmatory,29939744,,Fentanyl
+1576130,,103182112,3345,Active,Q99720,10280,0.354,IC50,Displacement of [3H]PPP from sigma1 receptor (unknown origin),Confirmatory,31391893,,Fentanyl
+1576132,,103182112,3345,Active,Q60492,100135589,4.973,IC50,Displacement of [3H]pentazocine from LAL/HA/BR guinea pig brain sigma1 receptor incubated for 90 mins by liquid scintillation counting method,Confirmatory,31391893,,Fentanyl
+1576134,,103182112,3345,Active,P33535,25601,0.00123,IC50,Displacement of [3H]DAMGO from rat brain mu opioid receptor incubated for 60 mins by microbeta scintillation counting method,Confirmatory,31391893,,Fentanyl
+1611652,,103182112,3345,Active,P35372,4988,0.00051,EC50,Agonist activity at human MOR expressed in CHO-K1 cells assessed as cAMP accumulation incubated for 30 mins and measured after 1 hr by Eu-cAMP tracer based TR-FRET assay,Confirmatory,31749912,,Fentanyl
+1701325,,103182112,3345,Active,P35372,4988,0.0172,EC50,Agonist activity at mu opioid receptor (unknown origin) expressed in HEK293-A cells assessed as inhibition of forskolin-stimulated cAMP accumulation incubated for 30 mins by competition PKA binding assay,Confirmatory,33271020,,Fentanyl
+1701325,,103182112,3345,Active,P35372,4988,0.01738,EC50,Agonist activity at mu opioid receptor (unknown origin) expressed in HEK293-A cells assessed as inhibition of forskolin-stimulated cAMP accumulation incubated for 30 mins by competition PKA binding assay,Confirmatory,33271020,,Fentanyl
+1736834,,103182112,3345,Active,Q99720,10280,0.00039,Ki,Inhibition of sigma 1 receptor (unknown origin),Confirmatory,32087465,,Fentanyl
+1823673,,103182112,3345,Active,P35372,4988,0.00523,Ki,Displacement of [3H]DAMGO from human mu opioid receptor expressed in HEK293 cell membrane incubated for 60 mins by radioligand binding assay,Confirmatory,34011153,,Fentanyl
+1823675,,103182112,3345,Active,P21917,1815,0.554,Ki,Displacement of [3H]-N-methylspiperone from human dopamine D4 receptor expressed in HEK293 cell membranes incubated for 60 mins by microbeta scintillation counting analysis,Confirmatory,34011153,,Fentanyl
+1855411,,103182112,3345,Active,Q60492,100135589,2.4743,Ki,Displacement of [3H](+)-pentazocine from sigma 1 receptor in guinea pig brain membranes by microbeta scintillation counting method,Confirmatory,35961067,,Fentanyl
+1855412,,103182112,3345,Active,P35372,4988,0.0033,Ki,Displacement of [3H]-DAMGO from human MOR expressed in CHO-K1 cell membranes incubated for 90 mins measured by MicroBeta scintillation counter method,Confirmatory,35961067,,Fentanyl
+1917880,,103182112,3345,Active,P35372,4988,0.00135,Ki,Displacement of [3H]DAMGO from human mu opioid receptor measured after 2 hrs by competitive binding assay,Confirmatory,36206553,,Fentanyl
+1920098,,103922051,3345,Active,Q14982,4978,0.000219,Kd,"Surface Plasmon Resonance (SPR) Assay from US Patent US20230399418A1: ""ANTIBODIES FOR OPIOID TREATMENTS""",Confirmatory,,,Fentanyl
+1961694,,103182112,3345,Active,P18089,151,5.2,AC50,Binding affinity towards human ADRA2B in an in vitro assay with cellular components measured by scintillation proximity assay,Confirmatory,37468498,,Fentanyl
+192,,442487,3016,Active,,,,,NCI In Vivo Anticancer Drug Screen. Data for tumor model  B16 Melanoma (intraperitoneal) in B6D2F1 (BDF1) mice,Other,,,Diazepam
+1195,,48415873,3016,Active,,,,,DSSTox (FDAMDD) FDA Maximum (Recommended) Daily Dose Database,Other,,,Diazepam
+39905,,103164353,3016,Active,O09028,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,P15431,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,P18506,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,P18508,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,P19969,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,P20236,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,P23574,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,P23576,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,P28471,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,P28473,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,P30191,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,P62813,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,P63079,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,P63138,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,Q91ZM7,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39905,,103164353,3016,Active,Q9ES14,,0.0206,IC50,Inhibition of [3H]-Ro- 15-1788 binding to GABA-A benzodiazepine receptor in rat brain membrane,Confirmatory,7699711,,Diazepam
+39918,,103164353,3016,Active,P16257,24230,0.213,Kd,Binding affinity constant for peripheral (mitochondrial) Benzodiazepine receptor,Confirmatory,7473601,,Diazepam
+39930,,103164353,3016,Active,O09028,81658,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,P15431,25450,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,P18506,29689,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,P18508,29709,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,P19969,29707,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,P20236,24947,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,P23574,140674,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,P23576,289606,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,P28471,140675,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,P28473,79211,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,P30191,29708,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,P62813,29705,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,P63079,24922,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,P63138,25451,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,Q91ZM7,,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39930,,103164353,3016,Active,Q9ES14,65191,0.0049,Ki,Binding affinity against benzodiazepine receptor (BzR) in rat cortical membranes determined by competition experiments with radiolabeled [3H]flunitrazepam (Fnz),Confirmatory,8809170,,Diazepam
+39931,,103164353,3016,Active,O09028,81658,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,P15431,25450,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,P18506,29689,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,P18508,29709,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,P19969,29707,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,P20236,24947,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,P23574,140674,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,P23576,289606,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,P28471,140675,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,P28473,79211,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,P30191,29708,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,P62813,29705,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,P63079,24922,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,P63138,25451,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,Q91ZM7,,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39931,,103164353,3016,Active,Q9ES14,65191,0.0049,Ki,Displacement of [3H]flunitrazepam from GABA-A benzodiazepine receptor of rat cortical membranes,Confirmatory,8917654,,Diazepam
+39938,,103164353,3016,Active,O09028,81658,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,P15431,25450,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,P18506,29689,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,P18508,29709,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,P19969,29707,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,P20236,24947,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,P23574,140674,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,P23576,289606,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,P28471,140675,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,P28473,79211,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,P30191,29708,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,P62813,29705,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,P63079,24922,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,P63138,25451,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,Q91ZM7,,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39938,,103164353,3016,Active,Q9ES14,65191,0.005,Ki,Displacement of [3H]diazepam from rat cerebral cortex benzodiazepine receptor,Confirmatory,8709114,,Diazepam
+39939,,103164353,3016,Active,O09028,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,P15431,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,P18506,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,P18508,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,P19969,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,P20236,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,P23574,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,P23576,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,P28471,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,P28473,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,P30191,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,P62813,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,P63079,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,P63138,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,Q91ZM7,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+39939,,103164353,3016,Active,Q9ES14,,0.0105,Ki,Displacement of [3H]flunitrazepam at GABA-A benzodiazepine receptor in rat brain cortical membranes,Confirmatory,8709126,,Diazepam
+40228,,103164353,3016,Active,O09028,81658,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,P15431,25450,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,P18506,29689,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,P18508,29709,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,P19969,29707,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,P20236,24947,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,P23574,140674,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,P23576,289606,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,P28471,140675,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,P28473,79211,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,P30191,29708,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,P62813,29705,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,P63079,24922,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,P63138,25451,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,Q91ZM7,,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40228,,103164353,3016,Active,Q9ES14,65191,0.007,IC50,Displacement of [3H]flunitrazepam from benzodiazepine receptor of rat cerebral cortex membranes,Confirmatory,1681105,,Diazepam
+40230,,103164353,3016,Active,O09028,81658,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,P15431,25450,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,P18506,29689,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,P18508,29709,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,P19969,29707,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,P20236,24947,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,P23574,140674,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,P23576,289606,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,P28471,140675,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,P28473,79211,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,P30191,29708,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,P62813,29705,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,P63079,24922,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,P63138,25451,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,Q91ZM7,,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40230,,103164353,3016,Active,Q9ES14,65191,0.006,IC50,Concentration that inhibits binding of 1.5 nM [3H]diazepam to rat brain benzodiazepine receptor,Confirmatory,2540330,,Diazepam
+40231,,103164353,3016,Active,O09028,81658,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,P15431,25450,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,P18506,29689,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,P18508,29709,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,P19969,29707,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,P20236,24947,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,P23574,140674,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,P23576,289606,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,P28471,140675,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,P28473,79211,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,P30191,29708,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,P62813,29705,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,P63079,24922,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,P63138,25451,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,Q91ZM7,,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40231,,103164353,3016,Active,Q9ES14,65191,0.006,IC50,Inhibition of [3H]flunitrazepam binding to GABA-A benzodiazepine receptor of rat cerebral cortex,Confirmatory,2573731,,Diazepam
+40236,,103164353,3016,Active,O09028,81658,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,P15431,25450,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,P18506,29689,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,P18508,29709,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,P19969,29707,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,P20236,24947,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,P23574,140674,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,P23576,289606,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,P28471,140675,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,P28473,79211,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,P30191,29708,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,P62813,29705,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,P63079,24922,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,P63138,25451,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,Q91ZM7,,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40236,,103164353,3016,Active,Q9ES14,65191,0.006,IC50,Effect on [3H]flunitrazepam binding to Benzodiazepine receptor,Confirmatory,1674542,,Diazepam
+40239,,103164353,3016,Active,O09028,81658,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,P15431,25450,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,P18506,29689,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,P18508,29709,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,P19969,29707,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,P20236,24947,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,P23574,140674,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,P23576,289606,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,P28471,140675,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,P28473,79211,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,P30191,29708,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,P62813,29705,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,P63079,24922,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,P63138,25451,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,Q91ZM7,,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40239,,103164353,3016,Active,Q9ES14,65191,0.077,IC50,Inhibition of radiolabeled antagonist [3H]-Ro- 15-1788 binding to benzodiazepine receptor from rat cortical membranes,Confirmatory,2552115,,Diazepam
+40241,,103164353,3016,Active,O09028,81658,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,O09028,81658,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P15431,25450,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P15431,25450,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P18506,29689,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P18506,29689,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P18508,29709,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P18508,29709,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P19969,29707,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P19969,29707,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P20236,24947,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P20236,24947,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P23574,140674,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P23574,140674,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P23576,289606,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P23576,289606,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P28471,140675,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P28471,140675,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P28473,79211,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P28473,79211,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P30191,29708,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P30191,29708,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P62813,29705,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P62813,29705,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P63079,24922,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P63079,24922,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P63138,25451,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,P63138,25451,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,Q91ZM7,,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,Q91ZM7,,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,Q9ES14,65191,0.006,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+40241,,103164353,3016,Active,Q9ES14,65191,0.0081,IC50,In vitro inhibitory concentration of compound against benzodiazepine receptor from rat cerebral cortex using [3H]- flunitrazepam was evaluated,Confirmatory,8145224,,Diazepam
+1195,,48416146,3821,Active,,,,,DSSTox (FDAMDD) FDA Maximum (Recommended) Daily Dose Database,Other,,,Ketamine
+144466,,103199488,3821,Active,P35439,24408,0.61,IC50,Inhibition of [3H]-MK-801 binding to NMDA receptor from rat cerebral cortical synaptic membrane,Confirmatory,8941398,,Ketamine
+144466,,103199488,3821,Active,Q00959,24409,0.61,IC50,Inhibition of [3H]-MK-801 binding to NMDA receptor from rat cerebral cortical synaptic membrane,Confirmatory,8941398,,Ketamine
+144466,,103199488,3821,Active,Q00960,24410,0.61,IC50,Inhibition of [3H]-MK-801 binding to NMDA receptor from rat cerebral cortical synaptic membrane,Confirmatory,8941398,,Ketamine
+144466,,103199488,3821,Active,Q00961,24411,0.61,IC50,Inhibition of [3H]-MK-801 binding to NMDA receptor from rat cerebral cortical synaptic membrane,Confirmatory,8941398,,Ketamine
+144466,,103199488,3821,Active,Q62645,24412,0.61,IC50,Inhibition of [3H]-MK-801 binding to NMDA receptor from rat cerebral cortical synaptic membrane,Confirmatory,8941398,,Ketamine
+144466,,103199488,3821,Active,Q8VHN2,170796,0.61,IC50,Inhibition of [3H]-MK-801 binding to NMDA receptor from rat cerebral cortical synaptic membrane,Confirmatory,8941398,,Ketamine
+144466,,103199488,3821,Active,Q9R1M7,191573,0.61,IC50,Inhibition of [3H]-MK-801 binding to NMDA receptor from rat cerebral cortical synaptic membrane,Confirmatory,8941398,,Ketamine
+144606,,103199488,3821,Active,P35439,24408,0.61,IC50,Inhibition of [3H]MK-801 binding to N-methyl-D-aspartate glutamate receptor of rat cerebral cortical synaptic membrane,Confirmatory,9719604,,Ketamine
+144606,,103199488,3821,Active,Q00959,24409,0.61,IC50,Inhibition of [3H]MK-801 binding to N-methyl-D-aspartate glutamate receptor of rat cerebral cortical synaptic membrane,Confirmatory,9719604,,Ketamine
+144606,,103199488,3821,Active,Q00960,24410,0.61,IC50,Inhibition of [3H]MK-801 binding to N-methyl-D-aspartate glutamate receptor of rat cerebral cortical synaptic membrane,Confirmatory,9719604,,Ketamine
+144606,,103199488,3821,Active,Q00961,24411,0.61,IC50,Inhibition of [3H]MK-801 binding to N-methyl-D-aspartate glutamate receptor of rat cerebral cortical synaptic membrane,Confirmatory,9719604,,Ketamine
+144606,,103199488,3821,Active,Q62645,24412,0.61,IC50,Inhibition of [3H]MK-801 binding to N-methyl-D-aspartate glutamate receptor of rat cerebral cortical synaptic membrane,Confirmatory,9719604,,Ketamine
+144606,,103199488,3821,Active,Q8VHN2,170796,0.61,IC50,Inhibition of [3H]MK-801 binding to N-methyl-D-aspartate glutamate receptor of rat cerebral cortical synaptic membrane,Confirmatory,9719604,,Ketamine
+144606,,103199488,3821,Active,Q9R1M7,191573,0.61,IC50,Inhibition of [3H]MK-801 binding to N-methyl-D-aspartate glutamate receptor of rat cerebral cortical synaptic membrane,Confirmatory,9719604,,Ketamine
+144832,,103199488,3821,Active,P35439,24408,0.86,IC50,Binding affinity towards PCP site of the NMDA receptor was measured by displacement of [3H]TPC in whole rat brain homogenate,Confirmatory,8336337,,Ketamine
+144832,,103199488,3821,Active,Q00959,24409,0.86,IC50,Binding affinity towards PCP site of the NMDA receptor was measured by displacement of [3H]TPC in whole rat brain homogenate,Confirmatory,8336337,,Ketamine
+144832,,103199488,3821,Active,Q00960,24410,0.86,IC50,Binding affinity towards PCP site of the NMDA receptor was measured by displacement of [3H]TPC in whole rat brain homogenate,Confirmatory,8336337,,Ketamine
+144832,,103199488,3821,Active,Q00961,24411,0.86,IC50,Binding affinity towards PCP site of the NMDA receptor was measured by displacement of [3H]TPC in whole rat brain homogenate,Confirmatory,8336337,,Ketamine
+144832,,103199488,3821,Active,Q62645,24412,0.86,IC50,Binding affinity towards PCP site of the NMDA receptor was measured by displacement of [3H]TPC in whole rat brain homogenate,Confirmatory,8336337,,Ketamine
+144832,,103199488,3821,Active,Q8VHN2,170796,0.86,IC50,Binding affinity towards PCP site of the NMDA receptor was measured by displacement of [3H]TPC in whole rat brain homogenate,Confirmatory,8336337,,Ketamine
+144832,,103199488,3821,Active,Q9R1M7,191573,0.86,IC50,Binding affinity towards PCP site of the NMDA receptor was measured by displacement of [3H]TPC in whole rat brain homogenate,Confirmatory,8336337,,Ketamine
+156805,,103199488,3821,Active,O15399,2906,0.42,Ki,The compound was tested for its ability to block PCP N-methyl-D-aspartate glutamate receptor at the PCP (phencyclidine) binding site in postmortem human frontal cortex.,Confirmatory,9464369,,Ketamine
+156805,,103199488,3821,Active,O60391,116444,0.42,Ki,The compound was tested for its ability to block PCP N-methyl-D-aspartate glutamate receptor at the PCP (phencyclidine) binding site in postmortem human frontal cortex.,Confirmatory,9464369,,Ketamine
+156805,,103199488,3821,Active,Q05586,2902,0.42,Ki,The compound was tested for its ability to block PCP N-methyl-D-aspartate glutamate receptor at the PCP (phencyclidine) binding site in postmortem human frontal cortex.,Confirmatory,9464369,,Ketamine
+156805,,103199488,3821,Active,Q12879,2903,0.42,Ki,The compound was tested for its ability to block PCP N-methyl-D-aspartate glutamate receptor at the PCP (phencyclidine) binding site in postmortem human frontal cortex.,Confirmatory,9464369,,Ketamine
+156805,,103199488,3821,Active,Q13224,2904,0.42,Ki,The compound was tested for its ability to block PCP N-methyl-D-aspartate glutamate receptor at the PCP (phencyclidine) binding site in postmortem human frontal cortex.,Confirmatory,9464369,,Ketamine
+156805,,103199488,3821,Active,Q14957,2905,0.42,Ki,The compound was tested for its ability to block PCP N-methyl-D-aspartate glutamate receptor at the PCP (phencyclidine) binding site in postmortem human frontal cortex.,Confirmatory,9464369,,Ketamine
+156805,,103199488,3821,Active,Q8TCU5,116443,0.42,Ki,The compound was tested for its ability to block PCP N-methyl-D-aspartate glutamate receptor at the PCP (phencyclidine) binding site in postmortem human frontal cortex.,Confirmatory,9464369,,Ketamine
+225475,,103199488,3821,Active,P35439,24408,8.86,IC50,Ability to inhibit glutamate induced accumulation of [45 [Ca2+]] in cultured rat cortical neurons,Confirmatory,8336337,,Ketamine
+225475,,103199488,3821,Active,Q00959,24409,8.86,IC50,Ability to inhibit glutamate induced accumulation of [45 [Ca2+]] in cultured rat cortical neurons,Confirmatory,8336337,,Ketamine
+225475,,103199488,3821,Active,Q00960,24410,8.86,IC50,Ability to inhibit glutamate induced accumulation of [45 [Ca2+]] in cultured rat cortical neurons,Confirmatory,8336337,,Ketamine
+225475,,103199488,3821,Active,Q00961,24411,8.86,IC50,Ability to inhibit glutamate induced accumulation of [45 [Ca2+]] in cultured rat cortical neurons,Confirmatory,8336337,,Ketamine
+225475,,103199488,3821,Active,Q62645,24412,8.86,IC50,Ability to inhibit glutamate induced accumulation of [45 [Ca2+]] in cultured rat cortical neurons,Confirmatory,8336337,,Ketamine
+225475,,103199488,3821,Active,Q8VHN2,170796,8.86,IC50,Ability to inhibit glutamate induced accumulation of [45 [Ca2+]] in cultured rat cortical neurons,Confirmatory,8336337,,Ketamine
+225475,,103199488,3821,Active,Q9R1M7,191573,8.86,IC50,Ability to inhibit glutamate induced accumulation of [45 [Ca2+]] in cultured rat cortical neurons,Confirmatory,8336337,,Ketamine
+480453,,103199488,3821,Active,Q05586,2902,6.1,IC50,Inhibition of dexamethasone-induced human NR1-1a/NR2A receptor-mediated excitotoxicity in (S)-glutamate/glycine-stimulated mouse L12-G10 cells assessed as LDH release after 30 mins,Confirmatory,20361801,,Ketamine
+480453,,103199488,3821,Active,Q12879,2903,6.1,IC50,Inhibition of dexamethasone-induced human NR1-1a/NR2A receptor-mediated excitotoxicity in (S)-glutamate/glycine-stimulated mouse L12-G10 cells assessed as LDH release after 30 mins,Confirmatory,20361801,,Ketamine
+480455,,103199488,3821,Active,Q05586,2902,3.2,IC50,Inhibition of dexamethasone-induced human NR1-1a/NR2B receptor-mediated excitotoxicity in (S)-glutamate/glycine-stimulated mouse L13-E6 cells assessed as LDH release after 30 mins,Confirmatory,20361801,,Ketamine
+480455,,103199488,3821,Active,Q13224,2904,3.2,IC50,Inhibition of dexamethasone-induced human NR1-1a/NR2B receptor-mediated excitotoxicity in (S)-glutamate/glycine-stimulated mouse L13-E6 cells assessed as LDH release after 30 mins,Confirmatory,20361801,,Ketamine
+504749,,29215438,3821,Active,,,,,qHTS profiling for inhibitors of Plasmodium falciparum proliferation,Other,21817045,,Ketamine
+504749,,29215439,3821,Active,,,,,qHTS profiling for inhibitors of Plasmodium falciparum proliferation,Other,21817045,,Ketamine
+588726,,56424156,3821,Active,NP_214877,886474,,,Fluorescence-based biochemical primary high throughput screening assay to identify inhibitors of the fructose-bisphosphate aldolase (FBA) of M. tuberculosis,Screening,,,Ketamine
+590108,,103199488,3821,Active,Q05586,2902,5.01187,IC50,Inhibition of human recombinant NR1/NR2B receptor expressed in U2OS assessed as change in intracellular calcium level by FLIPR assay,Confirmatory,21334205,,Ketamine
+590108,,103199488,3821,Active,Q13224,2904,5.01187,IC50,Inhibition of human recombinant NR1/NR2B receptor expressed in U2OS assessed as change in intracellular calcium level by FLIPR assay,Confirmatory,21334205,,Ketamine
+590109,,103199488,3821,Active,Q05586,2902,1.25893,IC50,Inhibition of human recombinant NR1/NR2A receptor expressed in U2OS assessed as change in intracellular calcium level by FLIPR assay,Confirmatory,21334205,,Ketamine
+590109,,103199488,3821,Active,Q12879,2903,1.25893,IC50,Inhibition of human recombinant NR1/NR2A receptor expressed in U2OS assessed as change in intracellular calcium level by FLIPR assay,Confirmatory,21334205,,Ketamine
+48997,,103167825,16078,Active,P20272,25248,0.0058,IC50,Compound was evaluated for the inhibition of [3H]WIN-55212-2 binding in rat cerebellum membranes,Confirmatory,,,THC
+48997,,103167825,16078,Active,Q9QZN9,57302,0.0058,IC50,Compound was evaluated for the inhibition of [3H]WIN-55212-2 binding in rat cerebellum membranes,Confirmatory,,,THC
+49003,,103167825,16078,Active,P20272,25248,0.218,IC50,"The compound was tested in vitro for binding activity against THC cannabinoid receptor site, using 3H-CP-55940 as the radioligand",Confirmatory,1659638,,THC
+49003,,103167825,16078,Active,Q9QZN9,57302,0.218,IC50,"The compound was tested in vitro for binding activity against THC cannabinoid receptor site, using 3H-CP-55940 as the radioligand",Confirmatory,1659638,,THC
+49144,,103167825,16078,Active,P20272,25248,0.046,Ki,"Compound was evaluated for the competitive inhibition of [3H]3-(1,1-Dimethyl-heptyl)-9-hydroxymethyl-6,6-dimethyl-6a,7,8,9,10,10a-hexahydro-6H-benzo[c]chromen-1-ol to cannabinoid receptor from synaptosomal membranes of rat whole brain",Confirmatory,1317925,,THC
+49144,,103167825,16078,Active,Q9QZN9,57302,0.046,Ki,"Compound was evaluated for the competitive inhibition of [3H]3-(1,1-Dimethyl-heptyl)-9-hydroxymethyl-6,6-dimethyl-6a,7,8,9,10,10a-hexahydro-6H-benzo[c]chromen-1-ol to cannabinoid receptor from synaptosomal membranes of rat whole brain",Confirmatory,1317925,,THC
+49150,,103167825,16078,Active,P21554,1268,0.041,Ki,Binding affinity was determined in vitro against cannabinoid receptor by ability to displace [3H]CP-55940,Confirmatory,,,THC
+49150,,103167825,16078,Active,P34972,1269,0.041,Ki,Binding affinity was determined in vitro against cannabinoid receptor by ability to displace [3H]CP-55940,Confirmatory,,,THC
+49314,,103167825,16078,Active,P21554,1268,0.0285,Ki,Binding affinity towards Cannabinoid receptor 1 using CP-55940 as radioligand in HEK293 EBNA cells,Confirmatory,14505654,,THC
+49315,,103167825,16078,Active,P21554,1268,0.041,Ki,Binding affinity was determined for Cannabinoid receptor 1,Confirmatory,11020293,,THC
+49325,,103167825,16078,Active,P21554,1268,0.0016,Log Ki,Binding affinity towards cloned human Cannabinoid receptor 1,Confirmatory,10882356,,THC
+49469,,103167825,16078,Active,P47746,12801,0.041,Ki,Binding affinity for Cannabinoid receptor 1 in absence of phenylmethylsulfonyl fluoride (PMSF),Confirmatory,9357528,,THC
+49474,,103167825,16078,Active,P20272,25248,0.011,EC50,Effective concentration for inhibition of Cannabinoid receptor 1-mediated adenylyl cyclase activity using African green monkey (COS-7) cells transfected with the cDNA of rat CB1 receptor,Confirmatory,9379442,,THC
+49481,,103167825,16078,Active,P20272,25248,0.0058,IC50,Concentration of compound required to inhibit 50% of [3H]WIN-55212 binding to Cannabinoid receptor 1 in rat cerebellum membranes.,Confirmatory,7636873,,THC
+49492,,103167825,16078,Active,P20272,25248,0.0665,Ki,Binding affinity for Cannabinoid receptor 1 using African green monkey (COS-7) cells transfected with the cDNA of rat brain synaptosomal membrane preparations.,Confirmatory,9379442,,THC
+49662,,103167825,16078,Active,P20272,25248,0.0803,Ki,Binding to Cannabinoid receptor 1 using African green monkey (COS-7) cells transfected with the cDNA of rat CB1.,Confirmatory,9379442,,THC
+49663,,103167825,16078,Active,P20272,25248,0.0476,Ki,Compound was evaluated for its ability to displace specifically bound [3H]CP-55940 from a Cannabinoid receptor 1 enriched rat brain microsome preparation.,Confirmatory,8809166,,THC
+49684,,103167825,16078,Active,P21554,1268,0.041,Ki,Evaluated for its binding affinity towards Cannabinoid receptor 1 (CB1),Confirmatory,9784115,,THC
+49687,,103167825,16078,Active,P21554,1268,0.041,Ki,Compound was evaluated for Pharmacological response in the Cannabinoid receptor 1,Confirmatory,8831752,,THC
+49832,,103167825,16078,Active,P34972,1269,0.036,Ki,Ability to bind with Cannabinoid receptor 2 using [H]CP-55940 as radioligand from cloned human receptor preparation,Confirmatory,8831752,,THC
+49843,,103167825,16078,Active,P34972,1269,0.0322,Ki,Binding affinity to Cannabinoid receptor 2 using African green monkey (COS-7) cells Chinese hamster ovary(CHO) cells transfected with the cDNA of human CB2,Confirmatory,9379442,,THC
+49845,,103167825,16078,Active,P34972,1269,0.025,Ki,Binding affinity towards Cannabinoid receptor 2 using CP-55940 as radioligand in HEK293 EBNA cells,Confirmatory,14505654,,THC
+49846,,103167825,16078,Active,P34972,1269,0.036,Ki,Binding affinity was determined for Cannabinoid receptor 2,Confirmatory,11020293,,THC
+49851,,103167825,16078,Active,P34972,1269,0.00156,Log Ki,Binding affinity towards cloned human cannabinoid receptor 2,Confirmatory,10882356,,THC
+49856,,103167825,16078,Active,P47936,12802,0.0393,Ki,Compound was evaluated for its ability to displace specifically bound [3H]CP-55940 from a Cannabinoid receptor 2 enriched mouse spleen preparation.,Confirmatory,8809166,,THC
+132488,,103167825,16078,Active,,,0.004,IC50,In vitro inhibition of electrically induced contractions in isolated mouse vas deferens (MVD) preparations.,Confirmatory,,,THC
+138344,,103167825,16078,Active,,,0.004,IC50,Concentration required to inhibit electrically induced contractions in isolated mouse vas deferens preparation in vitro,Confirmatory,7636873,,THC
+238320,,103167825,16078,Active,P20272,25248,0.037,Ki,Binding affinity for cannabinoid receptor 1,Confirmatory,16078824,,THC
+238321,,103167825,16078,Active,,,0.02,Ki,Binding affinity for cannabinoid receptor 2,Confirmatory,16078824,,THC
+238758,,103167825,16078,Active,P20272,25248,0.041,Ki,Binding affinity to displace [3H]CP-55940 from CB1 receptor of rat brain,Confirmatory,16005223,,THC
+238759,,103167825,16078,Active,P34972,1269,0.036,Ki,Binding affinity to displace [3H]CP-55940 from cloned human CB2 receptor,Confirmatory,16005223,,THC
+257800,,103167825,16078,Active,P20272,25248,0.19953,EC50,Displacement of [35S]GTP-gamma-S from rat cerebellar CB1 receptor,Confirmatory,16420041,,THC
+299499,,103167825,16078,Active,P34972,1269,0.0033,Ki,Binding affinity to human CB2 receptor,Confirmatory,17531479,,THC
+299500,,103167825,16078,Active,P21554,1268,0.017,Ki,Binding affinity to human CB1 receptor,Confirmatory,17531479,,THC
+299503,,103167825,16078,Active,P47936,12802,0.0092,Ki,Binding affinity to mouse CB2 receptor,Confirmatory,17531479,,THC
+299504,,103167825,16078,Active,P47746,12801,0.04,Ki,Binding affinity to mouse CB1 receptor,Confirmatory,17531479,,THC
+326576,,103167825,16078,Active,P20272,25248,0.041,Ki,Displacement of [3H]CP-55940 from CB1 receptor in Sprague-Dawley rat brain membrane,Confirmatory,17919913,,THC
+326577,,103167825,16078,Active,P34972,1269,0.036,Ki,Displacement of [3H]CP-55940 from human cloned CB2 receptor,Confirmatory,17919913,,THC
+406790,,103167825,16078,Active,P34972,1269,0.041,Ki,Displacement of [3H]CP-55940 from human CB2 receptor,Confirmatory,18522867,,THC
+406791,,103167825,16078,Active,P21554,1268,0.0029,Ki,Displacement of [3H]CP-55940 from human CB1 receptor,Confirmatory,18522867,,THC
+406792,,103167825,16078,Active,P34972,1269,0.0015,EC50,Agonist activity at cloned human CB2 receptor in Sf9 cells assessed as stimulation of [35S]GTPgammaS binding assay,Confirmatory,18522867,,THC
+459553,,103167825,16078,Active,P21554,1268,0.04,Ki,Displacement of [3H]CP-55940 from CB1 receptor,Confirmatory,20079638,,THC
+459824,,103167825,16078,Active,P34972,1269,0.036,Ki,Displacement of [3H]CP-55940 from CB2 receptor,Confirmatory,20079638,,THC
+482146,,103167825,16078,Active,Q6RI86,312896,0.23,EC50,Agonist activity at rat TRPA1 channel expressed in HEK293 cells assessed as increase in intracellular calcium influx,Confirmatory,20356305,,THC
+497598,,103167825,16078,Active,P20272,25248,0.041,Ki,Displacement of [3H]CP-55940 from CB1 receptor in Sprague-Dawley rat brain cortex membranes,Confirmatory,20621488,,THC
+497599,,103167825,16078,Active,P34972,1269,0.036,Ki,Displacement of [3H]CP-55940 from human CB2 receptor expressed in CHO cells after 1 hr by liquid scintillation spectrometry analysis,Confirmatory,20621488,,THC
+500219,,103167825,16078,Active,O75762,8989,10,Activity,Agonist activity at TRPA1,Confirmatory,16408004,,THC
+537503,,103167825,16078,Active,P20272,25248,0.041,Ki,Displacement of [3H]CP-55940 from CB1 receptor in Sprague-Dawley rat brain membranes after 1 hr by liquid scintillation spectrophotometry,Confirmatory,20943404,,THC
+537504,,103167825,16078,Active,P34972,1269,0.036,Ki,Displacement of [3H]CP-55940 from human CB2 receptor expressed in CHO cells after 1 hr by liquid scintillation spectrophotometry,Confirmatory,20943404,,THC
+636834,,103167825,16078,Active,P21554,1268,0.0028,IC50,Displacement of [3H]CP55940 from human recombinant CB1 receptor expressed in HEK293 cells after 90 mins,Confirmatory,21999614,,THC
+636835,,103167825,16078,Active,P34972,1269,0.0095,IC50,Displacement of [3H]CP55940 from human recombinant CB2 receptor expressed in HEK293 cells after 90 mins,Confirmatory,21999614,,THC
+646621,,103167825,16078,Active,P21554,1268,0.01,Ki,"Displacement of [3H]-CP55,940 from human CB1 receptor expressed in HEK293 cells",Confirmatory,22284817,,THC
+646622,,103167825,16078,Active,P21554,1268,0.017,EC50,Agonist activity at human CB1 receptor expressed in HEK293 EBNA cells by [35S]GTPgamma binding assay,Confirmatory,22284817,,THC
+646624,,103167825,16078,Active,P34972,1269,0.024,Ki,Binding affinity to human CB2 receptor,Confirmatory,22284817,,THC
+651633,,144206169,16078,Active,,,23.7101,Potency,qHTS assay for small molecule agonists of the p53 signaling pathway - cell viability,Confirmatory,,,THC
+686979,,144206169,16078,Active,AAI07878,,21.136,Potency,qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in presence of CPT,Confirmatory,,,THC
+714692,,103167825,16078,Active,P34972,1269,0.036,Ki,Binding affinity to human CB2 receptor by filtration assay,Confirmatory,22341572,,THC
+714693,,103167825,16078,Active,P21554,1268,0.041,Ki,Displacement of [3H]CP55940 from CB1 receptor,Confirmatory,22341572,,THC
+720533,,144206169,16078,Active,,,35.4813,Potency,qHTS for Inhibitors of binding or entry into cells for Lassa Virus,Confirmatory,,,THC
+720635,,144206169,16078,Active,,,3.7578,Potency,qHTS assay for small molecule disruptors of the mitochondrial membrane potential,Confirmatory,,,THC
+720637,,144206169,16078,Active,,,4.98946,Potency,qHTS assay for small molecule disruptors of the mitochondrial membrane potential: Summary,Summary,,,THC
+720693,,144206169,16078,Active,,,23.9145,Potency,qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway - cell viability counter screen,Confirmatory,,,THC
+743012,,144206169,16078,Active,,,9.4392,Potency,qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line,Confirmatory,,,THC
+743014,,144206169,16078,Active,,,13.3332,Potency,qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line,Confirmatory,,,THC
+743015,,144206169,16078,Active,,,10.5909,Potency,qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line,Confirmatory,,,THC
+743064,,144206169,16078,Active,,,13.3332,Potency,qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway - cell viability counter screen,Confirmatory,,,THC
+743065,,144206169,16078,Active,NP_001257783,24831,16.7855,Potency,qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway,Confirmatory,,,THC
+743085,,144206169,16078,Active,EAL24281,196,9.4392,Potency,qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway,Confirmatory,,,THC
+743122,,144206169,16078,Active,EAL24281,196,7.94208,Potency,qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway: Summary,Summary,,,THC
+743139,,144206169,16078,Active,EAW77416,1588,,,qHTS assay to identify aromatase inhibitors: Summary,Summary,,,THC
+750728,,103167825,16078,Active,P34972,1269,0.0716,Ki,"Displacement of [3H]-CP55,940 from human CB2 receptor transfected in CHOK1 cells",Confirmatory,23679955,,THC
+750731,,103167825,16078,Active,P21554,1268,0.00388,Ki,"Displacement of [3H]-CP55,940 from human CB1 receptor transfected in CHOK1 cells",Confirmatory,23679955,,THC
+750732,,103167825,16078,Active,Q14330,2841,4.61,EC50,Agonist activity at human GPR18 transfected in CHO cells after 90 mins by beta-arrestin translocation assay,Confirmatory,23679955,,THC
+977608,,170483226,16078,Active,3LS4_H,,0.5,IC50,Experimentally measured binding affinity data (IC50) for protein-ligand complexes derived from PDB,Other,,,THC
+977608,,170483226,16078,Active,3LS4_L,,0.5,IC50,Experimentally measured binding affinity data (IC50) for protein-ligand complexes derived from PDB,Other,,,THC
+1122509,,103167825,16078,Active,Q14330,2841,0.96,EC50,Agonist activity at human GPR18 expressed in HEK203 cells by MAP kinase assay,Confirmatory,,,THC
+1122511,,103167825,16078,Active,Q14330,2841,4.61,EC50,Agonist activity at human GPR18 expressed in CHO cells assessed as induction of beta-arrestin recruitment by beta-galactosidase enzyme fragment complementation method,Confirmatory,,,THC
+1122513,,103167825,16078,Active,P34972,1269,0.0716,Ki,"Displacement of [3H]CP55,940 from human recombinant CB2 receptor expressed in HEK293 cells",Confirmatory,,,THC
+1122515,,103167825,16078,Active,P21554,1268,0.00388,Ki,"Displacement of [3H]CP55,940 from human recombinant CB1 receptor expressed in CHO-K1 cells",Confirmatory,,,THC
+1127482,,103167825,16078,Active,P21554,1268,0.0407,Ki,Binding affinity to human CB1 receptor,Confirmatory,23865723,,THC
+1127483,,103167825,16078,Active,P34972,1269,0.0364,Ki,Binding affinity to human CB2 receptor,Confirmatory,23865723,,THC
+1133173,,103167825,16078,Active,,,0.302,Ki,Inhibition of mouse brain synaptosomal Lysophosphatidylcholine acyltransferase using substrate [32P]lysophosphatidylcholine and oleoyl-CoA,Confirmatory,722729,,THC
+1137821,,103167825,16078,Active,P20272,25248,0.0395,Ki,Displacement of [3H]CP55940 from rat brain CB1 receptor,Confirmatory,24900848,,THC
+1137822,,103167825,16078,Active,P47936,12802,0.04,Ki,Displacement of [3H]CP55940 from mouse brain CB2 receptor expressed in HEK293 cells,Confirmatory,24900848,,THC
+1186019,,103167825,16078,Active,P21554,1268,0.022,Ki,Displacement of [3H]CP55940 from human cannabinoid CB1 receptor expressed in CHO-K1 cells by liquid scintillation counting,Confirmatory,25072877,,THC
+1186020,,103167825,16078,Active,P34972,1269,0.046,Ki,Displacement of [3H]CP55940 from human cannabinoid CB2 receptor expressed in CHO-K1 cells by liquid scintillation counting,Confirmatory,25072877,,THC
+1186021,,103167825,16078,Active,P34972,1269,0.0123,EC50,Partial agonist activity at human cannabinoid CB2 receptor expressed in CHO-K1 cells assessed as [S35]GTPgammaS binding by scintillation counting,Confirmatory,25072877,,THC
+1186023,,103167825,16078,Active,P21554,1268,0.0775,EC50,Partial agonist activity at human cannabinoid CB1 receptor expressed in CHO-K1 cells assessed as [S35]GTPgammaS binding by scintillation counting,Confirmatory,25072877,,THC
+1200343,,103167825,16078,Active,,,5,IC50,Antiproliferative activity against human MDA-MB-231 cells after 72 hrs by MTT assay,Confirmatory,25671648,,THC
+1203550,,103167825,16078,Active,P23415,2741,1.3,EC50,Potentiation of human GlyR-alpha1 expressed in Xenopus laevis oocytes assessed as induction of glycine-activated currents after 1 to 4 days by two-electrode voltage clamp assay,Confirmatory,25790278,,THC
+1211513,,103167825,16078,Active,P47746,12801,0.0153,Ki,"Displacement of [3H]CP-55,940 from CB1 receptor in B6SJL mouse brain membrane after 90 mins by liquid scintillation spectrophotometric analysis",Confirmatory,22904561,,THC
+1230030,,103167825,16078,Active,P21554,1268,0.018,Ki,Displacement of [3H]CP55940 from full length human recombinant CB1 receptor expressed in HEK293 cells after 90 mins by scintillation counting analysis,Confirmatory,26000707,,THC
+1230031,,103167825,16078,Active,P34972,1269,0.042,Ki,Displacement of [3H]CP55940 from full length human recombinant CB2 receptor expressed in HEK293 cells after 90 mins by scintillation counting analysis,Confirmatory,26000707,,THC
+1259408,,363896127,16078,Active,,,,,GENE-TOX mutagenicity studies,Other,,,THC
+1287159,,103167825,16078,Active,P20272,25248,0.036,Ki,Displacement of [3H]HU-243 from CB1 receptor in Sprague-Dawley rat brain incubated for 90 mins,Confirmatory,26890113,,THC
+1333350,,103167825,16078,Active,P21554,1268,0.0395,Ki,Agonist activity at CB1 receptor (unknown origin),Confirmatory,27560280,,THC
+1333351,,103167825,16078,Active,P34972,1269,0.04,Ki,Agonist activity at CB2 receptor (unknown origin),Confirmatory,27560280,,THC
+1345070,,135651250,16078,Active,NP_005674,9290,,,"Human GPR55 (GPR18, GPR55 and GPR119)",Other,17876302,,THC
+1345199,,144206169,16078,Active,,,4.4668,,Drug repurposing screens with cells derived from glioblastoma tumor samples,Confirmatory,,,THC
+1345199,,144206169,16078,Active,,,10,,Drug repurposing screens with cells derived from glioblastoma tumor samples,Confirmatory,,,THC
+1345199,,144206169,16078,Active,,,11.2202,,Drug repurposing screens with cells derived from glioblastoma tumor samples,Confirmatory,,,THC
+1345199,,144206169,16078,Active,,,18.3564,,Drug repurposing screens with cells derived from glioblastoma tumor samples,Confirmatory,,,THC
+1346490,,135651250,16078,Active,NP_001139512,2741,,,Human glycine receptor alpha1 subunit (Glycine receptors),Other,,,THC
+1346518,,135651250,16078,Active,NP_001165413,2742,,,Human glycine receptor alpha2 subunit (Glycine receptors),Other,,,THC
+1346534,,135651250,16078,Active,NP_006520,8001,,,Human glycine receptor alpha3 subunit (Glycine receptors),Other,,,THC
+1346556,,135651250,16078,Active,NP_015628,8989,,,Human TRPA1 (Transient Receptor Potential channels),Other,14712238,,THC
+1346564,,135651250,16078,Active,NP_058903,,,,Rat TRPV2 (Transient Receptor Potential channels),Other,18550765,,THC
+1346701,,135651250,16078,Active,NP_001153731,1268,,,Human CB1 receptor (Cannabinoid receptors),Other,7565624,,THC
+1346701,,135651250,16078,Active,NP_001153731,1268,,,Human CB1 receptor (Cannabinoid receptors),Other,8819477,,THC
+1346728,,135651250,16078,Active,NP_001832,1269,,,Human CB2 receptor (Cannabinoid receptors),Other,7565624,,THC
+1346728,,135651250,16078,Active,NP_001832,1269,,,Human CB2 receptor (Cannabinoid receptors),Other,8626625,,THC
+1346728,,135651250,16078,Active,NP_001832,1269,,,Human CB2 receptor (Cannabinoid receptors),Other,8819477,,THC
+1346728,,135651250,16078,Active,NP_001832,1269,,,Human CB2 receptor (Cannabinoid receptors),Other,9379442,,THC
+1346814,,135651250,16078,Active,NP_001091670,2841,,,"Human GPR18 (GPR18, GPR55 and GPR119)",Other,21595653,,THC
+1346814,,135651250,16078,Active,NP_001091670,2841,,,"Human GPR18 (GPR18, GPR55 and GPR119)",Other,22014123,,THC
+1346985,,144206169,16078,Active,ADZ17384,8856,7.9433,Potency,"Human pregnane X receptor (PXR) activation by small molecules, qHTS assay",Confirmatory,,,THC
+1441146,,103167825,16078,Active,P35462,1814,0.0102,EC50,Agonist activity at recombinant human CB1 receptor expressed in CHO-K1 cells assessed as increase in cAMP accumulation after 20 mins by HTRF assay,Confirmatory,28182408,,THC
+1453021,,103167825,16078,Active,,,2.47,Ki,Competitive inhibition of human liver microsomes CYP1 expressed in supersomes coexpressing NADPH-CYP reductase using 7-Ethoxyresorufin as substrate measured every 5 mins for 30 mins in presence of NADPH by fluorescence assay,Confirmatory,28458135,,THC
+1546674,,103167825,16078,Active,P21554,1268,0.04,Ki,Binding affinity to human CB1 receptor,Confirmatory,31891265,,THC
+1562903,,103167825,16078,Active,P20272,25248,0.082,Ki,Displacement of [3H]JWH-018 from CB1R/CB2R in Wistar rat brain membranes after 60 mins by liquid scintillation analysis,Confirmatory,31220675,,THC
+1562903,,103167825,16078,Active,Q9QZN9,57302,0.082,Ki,Displacement of [3H]JWH-018 from CB1R/CB2R in Wistar rat brain membranes after 60 mins by liquid scintillation analysis,Confirmatory,31220675,,THC
+1573480,,103167825,16078,Active,P47936,12802,0.0073,EC50,Inverse agonist activity at mouse CB2 receptor expressed in HEK293 cells assessed as inhibition of forskolin-mediated cAMP accumulation after 5 mins by fluorescence assay,Confirmatory,29939744,,THC
+1630814,,103167825,16078,Active,P21554,1268,0.041,Ki,Binding affinity to CB1 receptor (unknown origin),Confirmatory,27624523,,THC
+1630815,,103167825,16078,Active,P34972,1269,0.036,Ki,Binding affinity to CB2 receptor (unknown origin),Confirmatory,27624523,,THC
+1692636,,103167825,16078,Active,P21554,1268,0.0407,Ki,"Displacement of [3H]CP-55,940 from human CB1 receptor expressed in CHO cells incubated for 1 hr by liquid scintillation spectrometry",Confirmatory,32804502,,THC
+1692637,,103167825,16078,Active,P34972,1269,0.0364,Ki,"Displacement of [3H]CP-55,940 from human CB2 receptor expressed in CHO cells incubated for 1 hr by liquid scintillation spectrometry",Confirmatory,32804502,,THC
+1709174,,103167825,16078,Active,P20272,25248,0.0395,Ki,Displacement of [3H]CP55940 from rat brain CB1 receptor by scintillation counting method,Confirmatory,33636308,,THC

@@ -1,0 +1,10 @@
+name,type,records
+PubChem,Chemical/Bioassay,1062
+ChEMBL,Bioactivity,1801
+KEGG,Pathway,2426
+STRING,PPI Network,478
+UniProt,Protein Info,53
+Open Targets,Disease-Target,800
+NCBI Gene,Chemical-Gene,388
+OpenFDA,Adverse Events,800
+Pharmacogenomics,Drug Metabolism,56
