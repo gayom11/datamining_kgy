@@ -99,13 +99,20 @@ def generate_report_sections(api_key, skills, data_summaries):
     style_guide = skills.get("writing_style_guide.md", "")
     data_dict = skills.get("data_dictionary.md", "")
     
+    exact_facts = skills.get("exact_facts.md", "")
+
     full_system = f"""You are a scientific report writer specializing in toxicology and pharmacogenomics.
+
+CRITICAL RULE: You may ONLY cite numbers that appear in the Exact Facts section below. Do NOT invent, estimate, or hallucinate any numerical values. If a number is not in Exact Facts, do not mention it.
 
 {system_prompt}
 
 {style_guide}
 
 {data_dict}
+
+## EXACT FACTS (only cite these numbers)
+{exact_facts}
 """
 
     sections = {}
